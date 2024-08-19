@@ -1,4 +1,5 @@
 all:
+	edictor wordlist --dataset=cldf-datasets/kogansemitic/cldf/cldf-metadata.json --addon=cognacy:cogids --name=data/kogansemitic
 	edictor wordlist --dataset=cldf-datasets/carvalhopurus/cldf/cldf-metadata.json --preprocessing=pkg/preprocessing.py --name=data/carvalhopurus
 	edictor wordlist --dataset=cldf-datasets/meloniromance/cldf/cldf-metadata.json --addon=cognacy:cogids --name=data/meloniromance
 	edictor wordlist --dataset=cldf-datasets/wangbai/cldf/cldf-metadata.json --preprocessing=pkg/preprocessing.py --name=data/wangbai

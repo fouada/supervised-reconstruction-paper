@@ -1,0 +1,2831 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
+1	dog	2009	DOG	noun
+2	all	98	ALL	other
+3	all, the whole; everyone	98	ALL	other
+4	all, every; so much	98	ALL	other
+5	all, anyone	98	ALL	other
+6	to assemble	3638	ASSEMBLE (GET TOGETHER)	verb
+7	to assemble, to congregate; to gather, collect	7	GATHER	verb
+8	assembly			
+9	whole, totality	2277	WHOLE	adjective
+10	banquet			
+11	to boast, to glory	101	BOAST	verb
+12	a shecamel great in the udder, but having little milk; a palmtree great in the trunk, thick in the branches; a house great in the yard and long therein			
+13	to engage, to betroth, to espouse			
+14	to bite	1403	BITE	verb
+15	to bite; to incite, provoke	1403	BITE	verb
+16	to undo, to untwist; to dissolve, to break a covenant			
+17	blood	946	BLOOD	noun
+18	to die	1494	DIE	verb
+19	to drink	1401	DRINK	verb
+20	to drink, to be watered, to be irrigated	1401	DRINK	verb
+21	to irrigate, to quench one’s thirst	3078	IRRIGATE	verb
+22	to give drink, to water, to irrigate	3078	IRRIGATE	verb
+23	(nip., hip.) to provide drink for, to irrigate	3078	IRRIGATE	verb
+24	(aph.) to give drink, to irrigate	3078	IRRIGATE	verb
+25	to provide enough water			
+26	nail, claw	72	CLAW	noun
+27	claw	72	CLAW	noun
+28	nail	1896	FINGERNAIL OR TOENAIL	noun
+29	nail, claw, talon	72	CLAW	noun
+30	ear	1247	EAR	noun
+31	ear, bay of the sea, handle, opening of a bottle	1247	EAR	noun
+32	to eat	1336	EAT	verb
+33	to consume, to devour	2787	CONSUME (DRINK OR EAT)	verb
+34	to eat, to consume; to itch	1336	EAT	verb
+35	food, bread, grain	256	FOOD	noun
+36	bread	1368	BREAD	noun
+37	grain, fodder	605	GRAIN	noun
+38	food, bread, corn	256	FOOD	noun
+39	eye	1248	EYE	noun
+40	to see	1409	SEE	verb
+41	eye, appearance, look; spring	1248	EYE	noun
+42	eye; spring; bud, bulb; appearance, surface	1248	EYE	noun
+43	full	1429	FULL	adjective
+44	full, covered, complete	1429	FULL	adjective
+45	to fill up			
+46	hair	1040	HAIR	noun
+47	wool	964	WOOL	noun
+48	hairiness, body hair, hairy covering	189	HAIR (BODY)	noun
+49	hair; feathers	1040	HAIR	noun
+50	hair of body or head	1256	HEAD	noun
+51	hand	1277	HAND	noun
+52	arm; side; edge, border	1673	ARM	noun
+53	forearm, hand; power, violence, possession	1277	HAND	noun
+54	hand, arm, forepaw; power	1277	HAND	noun
+55	head	1256	HEAD	noun
+56	head; servant, slave; top, summit; beginning	1256	HEAD	noun
+57	head; person; beginning; leader, chief	1256	HEAD	noun
+58	head; top, summit; point; beginning	1256	HEAD	noun
+59	skull	1605	SKULL	noun
+60	skull, crown	1605	SKULL	noun
+61	part of the back of the neck that is between the ears			
+62	to hear	1408	HEAR	verb
+63	to hear, to listen, to obey	1408	HEAR	verb
+64	to hear; to obey; to understand	1408	HEAR	verb
+65	to hear, listen to; to hearken; to obey	1408	HEAR	verb
+66	heart	1223	HEART	noun
+67	heart; one's inner self; inclination, disposition, will, intention; reason	1223	HEART	noun
+68	heart, inside of the body; center, pith, inside; cake	1223	HEART	noun
+69	what is in the inside; understanding, intelligence, mind	1562	MIND	noun
+70	heart; mind	1223	HEART	noun
+71	heart, middle of the body	1223	HEART	noun
+72	middle, center, middle part	1093	MIDDLE	noun
+73	thought, wish	2975	THOUGHT	noun
+74	horn	1393	HORN (ANATOMY)	noun
+75	I	1209	I	other
+76	knee	1371	KNEE	noun
+77	knee, lap	1371	KNEE	noun
+78	knee; bowing down, genuflection; middle part of plow	1371	KNEE	noun
+79	to kneel	66	KNEEL	verb
+80	liver	1224	LIVER	noun
+81	emotions, thought, mind, spirit	1562	MIND	noun
+82	liver; anger	1224	LIVER	noun
+83	middle, interior	1093	MIDDLE	noun
+84	liver, stomach, belly	1224	LIVER	noun
+85	intestines, entrails	1991	INTESTINES	noun
+86	liver (examined by the haruspex), liver model; omen	107	OMEN	noun
+87	entrails, intestines	1991	INTESTINES	noun
+88	intestines	1991	INTESTINES	noun
+89	intestine	1991	INTESTINES	noun
+90	mouth	674	MOUTH	noun
+91	mouth; opening	674	MOUTH	noun
+92	mouth; opening; flesh (of fruit); sharp edge (of sword)	674	MOUTH	noun
+93	name	1405	NAME	noun
+94	name; fame, glory; person	1405	NAME	noun
+95	new	1231	NEW	adjective
+96	new; young	1231	NEW	adjective
+97	to cut, to make an incision	1432	CUT	verb
+98	to chop	155	CHOP	verb
+99	to make incisions upon oneself			
+100	to cut off			
+101	to cut, to cut off	1432	CUT	verb
+102	night	1233	NIGHT	noun
+103	evening	1629	EVENING	noun
+104	to lie down	215	LIE DOWN	verb
+105	bone	1394	BONE	noun
+106	flank, thigh; innermost part; family, race	471	UPPER LEG (THIGH)	noun
+107	earth	1228	EARTH (SOIL)	noun
+108	earth, land; ground floor; bottom	1228	EARTH (SOIL)	noun
+109	earth, land	626	LAND	noun
+110	soil; soft surface of the earth used for cultivation and as a building material (soil, dust)	1228	EARTH (SOIL)	noun
+111	soil	1228	EARTH (SOIL)	noun
+112	dust; earth, soil	2	DUST	noun
+113	to be dark	706	DARK	adjective
+114	to be troubled, blurred or dark	706	DARK	adjective
+115	to be clouded; to be confused	3858	CONFUSED	adjective
+116	not	1240	NOT	other
+117	no, not	2279	NO OR NOT	other
+118	no	1269	NO	other
+119	one	1493	ONE	numeral
+120	one (?)	1493	ONE	numeral
+121	eleven	1706	ELEVEN	numeral
+122	seed	714	SEED	noun
+123	seed; offspring, descendants	714	SEED	noun
+124	seed; sowing; offspring, family	714	SEED	noun
+125	to sow	748	SOW SEEDS	verb
+126	to sow, to cast seed	748	SOW SEEDS	verb
+127	seed, grain	714	SEED	noun
+128	to sow, to seed	748	SOW SEEDS	verb
+129	star	1430	STAR	noun
+130	star; kind of collyrium	1430	STAR	noun
+131	sun	1343	SUN	noun
+132	sun; type of lizard; gold	1343	SUN	noun
+133	tail	1220	TAIL	noun
+134	tail, rear part	1220	TAIL	noun
+135	tail; farthest part	1220	TAIL	noun
+136	tail, anus	1220	TAIL	noun
+137	this, that; the one who/which/that	1214	THIS	other
+138	the one(s) of; who, whom, he who; the (one) who/which/that (determinative/relative functor, masc. sg.)	1235	WHO	other
+139	the one(s) of; who, whom, he who; the (one) who/which/that (determinative/relative functor, fem. sg.)	1235	WHO	other
+140	the one(s) of; who, whom, he who; the (one) who/which/that (determinative/relative functor, pl.)	1235	WHO	other
+141	that (man) there			
+142	this	1214	THIS	other
+143	who, which (relative pronoun, masc. sg.)	1235	WHO	other
+144	that	78	THAT	other
+145	this (masc.)	1214	THIS	other
+146	this (fem.)	1214	THIS	other
+147	who, that, which (relative pronoun, masc. sg.)	1235	WHO	other
+148	that (masc.)	78	THAT	other
+149	this, this one (masc.)	1214	THIS	other
+150	(deictic element)			
+151	thou (masc. sg.)	1215	THOU	other
+152	you	1213	YOU	other
+153	thou	1215	THOU	other
+154	you (masc. sing.)	1213	YOU	other
+155	you (sg.)	1215	THOU	other
+156	thou (masc.)	1215	THOU	other
+157	tongue	1205	TONGUE	noun
+158	tongue, language	1205	TONGUE	noun
+159	tongue, language, spit of land	1205	TONGUE	noun
+160	to lick	319	LICK	verb
+161	to taste, to lick	319	LICK	verb
+162	tooth	1380	TOOTH	noun
+163	molar tooth	1049	MOLAR TOOTH	noun
+164	protuberance			
+165	to grow shoots, branches			
+166	tooth; molar	1380	TOOTH	noun
+167	canine tooth			
+168	floating rib or cartilage at the tip of the rib			
+169	two	1498	TWO	numeral
+170	the next day			
+171	both			
+172	water	948	WATER	noun
+173	water; mail semen, menstrual fluid; urine	948	WATER	noun
+174	we	1212	WE	other
+175	who?	1235	WHO	other
+176	who	1235	WHO	other
+177	bark	1204	BARK	noun
+178	skin, peel (of a fruit)	763	SKIN	noun
+179	scale, scaly skin, tortoise shell; husk, rind, bark, peel	1204	BARK	noun
+180	cortex, squama, putamen			
+181	bark, shell, scale, peel	1204	BARK	noun
+182	ˀalqišr (bark, peel)	275	PEEL	verb
+183	to peel, decorticate	275	PEEL	verb
+184	belly, stomach	2114	BELLY OR STOMACH	noun
+185	stomach, belly, womb, body; mind, heart, desire; inner or lower side	1223	HEART	noun
+186	belly	1251	BELLY	noun
+187	belly, stomach; womb, uterus	1251	BELLY	noun
+188	ventricle, stomach, belly, uterus; stomach (of animals, esp. ruminant)	1251	BELLY	noun
+189	belly, stomach, womb, abdomen; interior (of ship, ark, vessel)	1251	BELLY	noun
+190	fire	221	FIRE	noun
+191	fire; abscess, inflammation	221	FIRE	noun
+192	to be bright, to shine	708	SHINE	verb
+193	light	630	LIGHT (RADIATION)	noun
+194	fire, conflagration	221	FIRE	noun
+195	green	1425	GREEN	adjective
+196	yellow, green (as a natural color)	1424	YELLOW	adjective
+197	yellow	1424	YELLOW	adjective
+198	green, greenery	1425	GREEN	adjective
+199	greenish, palegreen			
+200	green, livid; herbs, vegetables; egg yolk	1425	GREEN	adjective
+201	ashcolored			
+202	leaf	628	LEAF	noun
+203	silver coins			
+204	gold	1369	GOLD	noun
+205	straw, grass	606	GRASS	noun
+206	herb, grass, vegetation, straw	606	GRASS	noun
+207	to know	3626	KNOW	verb
+208	knowing someone, expert, wise,competent, learned; acquaintance, person known	698	WISE	adjective
+209	to know; to discern, recognize; to cohabit with	3626	KNOW	verb
+210	I do not know; perhaps, probably	2278	PERHAPS	other
+211	to make know, inform			
+212	moon	1313	MOON	noun
+213	moon, new moon; month	1313	MOON	noun
+214	month	1370	MONTH	noun
+215	moon, month	2463	MOON OR MONTH	noun
+216	(a characteristic such as brilliance)			
+217	little moons (as amulets or jewelry)			
+218	the new moon, when it appears	3691	NEW MOON	noun
+219	moon, first day of the month	1313	MOON	noun
+220	nose	1221	NOSE	noun
+221	nose; tip, crown, end, rind, edge; spur of land	1221	NOSE	noun
+222	root	670	ROOT	noun
+223	root, base, foundation	670	ROOT	noun
+224	origin, source, root	670	ROOT	noun
+225	small thorny trees			
+226	small thorny tree			
+227	stone	857	STONE	noun
+228	rock, stone, gem; small building	857	STONE	noun
+229	tree	906	TREE	noun
+230	tree; timber, lumber, wood; aromatic wood; wooded area	906	TREE	noun
+231	tree, shrub, bush; wood; stick, staff (of spear)	906	TREE	noun
+232	woman	962	WOMAN	noun
+233	wife	1199	WIFE	noun
+234	woman, wife	962	WOMAN	noun
+235	female, feminine	1551	FEMALE	adjective
+236	woman, wife, female	962	WOMAN	noun
+237	man; son; lord	1554	MAN	noun
+238	son	1620	SON	noun
+239	man	1554	MAN	noun
+240	bird	937	BIRD	noun
+241	divination from birds, augury			
+242	bird, birds; insect; name of a star	937	BIRD	noun
+243	to divine by observing the flight of birds			
+244	to strike, beat	353	STRIKE	verb
+245	to hit, to wound, to strike	1433	HIT	verb
+246	to kill	1417	KILL	verb
+247	weaver	3637	WEAVER	noun
+248	to smash			
+249	to strike, to knock	353	STRIKE	verb
+250	to smite, to cut, to destroy	1432	CUT	verb
+251	(to be) good	1035	GOOD	adjective
+252	good, sweet, fresh, aromatic, benevolent	1035	GOOD	adjective
+253	good	1035	GOOD	adjective
+254	good; merry; pleasant; in order, usable	1035	GOOD	adjective
+255	good; valuable, precious; cost, worth	1035	GOOD	adjective
+256	pleasant, delightful, delicious, sweet	717	SWEET	adjective
+257	to go to and fro			
+258	to prowl, to make one’s rounds, to turn about			
+259	to give	1447	GIVE	verb
+260	to be long	1203	LONG	adjective
+261	long, tall	1203	LONG	adjective
+262	lenght			
+263	long	1203	LONG	adjective
+264	long, extending; longlasting	1203	LONG	adjective
+265	to keep in a place, to remain, to continue	987	REMAIN	verb
+266	neck	1333	NECK	noun
+267	neck, hump of camel; mountain ridge	1333	NECK	noun
+268	side of the neck; bank of a river			
+269	to sit	1416	SIT	verb
+270	to sit down physically; to reside and live somewhere			
+271	to sit down, to sit; to dwell	1416	SIT	verb
+272	to sit; to remain; to inhabit; to settle	1416	SIT	verb
+273	to jump	1829	JUMP	verb
+274	to take a wife, to marry	203	MARRY	verb
+275	to walk	1443	WALK	verb
+276	to go; to move; to proceed	695	GO	verb
+277	to go, walk	695	GO	verb
+278	to go back, return; (pa.) to walk	581	COME BACK	verb
+279	to perish, to become in a bad state; to die	1494	DIE	verb
+280	day	1225	DAY (NOT NIGHT)	noun
+281	today	1283	TODAY	other
+282	lion	1386	LION	noun
+283	lioness			
+284	to be similar	1558	SIMILAR	adjective
+285	equal amount, equivalent			
+286	to steal	713	STEAL	verb
+287	to steal; to act as a thief	713	STEAL	verb
+288	to be dark, black	163	BLACK	adjective
+289	black, dark	163	BLACK	adjective
+290	darkness	11	DARKNESS	noun
+291	gloom			
+292	to oppress, wrong; to accuse falsely	401	OPPRESS	verb
+293	to act wrongfully, IV. to become dark			
+294	to reach	1387	ARRIVE	verb
+295	to be sufficient, to be equal to, to amount to, (D) to make reach to			
+296	to come	1446	COME	verb
+297	to meet, to run into	1831	MEET	verb
+298	to reach, to meet, to find	719	FIND	verb
+299	to arrive, reach; to happen	1387	ARRIVE	verb
+300	fat, oil	2551	ORGANIC FAT OR OIL	noun
+301	oil, fat	323	FAT (ORGANIC SUBSTANCE)	noun
+302	fat; vegetable oil	323	FAT (ORGANIC SUBSTANCE)	noun
+303	vegetable oil; fat	323	FAT (ORGANIC SUBSTANCE)	noun
+304	fat	323	FAT (ORGANIC SUBSTANCE)	noun
+305	(clarified) butter	1245	BUTTER	noun
+306	to tear, to pierce, to bore	1501	BORE	verb
+307	to deflower; to rape	953	RAPE	noun
+308	to bore through			
+309	to pierce, to make  a hole	398	PIERCE	verb
+310	to pierce, to bore	1501	BORE	verb
+311	to disjoin, to separate	1359	SEPARATE	verb
+312	husband or man	1554	MAN	noun
+313	husband	1200	HUSBAND	noun
+314	man, human being, husband	1554	MAN	noun
+315	men, persons	1554	MAN	noun
+316	to be low	721	LOW	adjective
+317	to bend down, stoop, plunge oneself			
+318	to become low, go deep			
+319	to be low, depressed	3973	DEPRESSED	adjective
+320	plain	652	PLAIN	noun
+321	to be high, to grow	479	GROW	verb
+322	to grow (in size or age)	479	GROW	verb
+323	to grow old			
+324	to break	680	BREAK (DESTROY OR GET DESTROYED)	verb
+325	to be victorious, to vanquish			
+326	to break, to demolish; to make a gap	680	BREAK (DESTROY OR GET DESTROYED)	verb
+327	to violate, to break, to frustrate	680	BREAK (DESTROY OR GET DESTROYED)	verb
+328	to (en)trust, to rely	3902	TRUST (SOMEBODY)	verb
+329	to trust	3902	TRUST (SOMEBODY)	verb
+330	overseer (person in charge of a group of soldiers, workers or craftsmen)			
+331	to believe, to be sure	1890	BELIEVE	verb
+332	II. to appoint as one’s deputy			
+333	fidere, confidere (to trust, believe, confide)	1890	BELIEVE	verb
+334	confisus, fretus (relying, depending, trusting)			
+335	sea	1474	SEA	noun
+336	sea, ocean, lake	624	LAKE	noun
+337	primordial ocean, abyss			
+338	primaeval ocean, primaeval flood; flood, deluge	613	HIGH TIDE	noun
+339	wave; sea; abyss	1474	SEA	noun
+340	a certain land ... extending to the sea (Tihámeh)			
+341	leg	1297	LEG	noun
+342	thigh	471	UPPER LEG (THIGH)	noun
+343	foot	1301	FOOT	noun
+344	to be full (of forearm, vessel); to be fullformed, thick (of  woman)	1429	FULL	adjective
+345	(jugular) vein, trachea	1924	VEIN	noun
+346	gullet			
+347	trachea, larynx, throat	1346	THROAT	noun
+348	the large blood vessel, jugular vein			
+349	artery, vein; stem, trunk	1924	VEIN	noun
+350	veine; veine jugulaire (de chaque côté du cou) (vein; jugular vein (on either side of the neck)			
+351	to shake; to move; to jump	1829	JUMP	verb
+352	to disappear; to cease to exist	485	DISAPPEAR	verb
+353	to slip; to move away	1324	SLIP	verb
+354	to put in the state of agitation			
+355	to go away; to depart; to pass away; to shift	1752	LEAVE	verb
+356	to move; be shaken; to swing; to be agitated	765	MOVE	verb
+357	(front part of) body; chest, belly; interior	1251	BELLY	noun
+358	figure, shape	3747	SHAPE	noun
+359	back	1291	BACK	noun
+360	body, corpse	1480	BODY	noun
+361	intestina, viscera			
+362	breast	1402	BREAST	noun
+363	inside; interior	1606	INSIDE	other
+364	to have a breast disease			
+365	area between the thighs, lap	3263	LAP	noun
+366	to be steadfast, sure, reliable	509	CERTAIN	adjective
+367	to be firm in place, to remain stationary, to be reliable, correct	1725	CORRECT (RIGHT)	adjective
+368	yes	1268	YES	other
+369	correct, right, certain	1019	RIGHT	adjective
+370	to fumigate			
+371	smoke	778	SMOKE (EXHAUST)	noun
+372	to make a sacrifice, to go up in smoke			
+373	to exhale a scent; to smoke	1689	SMOKE (INHALE)	verb
+374	aloewood with which one fumigates			
+375	to see, to look, to observe	1409	SEE	verb
+376	to see, behold	1409	SEE	verb
+377	to divine from the flight of birds			
+378	vessel, receptacle			
+379	bewegliche Habe (moveable property)			
+380	vessel; tools, equipment	1361	TOOL	noun
+381	ships, fleet			
+382	vessel			
+383	port	610	PORT	noun
+384	vessel, utensil, instrument	1361	TOOL	noun
+385	to be massive, compact, heavy	1210	HEAVY	adjective
+386	(etp.) to be drawn together, pressed together			
+387	to be hard, strong	785	STRONG	adjective
+388	bee	665	BEE	noun
+389	to go down	2014	GO DOWN (DESCEND)	verb
+390	to go out	1107	GO OUT	verb
+391	offspring, descendant	490	DESCENDANTS	noun
+392	to sprout, grow; to exist	2076	SPROUT (VERB)	verb
+393	origin, root, stock; abundance of offspring	670	ROOT	noun
+394	shoots			
+395	womb; compassion, pity, kindness	804	WOMB	noun
+396	womb; pity, compassion, mercy	804	WOMB	noun
+397	womb	804	WOMB	noun
+398	uterus, womb	804	WOMB	noun
+399	to be compassionate			
+400	to take pity, to have mercy			
+401	(qal, pi.) to love, to meet someone with love, to take pity on someone			
+402	a feeling of love, loving sensation, mercy			
+403	to have mercy, pity, compassion	1141	PITY	noun
+404	to go up	705	GO UP (ASCEND)	verb
+405	high	1265	HIGH	adjective
+406	to go up, rise; to attack, assail, jump, launch oneself (upon)	705	GO UP (ASCEND)	verb
+407	to ascend, go up	705	GO UP (ASCEND)	verb
+408	(pa.) to exalt; to raise up			
+409	to be, become high	1579	BE	verb
+410	wild animal	958	WILD ANIMAL	noun
+411	open country, wild, uncultivated place	2230	UNTAMED OR WILD	adjective
+412	mountain; open country	639	MOUNTAIN	noun
+413	pasture, open fields; field, arable land	212	FIELD	noun
+414	to be different; to be late	425	BE LATE	adjective
+415	to delay;  to tarry, be delayed; to be outstanding	425	BE LATE	adjective
+416	to be behind; pi  to delay, to detain	1686	BEHIND	other
+417	another; later, following	197	OTHER	other
+418	II. to delay, postpone; to make smb retreat; to be late; go back	425	BE LATE	adjective
+419	to be high, tall	711	TALL	adjective
+420	to grow thickly, abundantly			
+421	to be high, lofty	1265	HIGH	adjective
+422	to be naked	590	NAKED	adjective
+423	to be naked, unrigged	590	NAKED	adjective
+424	to snore	1983	SNORE	verb
+425	whale	957	WHALE	noun
+426	a marine animal			
+427	to lie down, to rest (mostly of animals)	215	LIE DOWN	verb
+428	to lie down; to be at peace; to lurk	215	LIE DOWN	verb
+429	to rest, lie down	168	REST	verb
+430	to lie down, rest (of animals) (mostly of animals); to lurk	215	LIE DOWN	verb
+431	to lie down (animals)	215	LIE DOWN	verb
+432	to be silent (?)	48	BE SILENT	verb
+433	to be at rest			
+434	rest	168	REST	verb
+435	to fall	1280	FALL	verb
+436	to be silent	48	BE SILENT	verb
+437	to be quiet	1314	QUIET	adjective
+438	to lie at rest, to keep quiet			
+439	to encamp, to lodge, to rest	168	REST	verb
+440	road	667	ROAD	noun
+441	way, path	2252	PATH	noun
+442	footstep, trace	318	FOOTPRINT	noun
+443	place, site, location	723	PLACE (POSITION)	noun
+444	who, that, which (relative particle); that, so that	1235	WHO	other
+445	place	723	PLACE (POSITION)	noun
+446	remain, relic, trace	987	REMAIN	verb
+447	path, trace, track, footprint	2252	PATH	noun
+448	to look for; to search; to examine	1468	LOOK FOR	verb
+449	to look for, to search for	1468	LOOK FOR	verb
+450	to reveal, to show	1039	SHOW	verb
+451	to enquire			
+452	to examine, search, spy	1468	LOOK FOR	verb
+453	to strive after, pursue, desire; to request	1047	PURSUE	verb
+454	to seek, to desire	2117	DESIRE	verb
+455	in front of, before	1883	IN FRONT OF	other
+456	front	2194	FRONT (PART)	noun
+457	in front of	1883	IN FRONT OF	other
+458	in front; east; before, earlier, in olden days	1882	BEFORE	other
+459	before; in the presence of	1882	BEFORE	other
+460	before, in front of	1882	BEFORE	other
+461	lord	3153	LORD	noun
+462	lady	2471	LADY	noun
+463	(a synonym for lord, master)	383	MASTER	noun
+464	lord, owner	1036	OWNER	noun
+465	husband; landowner, citizen	1200	HUSBAND	noun
+466	owner, husband	1200	HUSBAND	noun
+467	owner, lord	1036	OWNER	noun
+468	owner, possessor; master	1036	OWNER	noun
+469	?			
+470	to begin	1806	BEGIN	verb
+471	to release	1095	LET GO OR SET FREE	verb
+472	to let loose			
+473	to loosen	1933	LOOSEN	verb
+474	to throw off, to remove			
+475	to pardon, to absolve, to forgive	1528	FORGIVE	verb
+476	to burn	2102	BURN	verb
+477	to set afire, to kindle, to burn	2102	BURN	verb
+478	to burn, to burn up	2102	BURN	verb
+479	to be	1579	BE	verb
+480	to change, to turn into	1264	CHANGE	verb
+481	to become, to lie	1990	BECOME	verb
+482	to come to pass, to occur, to be, to become	1579	BE	verb
+483	to be; to endure, last; to become, result, be made	1579	BE	verb
+484	bull, ox	1008	BULL	noun
+485	cow	1007	COW	noun
+486	face	1560	FACE	noun
+487	to face, to go forward	1560	FACE	noun
+488	to turn	1588	TURN	verb
+489	to turn around	1444	TURN AROUND	verb
+490	side; region; place	723	PLACE (POSITION)	noun
+491	yard, exterior court	736	YARD	noun
+492	to pass away, to vanish	1494	DIE	verb
+493	way, path, side	2252	PATH	noun
+494	way, path road, course, side	682	SIDE	noun
+495	to send away			
+496	to come in, to enter	749	ENTER	verb
+497	setting of the sun			
+498	pledge			
+499	sunset	2295	SUNSET	noun
+500	to enter	749	ENTER	verb
+501	to give a guarantee or pledge, stand surety for, leave a deposit			
+502	guarantor, surety			
+503	sunset, west	1817	WEST	noun
+504	to go away, to depart; to hide, to disappear; to be foreign or obscure	2486	HIDE	verb
+505	rod			
+506	stick, staff	1295	STICK	noun
+507	branch	1531	BRANCH	noun
+508	to bring	692	BRING	verb
+509	to bring, to transport	692	BRING	verb
+510	to carry, to bring, to take	1749	TAKE	verb
+511	flood, the Deluge	613	HIGH TIDE	noun
+512	(hip.) to bring	692	BRING	verb
+513	to lead; to deilver; to translate	43	LEAD (GUIDE)	verb
+514	to be big, great; to be numerous	1202	BIG	adjective
+515	fat, thick, large	1244	THICK	adjective
+516	fattened sheep			
+517	(hip.) to multiply			
+518	strong, mighty, many, numerous	1198	MANY	other
+519	to be great, big	1202	BIG	adjective
+520	honored, honorable, glorious, magnificent, famous, illustrious, noble, precious	3002	PRECIOUS	adjective
+521	soul (as receptacle of vital energy)	811	SOUL	noun
+522	life, soul	210	LIFE	noun
+523	Appetit, Begehren; Seele; Lebewesen, Mensch (appetit, desire; soul; living thing; human)	811	SOUL	noun
+524	soul, spirit, breath, life, etc.	210	LIFE	noun
+525	to support, to lean upon			
+526	to dam a canal, to cover (?)	761	COVER	verb
+527	height	2985	HEIGHT	noun
+528	kind of bird			
+529	rooster, cock	1511	ROOSTER	noun
+530	a bird	937	BIRD	noun
+531	(pl.) nom d'oiseaux fabuleux (name of fabulous birds)			
+532	name of a fictious bird			
+533	cattle	1153	CATTLE	noun
+534	bull, ox; (head) of cattle; beef	1008	BULL	noun
+535	(head of) cattle; bullock; yearling calf, young (head of) cattle	1153	CATTLE	noun
+536	lamb	820	LAMB	noun
+537	sheep; sheep and goats; ram	1331	SHEEP	noun
+538	kind of bird (plover or cormorant)	840	CORMORANT	noun
+539	a bird; large vulture, eagle	1905	EAGLE	noun
+540	a small predatory mammal			
+541	young dog, puppy; cub of a wild animal	74	PUPPY	noun
+542	dog, cur	2009	DOG	noun
+543	puppy, puppydog	74	PUPPY	noun
+544	mordre, saisir avec les dents (to bite, to grasp with teeth)			
+545	repaire d'une bête feroce (lair of a ferocious beast)			
+546	chat	2903	CHAT (WITH SOMEBODY)	verb
+547	kind of wild cat			
+548	lynx	3314	LYNX	noun
+549	wild cat	2241	WILD CAT	noun
+550	kind of snake (viper?)			
+551	viper			
+552	a snake	730	SNAKE	noun
+553	vipère (viper)			
+554	adder, viper			
+555	locust	810	LOCUST	noun
+556	migratory locust			
+557	crab	2348	CRAB	noun
+558	locusta marina			
+559	cow, heifer	1007	COW	noun
+560	jeune taureau (young bull)			
+561	antilope			
+562	génisse (heifer)			
+563	wild goat			
+564	buck (of gazelle or mountain goat)	2475	MALE GOAT	noun
+565	mountain goat			
+566	kind of antelope			
+567	hare	1190	HARE	noun
+568	rabbit	1136	RABBIT	noun
+569	hare, rabbit	1136	RABBIT	noun
+570	bird used for decoy			
+571	decoy bird			
+572	beeeater			
+573	guépier (oiseau) (beetree (bird)			
+574	pinion, wing	1257	WING	noun
+575	wing, fin	1257	WING	noun
+576	wing	1257	WING	noun
+577	pinion			
+578	feather; limb	1201	FEATHER	noun
+579	bone of leg/arm; limb	1673	ARM	noun
+580	radius and ulna (the two bones of the human forearm)			
+581	limb, part	779	PART	noun
+582	forest, wood	420	FOREST	noun
+583	wood, timber	1803	WOOD	noun
+584	grass, herb	606	GRASS	noun
+585	grass; herb; spring	606	GRASS	noun
+586	growth, spring; grass	606	GRASS	noun
+587	spring rain			
+588	(wild) goat gazelle			
+589	gazelle	5	GAZELLE	noun
+590	(pl. ˀarāwiyy, ˀarwā) mountaingoat			
+591	a mythical reptile, dragon	2038	DRAGON	noun
+592	dragon; a star which covers the sun making an eclipse; lunar eclipse	2038	DRAGON	noun
+593	serpentidol of bronze; field snake			
+594	donkey mare			
+595	mare; sheass, donkey mare	938	MARE	noun
+596	donkey, sheass	1862	DONKEY	noun
+597	sheass			
+598	sheass; ass	1862	DONKEY	noun
+599	sheass, domestic or wild	2230	UNTAMED OR WILD	adjective
+600	elbow, forearm	981	ELBOW	noun
+601	forearm; cubit	446	LOWER ARM	noun
+602	cubit			
+603	cubit, forearm	446	LOWER ARM	noun
+604	chest, breast	1402	BREAST	noun
+605	testiculus			
+606	testicle	797	TESTICLES	noun
+607	lèvre du vagin de la femme (woman's vagina lip)			
+608	testicle, genitalia of man and woman	797	TESTICLES	noun
+609	(lock/tuft of) hair, curl, fleece	1040	HAIR	noun
+610	fleece; lock of hair, wad or tuft of wool			
+611	(pl. ˁedḳē; ˁetḳē) lock of hair; fringes			
+612	a piece of colored wool that is hung around the neck of an animal to recognize it			
+613	heel	980	HEEL	noun
+614	hock, heel	980	HEEL	noun
+615	(basic stem) to accept or perform a property transfer, to succeed, to effect an exchange of goods; (intensive stem) to place obstacles, traps, to oppose	1112	SUCCEED	verb
+616	the very back, the end; result, wages	1122	WAGES	noun
+617	heel; hoof	980	HEEL	noun
+618	to come after somebody, to follow, to succeed	1085	FOLLOW	verb
+619	to guard, to watch, to keep safe	1650	WATCH	verb
+620	ear of corn			
+621	ear, spike	1247	EAR	noun
+622	ear, spike (of corn)	1247	EAR	noun
+623	ear; spike of corn	1247	EAR	noun
+624	ear of corn, grain	605	GRAIN	noun
+625	straw	2299	STRAW	noun
+626	thistle			
+627	an illsmelling, thorny plant			
+628	red starthistle			
+629	elm	3317	ELM	noun
+630	rush	2860	BOLT (MOVE IN HASTE)	verb
+631	reed, cane	659	REED	noun
+632	tamarisk			
+633	(a plant)			
+634	alfa			
+635	type of a wild pumpkin; colocynth			
+636	colocynth			
+637	colocynth (type of a wild pumpkin)			
+638	(type of a tree)			
+639	moringa			
+640	(a thorny plant)			
+641	boxthorn (lycium barbarum)			
+642	thorny plant			
+643	willow	818	WILLOW	noun
+644	(a big poplar)			
+645	a large tree; terebinth(?)			
+646	mighty tree			
+647	oak	644	OAK	noun
+648	a large tree; oak(?)	644	OAK	noun
+649	a kind of tree			
+650	juniper			
+651	cypress	3243	CYPRESS	noun
+652	cedar	3929	BRAZILIAN CEDAR	noun
+653	resin of tamarisk			
+654	to be deep	1593	DEEP	adjective
+655	valley	921	VALLEY	noun
+656	to become deep; to be sunk down			
+657	a cultivated plant, shoot, seed, grain, cereal, vegetable	714	SEED	noun
+658	malt			
+659	gardener			
+660	plants that are neither trees, nor bushes; greens, vegetables, all plants that are gathered after being sown	924	VEGETABLES	noun
+661	plant, grass, vegetation	606	GRASS	noun
+662	wheat	1077	WHEAT	noun
+663	edible grain (wheat or barley)	932	BARLEY	noun
+664	grain, seed	605	GRAIN	noun
+665	to tear out			
+666	to scrape off	1767	SCRAPE	verb
+667	to defeat	782	DEFEAT	noun
+668	to seize, to carry off by force, to take hastily, to snatch away	855	SEIZE	verb
+669	garlic	2368	GARLIC	noun
+670	leek			
+671	(an alliaceous plant)			
+672	(a plant belonging to cucurbits)			
+673	melon, gourd, cucumber (a member of the genus Cucurbitaceae)	411	GOURD	noun
+674	common cucumber			
+675	a plant belonging to cucurbits			
+676	almond tree, almond	3815	ALMOND	noun
+677	fig, fig tree	322	FIG	noun
+678	fig tree, fig	322	FIG	noun
+679	jackal	3313	JACKAL	noun
+680	jackals, golden gods			
+681	(pl. banātu ˀāwān) jackal	3313	JACKAL	noun
+682	date palm			
+683	dates, fruit of palm			
+684	tree, trunk	906	TREE	noun
+685	bush, (fruit)tree; vine	1683	BUSH	noun
+686	fruit	1507	FRUIT	noun
+687	cluster, bunch (of grapes etc.)	1966	BUNCH	noun
+688	bunch of grapes			
+689	father	1217	FATHER	noun
+690	mother	1216	MOTHER	noun
+691	brother	1262	BROTHER	noun
+692	sister	1263	SISTER	noun
+693	goose	1187	GOOSE	noun
+694	duck	1360	DUCK	noun
+695	ram	1344	RAM	noun
+696	a fine breed of sheep			
+697	ram (of superior quality)	1344	RAM	noun
+698	stag, deer	1936	DEER	noun
+699	deer	1936	DEER	noun
+700	fallow deer			
+701	doe of a fallow deer			
+702	hind			
+703	ibex, mountain goat; deer	1936	DEER	noun
+704	ibex, mountain goat			
+705	weasel, mouse	1491	MOUSE	noun
+706	weasel	3384	WEASEL	noun
+707	mouse, weasel	1491	MOUSE	noun
+708	kind of ﬁsh			
+709	a ﬁsh			
+710	calf	1989	CALF	noun
+711	calf, bullock	1989	CALF	noun
+712	heifer			
+713	young bull, ox	1169	OX	noun
+714	heifer, young cow			
+715	bull calf			
+716	calf, heifer	1989	CALF	noun
+717	taureau vieux (old bull)			
+718	any animal or fowl	265	FOWL	noun
+719	daughter	1357	DAUGHTER	noun
+720	pupil of the eye	1658	PUPIL	noun
+721	to be fat, well fed	1279	FAT (OBESE)	adjective
+722	to fatten			
+723	fattened (animal)			
+724	fattened ox			
+725	to be useful for someone			
+726	firstborn			
+727	mouse, jerboa	1491	MOUSE	noun
+728	jerboa			
+729	(kind of) bat	1793	BAT	noun
+730	mouse	1491	MOUSE	noun
+731	mouse; muscle	1491	MOUSE	noun
+732	mares murum, quibus yarbūˁ nomen est			
+733	hyrax Syriacus			
+734	leech	2273	LEECH	noun
+735	(pl.) kleine Tierchen, die im Brunnen leben (small animals that live in a well)			
+736	goat	1502	GOAT	noun
+737	shegoat, goat (gen. term)	1502	GOAT	noun
+738	caprine animal, kid, goat	1502	GOAT	noun
+739	shegoat, female of gazelle, female eagle and vulture, bustard			
+740	paternal uncle	3763	PATERNAL UNCLE	noun
+741	foster father			
+742	paternal aunt	2175	PATERNAL AUNT	noun
+743	wetnurse			
+744	maternal aunt	2693	MATERNAL AUNT (MOTHER'S SISTER)	noun
+745	grandfather, ancestor, forefather	1383	GRANDFATHER	noun
+746	ancestor, forefather	1669	ANCESTORS	noun
+747	earth as a solid surface (ground)			
+748	floor; bottom of the sea	1632	FLOOR	noun
+749	bottom of a vessel			
+750	mud, clay	640	MUD	noun
+751	clay	1399	CLAY	noun
+752	flint			
+753	flint, obsidian			
+754	mound			
+755	hill, hillock, knoll	614	HILL	noun
+756	kind of vermin, worm	1219	WORM	noun
+757	(a worm)			
+758	vermin in general, pests, noxious insects(?); a particular type of fly, esp. a horsefly(?)			
+759	culices			
+760	bird of prey			
+761	eagle	1905	EAGLE	noun
+762	hirondelle			
+763	corbeau			
+764	river	666	RIVER	noun
+765	stream	947	STREAM	noun
+766	stream, canal	947	STREAM	noun
+767	subdivision of a tribe; watercourse; artificial water channel, canal			
+768	river valley, wadi			
+769	well, source of water	954	WELL	noun
+770	well; hole, pit	1667	HOLE	noun
+771	well	954	WELL	noun
+772	cistern, pit, grave	1773	GRAVE	noun
+773	(cooking) pit	2539	PIT (POTHOLE)	noun
+774	a hole dug in the ground in which to cook; a place in which fire is lighted			
+775	cistern, well, pit	954	WELL	noun
+776	heaven	1565	HEAVEN	noun
+777	to breathe	1407	BREATHE	verb
+778	soul	811	SOUL	noun
+779	(nip.) to breathe freely, recover	1978	RECOVER	verb
+780	(etp.) to get a respite			
+781	V. to breathe			
+782	breath	870	BREATH	noun
+783	to blow (wind, spirit)	175	BLOW (OF WIND)	verb
+784	rain	658	RAIN (PRECIPITATION)	noun
+785	to rain	1253	RAIN (RAINING)	verb
+786	lightning	1654	LIGHTNING	noun
+787	thunder	1150	THUNDER	noun
+788	name of the Stormgod			
+789	rainstorm			
+790	snow	784	SNOW	noun
+791	(a disease)			
+792	flame	889	FLAME	noun
+793	charcoal	1188	CHARCOAL	noun
+794	coal	2658	COAL	noun
+795	to be hot	1286	HOT	adjective
+796	hot	1286	HOT	adjective
+797	to become hot			
+798	morning	1339	MORNING	noun
+799	warmth, heat	612	HEAT	noun
+800	heat, flame	889	FLAME	noun
+801	sun, light	1343	SUN	noun
+802	shadow	1388	SHADE	noun
+803	to be(come) dark, dim	706	DARK	adjective
+804	dark	706	DARK	adjective
+805	dawn, morning	1339	MORNING	noun
+806	dawn	729	DAWN	noun
+807	year	1226	YEAR	noun
+808	autumn	1276	AUTUMN	noun
+809	autumn(?)	1276	AUTUMN	noun
+810	autumn; year	1226	YEAR	noun
+811	current year			
+812	right hand (side)	2183	RIGHT HAND	noun
+813	right	1019	RIGHT	adjective
+814	right side	1019	RIGHT	adjective
+815	left hand (side)	2182	LEFT HAND	noun
+816	left	244	LEFT	adjective
+817	left hand, side	682	SIDE	noun
+818	left side, left	244	LEFT	adjective
+819	left side, left hand	244	LEFT	adjective
+820	left side, direction	244	LEFT	adjective
+821	north wind			
+822	father-in-law	1055	FATHER-IN-LAW	noun
+823	fatherinlaw			
+824	mother-in-law	1050	MOTHER-IN-LAW	noun
+825	motherinlaw			
+826	to speak affectively, to shout	715	SHOUT	verb
+827	to call; to prophesy; to summon; to lodge a claim, to sue	1084	CALL	verb
+828	to say	1458	SAY	verb
+829	to revile, to utter evil speech; III. to plead in defense of someone			
+830	to curse, to insult	8	CURSE	verb
+831	sleep	1585	SLEEP	verb
+832	dream	2374	DREAM	noun
+833	envie de dormir, somnolence; sommeil profond; premier somme (want to sleep, drowsiness; deep sleep; first slumber)			
+834	to be multicolored	2997	COLORFUL	adjective
+835	coloured wool			
+836	twocolored fabric			
+837	to make a rope of two strands, or distinct yarns or twists			
+838	a rope in which are two colors			
+839	shoot	1172	SHOOT	verb
+840	bud, shoot	1172	SHOOT	verb
+841	bud	1684	BUD	noun
+842	bull	1008	BULL	noun
+843	bull, young cattle	1008	BULL	noun
+844	young calf			
+845	livestock, cattle	1153	CATTLE	noun
+846	brute animal, a beast of burden; a herd of cattle; a beast of burden, packhorse			
+847	camel	1871	CAMEL	noun
+848	ox, bull, horned cattle	1008	BULL	noun
+849	a wild hoofed animal			
+850	(meaning is uncertain)			
+851	young of small cattle; (male) lamb	820	LAMB	noun
+852	young bull; heifer			
+853	bull, steer; cow	1007	COW	noun
+854	lamb, kid or antelope cub	820	LAMB	noun
+855	young of small cattle			
+856	small cattle			
+857	ewe, small cattle	1345	EWE	noun
+858	flocks (sheep and goats)			
+859	flock; sheep; herd	1331	SHEEP	noun
+860	ewe	1345	EWE	noun
+861	young sheep			
+862	wether			
+863	spring lamb			
+864	ewe lamb, ewe	1345	EWE	noun
+865	yearling; unripe grain	3329	YEARLING (HORSE)	noun
+866	billy goat			
+867	buck, ram	1344	RAM	noun
+868	hegoat			
+869	male of small cattle			
+870	wild sheep			
+871	male goat or sheep	1331	SHEEP	noun
+872	male kid			
+873	female kid			
+874	head of small cattle			
+875	kid	1972	YOUNG GOAT (KID)	noun
+876	suckling (lamb or kid)	1972	YOUNG GOAT (KID)	noun
+877	donkey	1862	DONKEY	noun
+878	donkey; load (measure of capacity)	1862	DONKEY	noun
+879	donkey, wild ass, onager	1862	DONKEY	noun
+880	to eat, swallow (?)	1336	EAT	verb
+881	to eat, to graze	1336	EAT	verb
+882	food	256	FOOD	noun
+883	food, sustenance	256	FOOD	noun
+884	foal	1647	FOAL	noun
+885	horse`s foal			
+886	colt, young camel	1647	FOAL	noun
+887	pig	1337	PIG	noun
+888	swine, boar	1348	BOAR (MALE PIG)	noun
+889	pig, wild boar	1337	PIG	noun
+890	leopard	1139	LEOPARD	noun
+891	wolf	522	WOLF	noun
+892	hyena	1799	HYENA	noun
+893	fox	1312	FOX	noun
+894	fox; jackal	1312	FOX	noun
+895	bear	1820	BEAR	noun
+896	shebear			
+897	gazelle, deer	1936	DEER	noun
+898	wild bull (bos primigenius)			
+899	wild bull			
+900	wild bull, buffalo	934	BUFFALO	noun
+901	buffalloo			
+902	gazelle; fawn	5	GAZELLE	noun
+903	a wild ruminant			
+904	roe deer			
+905	wild ass			
+906	mule	890	MULE	noun
+907	elephant	1290	ELEPHANT	noun
+908	water buffalo; elephant	1290	ELEPHANT	noun
+909	bird; domestic fowl, poultry	937	BIRD	noun
+910	crow, raven	913	CROW	noun
+911	stork	3724	STORK	noun
+912	swallow	897	SWALLOW	verb
+913	snake	730	SNAKE	noun
+914	snake; horned viper	730	SNAKE	noun
+915	a venomous serpent			
+916	adder, asp			
+917	to draw off			
+918	to press, to sqeeze out; to clean by combing	1913	PRESS	verb
+919	(pa.) to pillage, steal; to draw out, extract	713	STEAL	verb
+920	to become clear			
+921	sediment of butter			
+922	to pull out the eye together with the fat (of a slaughtered camel)			
+923	to peel, to bark	275	PEEL	verb
+924	chameleon	1555	CHAMELEON	noun
+925	gecko	2355	GECKO	noun
+926	(a lizard)			
+927	a snake or lizard	632	LIZARD	noun
+928	reptile			
+929	serpent	730	SNAKE	noun
+930	large Libyan lizard			
+931	starred lizard			
+932	lizard	632	LIZARD	noun
+933	turtle	112	TURTLE	noun
+934	turtle; a snake	112	TURTLE	noun
+935	fly	1441	FLY (MOVE THROUGH AIR)	verb
+936	gnat	1509	MOSQUITO	noun
+937	flea	232	FLEA	noun
+938	louse	1392	LOUSE	noun
+939	louse, parasite, weevil	1392	LOUSE	noun
+940	gnats			
+941	nit	267	NIT	noun
+942	a louse	1392	LOUSE	noun
+943	louse, nit	1392	LOUSE	noun
+944	moth	2828	MOTH	noun
+945	clothes moth			
+946	mare; kind of worms which infest the grape vine	938	MARE	noun
+947	small louse			
+948	cricket	2354	CRICKET	noun
+949	kind of locust			
+950	swarm of locust			
+951	type of locust			
+952	worm	1219	WORM	noun
+953	worm, maggot	1219	WORM	noun
+954	flesh	2259	FLESH	noun
+955	body, flesh	1480	BODY	noun
+956	tendon, sinew	1137	TENDON	noun
+957	sinew; fiber of a root	1137	TENDON	noun
+958	sinew, tendon; nerve	1137	TENDON	noun
+959	sinew, tendon	1137	TENDON	noun
+960	spine; tendon, sinew	1137	TENDON	noun
+961	sinew, nerve, muscle	1004	MUSCLE	noun
+962	joint of limb bones; flexion, bend of limbs			
+963	crooked arms			
+964	upper part of the thigh where the socket turns			
+965	articulation, joint, wrist	799	WRIST	noun
+966	wrist	799	WRIST	noun
+967	sleeve	2953	SLEEVE	noun
+968	to be fat	1279	FAT (OBESE)	adjective
+969	fatty, fleshy tissue	2449	FAT (OF MEAT AND FOOD)	adjective
+970	fat, tallow	323	FAT (ORGANIC SUBSTANCE)	noun
+971	glutinous substance, pus	1808	PUS	noun
+972	piece of flesh peeled off from the bone			
+973	skin	763	SKIN	noun
+974	skin, leather	3326	LEATHER OR HIDE	noun
+975	leather pouch			
+976	peau ôtée récemment d'un agneau ou d'un chevreau (recently removed skin from a lamb or kid)	1972	YOUNG GOAT (KID)	noun
+977	skin, hide	763	SKIN	noun
+978	bran; husk, shell; scale of head, dandruff	598	SHELL	noun
+979	fur, skin	763	SKIN	noun
+980	to shell, husk	2501	RICE HUSK	noun
+981	ring	1374	RING	noun
+982	neckchain(?)			
+983	neckchain			
+984	necklace	1961	NECKLACE	noun
+985	to carry around the neck			
+986	throat	1346	THROAT	noun
+987	palate	540	PALATE	noun
+988	throat(?)	1346	THROAT	noun
+989	throat, gullet, palate	1346	THROAT	noun
+990	armpit	1886	ARMPIT	noun
+991	rib	801	RIB	noun
+992	rib, side (part of the human and the animal body); side (of an object)	801	RIB	noun
+993	female breast	1402	BREAST	noun
+994	breast, teat	1402	BREAST	noun
+995	cervix (?)			
+996	breast full of milk			
+997	udder, teat	154	UDDER	noun
+998	loins, thigh, groin	471	UPPER LEG (THIGH)	noun
+999	neck muscles			
+1000	Brust			
+1001	teat	796	NIPPLE	noun
+1002	nipple; full breast	796	NIPPLE	noun
+1003	lower belly, uterus, womb	804	WOMB	noun
+1004	hypogastric region			
+1005	lower belly			
+1006	abdomen, omassum	1251	BELLY	noun
+1007	uterus, womb, pubes	804	WOMB	noun
+1008	a designation of Noah’s Ark			
+1009	lower part of the trunk, genitals			
+1010	transverse process of the vertebra			
+1011	loins; genitals	187	LOIN	noun
+1012	glans penis			
+1013	crotch, groin			
+1014	groin			
+1015	swellings in the groin; testicles	797	TESTICLES	noun
+1016	aine; racine de fémur (elder; femur root)			
+1017	area between the thighs, groin			
+1018	hinder part, posteriors, buttocks, rump	834	BUTTOCKS	noun
+1019	lap, crotch	3263	LAP	noun
+1020	lower part of the belly, the pubes	36	PUBIC HAIR	noun
+1021	buttocks	834	BUTTOCKS	noun
+1022	base, foot	1301	FOOT	noun
+1023	buttocks; base, foundation	834	BUTTOCKS	noun
+1024	buttocks, rump; bottom	834	BUTTOCKS	noun
+1025	podex, anus	1935	ANUS	noun
+1026	buttocks, posteriors, rump	834	BUTTOCKS	noun
+1027	buttocks, anus	834	BUTTOCKS	noun
+1028	anus, buttocks; rear	834	BUTTOCKS	noun
+1029	back, loins, space between the hips	1291	BACK	noun
+1030	kidney	489	KIDNEY	noun
+1031	tuft of hair			
+1032	wool, fleece	964	WOOL	noun
+1033	moustache	1165	MOUSTACHE	noun
+1034	lock of hair			
+1035	gall, gall bladder	1780	BILE	noun
+1036	gallbladder			
+1037	gall	1780	BILE	noun
+1038	gall, bile	1780	BILE	noun
+1039	fiel, bile (gall, bile)	1780	BILE	noun
+1040	spleen	1744	SPLEEN	noun
+1041	clitoris, vagina	1836	VAGINA	noun
+1042	vulva, female genitals	1837	VULVA	noun
+1043	clitoris	3257	CLITORIS	noun
+1044	vulva	1837	VULVA	noun
+1045	vulva, vagina	1837	VULVA	noun
+1046	foreskin			
+1047	penis	1222	PENIS	noun
+1048	stud, breed animal			
+1049	testicles	797	TESTICLES	noun
+1050	stallion, male animal used for fecundation	936	STALLION	noun
+1051	the male palmtree			
+1052	to be lasxivious, sexually aroused (animals)			
+1053	afterbirth			
+1054	afterbirth, womb	804	WOMB	noun
+1055	embryo			
+1056	placenta, afterbirth	3388	PLACENTA	noun
+1057	child, male offspring	2099	CHILD	noun
+1058	thin skin, in which is the fœtus			
+1059	foetus, embryo			
+1060	crâne; tête (skull; head)	1256	HEAD	noun
+1061	lung	688	LUNG	noun
+1062	part of sheep's lung			
+1063	ramified bloodvessel, artery; bronchiae	1925	ARTERY	noun
+1064	hip(-bone)	1745	HIP	noun
+1065	rear, rear side	2134	RAISE (BRING UP)	verb
+1066	after, behind	1685	AFTER	other
+1067	hips (?)			
+1068	upper thigh; side	682	SIDE	noun
+1069	haunch, upper thigh			
+1070	to watch, to protect	2900	PROTECT	verb
+1071	to protect, defend	2900	PROTECT	verb
+1072	to be skillful, intelligent, endowed with magical power	2530	SMART	adjective
+1073	wise	698	WISE	adjective
+1074	to make spells or incantations			
+1075	magic spell			
+1076	magic	392	MAGIC	noun
+1077	magic arts			
+1078	to practice sorcery			
+1079	to tread	575	TREAD	verb
+1080	to step upon; to make compact; to let time pass			
+1081	to fill up with earth; II. to press, squeeze	1414	SQUEEZE	verb
+1082	to cut, split	1432	CUT	verb
+1083	to cut (down)	1432	CUT	verb
+1084	to trim			
+1085	to crumble in one’s hand			
+1086	to cry, to shout	1839	CRY	verb
+1087	to roar	3896	ROAR	verb
+1088	to bray			
+1089	to utter a noise			
+1090	honey	942	HONEY	noun
+1091	datesyrup			
+1092	temple, cheek-bone	911	TEMPLE	noun
+1093	temple	911	TEMPLE	noun
+1094	area between the jaw and the neck			
+1095	to be strong, vigorous	785	STRONG	adjective
+1096	strength	202	STRENGTH	noun
+1097	strong	785	STRONG	adjective
+1098	to be in a good, right, proper state	1019	RIGHT	adjective
+1099	to look at	1819	LOOK	verb
+1100	sign, mark	1720	SIGN	noun
+1101	terebinth			
+1102	to have indigestion			
+1103	to glow, to burn (of intestines)	2102	BURN	verb
+1104	to suffer from indigestion			
+1105	nose, snout, muzzle, beak	1221	NOSE	noun
+1106	muzzle, snout	2200	SNOUT	noun
+1107	the distinctive feature of the face, nose, nostril	1221	NOSE	noun
+1108	muzzle, beak	73	BEAK	noun
+1109	field	212	FIELD	noun
+1110	to leave	1752	LEAVE	verb
+1111	to remain, to be left over; to leave	1752	LEAVE	verb
+1112	hill	614	HILL	noun
+1113	kind of large aquatic animal			
+1114	a mythical seamonster			
+1115	species piscis marini, i.q. kawsay			
+1116	to turn, to twist, to surround	1588	TURN	verb
+1117	to move in a circle			
+1118	to twist	430	TWIST	verb
+1119	to be twisted, wrapped			
+1120	to eat, to taste	1336	EAT	verb
+1121	to take food or drink	1401	DRINK	verb
+1122	to be numerous	1198	MANY	other
+1123	many	1198	MANY	other
+1124	to become flourishing and fresh			
+1125	people	789	PEOPLE	noun
+1126	mankind, human beings, people	789	PEOPLE	noun
+1127	people, men	789	PEOPLE	noun
+1128	to be large	1202	BIG	adjective
+1129	big	1202	BIG	adjective
+1130	to become numerous; to be great	1202	BIG	adjective
+1131	to become big; to increase	1041	INCREASE	verb
+1132	to increase, augment	1041	INCREASE	verb
+1133	to be wicked, ruthless	45	EVIL	adjective
+1134	to behave thoughtlessly			
+1135	bad person	2197	BAD PERSON	noun
+1136	to be guilty	1682	GUILTY	adjective
+1137	to commit a wicked deed, act wickedly			
+1138	fasādu lˁayni (corruption of the eye)			
+1139	location that is behind, beyond; the time past			
+1140	waist	1681	WAIST	noun
+1141	to perish	2865	DIE (FROM ACCIDENT)	verb
+1142	to disappear, to vanish	485	DISAPPEAR	verb
+1143	(pi.) destroy	681	DESTROY	verb
+1144	to be shabby (clothes), IV. to wear out (a garment)			
+1145	to be consumed, to be wasted, to perish, to cease	1928	CEASE	verb
+1146	to dig	1418	DIG	verb
+1147	to make a ditch, to excavate			
+1148	to be exact, done with care	1466	EXACT	adjective
+1149	to make a mark upon the ground			
+1150	to lift, to carry	700	CARRY	verb
+1151	to carry	700	CARRY	verb
+1152	invalid, sick person			
+1153	to raise	501	LIFT	verb
+1154	elevation, height, lofty abode	2936	ELEVATION	noun
+1155	to bear, to carry, to take up and carry	700	CARRY	verb
+1156	occiput, back of the neck			
+1157	part of neck			
+1158	top of the head, neck	1333	NECK	noun
+1159	mane, feathers on the neck	1918	MANE	noun
+1160	part between the hump and the neck			
+1161	brain, marrow	1583	BRAIN	noun
+1162	top of the head; brain, marrow	1583	BRAIN	noun
+1163	top of the head, brain	1583	BRAIN	noun
+1164	bonemarrow			
+1165	skull; marrow, brain	1583	BRAIN	noun
+1166	brain	1583	BRAIN	noun
+1167	to be warm, hot	1286	HOT	adjective
+1168	inflammation			
+1169	to warm, be warmed; (pa.) to warm, heat	612	HEAT	noun
+1170	to warm	1232	WARM	adjective
+1171	a kind of mushroom			
+1172	truffle			
+1173	aperture of the ear, ear; (faculty of) hearing	1247	EAR	noun
+1174	cartilages forming the ear			
+1175	cartilage			
+1176	both arteries behind the ears			
+1177	nostril	1178	NOSTRIL	noun
+1178	nostrils	1178	NOSTRIL	noun
+1179	fore part of the nose			
+1180	lip	478	LIP	noun
+1181	cheek, jaw	1730	CHEEK	noun
+1182	jaw	798	JAW	noun
+1183	cheek; side	1730	CHEEK	noun
+1184	cheek	1730	CHEEK	noun
+1185	chin, jawbone, cheek	1510	CHIN	noun
+1186	jaw, jawbone, jowl	798	JAW	noun
+1187	beard	678	BEARD	noun
+1188	gum	139	GUMS	noun
+1189	toothless mouth, gum	139	GUMS	noun
+1190	gums	139	GUMS	noun
+1191	sockets of teeth			
+1192	toothless			
+1193	part of the gum where teeth grow			
+1194	kind of small mammal			
+1195	mongoose	3677	MONGOOSE	noun
+1196	loosely hanging and unplaited hair on the head			
+1197	to uncover (head); to untie (hair)	352	UNTIE	verb
+1198	chevelure (hair)			
+1199	(stiff) hair	1040	HAIR	noun
+1200	stiff, wiry (?) hair			
+1201	having wiry (?) hair			
+1202	neck and jaw hair			
+1203	hair, hair of the neck, back of the head and jaw; hair on the thighs (of women)	1040	HAIR	noun
+1204	wispy hair on the thighs and forehead (of women)			
+1205	forelock, hair on the forehead (of a lion)			
+1206	side whiskers and (pointed) beard			
+1207	extremely aged man			
+1208	palm	1183	PALM OF HAND	noun
+1209	arm, hand	2121	ARM OR HAND	noun
+1210	the hollow, the flat of the hand	3701	HOLLOW	adjective
+1211	palm, hand	1277	HAND	noun
+1212	heel, palm of hand, sole of foot	980	HEEL	noun
+1213	hand, claw, paw; handful	1277	HAND	noun
+1214	palm of the hand	1183	PALM OF HAND	noun
+1215	winnowing shovel			
+1216	palm of hand	1183	PALM OF HAND	noun
+1217	hollow of the hand			
+1218	the hollow of both hands			
+1219	handful, fistful			
+1220	hollow, cavity, trench	3701	HOLLOW	adjective
+1221	thumb	1781	THUMB	noun
+1222	finger	1303	FINGER	noun
+1223	thumb, big toe	1781	THUMB	noun
+1224	thumb, toe	1389	TOE	noun
+1225	shoulder	1482	SHOULDER	noun
+1226	sternum or part of the ribs	2810	BREASTBONE	noun
+1227	shoulder, upper arm	1482	SHOULDER	noun
+1228	shoulderblade, shoulder	1482	SHOULDER	noun
+1229	shoulder, shoulder blade	1482	SHOULDER	noun
+1230	etlock joint, tarsus			
+1231	fetlock, lower leg	447	LOWER LEG	noun
+1232	articulus			
+1233	carpal end of the ulna, carpal bone, wrist bone			
+1234	ankle	803	ANKLE	noun
+1235	ankle bone			
+1236	ankles			
+1237	ankle bone; wrist	799	WRIST	noun
+1238	wing; quill, plumage, frond	1257	WING	noun
+1239	wing, pinion	1257	WING	noun
+1240	wing; fin (of fish); branch of tree; border (of garment, land)	1257	WING	noun
+1241	stomach (of animals)	819	STOMACH	noun
+1242	part of the animal stomach			
+1243	abomasum, stomach	819	STOMACH	noun
+1244	stomach	819	STOMACH	noun
+1245	knee and shin-bone; lower leg (of animal)	447	LOWER LEG	noun
+1246	shin (of animals)	186	SHIN	noun
+1247	jarrete, artejo			
+1248	lower leg, fibula	447	LOWER LEG	noun
+1249	shin, leg	1297	LEG	noun
+1250	shank, shinbone; leg (of both humans and animals)	1297	LEG	noun
+1251	three	492	THREE	numeral
+1252	four	1500	FOUR	numeral
+1253	five	493	FIVE	numeral
+1254	six	1703	SIX	numeral
+1255	seven	1704	SEVEN	numeral
+1256	eight	1705	EIGHT	numeral
+1257	nine	1483	NINE	numeral
+1258	ten	1515	TEN	numeral
+1259	to bend; to encircle	2004	BEND	verb
+1260	to bend, curve	2004	BEND	verb
+1261	loop, tendril			
+1262	arch, doorway, bow; skullcap	994	BOW	noun
+1263	to bend, to bow down	2004	BEND	verb
+1264	to bend, bow, curve	2004	BEND	verb
+1265	to sew the edge; refrain			
+1266	bezel, collet			
+1267	(to be) weak	1601	WEAK	adjective
+1268	to be weak, impoverished, shaky	1601	WEAK	adjective
+1269	to be sickly			
+1270	what	1236	WHAT	other
+1271	any(thing), all (that)	98	ALL	other
+1272	to shine, to be bright	708	SHINE	verb
+1273	light, shining appearance of the sun, moon and stars, sultry weather, open air, open sun	630	LIGHT (RADIATION)	noun
+1274	the sun	1343	SUN	noun
+1275	period of day after sunrise			
+1276	to take	1749	TAKE	verb
+1277	to take, to accept, to take over	1749	TAKE	verb
+1278	to get hold of, take, grasp; to receive, collect, obtain	694	GET	verb
+1279	to take, grasp; accept, receive	1749	TAKE	verb
+1280	to join, to put together	1743	JOIN	verb
+1281	friend, companion	1325	FRIEND	noun
+1282	friend	1325	FRIEND	noun
+1283	yoke	14	YOKE	noun
+1284	to be sick, ill	1847	SICK	adjective
+1285	to fall ill	2327	BECOME SICK	verb
+1286	to be bad, painful	1129	PAINFUL	adjective
+1287	to be ill, sick	1847	SICK	adjective
+1288	to be diseased, disordered, distempered, sick, ill	1847	SICK	adjective
+1289	to ride; to (be) join(ed), connect(ed); to mount	367	RIDE	verb
+1290	to mount, to mate	705	GO UP (ASCEND)	verb
+1291	(light war) chariot; chariot body			
+1292	to ride; to mount; to leap upon, sexually copulate with	367	RIDE	verb
+1293	to ride	367	RIDE	verb
+1294	to have intercourse			
+1295	to suck	1421	SUCK	verb
+1296	tirer la moelle d’un os (to pull the marrow out of a bone)			
+1297	to bear, give birth to	1820	BEAR	noun
+1298	to give birth (to), bear	1820	BEAR	noun
+1299	boy	1366	BOY	noun
+1300	to give birth, to beget	1195	GIVE BIRTH	verb
+1301	to bear, give birth	1195	GIVE BIRTH	verb
+1302	a child, son, young one	1620	SON	noun
+1303	to give birth, beget, bear (a child), conceive	1195	GIVE BIRTH	verb
+1304	to wash	1453	WASH	verb
+1305	to wash, to bathe, to rinse off	1453	WASH	verb
+1306	to sweat, to perspire	126	SWEAT (PERSPIRE)	verb
+1307	to be narrow	1267	NARROW	adjective
+1308	to grasp, to put pressure on (caus.)	2021	GRASP	verb
+1309	(hip.) to harass, press hard; to drive someone into a corner			
+1310	(pa.) to oppress			
+1311	Taumelnder			
+1312	a grave disease characterized by a headache			
+1313	sick person			
+1314	sickness	1986	DISEASE	noun
+1315	to menstruate	2827	MENSTRUATE	verb
+1316	faint, sick, menstruating	1847	SICK	adjective
+1317	to be weak, wretched	1601	WEAK	adjective
+1318	to be sick	1847	SICK	adjective
+1319	to be mad, crazy	1899	MAD	adjective
+1320	to be in a frenzy, to act crazily			
+1321	a type of extatic			
+1322	folie aiguë, fureur (acute madness, fury)			
+1323	evil, mischief; annoyance, harm	45	EVIL	adjective
+1324	to be bald (on the forehead)	1125	BALD	adjective
+1325	bald	1125	BALD	adjective
+1326	with receding hairline			
+1327	receding hairline; bare spot			
+1328	bald on the forehead			
+1329	to belch, retch, vomit	2245	BELCH	verb
+1330	to belch	2245	BELCH	verb
+1331	(hitpo.) to vomit loudly			
+1332	to spit out, belch, vomit	1278	VOMIT	verb
+1333	to deposit excrements			
+1334	to burp	2789	BURP	verb
+1335	to belch, vomit	2245	BELCH	verb
+1336	to be mad, talk without sense; produce incoherent sounds (in one’s sleep)	1899	MAD	adjective
+1337	to produce unnatural sounds			
+1338	to pant in its sleep (dog)			
+1339	to lead	43	LEAD (GUIDE)	verb
+1340	délire (delirium)			
+1341	to talk nonsense			
+1342	to be imbecile, weak-minded, mad; be mocked at	1899	MAD	adjective
+1343	weakling			
+1344	to be infatuated; to make look foolish; (po.) to make a mockery of; (hitpo.) to pretend to be mad; to act like a madman			
+1345	foolishness, blindness			
+1346	(aph.) to scoff, mock; to despise, disdain; to praise	2715	DESPISE	verb
+1347	injure; sottise	44	INJURE	verb
+1348	opinion, idée fausse qu'on se fait sur quelque chose (opinion, misconception we have about something)			
+1349	to ridicule, mock, make fun of, jeer at			
+1350	to be pregnant, conceive	1087	CONCEIVE	verb
+1351	to conceive	1087	CONCEIVE	verb
+1352	to conceive, to be pregnant	1087	CONCEIVE	verb
+1353	to swell, inflate (esp. of stomach)	1573	SWELL	verb
+1354	to have cramps (said of internal abdominal and other muscles)			
+1355	to have a swollen belly			
+1356	boil, swelling, tumor	2493	BOIL	verb
+1357	to swell up, to blow up	1573	SWELL	verb
+1358	to itch, scratch (oneself)	3855	ITCH (CAUSE ITCHING OR FEEL ITCHY)	verb
+1359	to scratch	1436	SCRATCH	verb
+1360	to scrape, to itch	1767	SCRAPE	verb
+1361	to scratch, scrape, rub, grate	1436	SCRATCH	verb
+1362	to itch, to scratch, to rub	1436	SCRATCH	verb
+1363	to be in confinement, in childbed			
+1364	im Kindbett liegen			
+1365	female that has not yet brought forth in the first period of her pregnancy; one having a scanty flow of milk			
+1366	II. to feed the woman on the occasion of childbirth			
+1367	to bear a child, lie in bed when giving birth to a child			
+1368	to feed, nourish, take good care of someone by properly feeding him	739	FEED	verb
+1369	to be deaf and dumb			
+1370	binden, anbinden(?)			
+1371	deaf	996	DEAF	adjective
+1372	to be deaf	996	DEAF	adjective
+1373	to be mute, silent	48	BE SILENT	verb
+1374	to be numb	2216	BECOME NUMB	verb
+1375	to sleep	1585	SLEEP	verb
+1376	to be in labour; have labour pains			
+1377	to be in labour			
+1378	woman in labour			
+1379	labour pains			
+1380	to writhe (with birth pains)			
+1381	procreation childbirth			
+1382	IV. avoir du lait (se dit d'une chamelle) (to have milk (said of a camel)			
+1383	to have inflammation			
+1384	Entzündung			
+1385	inflammation, fever	1534	FEVER	noun
+1386	live coal			
+1387	II. s’enfoncer dans l’orbite (se dit de l’oeil); amaigrir exprès (son cheval) (to sink into the orbit (said of the eye); to lose weight on purpose (of horse)			
+1388	to be sick, perspire, have diarrhea	126	SWEAT (PERSPIRE)	verb
+1389	to have a disease causing fall of hair			
+1390	to pluck wool			
+1391	with hair falling out in tufts			
+1392	castor bean			
+1393	to fall off by degrees from the sheep and become compacted in lumps, or clotted (said of wool)			
+1394	wool sticking together and compacted in a lump			
+1395	to scrape, remove hair by scraping	1767	SCRAPE	verb
+1396	mit schütterem Haar?			
+1397	(hitpa.) to scrape oneself			
+1398	to scrape off; to erase; to take away	1767	SCRAPE	verb
+1399	to have no hair			
+1400	remove chaff			
+1401	to vomit	1278	VOMIT	verb
+1402	to spew, to vomit	1278	VOMIT	verb
+1403	to spit, be sick; (hip.) to vomit something	1440	SPIT	verb
+1404	to have sexual desire; discharge sperm, exude vaginal secretion			
+1405	to love, to become fond of so.	923	LOVE	verb
+1406	type, kind	3299	KIND	adjective
+1407	race, stock			
+1408	époque où se trouve une femelle lorsqu’elle a été couverte par le mâle(time when a female is found when she has been covered by the male)			
+1409	laisser couler le sperme (dans la copulation ou autrement) (let the sperm flow (in copulation or otherwise)			
+1410	V. to wish, desire	2960	LONGING (WISH)	noun
+1411	sperme; liqueur de la femelle qui se mêle au sperme et contribue à la génération (sperm; liquor of the female which mixes with the sperm and contributes to the generation)			
+1412	sperme (du mâle); liqueur utérine de la femelle (semen (from the male); female uterine liquor)			
+1413	to wish, desire, be eager for	2117	DESIRE	verb
+1414	wish, desire, lust	2960	LONGING (WISH)	noun
+1415	to bray (of donkey); cry, groan; roar	1839	CRY	verb
+1416	to bray, to neigh			
+1417	to cry, to groan	1839	CRY	verb
+1418	braying			
+1419	to sob			
+1420	to moan			
+1421	braire (se dit de l’âne) (bray (of donkey)			
+1422	coasser sans cesse (to croak incessantly)			
+1423	coasser, miauler; glousser (to croak, meow; squawk)			
+1424	to groan, sigh	716	GROAN	verb
+1425	to emit a sound (referring to any sound of animals and birds); scream, shout	715	SHOUT	verb
+1426	plumage, feathers	1201	FEATHER	noun
+1427	feathers	1201	FEATHER	noun
+1428	forelock			
+1429	tear(-drop)	1651	TEAR (OF EYE)	noun
+1430	tear	1651	TEAR (OF EYE)	noun
+1431	to gush forth			
+1432	sweat	125	SWEAT (SUBSTANCE)	noun
+1433	venom, bile	1780	BILE	noun
+1434	poisonous foam; spittle	1503	SALIVA	noun
+1435	veneno (venom)			
+1436	poison, venom	655	POISON	noun
+1437	heat, ardor; poison	655	POISON	noun
+1438	scorpion’s venom			
+1439	bile, gall, venom	1780	BILE	noun
+1440	foam; saliva; excretion	1503	SALIVA	noun
+1441	spittle, slaver, saliva, phlegm, mucus; sap	1503	SALIVA	noun
+1442	secretion, excrements			
+1443	foam	1768	FOAM	noun
+1444	froth of milk			
+1445	to urinate	592	PISS	verb
+1446	urine	1142	URINE	noun
+1447	(hip. part.) to pass water, urinate	592	PISS	verb
+1448	urina			
+1449	bladder	1746	BLADDER	noun
+1450	non-digested food in the stomach			
+1451	excrement, gore	675	FAECES (EXCREMENT)	noun
+1452	contents of the gut, faeces	675	FAECES (EXCREMENT)	noun
+1453	dung, excrement; mud, mire	640	MUD	noun
+1454	feces	675	FAECES (EXCREMENT)	noun
+1455	(dry cow's) dung	2057	DUNG (ANIMAL FAECES)	noun
+1456	excrement, dung (of animals)	675	FAECES (EXCREMENT)	noun
+1457	dung, excrement	675	FAECES (EXCREMENT)	noun
+1458	ordures ôtées de la maison et jetées en un tas (garbage removed from the house and thrown in a heap)			
+1459	sweepings, manure	2057	DUNG (ANIMAL FAECES)	noun
+1460	dry cow's dung			
+1461	dung	2057	DUNG (ANIMAL FAECES)	noun
+1462	waste matter, refuse, debris	49	REFUSE	verb
+1463	foliage piled up for forming manure, deposits			
+1464	to defecate, have diarrhea, spread manure	676	SHIT (DEFECATE)	verb
+1465	to have sexual intercourse	549	COPULATE	verb
+1466	to have illicit sexual intercourse, to fornicate	103	FORNICATE	verb
+1467	to marry a woman			
+1468	to sleep, slumber	1585	SLEEP	verb
+1469	waking time			
+1470	it (the forest) was still			
+1471	sleep of death; drowsiness			
+1472	to fall asleep, to slumber	1106	FALL ASLEEP	verb
+1473	to sleep, fall asleep	1585	SLEEP	verb
+1474	dormir (to sleep)			
+1475	être endormi d’un profond sommeil; être dans son premier somme; sommeiller (to sleep deeply; to slumber)			
+1476	eruption (on the skin), white spot			
+1477	a skin eruption			
+1478	a whiteness in the lower lip of a horse			
+1479	leprosy, scab	3624	LEPROSY	noun
+1480	blister, boil	2493	BOIL	verb
+1481	boil, pustule	2493	BOIL	verb
+1482	blisters, ulcers			
+1483	flute	777	FLUTE	noun
+1484	swellings			
+1485	ulcers resulting from elephantiasis, pustules			
+1486	sores, scabies, leprosy	3172	SCABIES	noun
+1487	leprosy	3624	LEPROSY	noun
+1488	a skin disease			
+1489	scar caused by a wound in the ball, or most elevated part, of the cheek			
+1490	scabies, itch, sores, skin rash, leprosy	3855	ITCH (CAUSE ITCHING OR FEEL ITCHY)	verb
+1491	leprosy, mange, scab	3624	LEPROSY	noun
+1492	festering rash			
+1493	leprosy; scabies	3624	LEPROSY	noun
+1494	scab; rust	3064	RUST	noun
+1495	(kind of) skin disease			
+1496	skin disease (not leprosy)			
+1497	small swelling, pustule			
+1498	sorte d'excroissance hideuse à voir sur les lèvres, sur le nez ou sur les oreilles (a kind of ugly growth seen on the lips, nose, or ears)	1221	NOSE	noun
+1499	scab, malignant ulcer	2664	SCAB	noun
+1500	mole; pustule	1907	MOLE	noun
+1501	black mole (on the face and body); black spot (a disease of barley)			
+1502	pustules breaking out upon the lips after a fever			
+1503	birth-mark, scar on the skin	1751	BIRTHMARK	noun
+1504	a mole or wart	2665	WART	noun
+1505	cautère, ulcère artificiel (cautery, artificial ulcer)			
+1506	spot on the skin, bruise, mark of violence	1148	BRUISE	noun
+1507	a mark of discoloration on the skin			
+1508	wound, slash	1109	WOUND	noun
+1509	skin specks			
+1510	wound	1109	WOUND	noun
+1511	mark of beating; a healed wound			
+1512	eruption on the skin			
+1513	scabies, itch, boil	2493	BOIL	verb
+1514	être rongé par la gâle (to be eaten up by the scab)			
+1515	itch, a boil	793	BOIL (OF SKIN)	noun
+1516	skin rash			
+1517	white scurf			
+1518	one having an eruption resembling leprosy			
+1519	pimples, pustules	1809	PIMPLE	noun
+1520	mild species of leprosy			
+1521	grey hair			
+1522	graues Haar			
+1523	the grey hair; advanced age			
+1524	white hair			
+1525	whiteness of the hair			
+1526	deaf person	458	DEAF PERSON	noun
+1527	to stop one’s ears			
+1528	firm; solid; mute	1666	MUTE	adjective
+1529	to cough	879	COUGH	verb
+1530	phlegm; cough with phlegm	3061	PHLEGM	noun
+1531	(qal, hitp.) to cough	879	COUGH	verb
+1532	cough	879	COUGH	verb
+1533	to fart, break wind audibly	1159	FART	verb
+1534	to fart	1159	FART	verb
+1535	(pa.) to break wind	1159	FART	verb
+1536	stomach growling			
+1537	to break wind silently			
+1538	pet	3780	PET	noun
+1539	to emit a noiseless wind from one's anus			
+1540	to break wind	1159	FART	verb
+1541	to be rabid, mad	1899	MAD	adjective
+1542	to rage, to be rabid	2203	RABID	adjective
+1543	(pu., hitp.) to behave like a madman			
+1544	mad	1899	MAD	adjective
+1545	to bury	1719	BURY	verb
+1546	to be strong	785	STRONG	adjective
+1547	male	1553	MALE	adjective
+1548	man, male	1554	MAN	noun
+1549	male animal	2263	MALE (OF ANIMAL)	adjective
+1550	male, masculine animal; ram; penis; arsenic	1222	PENIS	noun
+1551	male; penis	1222	PENIS	noun
+1552	daughter-in-law; bride	1266	BRIDE	noun
+1553	daughterinlaw, wife of a son living in his father's household, bride, sisterinlaw	1266	BRIDE	noun
+1554	daughterinlaw, bride	1266	BRIDE	noun
+1555	???			
+1556	daughterinlaw, sisterinlaw			
+1557	widow	1756	WIDOW	noun
+1558	maidservant			
+1559	slave girl, servant girl			
+1560	to hire	856	HIRE	verb
+1561	to hire; to be hired	856	HIRE	verb
+1562	to own	684	OWN	verb
+1563	subjects			
+1564	to rule	1846	RULE	verb
+1565	capital			
+1566	herd of cattle, sheep, or horses	1331	SHEEP	noun
+1567	mistress			
+1568	mistress of the house			
+1569	to be sated	106	SATIATED	adjective
+1570	to become sated			
+1571	sich sättigen			
+1572	to eat one's fill			
+1573	to be sated, have one`s fill	106	SATIATED	adjective
+1574	to be, become satiated	1579	BE	verb
+1575	to be thirsty	3474	BE THIRSTY	verb
+1576	to sip, to absorb			
+1577	to sip			
+1578	to taste, to be tasty	21	TASTE (SOMETHING)	verb
+1579	thought, reason, plan	2975	THOUGHT	noun
+1580	to taste	21	TASTE (SOMETHING)	verb
+1581	to be bitter	887	BITTER	adjective
+1582	bitter	887	BITTER	adjective
+1583	to be sweet	717	SWEET	adjective
+1584	sweet	717	SWEET	adjective
+1585	V. to smack one’s lips			
+1586	to be sour	1906	SOUR	adjective
+1587	vinegar	985	VINEGAR	noun
+1588	to be leavened			
+1589	to ferment, rise	3652	FERMENT	verb
+1590	to draw water	1911	DRAW (WATER)	verb
+1591	to be satisfied with drinking			
+1592	receptacle for liquids			
+1593	to drag, pull	2030	DRAG	verb
+1594	to draw water with a bucket			
+1595	to draw water from a well			
+1596	to draw water; to pull out	2325	PULL OUT	verb
+1597	bucket	2052	BUCKET	noun
+1598	water bucket			
+1599	clarified butter			
+1600	butter; cream	1245	BUTTER	noun
+1601	cream			
+1602	butter	1245	BUTTER	noun
+1603	alcoholic drink	404	ALCOHOL (FERMENTED DRINK)	noun
+1604	an alcoholic drink, beer	1639	BEER	noun
+1605	intoxicating drink not made from grapes			
+1606	to become inebriated			
+1607	to become intoxicated			
+1608	to grind	1033	GRIND	verb
+1609	to grind into flour			
+1610	flour	1594	FLOUR	noun
+1611	to sieve	86	SIEVE	verb
+1612	to sift			
+1613	sieve	3353	SIEVE (TOOL)	noun
+1614	(pi.) to fan, winnow, sift	2462	WINNOWING	verb
+1615	dirt	25	DIRT	noun
+1616	kind of sieve made of palm leaves			
+1617	to fan, winnow, sift	360	FAN (ACTION)	verb
+1618	to sift; to sprinkle			
+1619	fruit, yield	1507	FRUIT	noun
+1620	to knead	274	KNEAD	verb
+1621	to roll a morsel of food in melted fat			
+1622	to bake	183	BAKE	verb
+1623	baking tray			
+1624	baked			
+1625	to boil, cook	1100	COOK (SOMETHING)	verb
+1626	to be cooked, ready, ripe	178	RIPE	adjective
+1627	to boil, to roast	2493	BOIL	verb
+1628	boil, seethe, grow ripe	2493	BOIL	verb
+1629	to grow ripe; to boil	2493	BOIL	verb
+1630	to ripen	179	RIPEN	verb
+1631	IV. to boil unripe dates			
+1632	aigle (eagle)			
+1633	kind of insect			
+1634	a green winged insect; a bird	937	BIRD	noun
+1635	mouche qui s'attaque au chameau, s'introduit dans son nez et le tourmente (fly that attacks the camel, gets into its nose and torments it)			
+1636	a breed of sheep(?)			
+1637	(young) ram	1344	RAM	noun
+1638	caterpillar	2247	CATERPILLAR	noun
+1639	weevil; fly	1441	FLY (MOVE THROUGH AIR)	verb
+1640	araignée (spider)			
+1641	young bull			
+1642	ibis			
+1643	kind of bird similar to the swallow and provided with a very long beak			
+1644	to dig, to make a hole	1418	DIG	verb
+1645	kind of snake, worm	1219	WORM	noun
+1646	cat	1208	CAT	noun
+1647	cat; weasel, animal that eats chickens	1208	CAT	noun
+1648	turtledove	1853	DOVE	noun
+1649	young (male) sheep			
+1650	flock of sheep or goats			
+1651	viscera, inner organ, intestine	1991	INTESTINES	noun
+1652	a part of the liver			
+1653	(part or bone of the) leg of animal			
+1654	part of the lower leg of a quadruped			
+1655	thighbone, shinbone, tibia, leg, large bone of the leg, shoulder of animal	1297	LEG	noun
+1656	the long portion of the wing; arms, shoulders	1673	ARM	noun
+1657	wing; arm; fin; ell, fathom	1257	WING	noun
+1658	agiter les ailes (se dit d'un oiseau qui couve) (to wave wings (said of a brooding bird)			
+1659	s'agiter, hérisser ses plumes et lever les ailes, comme fait un oiseau qui couve ses oeufs, à l'approche d'un ennemi (to flutter, bristle its feathers and lift its wings, like a bird that incubates its eggs, when an enemy approaches)			
+1660	to be giddy; have pain in the head			
+1661	to be giddy, stagger			
+1662	vertigo, giddiness in the head			
+1663	to buy out, to ransom, to redeem			
+1664	to spare, to release	1095	LET GO OR SET FREE	verb
+1665	to ransom, to redeem			
+1666	to buy out, to ransom; to redeem			
+1667	paying, rewarding, compensating			
+1668	to speak emphatically, to pray	24	PRAY	verb
+1669	to pray to, to beseech, to supplicate			
+1670	to curse; VIII. to address with earnest, energetic supplication	8	CURSE	verb
+1671	to be of bad quality, to be putrid, to stink	1587	SMELL (STINK)	verb
+1672	to smell bad, be of bad quality	42	STINKING	adjective
+1673	to stink	1587	SMELL (STINK)	verb
+1674	bad, foulsmelling	1292	BAD	adjective
+1675	sour, unripe berries	1906	SOUR	adjective
+1676	to be bad, displease; to be in a bad condition; to be in pain; grieve	1292	BAD	adjective
+1677	to be in a state of distress, poverty			
+1678	very evil or bad is he!			
+1679	to be bad	1292	BAD	adjective
+1680	to be ashamed	1894	ASHAMED	adjective
+1681	to come to shame			
+1682	be ashamed	1894	ASHAMED	adjective
+1683	shame; shamelessness	1776	SHAME	noun
+1684	shame	1776	SHAME	noun
+1685	to be ashamed; to be confused	1894	ASHAMED	adjective
+1686	calumny, slander, false accusation			
+1687	to blow, breathe, inflate	175	BLOW (OF WIND)	verb
+1688	to blow (something), hiss, etc.	3685	HISS	verb
+1689	to blow	175	BLOW (OF WIND)	verb
+1690	to diffuse (of odour); to blow (of wind)	175	BLOW (OF WIND)	verb
+1691	to blow with mouth	176	BLOW (WITH MOUTH)	verb
+1692	to blow, breathe on, inflate, sound (an instrument), blow (a horn, trumpet)	175	BLOW (OF WIND)	verb
+1693	god	1944	GOD	noun
+1694	to blow away, winnow	2462	WINNOWING	verb
+1695	window	1375	WINDOW	noun
+1696	IV. to be violent and drive along the dust and pebbles (about wind)			
+1697	to be lame; have a dislocated limb	320	LAME	adjective
+1698	lame, crippled	320	LAME	adjective
+1699	to be lame, limp	366	LIMP	verb
+1700	limping			
+1701	to dislocate, to remove from its place, to separate, to disperse; to be weak in intellect and in body	1359	SEPARATE	verb
+1702	II. avoir les membres du corps lâches, sans vigeur (to have loose body members, without vigor)			
+1703	without	1478	WITHOUT	other
+1704	without, without the consent of, apart from, in the absence of	1478	WITHOUT	other
+1705	without, save; before; except for; but, rather; outside of, besides, apart from regardless of	1882	BEFORE	other
+1706	to build	1840	BUILD	verb
+1707	to build, to create	1840	BUILD	verb
+1708	to face	1560	FACE	noun
+1709	to face, to approach, to accept	1778	APPROACH	verb
+1710	past, bygone time; before, in the presence, in front of	1882	BEFORE	other
+1711	to cleave the water with its stem; to face the wind (ship)			
+1712	to enclose, to protect, to shelter	2900	PROTECT	verb
+1713	to confine			
+1714	to enclose, to fence, to protect	2900	PROTECT	verb
+1715	(aph.) to make dwell			
+1716	to veil, to conceal, to cover, to protect	761	COVER	verb
+1717	shoe	1381	SHOE	noun
+1718	a type of  shoe			
+1719	shoe, sandal(s); rim (?)	1381	SHOE	noun
+1720	boot	585	BOOT	noun
+1721	to place	723	PLACE (POSITION)	noun
+1722	to place, to establish	723	PLACE (POSITION)	noun
+1723	to have grey hair			
+1724	to become old			
+1725	to be grey headed, old	1229	OLD	adjective
+1726	to become whitehaired, hoary			
+1727	to turn grey (hair)			
+1728	to have a nose with a cut-off tip; have a slit lip			
+1729	flat nosed			
+1730	being flat nosed			
+1731	having the nose slit			
+1732	to cut, split, break	1432	CUT	verb
+1733	to break open a seal, cut to size, prune, weed	3288	WEED	noun
+1734	fendre légerement, déchirer légèrement, y causer une déchirure (to crack lightly, tear lightly, cause a tear)			
+1735	woman having her vagina and rectum united by the rending of the separation between them			
+1736	kind of disease (fever, cold in the head; plague)			
+1737	to be nauseated			
+1738	a disease (affecting the head, vision, etc.)	2519	SEEING (VISUAL SENSE)	noun
+1739	certaine maladie des chameaux (a kind of camel disease)			
+1740	pestilence, plague			
+1741	a calamity			
+1742	plague, pestilence			
+1743	bubonic plague			
+1744	IV. to go backward, to a bad state; to die	1494	DIE	verb
+1745	death	910	DEATH	noun
+1746	(pl.) malheur, adversité, infortune (misfortune, adversity)			
+1747	toux, coqueluche (cough, whooping cough)			
+1748	plaie, ulcère au dos d’un chameau (wound, ulcer on the back of a camel)			
+1749	eyebrow, eye-pit, front	1173	EYEBROW	noun
+1750	brain(?)	1583	BRAIN	noun
+1751	eyebrows	1173	EYEBROW	noun
+1752	eyebrow; the elevation around genitals	1173	EYEBROW	noun
+1753	bone that forms the eye socket			
+1754	to mix	2017	MIX	verb
+1755	to mix, to brew beer, to make an alloy, to knead (in the stative), to be spotted, variegated, to mix up, confuse, to pollute, to be numb	2017	MIX	verb
+1756	to moisten; to mix up, to confound	28	MOISTEN	verb
+1757	to mingle, mix	2017	MIX	verb
+1758	to scatter, to disperse	3705	SCATTER	verb
+1759	to moisten	28	MOISTEN	verb
+1760	to spoil, to ruin, to destroy; to mix, to confuse; to moisten, to wet	681	DESTROY	verb
+1761	to sprout, to germinate	2076	SPROUT (VERB)	verb
+1762	to produce plants or herbs, to become green, to put forth their buds (trees)			
+1763	to sprout, to shoot forth, to grow	479	GROW	verb
+1764	to be invalid, lost, to stop working	3667	LOST	adjective
+1765	to cease, to stop	1928	CEASE	verb
+1766	to cease working			
+1767	to cease, desist, perish	1928	CEASE	verb
+1768	to be false, untrue, wrong	1390	WRONG	adjective
+1769	to be useless, idle, void	2756	IDLE	noun
+1770	to bring good tidings			
+1771	to report, to bring (good) news			
+1772	(pi.) to bring good tidings			
+1773	II. to bring good tidings			
+1774	to tear, to cut	1432	CUT	verb
+1775	to stop, cut off, to staunch; to decide; to apportion, to divide a number, a whole	685	DECIDE	verb
+1776	secret	1121	SECRET	adjective
+1777	to break bread			
+1778	to give a clear decision			
+1779	to divide	1119	DIVIDE	verb
+1780	to sever, sunder, break	680	BREAK (DESTROY OR GET DESTROYED)	verb
+1781	miracle	2541	MIRACLE	noun
+1782	to break, to crush, to bruise	1520	CRUSH	verb
+1783	to demolish, to destroy	681	DESTROY	verb
+1784	to cut, to tear; to divide, to detach, to separate	1432	CUT	verb
+1785	to clear away(?)			
+1786	grapes that have fallen in a vineyard			
+1787	to open wide, split	1437	SPLIT	verb
+1788	to tear asunder, cleave; to open wide			
+1789	to go before, to precede the people or company of men			
+1790	border, side	682	SIDE	noun
+1791	side	682	SIDE	noun
+1792	forehead, front	123	FOREHEAD	noun
+1793	temple; boundary, border, side, fringe	682	SIDE	noun
+1794	side, edge	682	SIDE	noun
+1795	brow, forehead	123	FOREHEAD	noun
+1796	appearance, form, front side	1017	APPEARANCE	noun
+1797	troop (of men)			
+1798	to break, to crush	1520	CRUSH	verb
+1799	to disperse			
+1800	IV. to split, to cleave			
+1801	to sparkle, to shine brightly	2889	TWINKLE	verb
+1802	shining, glistering			
+1803	white places or portions of sand			
+1804	to scintillate, to flash, to redden			
+1805	to open	1156	OPEN	verb
+1806	(pi.) to break open arable soil, to dig furrows			
+1807	to pierce	398	PIERCE	verb
+1808	to puncture, to pierce	398	PIERCE	verb
+1809	(pi.) to engrave			
+1810	a ring without a stone			
+1811	to plait	3295	BRAID (VERB)	verb
+1812	to twine			
+1813	tied on (adj.); thread (subst.)	1161	THREAD	noun
+1814	(nip.) to be entangled with one another, to wrestle; to be tortuous, astute			
+1815	to twist, distort; to turn aside, turn away	430	TWIST	verb
+1816	to spin, to twist	121	SPIN	verb
+1817	to split, to cleave	1437	SPLIT	verb
+1818	to untie, to release	352	UNTIE	verb
+1819	aperture			
+1820	to depart, go away	1752	LEAVE	verb
+1821	to cleave, to split; to begin, to originate (trans.)	1437	SPLIT	verb
+1822	intestines; excrement	1991	INTESTINES	noun
+1823	Darm			
+1824	intestines, gut	1991	INTESTINES	noun
+1825	dung of solidhoofed animals and birds; human excrement			
+1826	hair (on the head), bristle	2648	HAIR (HEAD)	noun
+1827	bristle, (animal) hair	1040	HAIR	noun
+1828	bristles; eyebrows	1173	EYEBROW	noun
+1829	stinking	42	STINKING	adjective
+1830	abundance of hair			
+1831	sign	1720	SIGN	noun
+1832	to come; to come back, to return; to enter	1446	COME	verb
+1833	to walk along, go through (a street, a road, a square, a gate, etc.), to pass over (a region)	667	ROAD	noun
+1834	to come, to enter; to walk along, to pass over	1446	COME	verb
+1835	to come; to enter	1446	COME	verb
+1836	to return, to come back	581	COME BACK	verb
+1837	to choose, to test	1750	CHOOSE	verb
+1838	to select, choose; to examine	1750	CHOOSE	verb
+1839	to select; to levy (troops)	1750	CHOOSE	verb
+1840	to examine; to choose	1750	CHOOSE	verb
+1841	young, fullygrown, vigorous man	1207	YOUNG	adjective
+1842	to cut, to slit, to divide	1432	CUT	verb
+1843	to give off vapour or fume			
+1844	(pa.) to inflame, excite			
+1845	to send up its fume, vapor, steam (the cooking pot)	1193	STEAM	noun
+1846	house	1252	HOUSE	noun
+1847	house, place of dwelling	1252	HOUSE	noun
+1848	house, building; residence, home	1252	HOUSE	noun
+1849	house, dwelling place	1252	HOUSE	noun
+1850	house, tent	1252	HOUSE	noun
+1851	with, together with	1340	WITH	other
+1852	with	1340	WITH	other
+1853	with, beside	1340	WITH	other
+1854	together with, with the help of, by the side of, besides, out of, from	693	FROM	other
+1855	up to, until	2753	UNTIL	other
+1856	up to, as far as; until, up to (connoting time); concerning, as to	2753	UNTIL	other
+1857	up to, until; close to, around	2753	UNTIL	other
+1858	as far as, until, just before, during	2753	UNTIL	other
+1859	up to			
+1860	like, in the manner of	1117	LIKE	verb
+1861	like, in the manner of, as, according to, instead of	1117	LIKE	verb
+1862	like	1117	LIKE	verb
+1863	like, as; as many as, about; according to	1117	LIKE	verb
+1864	like, in the manner of, as, according to, corresponding to, instead of, in lieu of	1117	LIKE	verb
+1865	like, as	1117	LIKE	verb
+1866	de même que (in the same manner as)			
+1867	as, just as, even as, like; as if; such	1117	LIKE	verb
+1868	on, over	1741	ABOVE	other
+1869	on, above, beyond, over; to, towards; against; more than; at the debit of, on account of	1741	ABOVE	other
+1870	upon, on top of; next to, in the presence of; from; for, because of; against, on the account of; charged to; on, after	1685	AFTER	other
+1871	above, upon	1741	ABOVE	other
+1872	upon, over; notwithstanding; on account of; in the time of; according to, in conformity to; on the condition of	1741	ABOVE	other
+1873	above; against; on, upon, over; about, concerning	1741	ABOVE	other
+1874	rope	1218	ROPE	noun
+1875	cord, rope, mooring rope	1218	ROPE	noun
+1876	rope, cord, snares	1218	ROPE	noun
+1877	rope, cord	1218	ROPE	noun
+1878	string, cord, rope, snares	1218	ROPE	noun
+1879	besides, apart from			
+1880	besides, apart from, in addition to, beyond			
+1881	to, towards	2754	TOWARDS	other
+1882	to send, to stretch out	1127	SEND	verb
+1883	to dispatch, send off			
+1884	to stretch, throw, to send	1127	SEND	verb
+1885	to strip off (hide, skin)	763	SKIN	noun
+1886	to take out, tear off, tear out	3654	TAKE OUT	verb
+1887	to, for	2754	TOWARDS	other
+1888	for, to	2754	TOWARDS	other
+1889	until, till, unto, as far as, so much so, up to, to the point of, even also, within, for	2753	UNTIL	other
+1890	because of, for the sake of	2918	BECAUSE OF	other
+1891	concerning, on behalf of, on account of, because of, with respect to, related to	2918	BECAUSE OF	other
+1892	because, since, in that; that is, namely; indeed, in fact	1157	BECAUSE	other
+1893	red	156	RED	adjective
+1894	red, red garment	156	RED	adjective
+1895	être rouge, avoir la peau brunie (to be red; to have brown skin)			
+1896	tawny, darkcomplexioned; having an intermixed color			
+1897	(animal) fat	323	FAT (ORGANIC SUBSTANCE)	noun
+1898	tallow, fat	323	FAT (ORGANIC SUBSTANCE)	noun
+1899	saindoux, axonge (lard, axonge)			
+1900	foot, sole of foot	1301	FOOT	noun
+1901	upper part; point of the nose			
+1902	the point of the extremity of anything; the portion with which one cuts (in a sword); the two sides of the tapering head of a sandal			
+1903	eyelash; (tuft of) hair	1540	EYELASH	noun
+1904	Kopffell (?); Fell an Hornwurzel			
+1905	cilia, fin	213	FIN	noun
+1906	place of growth of the eyelash			
+1907	buttocks, hind parts, small of the back	834	BUTTOCKS	noun
+1908	buttocks, rectum, anus	834	BUTTOCKS	noun
+1909	ano			
+1910	taille (waist)			
+1911	to abandon, to desert, to leave	1752	LEAVE	verb
+1912	to put, place, arrange	998	PUT	verb
+1913	to leave, abandon; to leave behind; to let go	1752	LEAVE	verb
+1914	to be distant, remote, absent	1406	FAR	adjective
+1915	intestine; spleen	1991	INTESTINES	noun
+1916	large intestine; paunch, belly(?)	1251	BELLY	noun
+1917	a part of the intestinal tract			
+1918	anus, rectum	1935	ANUS	noun
+1919	anus	1935	ANUS	noun
+1920	pain of the anus			
+1921	kind of skin ulcer; mole, mark on the skin	1907	MOLE	noun
+1922	mole, mark	1907	MOLE	noun
+1923	to be swollen (skin, limb, wound); to become enraged	1531	BRANCH	noun
+1924	swelling, tumour	1903	SWELLING	noun
+1925	piercing, wound, injury, infected wound, ulcer, swelling of a wound, skin rash, scar	497	SCAR	noun
+1926	back, podex	1291	BACK	noun
+1927	chest, front of the chest	1592	CHEST	noun
+1928	back, rump, loin	1291	BACK	noun
+1929	back, breast, torso	1402	BREAST	noun
+1930	back of hand; upper part of sandal made from leather, shoe patch			
+1931	dos, derrière (back, behind)	1686	BEHIND	other
+1932	anus, buttocks	1935	ANUS	noun
+1933	you (fem. sg.)	1213	YOU	other
+1934	you (fem. sing.)	1213	YOU	other
+1935	thou (fem.)	1215	THOU	other
+1936	he	1211	HE	other
+1937	he, it	1211	HE	other
+1938	she	1834	SHE	other
+1939	she, it	1834	SHE	other
+1940	you (masc. pl.)	1213	YOU	other
+1941	you (pl. masc.)	1213	YOU	other
+1942	threshing floor			
+1943	water jar, water pot; coffin, sarcophagus	2011	COFFIN	noun
+1944	threshing floor; place where fruits are dried; stone basin			
+1945	you (fem. pl.)	1213	YOU	other
+1946	you (pl. fem.)	1213	YOU	other
+1947	they (masc.)	817	THEY	other
+1948	they (fem.)	817	THEY	other
+1949	which?	727	WHICH	other
+1950	which	727	WHICH	other
+1951	where?	1237	WHERE	other
+1952	who, which, what	1235	WHO	other
+1953	arrow	977	ARROW	noun
+1954	a small arrow			
+1955	arrow,  dart	977	ARROW	noun
+1956	my (genitive pronominal suffix, 1 sg.)	2090	MY	other
+1957	me (accusative pronominal suffix, 1 sg.)	2301	ME	other
+1958	your, you (genitive and accusative pronominal suffix, 2 masc. sg.)	732	YOUR (SINGULAR)	other
+1959	your; you (genitive and accusative pronominal suffix, 2 masc. sg.)	732	YOUR (SINGULAR)	other
+1960	your; you (genitive and accusative pronominal suffix, 2 fem. sg.)	732	YOUR (SINGULAR)	other
+1961	his; him (genitive and accusative pronominal suffix, 3 masc. sg.)	2473	HIS (GENITIVE OF HE)	other
+1962	him (accusative pronominal suffix, 3 masc. sg.)			
+1963	his (genitive pronominal suffix, 3 masc. sg.)	2473	HIS (GENITIVE OF HE)	other
+1964	her (genitive and accusative pronominal suffix, 3 fem. sg.)	2474	HER (GENITIVE OF SHE)	other
+1965	her (genitive pronominal suffix)	2474	HER (GENITIVE OF SHE)	other
+1966	our; us (genitive and accusative pronominal suffix, 1 pl.)	780	OUR	other
+1967	our (genitive pronominal suffix, 1 pl.)	780	OUR	other
+1968	our; us (genitive and accusative pronominal suffix)	780	OUR	other
+1969	your; you (genitive and accusative pronominal suffix, 2 pl.)	732	YOUR (SINGULAR)	other
+1970	your (genitive pronominal suffix, 2 fem. pl.)	732	YOUR (SINGULAR)	other
+1971	your (genitive pronominal suffix, 2 masc. pl.)	732	YOUR (SINGULAR)	other
+1972	your; you (genitive and accusative pronominal suffix, 2 masc. pl.)	732	YOUR (SINGULAR)	other
+1973	your; you (genitive and accusative pronominal suffix, 2 fem. pl.)	732	YOUR (SINGULAR)	other
+1974	their; them (genitive and accusative pronominal suffix, 3 pl.)	2400	THEIR	other
+1975	their (genitive pronominal suffix, 3 fem. pl.)	2400	THEIR	other
+1976	their (genitive pronominal suffix, 3 masc. pl.)	2400	THEIR	other
+1977	their; them (genitive and accusative pronominal suffix, 3 masc. pl.)	2400	THEIR	other
+1978	their; them (genitive and accusative pronominal suffix, 3 fem. pl.)	2400	THEIR	other
+1979	a ring of gold or silver, an earring	759	SILVER	noun
+1980	to seize, take hold of, catch	855	SEIZE	verb
+1981	to seize, take hold of sth/smb	855	SEIZE	verb
+1982	a smith’s tongs			
+1983	to seize	855	SEIZE	verb
+1984	to take, hold; to withhold, restrain; to keep, preserve,  guard, take care of	1749	TAKE	verb
+1985	to grasp, to take hold of, to lay hands on	2021	GRASP	verb
+1986	to be brilliant	3709	BRILLIANT	adjective
+1987	numinous splendour emanating from gods			
+1988	splendour			
+1989	wholesome, sweet (water)	717	SWEET	adjective
+1990	to love	923	LOVE	verb
+1991	to love, to be affected, inclined to	923	LOVE	verb
+1992	to be small	1246	SMALL	adjective
+1993	to become small, few, to be young	1242	FEW	other
+1994	servant	255	SERVANT	noun
+1995	small, of tender years, young	1246	SMALL	adjective
+1996	the smaller one, the younger one			
+1997	to be disgraced, outraged			
+1998	to be or become little,  small	1579	BE	verb
+1999	to throw, shoot	1456	THROW	verb
+2000	to fire, shoot arrows	221	FIRE	noun
+2001	to throw	1456	THROW	verb
+2002	not, no (prohibitive and negative particle)	1240	NOT	other
+2003	not; where?	1240	NOT	other
+2004	not (negative particle prefixed to the verb)	1240	NOT	other
+2005	to tie	1917	TIE	verb
+2006	prisoner of war, captive foreigner used as worker			
+2007	prisoner, captive	1072	PRISONER	noun
+2008	prisoner	1072	PRISONER	noun
+2009	to bind, tie	1917	TIE	verb
+2010	to tie, to tie up, to bind, to fetter	1917	TIE	verb
+2011	backside, lower leg, base, foundation	447	LOWER LEG	noun
+2012	damp course, base, foundation (of a building, reign), bottom, root, lower extremities	670	ROOT	noun
+2013	to support; to stand	1442	STAND	verb
+2014	to lean against sth, to stand by; to place	723	PLACE (POSITION)	noun
+2015	support or foot of a wall			
+2016	go up before, stand up; to stand; to be motionless	1442	STAND	verb
+2017	to support, to stay sth			
+2018	to tie, to wrap	1917	TIE	verb
+2019	to twine, to double			
+2020	wrap, veil	1113	WRAP	verb
+2021	III. to double			
+2022	to bend, fold up, double	2004	BEND	verb
+2023	to live, to escape	1422	BE ALIVE	verb
+2024	to get well, to recover from sickness; to be alive, to stay alive	1422	BE ALIVE	verb
+2025	III. to flee			
+2026	to be old, worn out	1229	OLD	adjective
+2027	to become extinguished, to come to an end	2209	BECOME EXTINGUISHED	verb
+2028	to be worn out			
+2029	wood block (as fuel)			
+2030	to be worn out, old; to age	1229	OLD	adjective
+2031	to be old, wornout	1229	OLD	adjective
+2032	become old			
+2033	to spend the night			
+2034	to stay overnight, spend the night; to delay	425	BE LATE	adjective
+2035	to stay the night			
+2036	to spend the night, lodge			
+2037	to spend the night; to do sth at night			
+2038	to persevere, persist, last, stay	1529	LAST (FINAL)	other
+2039	to be complete, to come to an end			
+2040	to bring to an end, to annihilate, to spend, to finish; to come to an end	1766	FINISH	verb
+2041	totality, total	2277	WHOLE	adjective
+2042	to come to an end			
+2043	to complete, bring to an end, accomplish; to fail, come to an end, perish, be destroyed	3861	FAIL	verb
+2044	II. to collect			
+2045	accomplish, complete, perfect,  consummate; bring to an end; contain, comprehend, include completely			
+2046	to be sharp	1396	SHARP	adjective
+2047	to be or become pointed; (D) to act quickly	1579	BE	verb
+2048	to be quick; (hip.) to sharpen	251	SHARPEN (SOMETHING)	verb
+2049	to edge, to sharpen	251	SHARPEN (SOMETHING)	verb
+2050	to be parched, shrivelled			
+2051	shrivelled or withered			
+2052	parched field			
+2053	intensely hot			
+2054	spelt, emmer			
+2055	spelt, emmer wheat			
+2056	to be in front, to precede	1883	IN FRONT OF	other
+2057	to precede, go before, lead	43	LEAD (GUIDE)	verb
+2058	go before, come before, precede, begin, have priority, be first, be ahead of, surpass	1806	BEGIN	verb
+2059	to be near	1942	NEAR	adjective
+2060	to approach	1778	APPROACH	verb
+2061	to approach to, be near	1942	NEAR	adjective
+2062	tick	1527	TICK	noun
+2063	teigne (tick)			
+2064	to pluck off			
+2065	to pluck, to pick, to cut off	2148	PICK	verb
+2066	to pluck off (twigs, ears of corn)			
+2067	to pluck off, collect, harvest	3327	AUTUMN OR HARVEST SEASON	other
+2068	to collect fruits			
+2069	to pick (flowers), to pluck, to snap	2558	BREAK (CLEAVE)	verb
+2070	to wear	976	WEAR	verb
+2071	to put on clothing; to clothe oneself; to clothe somebody; to cover	761	COVER	verb
+2072	to dress, wear, put on clothes	976	WEAR	verb
+2073	to clothe oneself with a garment			
+2074	to put on, to wear	976	WEAR	verb
+2075	clothe oneself, put on clothes, wear; clothe somebody	976	WEAR	verb
+2076	hundred	1634	HUNDRED	numeral
+2077	hundred, one hundred	1634	HUNDRED	numeral
+2078	hundred, century	1634	HUNDRED	numeral
+2079	to ask	1309	ASK (INQUIRE)	verb
+2080	to ask, to inquire, to interrogate; to ask for something	1309	ASK (INQUIRE)	verb
+2081	to ask, request	1309	ASK (INQUIRE)	verb
+2082	to ask; to beg for, to demand	1309	ASK (INQUIRE)	verb
+2083	to ask, inquire; to ask or demand for something	1309	ASK (INQUIRE)	verb
+2084	to ask, enquire, make a request,  pray, beg	1309	ASK (INQUIRE)	verb
+2085	ein Vogel (a bird)			
+2086	a species of partrige			
+2087	chevreau (kid)			
+2088	to slaughter	1796	SLAUGHTER	verb
+2089	to slaughter, butcher; to slit the throat	1796	SLAUGHTER	verb
+2090	to slaughter; to kill off	1796	SLAUGHTER	verb
+2091	to cook	1100	COOK (SOMETHING)	verb
+2092	to slaughter, slay, kill, cut up, sacrifice, skin	1796	SLAUGHTER	verb
+2093	to drive away, to expel	30	DISPEL	verb
+2094	to send; to drive out, drive away, send away; to expel	1127	SEND	verb
+2095	to drive away, expel, banish	30	DISPEL	verb
+2096	name of a bird, prob. black eagle			
+2097	heron	758	HERON	noun
+2098	owl	735	OWL	noun
+2099	nightbird, owl	735	OWL	noun
+2100	hoopoe; owl	735	OWL	noun
+2101	kind of insect or worm	1219	WORM	noun
+2102	pestle	225	PESTLE	noun
+2103	name of a spider			
+2104	the spider	843	SPIDER	noun
+2105	large wild beast			
+2106	animals			
+2107	spider	843	SPIDER	noun
+2108	a louse affecting cloth, animals and people; a moth	2828	MOTH	noun
+2109	flying ant species			
+2110	a large wild cat			
+2111	tiger (?)	846	TIGER	noun
+2112	nonwinged locust; wood worm; caterpiller			
+2113	termite; white ant	883	TERMITE	noun
+2114	ostrich	3797	OSTRICH	noun
+2115	'young of animals, larva'			
+2116	(kind of worms or larvae)			
+2117	baby animals and birds or small creatures			
+2118	nightingale; sparrowchick	3723	NIGHTINGALE	noun
+2119	young camel			
+2120	a young camel when just born			
+2121	swarm of bees			
+2122	beehive, also the bees of a hive; swarm	88	BEEHIVE	noun
+2123	bee; bees	665	BEE	noun
+2124	phoenix			
+2125	white hawk regarded as of evil omen			
+2126	a locust	810	LOCUST	noun
+2127	kind of bird, somewhat like a sparrow			
+2128	kind of small bird			
+2129	a species of crested bird			
+2130	nightingale	3723	NIGHTINGALE	noun
+2131	a bird fattened to be eaten by king Solomon			
+2132	caterpillar, insect larva	2247	CATERPILLAR	noun
+2133	raptor, conventionally “hawk”			
+2134	red kite			
+2135	unclean bird of prey (frequenting ruins)			
+2136	kite	307	HAWK	noun
+2137	épithète du corbeau (epithet of the raven)			
+2138	cricket; sucker	2354	CRICKET	noun
+2139	kind of a bird			
+2140	bird, wild bird (perhaps a raptor, esp. 'hawk, falcon')	937	BIRD	noun
+2141	falcon	3258	FALCON	noun
+2142	hawk	307	HAWK	noun
+2143	female sparrow			
+2144	yearling foal, small of domestic animals			
+2145	viscera			
+2146	foetus (de chat, de lièvre, de hérisson, de gerboise) (fetus (cat, hare, hedgehog, jerkin)	1190	HARE	noun
+2147	fat; fatness	323	FAT (ORGANIC SUBSTANCE)	noun
+2148	fatness	1279	FAT (OBESE)	adjective
+2149	fat pasture ground			
+2150	être gras (to be fat)			
+2151	qualité d'un aliment gras (quality of a fatty food)			
+2152	très gras (very fat)			
+2153	kind of insect, louse	1392	LOUSE	noun
+2154	parasite, louse	1392	LOUSE	noun
+2155	kind of insect similar to the scarab marked with black and white spots which usually accompanies or precedes scorpions or vipers			
+2156	kind of bird (hen, quail)	1893	QUAIL	noun
+2157	young poultry			
+2158	chick	2512	CHICK	noun
+2159	quail; sparrow?	1893	QUAIL	noun
+2160	kind of small aquatic bird			
+2161	quail	1893	QUAIL	noun
+2162	tail, back	1220	TAIL	noun
+2163	queue; toupet (tail; toupee)			
+2164	queue (tail)			
+2165	back, back part, tail, border	1220	TAIL	noun
+2166	goose, crane	1187	GOOSE	noun
+2167	grus (grue)			
+2168	Numidian crane			
+2169	crane	1830	CRANE	noun
+2170	aile (d'un oiseau) (wing (of a bird)			
+2171	prepuce, clitoris	3257	CLITORIS	noun
+2172	oter, enlever le prépuce (dans la circoncision) (to take off, remove the foreskin (in circumcision)			
+2173	(piece of) skin	763	SKIN	noun
+2174	dépouille, peau ôtée (body, skin removed)			
+2175	peau mince qui couvre la plaie en voie de guérison (thin skin that covers the healing wound)			
+2176	to weep	1839	CRY	verb
+2177	to weep, cry	1839	CRY	verb
+2178	skin; peel; scales; test	763	SKIN	noun
+2179	crab shell			
+2180	peau d'une bête ôtée et vidée (skin of an animal removed and emptied)			
+2181	morceau de peau enlevée (piece of skin removed)			
+2182	(long) hair, mane	1918	MANE	noun
+2183	toupet (toupee)			
+2184	grande nuée de sauterelles (large swarm of locusts)			
+2185	kind of small creature			
+2186	a small animal, probably a frog			
+2187	a locust or bird; eine Art Heuschrecke (kind of grasshopper)	937	BIRD	noun
+2188	pou; fourmi (louse; ant)	587	ANT	noun
+2189	(wild) cat	1208	CAT	noun
+2190	a wild animal; Gepard (cheetah)	958	WILD ANIMAL	noun
+2191	a kind of bird (swallow, dove)	1853	DOVE	noun
+2192	perroquet (parrot); la perruche a collier couleur de rose (the rosecoloured parakeet)			
+2193	kind of worm, insect	620	INSECT	noun
+2194	a parasite worm in the bowels			
+2195	quail (pl.)	1893	QUAIL	noun
+2196	a wading bird			
+2197	dove	1853	DOVE	noun
+2198	kind of little bird similar to a swallow			
+2199	(dead) body, back (of body)	1291	BACK	noun
+2200	corpse, dead man	767	CORPSE	noun
+2201	the locust; locusts	810	LOCUST	noun
+2202	heron, pelican; ibis	758	HERON	noun
+2203	kind of bird of prey			
+2204	an unclean bird			
+2205	young one of partridge			
+2206	kind of reptile (snake, lizard)	632	LIZARD	noun
+2207	kind of big lizard			
+2208	aranea (spider)			
+2209	pelican	472	PELICAN	noun
+2210	ant	587	ANT	noun
+2211	sesame	2797	SESAME	noun
+2212	red ant			
+2213	kind of snake, worm, insect larvae	1219	WORM	noun
+2214	horned viper			
+2215	serpent; field cricket; creeping animal; crawling locust	730	SNAKE	noun
+2216	serpent; kind of snake with black and white spots	730	SNAKE	noun
+2217	a nocturnal bird			
+2218	bird which hunts fish			
+2219	kite (bird)	307	HAWK	noun
+2220	back of neck			
+2221	dos (back)			
+2222	amygdal			
+2223	gorge			
+2224	torso, body	1480	BODY	noun
+2225	hip, flank	1745	HIP	noun
+2226	side, arm	1673	ARM	noun
+2227	hip.side; girdle around male pubic area; wheels and axles			
+2228	coeur, âme, esprit (heart, soul, spirit)	811	SOUL	noun
+2229	poitrine (breast)			
+2230	milieu du dos, vertèbres (d'une bête de somme) (middle of the back, chine)			
+2231	poitrine; milieu (du corps de l'homme) (chest; midsection)			
+2232	poitrine (chest)			
+2233	corps, taille et volume du corps; cadavre (body; corpse)	767	CORPSE	noun
+2234	cadavre de sauterelle (dead locust)			
+2235	corps; objet saillant (body; protruding object)			
+2236	cricket, locust	810	LOCUST	noun
+2237	espèce de sauterelle (species of locust)			
+2238	breastbone; side of body	2810	BREASTBONE	noun
+2239	chest bones, sternum, breastbone	2810	BREASTBONE	noun
+2240	bosom, chest; dewlap	1592	CHEST	noun
+2241	bosom	1402	BREAST	noun
+2242	hanging flesh under the chin (of some animals), dewlap (of oxen), beard (of cock), throat (of humans)	678	BEARD	noun
+2243	dewlap, beard, throat	678	BEARD	noun
+2244	chest, bosom	1592	CHEST	noun
+2245	chest	1592	CHEST	noun
+2246	whelp, cub	74	PUPPY	noun
+2247	cub (lion, jackal)	3313	JACKAL	noun
+2248	whelp (of a lion, dog, pig, snake)	2009	DOG	noun
+2249	petit de chien, de lion ou de toute autre bête carnassière (whelp of a dog, lion or any other carnivorous animal)	1386	LION	noun
+2250	kind of mouse, rat	1490	RAT	noun
+2251	dormouse			
+2252	rat	1490	RAT	noun
+2253	kind of creeping creature			
+2254	Saraph serpent			
+2255	a dove	1853	DOVE	noun
+2256	a small bird			
+2257	an insect; larva	2640	LARVA	noun
+2258	a species of spider			
+2259	scorpion (newly hatched); young scorpion	1538	SCORPION	noun
+2260	animals of the desert			
+2261	tomcat			
+2262	antelope	3674	ANTELOPE	noun
+2263	large-hoofed animal			
+2264	kind of insect (bee, wasp)	1517	WASP	noun
+2265	(young) bull	1008	BULL	noun
+2266	suckling, fatted calf, young of flock, young animal (calf, heifer, lamb)	820	LAMB	noun
+2267	kind of insect, snail	1543	SNAIL	noun
+2268	kind of insect or larva	2640	LARVA	noun
+2269	snail	1543	SNAIL	noun
+2270	kind of bird, expl. Qaṭā, i.e. pterocles or coturnix			
+2271	small camels or lambs; young of a herd made up of camels or sheep	1331	SHEEP	noun
+2272	(young of) ungulate			
+2273	kid; kid that is tied up or thrown into a pit to attract a lion or a wolf	1972	YOUNG GOAT (KID)	noun
+2274	kind of gazelle			
+2275	to flee (said of a gazelle)	956	FLEE	verb
+2276	starling			
+2277	rooster	1511	ROOSTER	noun
+2278	a small creatures that ruin the fields			
+2279	grasshopper	607	GRASSHOPPER	noun
+2280	kind of rodent			
+2281	castor (beaver)			
+2282	espèce de gros rat des champs (a kind of large field rat)			
+2283	to catch, to fish, to hunt	1435	HUNT	verb
+2284	to be clear	989	CLEAR	adjective
+2285	to shine	708	SHINE	verb
+2286	to be bald	1125	BALD	adjective
+2287	kind of fish			
+2288	(a bird)			
+2289	an unclean species of bird frequenting ruins and the desert; a type of owl (?); scops owl or jackdaw			
+2290	small hoofed animal			
+2291	name of a bird of prey, supposed to be falcon			
+2292	bird of prey, falcon, hawk	307	HAWK	noun
+2293	Kranich (crane)			
+2294	grue			
+2295	scarabaeus (scarab)			
+2296	espèce de fourmis grandes et noires (species of large, black ants)			
+2297	to be available, to stay	987	REMAIN	verb
+2298	III. to vie, to compete for superiority; to emulate, to rival, to imitate	117	IMITATE	verb
+2299	to follow successively, to do by turns, to alternate with one another, to relay one another			
+2300	to be filmy or flickering (eyes); evening, dusk	1629	EVENING	noun
+2301	at dusk	2297	DUSK	noun
+2302	to be filmy (?)			
+2303	to be clean, clear	989	CLEAR	adjective
+2304	radiance			
+2305	to be or remain pure, clean, free	1579	BE	verb
+2306	to purge out			
+2307	sincere, guileless, simple, inexperienced	686	EASY	adjective
+2308	to be good, pious	1035	GOOD	adjective
+2309	to purify, to make white			
+2310	reed, mat	195	MAT	noun
+2311	reed mat			
+2312	reed, reed pen, branch of a chandelier, stalk, stem of fruit, stubble	659	REED	noun
+2313	to be dislocated			
+2314	to lie across			
+2315	VII. to be dislocated (the head of the humerus from its scapula), to be lax or slack (the shoulderjoint)	2506	LOOSE	adjective
+2316	to separate, to divide	1119	DIVIDE	verb
+2317	to separate	1359	SEPARATE	verb
+2318	to release, to unknit	1095	LET GO OR SET FREE	verb
+2319	to tear off, to tear away			
+2320	to remove			
+2321	to make a separation			
+2322	to cut	1432	CUT	verb
+2323	to shred			
+2324	to tear to pieces			
+2325	to cut; (etp.) to be split; (pa.) to cut apart	1432	CUT	verb
+2326	couper en petits morceaux (to cut into small pieces)			
+2327	spinal column with thigh bones			
+2328	crotch, region between the thighs; the hind legs of animals			
+2329	limb; vertebra of the spinal column; link	1531	BRANCH	noun
+2330	back of the horse			
+2331	mid back, vertebra			
+2332	canal (anat.), urethra (?)			
+2333	vagina	1836	VAGINA	noun
+2334	udder or penis canal	154	UDDER	noun
+2335	loin, hip	1745	HIP	noun
+2336	arm (or hip)	1673	ARM	noun
+2337	loins	187	LOIN	noun
+2338	gizzard (of some birds); which has a big belly above the navel			
+2339	loin	187	LOIN	noun
+2340	breast, stomach, entrails	1402	BREAST	noun
+2341	part of human insides			
+2342	middle of chest, chest, breastbone, etc.	1592	CHEST	noun
+2343	to insult	3204	INSULT	verb
+2344	IV. to blame, to censure			
+2345	to be red-hot			
+2346	to be red	156	RED	adjective
+2347	to bubble up, to boil; to be effervescent, to flare up	2493	BOIL	verb
+2348	a (mythical) aquatic reptile			
+2349	an aquatic animal			
+2350	serpent, dragon	2038	DRAGON	noun
+2351	(feminine) genital organ, uterus			
+2352	sinus; penis; cunnus, vagina	1222	PENIS	noun
+2353	uterus			
+2354	entrails			
+2355	human lungs, belly, entrails	1251	BELLY	noun
+2356	viscera (any interior part of the body); intestines	1991	INTESTINES	noun
+2357	fetal membrane			
+2358	egg membrane			
+2359	second membrane that comes out of the uterus at parturition and is filled with water (in camels)			
+2360	a falcon	3258	FALCON	noun
+2361	small owl			
+2362	part of human body, possibly waist			
+2363	middle of the body, slim mid body			
+2364	fatty tissue around intestins and stomach			
+2365	fatty tissue around the intestines			
+2366	an insect, a disease	1986	DISEASE	noun
+2367	a snail	1543	SNAIL	noun
+2368	woodworm, moth	2828	MOTH	noun
+2369	forearm, cubit	446	LOWER ARM	noun
+2370	a linear measure, short cubit			
+2371	cubitus, ulna			
+2372	a kind of owl			
+2373	crow	913	CROW	noun
+2374	corvus (raven)			
+2375	raven, crow	913	CROW	noun
+2376	frog	503	FROG	noun
+2377	rana (frog)			
+2378	grenouille (frog)			
+2379	insectum quoddam (a certain kind of insect)			
+2380	sip, gulp			
+2381	to raise, to lift	501	LIFT	verb
+2382	carry, lift up	700	CARRY	verb
+2383	to raise, lift, help up; to carry; to wear	700	CARRY	verb
+2384	to grow up, to become elevated, to occur	552	GROW UP	verb
+2385	to take, to partake, to receive	1749	TAKE	verb
+2386	to rise up	705	GO UP (ASCEND)	verb
+2387	to split, to separate	1437	SPLIT	verb
+2388	to demarcate, to divide off			
+2389	district			
+2390	division, dividing			
+2391	to cleave, to split	1437	SPLIT	verb
+2392	to divide, to disintegrate	1119	DIVIDE	verb
+2393	(nip.) to be separated; (pi.) to split, to make a furrow	1437	SPLIT	verb
+2394	divisit, partitus est (to be divided)			
+2395	to till, to plow, to do agricultural work; to work; to serve (especially a deity), to venerate	1086	WORK (ACTIVITY)	verb
+2396	to be afraid; to serve; to venerate	1419	FEAR (BE AFRAID)	verb
+2397	laboravit; veneratus est, coluit (deum) (to labor; to venerate, worship (god)	257	WORSHIP	verb
+2398	to plow, to cultivate	1541	CULTIVATE	verb
+2399	back, side or front part of body (of a sheep?)	1291	BACK	noun
+2400	soft part of the sheep's breastbone; a cut of the meat of a sheep			
+2401	rear, last part, backside, behind, behind of the head	1686	BEHIND	other
+2402	joint (of the ribs, fingers, etc.)	1303	FINGER	noun
+2403	joint of the human or animal body			
+2404	hollow at the top of the chest, between the two collarbones			
+2405	to pierce, bore, to break through, break into	398	PIERCE	verb
+2406	(pi.) to penetrate, to perforate	1501	BORE	verb
+2407	to pierce, break through	398	PIERCE	verb
+2408	to be attentive, interested in somebody or something	1908	ATTENTIVE	adjective
+2409	to command	1998	COMMAND	verb
+2410	to deposit; (hip.) to entrust; to appoint; to attend to; to pass in review, to muster; to pass in review; to seek (with interest, desire); to seek in vain, to miss, to lack; to visit	1377	VISIT	verb
+2411	to appoint over; to order, to command; to care for; to enumerate, to examine; to visit	1128	ORDER	verb
+2412	prefect			
+2413	to miss, to lose, not to find; V. visiter, examiner une chose, la considérer attentivement, y faire attention, en prendre soin (to visit, examine something, to consider it carefully, to pay attention to it, to take care of it)	1660	LOSE	verb
+2414	to take care of; to survey, to review; to muster; to number, to enumerate	1356	NUMBER	noun
+2415	to smash, to crack	3080	SPLIT OPEN	verb
+2416	to slice, to slit	2156	CUT (WITH KNIFE)	verb
+2417	to smite one’s head with the stick or sword; to make a separation (between people); IV. to make to bleed	1535	SWORD	noun
+2418	to tear loose, to melt	2334	MELT	verb
+2419	meaning, explanation	2950	MEANING	noun
+2420	to digest, ripen; to liquefy; to interpret	179	RIPEN	verb
+2421	to discover, to reveal, to render clear, to explain	1626	EXPLAIN	verb
+2422	to cut, to pierce, to incise	1432	CUT	verb
+2423	to break an oath, to transgress, violate a trust			
+2424	breach, opening	1667	HOLE	noun
+2425	to make a split, a breach			
+2426	to make a notch or incision			
+2427	virgin	2298	VIRGIN	noun
+2428	young man	76	YOUNG MAN	noun
+2429	chaste, modest			
+2430	virgin, umarried person; Virgo, name of a constellation	2298	VIRGIN	noun
+2431	a virgin; a woman that withholds herself from men	2298	VIRGIN	noun
+2432	to be early	672	EARLY	adjective
+2433	(pi.) to bear firstfruits			
+2434	firstfruits			
+2435	to be first	728	FIRST	other
+2436	first, earliest (generally said of fruit)	728	FIRST	other
+2437	to go forth early in the morning			
+2438	to trickle, to flow	2003	FLOW	verb
+2439	to trickle			
+2440	silt			
+2441	to flow by little and little			
+2442	little water			
+2443	rain little in quantity			
+2444	= rašaḥa 'to leak, to ooze (of water)'			
+2445	to flash			
+2446	to shine, to flash	708	SHINE	verb
+2447	to appear (lightning); to shine, to gleam, to glisten	708	SHINE	verb
+2448	to flash, to scintillate, to shine, to sparkle	708	SHINE	verb
+2449	ceder			
+2450	to wish	2117	DESIRE	verb
+2451	to ask, to wish, to desire	2117	DESIRE	verb
+2452	to request, wish, demand, claim	1784	WANT	verb
+2453	desire	2960	LONGING (WISH)	noun
+2454	reed	659	REED	noun
+2455	to kiss	578	KISS	verb
+2456	to kiss; to come into contact (of water)	578	KISS	verb
+2457	occiput, back of the head	523	BACK OF HEAD	noun
+2458	back side of the cervical			
+2459	behind the neck, nape; back of the head, occiput	1347	NAPE (OF NECK)	noun
+2460	shoulder blade	172	SHOULDERBLADE	noun
+2461	inner part, middle of the body			
+2462	intestines, insides (in the pl.), mind, heart	1223	HEART	noun
+2463	midsection			
+2464	entrails, inward parts			
+2465	flanks, from the hips to the lower abdomen			
+2466	be straight	1404	STRAIGHT	adjective
+2467	to be in order; to straighten up; to prosper			
+2468	uprightness, lawfulness			
+2469	be straight, smooth, right	1234	SMOOTH	adjective
+2470	to be gentle, easy	686	EASY	adjective
+2471	yesterday	1174	YESTERDAY	other
+2472	to mark, to brand	1720	SIGN	noun
+2473	a mark	1720	SIGN	noun
+2474	to mark, stigmatize, brand	621	IRON	noun
+2475	sacred	1702	HOLY	adjective
+2476	to make ritually clean, to purify			
+2477	holy	1702	HOLY	adjective
+2478	holy, consecrated	1702	HOLY	adjective
+2479	(pa.) to sanctify, deem holy			
+2480	II. to sanctify, consecrate, purify			
+2481	to sanctify, declare holy, perform sacred offices, celebrate Mass			
+2482	axe	677	AXE	noun
+2483	an axe or hatchet	677	AXE	noun
+2484	axe, adze	677	AXE	noun
+2485	twenty	1710	TWENTY	numeral
+2486	to saw	3543	SAW (SOMETHING)	verb
+2487	a saw	1948	SAW	noun
+2488	to saw, to plane	3543	SAW (SOMETHING)	verb
+2489	comb	1475	COMB	noun
+2490	to comb	2070	COMB (VERB)	verb
+2491	to set, lay down	160	SET (HEAVENLY BODIES)	verb
+2492	to allot power, establish, fix a destiny, ordain the future			
+2493	to lay down, set down, arrange, fix	2071	LAY (VERB)	verb
+2494	to place, to set up	723	PLACE (POSITION)	noun
+2495	to hide, to insert one thing into another, to impress	2486	HIDE	verb
+2496	to set, set in order, put, place, charge, promote, consecrate	723	PLACE (POSITION)	noun
+2497	to take (back), grasp, seize, hold	1448	HOLD	verb
+2498	to seize, to grasp	855	SEIZE	verb
+2499	to take, catch	1749	TAKE	verb
+2500	to obstruct	2762	BLOCK (THE WAY)	verb
+2501	to dam up, to block	2762	BLOCK (THE WAY)	verb
+2502	a bolt	2007	BOLT (OF LIGHTNING)	noun
+2503	(nip.) to be obstructed			
+2504	to shut, to close up	1046	SHUT	verb
+2505	to dam, stop up			
+2506	to break, fracture	680	BREAK (DESTROY OR GET DESTROYED)	verb
+2507	to break, shatter	680	BREAK (DESTROY OR GET DESTROYED)	verb
+2508	to shatter, smash			
+2509	to restrain; to curse; to destroy; to perish	681	DESTROY	verb
+2510	genitals, testicles	797	TESTICLES	noun
+2511	vulva (hapax)	1837	VULVA	noun
+2512	to cut off, to divide, to separate	1119	DIVIDE	verb
+2513	to break, to notch; to depart and then return	680	BREAK (DESTROY OR GET DESTROYED)	verb
+2514	to cut, to hollow out, to rend with the teeth	1432	CUT	verb
+2515	to slice	2156	CUT (WITH KNIFE)	verb
+2516	spring, fountain	849	SPRING (OF WATER)	noun
+2517	to cut, to slit, to open a vein	1432	CUT	verb
+2518	to gaze, to look at, to seek	1468	LOOK FOR	verb
+2519	to look for, search, to probe; to seek out someone	1468	LOOK FOR	verb
+2520	to gaze, look at	1819	LOOK	verb
+2521	joint, point of connection between bones	999	JOINT	noun
+2522	knee, shin, calf of the leg	1371	KNEE	noun
+2523	to curl up, to bend	2004	BEND	verb
+2524	handfuls			
+2525	a place on the back of the head where the hair ends; area of the breast where the ribs meet			
+2526	leg, shin, shinbone, thigh	1297	LEG	noun
+2527	(animal's) body from neck to rump			
+2528	tendon of the neck; neck	1333	NECK	noun
+2529	the upper chest that meets the collarbone			
+2530	upper part of the chest, low neckline, throat	1346	THROAT	noun
+2531	chest, especially the part between the teats, chest (of any hoofed animal); breast	1402	BREAST	noun
+2532	the top of the chest or chest from which descends a necklace or other neck adornment; chest strap (of horse etc.)			
+2533	bladder (of animals)	1746	BLADDER	noun
+2534	bladder (of a bird, sheep or fish)	1331	SHEEP	noun
+2535	musk purse			
+2536	word, phrase, language, idiom	1599	WORD	noun
+2537	jawbones (pl.)			
+2538	maxilla (jaw)			
+2539	conchal nerve of the ear; ear lobe			
+2540	tendon, sinew; muscle	1004	MUSCLE	noun
+2541	sinews			
+2542	crinis; nervus; chorda; tonus			
+2543	the entire part of the belly that surrounds the navel			
+2544	corpse, carcass	767	CORPSE	noun
+2545	cadaver			
+2546	cadaver, carrion	1770	CARCASS	noun
+2547	to be confident, at rest	168	REST	verb
+2548	to be confident			
+2549	to spread, to expand, to extend; to throw somebody down upon his face; VII. to lie, to stretch oneself	38	SPREAD OUT	verb
+2550	to buy	1869	BUY	verb
+2551	womb, uterus	804	WOMB	noun
+2552	intestins			
+2553	to be tight	3053	TIGHT	adjective
+2554	VII. to become lean, emaciated; VIII. to become poor, in want or need	2339	NEED (SOMETHING)	other
+2555	to deceive, to slander	3230	DECEIVE	verb
+2556	to slander	3641	SLANDER	verb
+2557	to bring together			
+2558	to own a share in a common fund			
+2559	to mix, to associate, to unite in company	2017	MIX	verb
+2560	to assemble, to come together	3638	ASSEMBLE (GET TOGETHER)	verb
+2561	to cut, to tear	1432	CUT	verb
+2562	to sever			
+2563	to pick, gather grapes	2148	PICK	verb
+2564	to separate, to detach, to tear	1359	SEPARATE	verb
+2565	to be spoiled			
+2566	(kind of) disease causing scales on the skin; leprosy	3624	LEPROSY	noun
+2567	a pockmark or wart	2665	WART	noun
+2568	scales on the bodies of serpents			
+2569	leper, who has scaly skin			
+2570	to be soft, moistened	1856	SOFT	adjective
+2571	to soak, moisten	2069	SOAK (VERB)	verb
+2572	crushed, loose earth			
+2573	rotten	1728	ROTTEN	adjective
+2574	to become sour; to become soft by reason of too much water	2229	BECOME SOUR	verb
+2575	to prick, to puncture	1434	STAB	verb
+2576	to pierce, to stitch	398	PIERCE	verb
+2577	to be close, to join each other	1046	SHUT	verb
+2578	thousand	1843	THOUSAND	numeral
+2579	people, clan	302	CLAN	noun
+2580	nation	789	PEOPLE	noun
+2581	to put together			
+2582	agreement, concord	3644	AGREEMENT	noun
+2583	to pierce, to stab ?	398	PIERCE	verb
+2584	punctured			
+2585	to strike hard			
+2586	to push	1452	PUSH	verb
+2587	to push, to knock down	1452	PUSH	verb
+2588	to push away			
+2589	to push, to strike	1452	PUSH	verb
+2590	to perish, to be wiped out; to push aside, to repulse	2865	DIE (FROM ACCIDENT)	verb
+2591	to be good	1035	GOOD	adjective
+2592	to be good, beautiful, to prosper, to be pleasing	1427	BEAUTIFUL	adjective
+2593	to adorn, to embellish			
+2594	to thresh; to trample	285	THRESH	verb
+2595	to smash, to grind	1033	GRIND	verb
+2596	to thresh; to trample down	285	THRESH	verb
+2597	to trample			
+2598	to tread, to trample; to thresh	285	THRESH	verb
+2599	to step on, to trample, to crush underfoot	575	TREAD	verb
+2600	to step, to open (the way)	2065	STEP (VERB)	verb
+2601	to tread, to thrash	575	TREAD	verb
+2602	to judge	1818	ADJUDICATE	verb
+2603	to pleade one’s cause			
+2604	a particular law, a statute, an ordinance, a law	1062	LAW	noun
+2605	to judge, to sentence	1818	ADJUDICATE	verb
+2606	to be lost, to perish	2865	DIE (FROM ACCIDENT)	verb
+2607	to flee, to run away at random	956	FLEE	verb
+2608	to put into, to join together			
+2609	to be well-shaped, full, complete	1429	FULL	adjective
+2610	to be sad, depressed	3973	DEPRESSED	adjective
+2611	to be angry	2223	BE ANGRY	verb
+2612	grieved			
+2613	to be very sad			
+2614	to become little, diminished ?			
+2615	misery, hardship, toil	2553	MISERY	noun
+2616	D. to oppress, to subdue			
+2617	to become little, tiny			
+2618	legs (as lower parts of body)	1297	LEG	noun
+2619	upper or inner thigh			
+2620	legs of a camel; lower body parts, ass	1862	DONKEY	noun
+2621	to crush, to pound; to be ground finely, to be fine, minute	354	POUND	verb
+2622	D. to pulverize, to crash			
+2623	tiny; fine; weak	1601	WEAK	adjective
+2624	to crush; to become fine through grinding	1520	CRUSH	verb
+2625	to break, to crush; to knock; to be thin, slender, small, minute, fine	2396	KNOCK	verb
+2626	to crush, to pound, to make fine	354	POUND	verb
+2627	to contract			
+2628	to bend over, to curl, to droop	2761	BEND (ONESELF)	verb
+2629	to draw together, shut	1046	SHUT	verb
+2630	to break off a piece			
+2631	to split, to cut	1432	CUT	verb
+2632	to trade in wine or beer	1639	BEER	noun
+2633	to brew beer			
+2634	female tavern keeper			
+2635	to tipple			
+2636	to buy wine in order to resell it			
+2637	to blunt, to trim	379	BLUNT	adjective
+2638	to blunt, to chip, to trim	379	BLUNT	adjective
+2639	to weigh	1098	WEIGH	verb
+2640	balances			
+2641	be heavy	1210	HEAVY	adjective
+2642	to weigh, measure	1098	WEIGH	verb
+2643	to watch over, to protect, to keep	1477	KEEP	verb
+2644	to protect, guard; to watch out	2900	PROTECT	verb
+2645	to watch over, to protect; to observe	2900	PROTECT	verb
+2646	to guard, to observe	1940	GUARD	noun
+2647	to load	3669	LOAD (SOMETHING)	verb
+2648	to carry, to burden	700	CARRY	verb
+2649	to journey	2393	JOURNEY	noun
+2650	to go around, to turn	1588	TURN	verb
+2651	to surround, to encircle	3274	ENCIRCLE	verb
+2652	to stack in circles; to stay permanently in one place, to dwell	363	DWELL (LIVE, RESIDE)	verb
+2653	to dwell, to stay	987	REMAIN	verb
+2654	to go round, to circle; to return	581	COME BACK	verb
+2655	to yoke, harness	14	YOKE	noun
+2656	to make ready, to yoke, harness, to attach	3894	ATTACH	verb
+2657	to harness, to yoke, to bind	2217	YOKE (VERB)	verb
+2658	to tighten, harness	1094	FASTEN	verb
+2659	to tie together, connect	1917	TIE	verb
+2660	to bandage the head			
+2661	to yoke, bind together	14	YOKE	noun
+2662	a kind of enclosure			
+2663	animal pen (?)			
+2664	(city) wall	933	WALL (OF HOUSE)	noun
+2665	dwellingplace			
+2666	house, residence; court, atrium	1252	HOUSE	noun
+2667	period, cycle	508	PERIOD	noun
+2668	long time, eternity	418	FOR A LONG TIME	other
+2669	generation			
+2670	cycle, generation			
+2671	period, age; generation	1789	AGE	noun
+2672	age, lifetime, generation	1789	AGE	noun
+2673	race, generation			
+2674	to roast	1962	ROAST (SOMETHING)	verb
+2675	to suspend, weigh out, balance			
+2676	shekel (unit of weight)			
+2677	to carry weigh, to weigh	1098	WEIGH	verb
+2678	to be heavy	1210	HEAVY	adjective
+2679	to suspend, to weigh	1098	WEIGH	verb
+2680	to have	773	HAVE	verb
+2681	presence, existence			
+2682	birth-mark, mole	1907	MOLE	noun
+2683	mark, mole, wart	1907	MOLE	noun
+2684	mole; sign (any black sign seen on earth)	1907	MOLE	noun
+2685	to mention, to remember	707	REMEMBER	verb
+2686	to declare, to name, to invoke	1405	NAME	noun
+2687	to remember	707	REMEMBER	verb
+2688	to remember, recall, mention	707	REMEMBER	verb
+2689	to be pure	1147	PURE	adjective
+2690	to become clean, clear	989	CLEAR	adjective
+2691	to be thin	2308	THIN	adjective
+2692	to become thin			
+2693	fine, thin	2308	THIN	adjective
+2694	thinness			
+2695	to make thin			
+2696	a cripple	3621	DISABLED PERSON	noun
+2697	to cut a stick			
+2698	bed	1663	BED	noun
+2699	to be an outsider, to be strange, foreign	109	FOREIGN	adjective
+2700	to dislike, to hate, to avoid	1607	HATE	verb
+2701	to visit	1377	VISIT	verb
+2702	to prepare perfume			
+2703	to mix perfume			
+2704	to prepare, mix spiced ointment	2909	PREPARE	verb
+2705	to be in peace			
+2706	peace	1338	PEACE	noun
+2707	to be well, feel well, be in peace	954	WELL	noun
+2708	redemption, ransom			
+2709	to wish, to desire	2117	DESIRE	verb
+2710	need, want, request; purpose; business activity, enterprise	1784	WANT	verb
+2711	ornament, splendor	917	ORNAMENT	noun
+2712	will, thing	738	THING	noun
+2713	a youth			
+2714	to manifest passionate love or desire	2960	LONGING (WISH)	noun
+2715	to set out, to depart	1752	LEAVE	verb
+2716	to get up, to rise; to set out, to depart, to leave	1752	LEAVE	verb
+2717	to go, leave, depart	695	GO	verb
+2718	to follow	1085	FOLLOW	verb
+2719	to cover	761	COVER	verb
+2720	to cover, to close	761	COVER	verb
+2721	bandage			
+2722	husk; sheath	3424	SHEATH	noun
+2723	(pu.) to be covered (with precious stones); to fall into a swoon, (hitpa.) to wrap oneself up; to become faint			
+2724	to put in a sheath			
+2725	to soak, to immerse	2069	SOAK (VERB)	verb
+2726	to soak, irrigate (a field); to bathe, soak (an object)	138	BATHE	verb
+2727	to dye, to colour, to dip, to immerse	157	DYE	verb
+2728	to be thick, dense	2239	DENSE	adjective
+2729	to be thick	1244	THICK	adjective
+2730	wellbeing, opulence			
+2731	to have little (or no) intelligence			
+2732	tangled, confused, dense	2239	DENSE	adjective
+2733	épais (thick)			
+2734	to be dark, covered	706	DARK	adjective
+2735	to be dark, dim	706	DARK	adjective
+2736	to cover, to conceal, to come upon, to come over	761	COVER	verb
+2737	to be tied, girded			
+2738	a strap in the leathern waterbag			
+2739	to hold, to restrain	1448	HOLD	verb
+2740	to hold back, to withhold			
+2741	to keep back			
+2742	a kind of slime			
+2743	(green) dry mucus, nasal discharge			
+2744	to provide with a headdress, to put a covering on someone's head			
+2745	kind of garment			
+2746	to cover, to veil, to hide; to forgive	2486	HIDE	verb
+2747	film, chaff	2363	CHAFF (HUSK)	noun
+2748	membrane, film	216	MOVIE	noun
+2749	chaff, refuse that is taken forth from wheat	2363	CHAFF (HUSK)	noun
+2750	to clean, to clear the wheat	2235	CLEAN (SOMETHING)	verb
+2751	to be obscure, black	163	BLACK	adjective
+2752	to become obscured (of heavenly bodies), to become eclipsed; to be worried, disturbed, restless			
+2753	to act perfidiously, to break a compact; to remain, to lag behind; to be(come) dark (of the night)	987	REMAIN	verb
+2754	to honour			
+2755	to fear (deity), to show respect, to be in awe	1419	FEAR (BE AFRAID)	verb
+2756	to honour, to adorn			
+2757	collar, yoke	14	YOKE	noun
+2758	to detain, keep waiting			
+2759	collar; ring (an ornament)	2012	COLLAR	noun
+2760	to put a ring or a collar of iron upon the neck or manacle on the hand			
+2761	a ring or collar of iron, which is put upon the neck	1374	RING	noun
+2762	frond, leaf, foliage	628	LEAF	noun
+2763	leaves of the grapevine			
+2764	to take by force			
+2765	to take wrongfully, unjustly, injuriously or by force			
+2766	to be dry	1398	DRY	adjective
+2767	dry	1398	DRY	adjective
+2768	to dry up	1786	DRY UP	verb
+2769	to bind	1917	TIE	verb
+2770	to collect, to gather, to search	7	GATHER	verb
+2771	woman gathering straw			
+2772	to search out			
+2773	to rake up, to sweep up			
+2774	to take away, to deprive someone (of a physical facility)			
+2775	to take away			
+2776	impeded			
+2777	to gather, to heap up	7	GATHER	verb
+2778	everything by which a bed of a stream can be blocked in any place where it is stopped			
+2779	to gather, to collect	7	GATHER	verb
+2780	to pull, to drag	1455	PULL	verb
+2781	road, path	2457	PATH OR ROAD	noun
+2782	to drag away			
+2783	to drag	2030	DRAG	verb
+2784	to drag, to draw, to pull	1455	PULL	verb
+2785	to plough	1921	PLOUGH	verb
+2786	clod of earth			
+2787	to plough, to prepare land for sowing	1921	PLOUGH	verb
+2788	to walk, to go away	1443	WALK	verb
+2789	to move	765	MOVE	verb
+2790	to go, to rove, to wander	695	GO	verb
+2791	to drive, to follow; to help	1897	HELP	verb
+2792	to take along, escort persons; to send; to guide, control, oversee	1127	SEND	verb
+2793	to walk, to run, to lead, to flow	1443	WALK	verb
+2794	to strengthen, to support; to help, to aid	1897	HELP	verb
+2795	give aid, help, come to rescue	1897	HELP	verb
+2796	to add, to increase	1041	INCREASE	verb
+2797	to increase, to exceede	1041	INCREASE	verb
+2798	to pay interest			
+2799	to be bound, attached; to hang	2884	HANG	verb
+2800	phthisis			
+2801	to love a thing, to be attached to it; to bind, to hang	2884	HANG	verb
+2802	to protect, guard	2900	PROTECT	verb
+2803	brave	3	BRAVE	adjective
+2804	order, decision (divine)	1128	ORDER	verb
+2805	rite, ritual; divine authority; authoritative decision, command, decree	1998	COMMAND	verb
+2806	a thing made obligatory or binding by God			
+2807	to write	1672	WRITE	verb
+2808	civil servant, office holder, administrator			
+2809	deed, document			
+2810	enclosed area			
+2811	tower; fortified area	1671	TOWER	noun
+2812	to heap up, to accumulate	1576	PILE UP	verb
+2813	to heap up, to pile up	1576	PILE UP	verb
+2814	to heap, to accumulate	1576	PILE UP	verb
+2815	to rise up; to plant; to impale	1486	PLANT (SOMETHING)	verb
+2816	to rise up; to suspend, hang	705	GO UP (ASCEND)	verb
+2817	to cover, to wrap, to make obscure, invisible	761	COVER	verb
+2818	to be evasive			
+2819	to put a sword in a sheath or scabbard	3424	SHEATH	noun
+2820	to mix, to stir	2017	MIX	verb
+2821	to decoct			
+2822	(hop. part.) mixed			
+2823	to mix, to mingle	2017	MIX	verb
+2824	hand-mill, millstone	2459	GRINDSTONE	noun
+2825	grinding slab, handmill			
+2826	(du.) millstone	2459	GRINDSTONE	noun
+2827	mill, millhouse, millstone	636	MILL	noun
+2828	mill, millstone	636	MILL	noun
+2829	to tread, to trample; to kick	1135	KICK	verb
+2830	to kick, to strike with a leg; to run	1519	RUN	verb

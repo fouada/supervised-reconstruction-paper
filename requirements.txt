@@ -18,7 +18,7 @@ joblib==1.1.0
 kiwisolver==1.4.2
 latexcodec==2.0.1
 lexibase==0.1.0
-lingpy==2.6.9
+lingpy==2.6.13
 lingrex==1.2.0
 matplotlib==3.5.1
 networkx==2.7.1

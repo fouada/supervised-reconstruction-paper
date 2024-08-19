@@ -37,9 +37,10 @@ if len(argv) >= 2:
         clf = CorPaRClassifier
         onehot = False
         classifier = "corpar"
-RUNS = 100
+RUNS = 10
 
 datasets = [
+        ("Semitic", "ps"),
         ("Burmish", "ProtoBurmish"),
         ("Purus", "ProtoPurus"),
         ("Karen", "ProtoKaren"),
@@ -60,33 +61,36 @@ methods = [
         ("PosStrIni", align_psf),
         ]
 
+proportions = ['0.1','0.5','0.8']
 
-for ds, proto in datasets:
-    print("[i] analyzing {0}".format(ds))
-    for i in range(RUNS):
-        print("[i] analyzing {0} test {1}".format(ds, i+1))
-        wlpath = str(Path(
-            "results", "testlists", ds, "test-{0}.tsv".format(i+1)))
-        with open(Path(
-            "results", "testitems", ds, "test-{0}.json".format(i+1))) as f:
-            tests = json.load(f)
-        for meth_name, meth in methods:
-            res_path = Path(
-                "results", classifier, ds+"-"+meth_name+"-"+str(i+1)+".tsv")
-            if not res_path.exists():
-                pt = PatternReconstructor(
-                        wlpath, ref="cogid", fuzzy=False, target=proto)
-                pt.fit(clf=clf(), func=meth, onehot=onehot, aligned=False)
-                results = []
-                for cogid, target, alignment, languages in tests:
-                    results += [[
-                        pt.predict(
-                            alignment,
-                            languages),
-                        target]]
-                with open(res_path, "w") as f:
-                    for a, b in results:
-                        f.write(" ".join(a)+"\t"+" ".join(b)+"\n")
-            else:
-                print("Skipping existing analysis.")
+for prop in proportions:
+    for ds, proto in datasets:
+        print("[i] analyzing {0}".format(ds))
+        for i in range(RUNS):
+            print("[i] analyzing {0} test {1}".format(ds, i+1))
+            wlpath = str(Path(
+                "data", f"data-{prop}", "testlists", ds, "test-{0}.tsv".format(i+1)))
+            with open(Path(
+                "data", f"data-{prop}", "testitems", ds, "test-{0}.json".format(i+1))) as f:
+                tests = json.load(f)
+            for meth_name, meth in methods:
+                res_path = Path(
+                    "results", f"split-{prop}", classifier, ds+"-"+meth_name+"-"+str(i+1)+".tsv")
+                if not res_path.exists():
+                    res_path.parent.mkdir(parents=True, exist_ok=True)
+                    pt = PatternReconstructor(
+                            wlpath, ref="cogid", fuzzy=False, target=proto)
+                    pt.fit(clf=clf(), func=meth, onehot=onehot, aligned=False)
+                    results = []
+                    for cogid, target, alignment, languages in tests:
+                        results += [[
+                            pt.predict(
+                                alignment,
+                                languages),
+                            target]]
+                    with open(res_path, "w") as f:
+                        for a, b in results:
+                            f.write(" ".join(a)+"\t"+" ".join(b)+"\n")
+                else:
+                    print("Skipping existing analysis.")
 

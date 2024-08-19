@@ -1,0 +1,2831 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_dog,dog,2009,DOG
+2_all,all,98,ALL
+3_allthewholeeveryone,"all, the whole; everyone",98,ALL
+4_alleverysomuch,"all, every; so much",98,ALL
+5_allanyone,"all, anyone",98,ALL
+6_toassemble,to assemble,3638,ASSEMBLE (GET TOGETHER)
+7_toassembletocongregatetogathercollect,"to assemble, to congregate; to gather, collect",7,GATHER
+8_assembly,assembly,,
+9_wholetotality,"whole, totality",2277,WHOLE
+10_banquet,banquet,,
+11_toboasttoglory,"to boast, to glory",101,BOAST
+12_ashecamelgreatintheudderbuthavinglittlemilkapalmtreegreatinthetrunkthickinthebranchesahousegreatintheyardandlongtherein,"a shecamel great in the udder, but having little milk; a palmtree great in the trunk, thick in the branches; a house great in the yard and long therein",,
+13_toengagetobetrothtoespouse,"to engage, to betroth, to espouse",,
+14_tobite,to bite,1403,BITE
+15_tobitetoinciteprovoke,"to bite; to incite, provoke",1403,BITE
+16_toundotountwisttodissolvetobreakacovenant,"to undo, to untwist; to dissolve, to break a covenant",,
+17_blood,blood,946,BLOOD
+18_todie,to die,1494,DIE
+19_todrink,to drink,1401,DRINK
+20_todrinktobewateredtobeirrigated,"to drink, to be watered, to be irrigated",1401,DRINK
+21_toirrigatetoquenchonesthirst,"to irrigate, to quench one’s thirst",3078,IRRIGATE
+22_togivedrinktowatertoirrigate,"to give drink, to water, to irrigate",3078,IRRIGATE
+23_niphiptoprovidedrinkfortoirrigate,"(nip., hip.) to provide drink for, to irrigate",3078,IRRIGATE
+24_aphtogivedrinktoirrigate,"(aph.) to give drink, to irrigate",3078,IRRIGATE
+25_toprovideenoughwater,to provide enough water,,
+26_nailclaw,"nail, claw",72,CLAW
+27_claw,claw,72,CLAW
+28_nail,nail,1896,FINGERNAIL OR TOENAIL
+29_nailclawtalon,"nail, claw, talon",72,CLAW
+30_ear,ear,1247,EAR
+31_earbayoftheseahandleopeningofabottle,"ear, bay of the sea, handle, opening of a bottle",1247,EAR
+32_toeat,to eat,1336,EAT
+33_toconsumetodevour,"to consume, to devour",2787,CONSUME (DRINK OR EAT)
+34_toeattoconsumetoitch,"to eat, to consume; to itch",1336,EAT
+35_foodbreadgrain,"food, bread, grain",256,FOOD
+36_bread,bread,1368,BREAD
+37_grainfodder,"grain, fodder",605,GRAIN
+38_foodbreadcorn,"food, bread, corn",256,FOOD
+39_eye,eye,1248,EYE
+40_tosee,to see,1409,SEE
+41_eyeappearancelookspring,"eye, appearance, look; spring",1248,EYE
+42_eyespringbudbulbappearancesurface,"eye; spring; bud, bulb; appearance, surface",1248,EYE
+43_full,full,1429,FULL
+44_fullcoveredcomplete,"full, covered, complete",1429,FULL
+45_tofillup,to fill up,,
+46_hair,hair,1040,HAIR
+47_wool,wool,964,WOOL
+48_hairinessbodyhairhairycovering,"hairiness, body hair, hairy covering",189,HAIR (BODY)
+49_hairfeathers,hair; feathers,1040,HAIR
+50_hairofbodyorhead,hair of body or head,1256,HEAD
+51_hand,hand,1277,HAND
+52_armsideedgeborder,"arm; side; edge, border",1673,ARM
+53_forearmhandpowerviolencepossession,"forearm, hand; power, violence, possession",1277,HAND
+54_handarmforepawpower,"hand, arm, forepaw; power",1277,HAND
+55_head,head,1256,HEAD
+56_headservantslavetopsummitbeginning,"head; servant, slave; top, summit; beginning",1256,HEAD
+57_headpersonbeginningleaderchief,"head; person; beginning; leader, chief",1256,HEAD
+58_headtopsummitpointbeginning,"head; top, summit; point; beginning",1256,HEAD
+59_skull,skull,1605,SKULL
+60_skullcrown,"skull, crown",1605,SKULL
+61_partofthebackoftheneckthatisbetweentheears,part of the back of the neck that is between the ears,,
+62_tohear,to hear,1408,HEAR
+63_toheartolistentoobey,"to hear, to listen, to obey",1408,HEAR
+64_toheartoobeytounderstand,to hear; to obey; to understand,1408,HEAR
+65_tohearlistentotohearkentoobey,"to hear, listen to; to hearken; to obey",1408,HEAR
+66_heart,heart,1223,HEART
+67_heartonesinnerselfinclinationdispositionwillintentionreason,"heart; one's inner self; inclination, disposition, will, intention; reason",1223,HEART
+68_heartinsideofthebodycenterpithinsidecake,"heart, inside of the body; center, pith, inside; cake",1223,HEART
+69_whatisintheinsideunderstandingintelligencemind,"what is in the inside; understanding, intelligence, mind",1562,MIND
+70_heartmind,heart; mind,1223,HEART
+71_heartmiddleofthebody,"heart, middle of the body",1223,HEART
+72_middlecentermiddlepart,"middle, center, middle part",1093,MIDDLE
+73_thoughtwish,"thought, wish",2975,THOUGHT
+74_horn,horn,1393,HORN (ANATOMY)
+75_i,I,1209,I
+76_knee,knee,1371,KNEE
+77_kneelap,"knee, lap",1371,KNEE
+78_kneebowingdowngenuflectionmiddlepartofplow,"knee; bowing down, genuflection; middle part of plow",1371,KNEE
+79_tokneel,to kneel,66,KNEEL
+80_liver,liver,1224,LIVER
+81_emotionsthoughtmindspirit,"emotions, thought, mind, spirit",1562,MIND
+82_liveranger,liver; anger,1224,LIVER
+83_middleinterior,"middle, interior",1093,MIDDLE
+84_liverstomachbelly,"liver, stomach, belly",1224,LIVER
+85_intestinesentrails,"intestines, entrails",1991,INTESTINES
+86_liverexaminedbytheharuspexlivermodelomen,"liver (examined by the haruspex), liver model; omen",107,OMEN
+87_entrailsintestines,"entrails, intestines",1991,INTESTINES
+88_intestines,intestines,1991,INTESTINES
+89_intestine,intestine,1991,INTESTINES
+90_mouth,mouth,674,MOUTH
+91_mouthopening,mouth; opening,674,MOUTH
+92_mouthopeningfleshoffruitsharpedgeofsword,mouth; opening; flesh (of fruit); sharp edge (of sword),674,MOUTH
+93_name,name,1405,NAME
+94_namefamegloryperson,"name; fame, glory; person",1405,NAME
+95_new,new,1231,NEW
+96_newyoung,new; young,1231,NEW
+97_tocuttomakeanincision,"to cut, to make an incision",1432,CUT
+98_tochop,to chop,155,CHOP
+99_tomakeincisionsupononeself,to make incisions upon oneself,,
+100_tocutoff,to cut off,,
+101_tocuttocutoff,"to cut, to cut off",1432,CUT
+102_night,night,1233,NIGHT
+103_evening,evening,1629,EVENING
+104_toliedown,to lie down,215,LIE DOWN
+105_bone,bone,1394,BONE
+106_flankthighinnermostpartfamilyrace,"flank, thigh; innermost part; family, race",471,UPPER LEG (THIGH)
+107_earth,earth,1228,EARTH (SOIL)
+108_earthlandgroundfloorbottom,"earth, land; ground floor; bottom",1228,EARTH (SOIL)
+109_earthland,"earth, land",626,LAND
+110_soilsoftsurfaceoftheearthusedforcultivationandasabuildingmaterialsoildust,"soil; soft surface of the earth used for cultivation and as a building material (soil, dust)",1228,EARTH (SOIL)
+111_soil,soil,1228,EARTH (SOIL)
+112_dustearthsoil,"dust; earth, soil",2,DUST
+113_tobedark,to be dark,706,DARK
+114_tobetroubledblurredordark,"to be troubled, blurred or dark",706,DARK
+115_tobecloudedtobeconfused,to be clouded; to be confused,3858,CONFUSED
+116_not,not,1240,NOT
+117_nonot,"no, not",2279,NO OR NOT
+118_no,no,1269,NO
+119_one,one,1493,ONE
+120_one,one (?),1493,ONE
+121_eleven,eleven,1706,ELEVEN
+122_seed,seed,714,SEED
+123_seedoffspringdescendants,"seed; offspring, descendants",714,SEED
+124_seedsowingoffspringfamily,"seed; sowing; offspring, family",714,SEED
+125_tosow,to sow,748,SOW SEEDS
+126_tosowtocastseed,"to sow, to cast seed",748,SOW SEEDS
+127_seedgrain,"seed, grain",714,SEED
+128_tosowtoseed,"to sow, to seed",748,SOW SEEDS
+129_star,star,1430,STAR
+130_starkindofcollyrium,star; kind of collyrium,1430,STAR
+131_sun,sun,1343,SUN
+132_suntypeoflizardgold,sun; type of lizard; gold,1343,SUN
+133_tail,tail,1220,TAIL
+134_tailrearpart,"tail, rear part",1220,TAIL
+135_tailfarthestpart,tail; farthest part,1220,TAIL
+136_tailanus,"tail, anus",1220,TAIL
+137_thisthattheonewhowhichthat,"this, that; the one who/which/that",1214,THIS
+138_theonesofwhowhomhewhotheonewhowhichthatdeterminativerelativefunctormascsg,"the one(s) of; who, whom, he who; the (one) who/which/that (determinative/relative functor, masc. sg.)",1235,WHO
+139_theonesofwhowhomhewhotheonewhowhichthatdeterminativerelativefunctorfemsg,"the one(s) of; who, whom, he who; the (one) who/which/that (determinative/relative functor, fem. sg.)",1235,WHO
+140_theonesofwhowhomhewhotheonewhowhichthatdeterminativerelativefunctorpl,"the one(s) of; who, whom, he who; the (one) who/which/that (determinative/relative functor, pl.)",1235,WHO
+141_thatmanthere,that (man) there,,
+142_this,this,1214,THIS
+143_whowhichrelativepronounmascsg,"who, which (relative pronoun, masc. sg.)",1235,WHO
+144_that,that,78,THAT
+145_thismasc,this (masc.),1214,THIS
+146_thisfem,this (fem.),1214,THIS
+147_whothatwhichrelativepronounmascsg,"who, that, which (relative pronoun, masc. sg.)",1235,WHO
+148_thatmasc,that (masc.),78,THAT
+149_thisthisonemasc,"this, this one (masc.)",1214,THIS
+150_deicticelement,(deictic element),,
+151_thoumascsg,thou (masc. sg.),1215,THOU
+152_you,you,1213,YOU
+153_thou,thou,1215,THOU
+154_youmascsing,you (masc. sing.),1213,YOU
+155_yousg,you (sg.),1215,THOU
+156_thoumasc,thou (masc.),1215,THOU
+157_tongue,tongue,1205,TONGUE
+158_tonguelanguage,"tongue, language",1205,TONGUE
+159_tonguelanguagespitofland,"tongue, language, spit of land",1205,TONGUE
+160_tolick,to lick,319,LICK
+161_totastetolick,"to taste, to lick",319,LICK
+162_tooth,tooth,1380,TOOTH
+163_molartooth,molar tooth,1049,MOLAR TOOTH
+164_protuberance,protuberance,,
+165_togrowshootsbranches,"to grow shoots, branches",,
+166_toothmolar,tooth; molar,1380,TOOTH
+167_caninetooth,canine tooth,,
+168_floatingriborcartilageatthetipoftherib,floating rib or cartilage at the tip of the rib,,
+169_two,two,1498,TWO
+170_thenextday,the next day,,
+171_both,both,,
+172_water,water,948,WATER
+173_watermailsemenmenstrualfluidurine,"water; mail semen, menstrual fluid; urine",948,WATER
+174_we,we,1212,WE
+175_who,who?,1235,WHO
+176_who,who,1235,WHO
+177_bark,bark,1204,BARK
+178_skinpeelofafruit,"skin, peel (of a fruit)",763,SKIN
+179_scalescalyskintortoiseshellhuskrindbarkpeel,"scale, scaly skin, tortoise shell; husk, rind, bark, peel",1204,BARK
+180_cortexsquamaputamen,"cortex, squama, putamen",,
+181_barkshellscalepeel,"bark, shell, scale, peel",1204,BARK
+182_alqisrbarkpeel,"ˀalqišr (bark, peel)",275,PEEL
+183_topeeldecorticate,"to peel, decorticate",275,PEEL
+184_bellystomach,"belly, stomach",2114,BELLY OR STOMACH
+185_stomachbellywombbodymindheartdesireinnerorlowerside,"stomach, belly, womb, body; mind, heart, desire; inner or lower side",1223,HEART
+186_belly,belly,1251,BELLY
+187_bellystomachwombuterus,"belly, stomach; womb, uterus",1251,BELLY
+188_ventriclestomachbellyuterusstomachofanimalsespruminant,"ventricle, stomach, belly, uterus; stomach (of animals, esp. ruminant)",1251,BELLY
+189_bellystomachwombabdomeninteriorofshiparkvessel,"belly, stomach, womb, abdomen; interior (of ship, ark, vessel)",1251,BELLY
+190_fire,fire,221,FIRE
+191_fireabscessinflammation,"fire; abscess, inflammation",221,FIRE
+192_tobebrighttoshine,"to be bright, to shine",708,SHINE
+193_light,light,630,LIGHT (RADIATION)
+194_fireconflagration,"fire, conflagration",221,FIRE
+195_green,green,1425,GREEN
+196_yellowgreenasanaturalcolor,"yellow, green (as a natural color)",1424,YELLOW
+197_yellow,yellow,1424,YELLOW
+198_greengreenery,"green, greenery",1425,GREEN
+199_greenishpalegreen,"greenish, palegreen",,
+200_greenlividherbsvegetableseggyolk,"green, livid; herbs, vegetables; egg yolk",1425,GREEN
+201_ashcolored,ashcolored,,
+202_leaf,leaf,628,LEAF
+203_silvercoins,silver coins,,
+204_gold,gold,1369,GOLD
+205_strawgrass,"straw, grass",606,GRASS
+206_herbgrassvegetationstraw,"herb, grass, vegetation, straw",606,GRASS
+207_toknow,to know,3626,KNOW
+208_knowingsomeoneexpertwisecompetentlearnedacquaintancepersonknown,"knowing someone, expert, wise,competent, learned; acquaintance, person known",698,WISE
+209_toknowtodiscernrecognizetocohabitwith,"to know; to discern, recognize; to cohabit with",3626,KNOW
+210_idonotknowperhapsprobably,"I do not know; perhaps, probably",2278,PERHAPS
+211_tomakeknowinform,"to make know, inform",,
+212_moon,moon,1313,MOON
+213_moonnewmoonmonth,"moon, new moon; month",1313,MOON
+214_month,month,1370,MONTH
+215_moonmonth,"moon, month",2463,MOON OR MONTH
+216_acharacteristicsuchasbrilliance,(a characteristic such as brilliance),,
+217_littlemoonsasamuletsorjewelry,little moons (as amulets or jewelry),,
+218_thenewmoonwhenitappears,"the new moon, when it appears",3691,NEW MOON
+219_moonfirstdayofthemonth,"moon, first day of the month",1313,MOON
+220_nose,nose,1221,NOSE
+221_nosetipcrownendrindedgespurofland,"nose; tip, crown, end, rind, edge; spur of land",1221,NOSE
+222_root,root,670,ROOT
+223_rootbasefoundation,"root, base, foundation",670,ROOT
+224_originsourceroot,"origin, source, root",670,ROOT
+225_smallthornytrees,small thorny trees,,
+226_smallthornytree,small thorny tree,,
+227_stone,stone,857,STONE
+228_rockstonegemsmallbuilding,"rock, stone, gem; small building",857,STONE
+229_tree,tree,906,TREE
+230_treetimberlumberwoodaromaticwoodwoodedarea,"tree; timber, lumber, wood; aromatic wood; wooded area",906,TREE
+231_treeshrubbushwoodstickstaffofspear,"tree, shrub, bush; wood; stick, staff (of spear)",906,TREE
+232_woman,woman,962,WOMAN
+233_wife,wife,1199,WIFE
+234_womanwife,"woman, wife",962,WOMAN
+235_femalefeminine,"female, feminine",1551,FEMALE
+236_womanwifefemale,"woman, wife, female",962,WOMAN
+237_mansonlord,man; son; lord,1554,MAN
+238_son,son,1620,SON
+239_man,man,1554,MAN
+240_bird,bird,937,BIRD
+241_divinationfrombirdsaugury,"divination from birds, augury",,
+242_birdbirdsinsectnameofastar,"bird, birds; insect; name of a star",937,BIRD
+243_todivinebyobservingtheflightofbirds,to divine by observing the flight of birds,,
+244_tostrikebeat,"to strike, beat",353,STRIKE
+245_tohittowoundtostrike,"to hit, to wound, to strike",1433,HIT
+246_tokill,to kill,1417,KILL
+247_weaver,weaver,3637,WEAVER
+248_tosmash,to smash,,
+249_tostriketoknock,"to strike, to knock",353,STRIKE
+250_tosmitetocuttodestroy,"to smite, to cut, to destroy",1432,CUT
+251_tobegood,(to be) good,1035,GOOD
+252_goodsweetfresharomaticbenevolent,"good, sweet, fresh, aromatic, benevolent",1035,GOOD
+253_good,good,1035,GOOD
+254_goodmerrypleasantinorderusable,"good; merry; pleasant; in order, usable",1035,GOOD
+255_goodvaluablepreciouscostworth,"good; valuable, precious; cost, worth",1035,GOOD
+256_pleasantdelightfuldelicioussweet,"pleasant, delightful, delicious, sweet",717,SWEET
+257_togotoandfro,to go to and fro,,
+258_toprowltomakeonesroundstoturnabout,"to prowl, to make one’s rounds, to turn about",,
+259_togive,to give,1447,GIVE
+260_tobelong,to be long,1203,LONG
+261_longtall,"long, tall",1203,LONG
+262_lenght,lenght,,
+263_long,long,1203,LONG
+264_longextendinglonglasting,"long, extending; longlasting",1203,LONG
+265_tokeepinaplacetoremaintocontinue,"to keep in a place, to remain, to continue",987,REMAIN
+266_neck,neck,1333,NECK
+267_neckhumpofcamelmountainridge,"neck, hump of camel; mountain ridge",1333,NECK
+268_sideoftheneckbankofariver,side of the neck; bank of a river,,
+269_tosit,to sit,1416,SIT
+270_tositdownphysicallytoresideandlivesomewhere,to sit down physically; to reside and live somewhere,,
+271_tositdowntosittodwell,"to sit down, to sit; to dwell",1416,SIT
+272_tosittoremaintoinhabittosettle,to sit; to remain; to inhabit; to settle,1416,SIT
+273_tojump,to jump,1829,JUMP
+274_totakeawifetomarry,"to take a wife, to marry",203,MARRY
+275_towalk,to walk,1443,WALK
+276_togotomovetoproceed,to go; to move; to proceed,695,GO
+277_togowalk,"to go, walk",695,GO
+278_togobackreturnpatowalk,"to go back, return; (pa.) to walk",581,COME BACK
+279_toperishtobecomeinabadstatetodie,"to perish, to become in a bad state; to die",1494,DIE
+280_day,day,1225,DAY (NOT NIGHT)
+281_today,today,1283,TODAY
+282_lion,lion,1386,LION
+283_lioness,lioness,,
+284_tobesimilar,to be similar,1558,SIMILAR
+285_equalamountequivalent,"equal amount, equivalent",,
+286_tosteal,to steal,713,STEAL
+287_tostealtoactasathief,to steal; to act as a thief,713,STEAL
+288_tobedarkblack,"to be dark, black",163,BLACK
+289_blackdark,"black, dark",163,BLACK
+290_darkness,darkness,11,DARKNESS
+291_gloom,gloom,,
+292_tooppresswrongtoaccusefalsely,"to oppress, wrong; to accuse falsely",401,OPPRESS
+293_toactwrongfullyivtobecomedark,"to act wrongfully, IV. to become dark",,
+294_toreach,to reach,1387,ARRIVE
+295_tobesufficienttobeequaltotoamounttodtomakereachto,"to be sufficient, to be equal to, to amount to, (D) to make reach to",,
+296_tocome,to come,1446,COME
+297_tomeettoruninto,"to meet, to run into",1831,MEET
+298_toreachtomeettofind,"to reach, to meet, to find",719,FIND
+299_toarrivereachtohappen,"to arrive, reach; to happen",1387,ARRIVE
+300_fatoil,"fat, oil",2551,ORGANIC FAT OR OIL
+301_oilfat,"oil, fat",323,FAT (ORGANIC SUBSTANCE)
+302_fatvegetableoil,fat; vegetable oil,323,FAT (ORGANIC SUBSTANCE)
+303_vegetableoilfat,vegetable oil; fat,323,FAT (ORGANIC SUBSTANCE)
+304_fat,fat,323,FAT (ORGANIC SUBSTANCE)
+305_clarifiedbutter,(clarified) butter,1245,BUTTER
+306_toteartopiercetobore,"to tear, to pierce, to bore",1501,BORE
+307_todeflowertorape,to deflower; to rape,953,RAPE
+308_toborethrough,to bore through,,
+309_topiercetomakeahole,"to pierce, to make  a hole",398,PIERCE
+310_topiercetobore,"to pierce, to bore",1501,BORE
+311_todisjointoseparate,"to disjoin, to separate",1359,SEPARATE
+312_husbandorman,husband or man,1554,MAN
+313_husband,husband,1200,HUSBAND
+314_manhumanbeinghusband,"man, human being, husband",1554,MAN
+315_menpersons,"men, persons",1554,MAN
+316_tobelow,to be low,721,LOW
+317_tobenddownstoopplungeoneself,"to bend down, stoop, plunge oneself",,
+318_tobecomelowgodeep,"to become low, go deep",,
+319_tobelowdepressed,"to be low, depressed",3973,DEPRESSED
+320_plain,plain,652,PLAIN
+321_tobehightogrow,"to be high, to grow",479,GROW
+322_togrowinsizeorage,to grow (in size or age),479,GROW
+323_togrowold,to grow old,,
+324_tobreak,to break,680,BREAK (DESTROY OR GET DESTROYED)
+325_tobevictorioustovanquish,"to be victorious, to vanquish",,
+326_tobreaktodemolishtomakeagap,"to break, to demolish; to make a gap",680,BREAK (DESTROY OR GET DESTROYED)
+327_toviolatetobreaktofrustrate,"to violate, to break, to frustrate",680,BREAK (DESTROY OR GET DESTROYED)
+328_toentrusttorely,"to (en)trust, to rely",3902,TRUST (SOMEBODY)
+329_totrust,to trust,3902,TRUST (SOMEBODY)
+330_overseerpersoninchargeofagroupofsoldiersworkersorcraftsmen,"overseer (person in charge of a group of soldiers, workers or craftsmen)",,
+331_tobelievetobesure,"to believe, to be sure",1890,BELIEVE
+332_iitoappointasonesdeputy,II. to appoint as one’s deputy,,
+333_fidereconfideretotrustbelieveconfide,"fidere, confidere (to trust, believe, confide)",1890,BELIEVE
+334_confisusfretusrelyingdependingtrusting,"confisus, fretus (relying, depending, trusting)",,
+335_sea,sea,1474,SEA
+336_seaoceanlake,"sea, ocean, lake",624,LAKE
+337_primordialoceanabyss,"primordial ocean, abyss",,
+338_primaevaloceanprimaevalfloodflooddeluge,"primaeval ocean, primaeval flood; flood, deluge",613,HIGH TIDE
+339_waveseaabyss,wave; sea; abyss,1474,SEA
+340_acertainlandextendingtotheseatihameh,a certain land ... extending to the sea (Tihámeh),,
+341_leg,leg,1297,LEG
+342_thigh,thigh,471,UPPER LEG (THIGH)
+343_foot,foot,1301,FOOT
+344_tobefullofforearmvesseltobefullformedthickofwoman,"to be full (of forearm, vessel); to be fullformed, thick (of  woman)",1429,FULL
+345_jugularveintrachea,"(jugular) vein, trachea",1924,VEIN
+346_gullet,gullet,,
+347_trachealarynxthroat,"trachea, larynx, throat",1346,THROAT
+348_thelargebloodvesseljugularvein,"the large blood vessel, jugular vein",,
+349_arteryveinstemtrunk,"artery, vein; stem, trunk",1924,VEIN
+350_veineveinejugulairedechaquecoteducouveinjugularveinoneithersideoftheneck,veine; veine jugulaire (de chaque côté du cou) (vein; jugular vein (on either side of the neck),,
+351_toshaketomovetojump,to shake; to move; to jump,1829,JUMP
+352_todisappeartoceasetoexist,to disappear; to cease to exist,485,DISAPPEAR
+353_tosliptomoveaway,to slip; to move away,1324,SLIP
+354_toputinthestateofagitation,to put in the state of agitation,,
+355_togoawaytodeparttopassawaytoshift,to go away; to depart; to pass away; to shift,1752,LEAVE
+356_tomovebeshakentoswingtobeagitated,to move; be shaken; to swing; to be agitated,765,MOVE
+357_frontpartofbodychestbellyinterior,"(front part of) body; chest, belly; interior",1251,BELLY
+358_figureshape,"figure, shape",3747,SHAPE
+359_back,back,1291,BACK
+360_bodycorpse,"body, corpse",1480,BODY
+361_intestinaviscera,"intestina, viscera",,
+362_breast,breast,1402,BREAST
+363_insideinterior,inside; interior,1606,INSIDE
+364_tohaveabreastdisease,to have a breast disease,,
+365_areabetweenthethighslap,"area between the thighs, lap",3263,LAP
+366_tobesteadfastsurereliable,"to be steadfast, sure, reliable",509,CERTAIN
+367_tobefirminplacetoremainstationarytobereliablecorrect,"to be firm in place, to remain stationary, to be reliable, correct",1725,CORRECT (RIGHT)
+368_yes,yes,1268,YES
+369_correctrightcertain,"correct, right, certain",1019,RIGHT
+370_tofumigate,to fumigate,,
+371_smoke,smoke,778,SMOKE (EXHAUST)
+372_tomakeasacrificetogoupinsmoke,"to make a sacrifice, to go up in smoke",,
+373_toexhaleascenttosmoke,to exhale a scent; to smoke,1689,SMOKE (INHALE)
+374_aloewoodwithwhichonefumigates,aloewood with which one fumigates,,
+375_toseetolooktoobserve,"to see, to look, to observe",1409,SEE
+376_toseebehold,"to see, behold",1409,SEE
+377_todivinefromtheflightofbirds,to divine from the flight of birds,,
+378_vesselreceptacle,"vessel, receptacle",,
+379_beweglichehabemoveableproperty,bewegliche Habe (moveable property),,
+380_vesseltoolsequipment,"vessel; tools, equipment",1361,TOOL
+381_shipsfleet,"ships, fleet",,
+382_vessel,vessel,,
+383_port,port,610,PORT
+384_vesselutensilinstrument,"vessel, utensil, instrument",1361,TOOL
+385_tobemassivecompactheavy,"to be massive, compact, heavy",1210,HEAVY
+386_etptobedrawntogetherpressedtogether,"(etp.) to be drawn together, pressed together",,
+387_tobehardstrong,"to be hard, strong",785,STRONG
+388_bee,bee,665,BEE
+389_togodown,to go down,2014,GO DOWN (DESCEND)
+390_togoout,to go out,1107,GO OUT
+391_offspringdescendant,"offspring, descendant",490,DESCENDANTS
+392_tosproutgrowtoexist,"to sprout, grow; to exist",2076,SPROUT (VERB)
+393_originrootstockabundanceofoffspring,"origin, root, stock; abundance of offspring",670,ROOT
+394_shoots,shoots,,
+395_wombcompassionpitykindness,"womb; compassion, pity, kindness",804,WOMB
+396_wombpitycompassionmercy,"womb; pity, compassion, mercy",804,WOMB
+397_womb,womb,804,WOMB
+398_uteruswomb,"uterus, womb",804,WOMB
+399_tobecompassionate,to be compassionate,,
+400_totakepitytohavemercy,"to take pity, to have mercy",,
+401_qalpitolovetomeetsomeonewithlovetotakepityonsomeone,"(qal, pi.) to love, to meet someone with love, to take pity on someone",,
+402_afeelingoflovelovingsensationmercy,"a feeling of love, loving sensation, mercy",,
+403_tohavemercypitycompassion,"to have mercy, pity, compassion",1141,PITY
+404_togoup,to go up,705,GO UP (ASCEND)
+405_high,high,1265,HIGH
+406_togouprisetoattackassailjumplaunchoneselfupon,"to go up, rise; to attack, assail, jump, launch oneself (upon)",705,GO UP (ASCEND)
+407_toascendgoup,"to ascend, go up",705,GO UP (ASCEND)
+408_patoexalttoraiseup,(pa.) to exalt; to raise up,,
+409_tobebecomehigh,"to be, become high",1579,BE
+410_wildanimal,wild animal,958,WILD ANIMAL
+411_opencountrywilduncultivatedplace,"open country, wild, uncultivated place",2230,UNTAMED OR WILD
+412_mountainopencountry,mountain; open country,639,MOUNTAIN
+413_pastureopenfieldsfieldarableland,"pasture, open fields; field, arable land",212,FIELD
+414_tobedifferenttobelate,to be different; to be late,425,BE LATE
+415_todelaytotarrybedelayedtobeoutstanding,"to delay;  to tarry, be delayed; to be outstanding",425,BE LATE
+416_tobebehindpitodelaytodetain,"to be behind; pi  to delay, to detain",1686,BEHIND
+417_anotherlaterfollowing,"another; later, following",197,OTHER
+418_iitodelaypostponetomakesmbretreattobelategoback,"II. to delay, postpone; to make smb retreat; to be late; go back",425,BE LATE
+419_tobehightall,"to be high, tall",711,TALL
+420_togrowthicklyabundantly,"to grow thickly, abundantly",,
+421_tobehighlofty,"to be high, lofty",1265,HIGH
+422_tobenaked,to be naked,590,NAKED
+423_tobenakedunrigged,"to be naked, unrigged",590,NAKED
+424_tosnore,to snore,1983,SNORE
+425_whale,whale,957,WHALE
+426_amarineanimal,a marine animal,,
+427_toliedowntorestmostlyofanimals,"to lie down, to rest (mostly of animals)",215,LIE DOWN
+428_toliedowntobeatpeacetolurk,to lie down; to be at peace; to lurk,215,LIE DOWN
+429_torestliedown,"to rest, lie down",168,REST
+430_toliedownrestofanimalsmostlyofanimalstolurk,"to lie down, rest (of animals) (mostly of animals); to lurk",215,LIE DOWN
+431_toliedownanimals,to lie down (animals),215,LIE DOWN
+432_tobesilent,to be silent (?),48,BE SILENT
+433_tobeatrest,to be at rest,,
+434_rest,rest,168,REST
+435_tofall,to fall,1280,FALL
+436_tobesilent,to be silent,48,BE SILENT
+437_tobequiet,to be quiet,1314,QUIET
+438_tolieatresttokeepquiet,"to lie at rest, to keep quiet",,
+439_toencamptolodgetorest,"to encamp, to lodge, to rest",168,REST
+440_road,road,667,ROAD
+441_waypath,"way, path",2252,PATH
+442_footsteptrace,"footstep, trace",318,FOOTPRINT
+443_placesitelocation,"place, site, location",723,PLACE (POSITION)
+444_whothatwhichrelativeparticlethatsothat,"who, that, which (relative particle); that, so that",1235,WHO
+445_place,place,723,PLACE (POSITION)
+446_remainrelictrace,"remain, relic, trace",987,REMAIN
+447_pathtracetrackfootprint,"path, trace, track, footprint",2252,PATH
+448_tolookfortosearchtoexamine,to look for; to search; to examine,1468,LOOK FOR
+449_tolookfortosearchfor,"to look for, to search for",1468,LOOK FOR
+450_torevealtoshow,"to reveal, to show",1039,SHOW
+451_toenquire,to enquire,,
+452_toexaminesearchspy,"to examine, search, spy",1468,LOOK FOR
+453_tostriveafterpursuedesiretorequest,"to strive after, pursue, desire; to request",1047,PURSUE
+454_toseektodesire,"to seek, to desire",2117,DESIRE
+455_infrontofbefore,"in front of, before",1883,IN FRONT OF
+456_front,front,2194,FRONT (PART)
+457_infrontof,in front of,1883,IN FRONT OF
+458_infronteastbeforeearlierinoldendays,"in front; east; before, earlier, in olden days",1882,BEFORE
+459_beforeinthepresenceof,before; in the presence of,1882,BEFORE
+460_beforeinfrontof,"before, in front of",1882,BEFORE
+461_lord,lord,3153,LORD
+462_lady,lady,2471,LADY
+463_asynonymforlordmaster,"(a synonym for lord, master)",383,MASTER
+464_lordowner,"lord, owner",1036,OWNER
+465_husbandlandownercitizen,"husband; landowner, citizen",1200,HUSBAND
+466_ownerhusband,"owner, husband",1200,HUSBAND
+467_ownerlord,"owner, lord",1036,OWNER
+468_ownerpossessormaster,"owner, possessor; master",1036,OWNER
+469_,?,,
+470_tobegin,to begin,1806,BEGIN
+471_torelease,to release,1095,LET GO OR SET FREE
+472_toletloose,to let loose,,
+473_toloosen,to loosen,1933,LOOSEN
+474_tothrowofftoremove,"to throw off, to remove",,
+475_topardontoabsolvetoforgive,"to pardon, to absolve, to forgive",1528,FORGIVE
+476_toburn,to burn,2102,BURN
+477_tosetafiretokindletoburn,"to set afire, to kindle, to burn",2102,BURN
+478_toburntoburnup,"to burn, to burn up",2102,BURN
+479_tobe,to be,1579,BE
+480_tochangetoturninto,"to change, to turn into",1264,CHANGE
+481_tobecometolie,"to become, to lie",1990,BECOME
+482_tocometopasstooccurtobetobecome,"to come to pass, to occur, to be, to become",1579,BE
+483_tobetoendurelasttobecomeresultbemade,"to be; to endure, last; to become, result, be made",1579,BE
+484_bullox,"bull, ox",1008,BULL
+485_cow,cow,1007,COW
+486_face,face,1560,FACE
+487_tofacetogoforward,"to face, to go forward",1560,FACE
+488_toturn,to turn,1588,TURN
+489_toturnaround,to turn around,1444,TURN AROUND
+490_sideregionplace,side; region; place,723,PLACE (POSITION)
+491_yardexteriorcourt,"yard, exterior court",736,YARD
+492_topassawaytovanish,"to pass away, to vanish",1494,DIE
+493_waypathside,"way, path, side",2252,PATH
+494_waypathroadcourseside,"way, path road, course, side",682,SIDE
+495_tosendaway,to send away,,
+496_tocomeintoenter,"to come in, to enter",749,ENTER
+497_settingofthesun,setting of the sun,,
+498_pledge,pledge,,
+499_sunset,sunset,2295,SUNSET
+500_toenter,to enter,749,ENTER
+501_togiveaguaranteeorpledgestandsuretyforleaveadeposit,"to give a guarantee or pledge, stand surety for, leave a deposit",,
+502_guarantorsurety,"guarantor, surety",,
+503_sunsetwest,"sunset, west",1817,WEST
+504_togoawaytodeparttohidetodisappeartobeforeignorobscure,"to go away, to depart; to hide, to disappear; to be foreign or obscure",2486,HIDE
+505_rod,rod,,
+506_stickstaff,"stick, staff",1295,STICK
+507_branch,branch,1531,BRANCH
+508_tobring,to bring,692,BRING
+509_tobringtotransport,"to bring, to transport",692,BRING
+510_tocarrytobringtotake,"to carry, to bring, to take",1749,TAKE
+511_floodthedeluge,"flood, the Deluge",613,HIGH TIDE
+512_hiptobring,(hip.) to bring,692,BRING
+513_toleadtodeilvertotranslate,to lead; to deilver; to translate,43,LEAD (GUIDE)
+514_tobebiggreattobenumerous,"to be big, great; to be numerous",1202,BIG
+515_fatthicklarge,"fat, thick, large",1244,THICK
+516_fattenedsheep,fattened sheep,,
+517_hiptomultiply,(hip.) to multiply,,
+518_strongmightymanynumerous,"strong, mighty, many, numerous",1198,MANY
+519_tobegreatbig,"to be great, big",1202,BIG
+520_honoredhonorablegloriousmagnificentfamousillustriousnobleprecious,"honored, honorable, glorious, magnificent, famous, illustrious, noble, precious",3002,PRECIOUS
+521_soulasreceptacleofvitalenergy,soul (as receptacle of vital energy),811,SOUL
+522_lifesoul,"life, soul",210,LIFE
+523_appetitbegehrenseelelebewesenmenschappetitdesiresoullivingthinghuman,"Appetit, Begehren; Seele; Lebewesen, Mensch (appetit, desire; soul; living thing; human)",811,SOUL
+524_soulspiritbreathlifeetc,"soul, spirit, breath, life, etc.",210,LIFE
+525_tosupporttoleanupon,"to support, to lean upon",,
+526_todamacanaltocover,"to dam a canal, to cover (?)",761,COVER
+527_height,height,2985,HEIGHT
+528_kindofbird,kind of bird,,
+529_roostercock,"rooster, cock",1511,ROOSTER
+530_abird,a bird,937,BIRD
+531_plnomdoiseauxfabuleuxnameoffabulousbirds,(pl.) nom d'oiseaux fabuleux (name of fabulous birds),,
+532_nameofafictiousbird,name of a fictious bird,,
+533_cattle,cattle,1153,CATTLE
+534_bulloxheadofcattlebeef,"bull, ox; (head) of cattle; beef",1008,BULL
+535_headofcattlebullockyearlingcalfyoungheadofcattle,"(head of) cattle; bullock; yearling calf, young (head of) cattle",1153,CATTLE
+536_lamb,lamb,820,LAMB
+537_sheepsheepandgoatsram,sheep; sheep and goats; ram,1331,SHEEP
+538_kindofbirdploverorcormorant,kind of bird (plover or cormorant),840,CORMORANT
+539_abirdlargevultureeagle,"a bird; large vulture, eagle",1905,EAGLE
+540_asmallpredatorymammal,a small predatory mammal,,
+541_youngdogpuppycubofawildanimal,"young dog, puppy; cub of a wild animal",74,PUPPY
+542_dogcur,"dog, cur",2009,DOG
+543_puppypuppydog,"puppy, puppydog",74,PUPPY
+544_mordresaisiraveclesdentstobitetograspwithteeth,"mordre, saisir avec les dents (to bite, to grasp with teeth)",,
+545_repairedunebeteferocelairofaferociousbeast,repaire d'une bête feroce (lair of a ferocious beast),,
+546_chat,chat,2903,CHAT (WITH SOMEBODY)
+547_kindofwildcat,kind of wild cat,,
+548_lynx,lynx,3314,LYNX
+549_wildcat,wild cat,2241,WILD CAT
+550_kindofsnakeviper,kind of snake (viper?),,
+551_viper,viper,,
+552_asnake,a snake,730,SNAKE
+553_vipereviper,vipère (viper),,
+554_adderviper,"adder, viper",,
+555_locust,locust,810,LOCUST
+556_migratorylocust,migratory locust,,
+557_crab,crab,2348,CRAB
+558_locustamarina,locusta marina,,
+559_cowheifer,"cow, heifer",1007,COW
+560_jeunetaureauyoungbull,jeune taureau (young bull),,
+561_antilope,antilope,,
+562_genisseheifer,génisse (heifer),,
+563_wildgoat,wild goat,,
+564_buckofgazelleormountaingoat,buck (of gazelle or mountain goat),2475,MALE GOAT
+565_mountaingoat,mountain goat,,
+566_kindofantelope,kind of antelope,,
+567_hare,hare,1190,HARE
+568_rabbit,rabbit,1136,RABBIT
+569_harerabbit,"hare, rabbit",1136,RABBIT
+570_birdusedfordecoy,bird used for decoy,,
+571_decoybird,decoy bird,,
+572_beeeater,beeeater,,
+573_guepieroiseaubeetreebird,guépier (oiseau) (beetree (bird),,
+574_pinionwing,"pinion, wing",1257,WING
+575_wingfin,"wing, fin",1257,WING
+576_wing,wing,1257,WING
+577_pinion,pinion,,
+578_featherlimb,feather; limb,1201,FEATHER
+579_boneoflegarmlimb,bone of leg/arm; limb,1673,ARM
+580_radiusandulnathetwobonesofthehumanforearm,radius and ulna (the two bones of the human forearm),,
+581_limbpart,"limb, part",779,PART
+582_forestwood,"forest, wood",420,FOREST
+583_woodtimber,"wood, timber",1803,WOOD
+584_grassherb,"grass, herb",606,GRASS
+585_grassherbspring,grass; herb; spring,606,GRASS
+586_growthspringgrass,"growth, spring; grass",606,GRASS
+587_springrain,spring rain,,
+588_wildgoatgazelle,(wild) goat gazelle,,
+589_gazelle,gazelle,5,GAZELLE
+590_plarawiyyarwamountaingoat,"(pl. ˀarāwiyy, ˀarwā) mountaingoat",,
+591_amythicalreptiledragon,"a mythical reptile, dragon",2038,DRAGON
+592_dragonastarwhichcoversthesunmakinganeclipselunareclipse,dragon; a star which covers the sun making an eclipse; lunar eclipse,2038,DRAGON
+593_serpentidolofbronzefieldsnake,serpentidol of bronze; field snake,,
+594_donkeymare,donkey mare,,
+595_maresheassdonkeymare,"mare; sheass, donkey mare",938,MARE
+596_donkeysheass,"donkey, sheass",1862,DONKEY
+597_sheass,sheass,,
+598_sheassass,sheass; ass,1862,DONKEY
+599_sheassdomesticorwild,"sheass, domestic or wild",2230,UNTAMED OR WILD
+600_elbowforearm,"elbow, forearm",981,ELBOW
+601_forearmcubit,forearm; cubit,446,LOWER ARM
+602_cubit,cubit,,
+603_cubitforearm,"cubit, forearm",446,LOWER ARM
+604_chestbreast,"chest, breast",1402,BREAST
+605_testiculus,testiculus,,
+606_testicle,testicle,797,TESTICLES
+607_levreduvagindelafemmewomansvaginalip,lèvre du vagin de la femme (woman's vagina lip),,
+608_testiclegenitaliaofmanandwoman,"testicle, genitalia of man and woman",797,TESTICLES
+609_locktuftofhaircurlfleece,"(lock/tuft of) hair, curl, fleece",1040,HAIR
+610_fleecelockofhairwadortuftofwool,"fleece; lock of hair, wad or tuft of wool",,
+611_pledkeetkelockofhairfringes,(pl. ˁedḳē; ˁetḳē) lock of hair; fringes,,
+612_apieceofcoloredwoolthatishungaroundtheneckofananimaltorecognizeit,a piece of colored wool that is hung around the neck of an animal to recognize it,,
+613_heel,heel,980,HEEL
+614_hockheel,"hock, heel",980,HEEL
+615_basicstemtoacceptorperformapropertytransfertosucceedtoeffectanexchangeofgoodsintensivestemtoplaceobstaclestrapstooppose,"(basic stem) to accept or perform a property transfer, to succeed, to effect an exchange of goods; (intensive stem) to place obstacles, traps, to oppose",1112,SUCCEED
+616_theverybacktheendresultwages,"the very back, the end; result, wages",1122,WAGES
+617_heelhoof,heel; hoof,980,HEEL
+618_tocomeaftersomebodytofollowtosucceed,"to come after somebody, to follow, to succeed",1085,FOLLOW
+619_toguardtowatchtokeepsafe,"to guard, to watch, to keep safe",1650,WATCH
+620_earofcorn,ear of corn,,
+621_earspike,"ear, spike",1247,EAR
+622_earspikeofcorn,"ear, spike (of corn)",1247,EAR
+623_earspikeofcorn,ear; spike of corn,1247,EAR
+624_earofcorngrain,"ear of corn, grain",605,GRAIN
+625_straw,straw,2299,STRAW
+626_thistle,thistle,,
+627_anillsmellingthornyplant,"an illsmelling, thorny plant",,
+628_redstarthistle,red starthistle,,
+629_elm,elm,3317,ELM
+630_rush,rush,2860,BOLT (MOVE IN HASTE)
+631_reedcane,"reed, cane",659,REED
+632_tamarisk,tamarisk,,
+633_aplant,(a plant),,
+634_alfa,alfa,,
+635_typeofawildpumpkincolocynth,type of a wild pumpkin; colocynth,,
+636_colocynth,colocynth,,
+637_colocynthtypeofawildpumpkin,colocynth (type of a wild pumpkin),,
+638_typeofatree,(type of a tree),,
+639_moringa,moringa,,
+640_athornyplant,(a thorny plant),,
+641_boxthornlyciumbarbarum,boxthorn (lycium barbarum),,
+642_thornyplant,thorny plant,,
+643_willow,willow,818,WILLOW
+644_abigpoplar,(a big poplar),,
+645_alargetreeterebinth,a large tree; terebinth(?),,
+646_mightytree,mighty tree,,
+647_oak,oak,644,OAK
+648_alargetreeoak,a large tree; oak(?),644,OAK
+649_akindoftree,a kind of tree,,
+650_juniper,juniper,,
+651_cypress,cypress,3243,CYPRESS
+652_cedar,cedar,3929,BRAZILIAN CEDAR
+653_resinoftamarisk,resin of tamarisk,,
+654_tobedeep,to be deep,1593,DEEP
+655_valley,valley,921,VALLEY
+656_tobecomedeeptobesunkdown,to become deep; to be sunk down,,
+657_acultivatedplantshootseedgraincerealvegetable,"a cultivated plant, shoot, seed, grain, cereal, vegetable",714,SEED
+658_malt,malt,,
+659_gardener,gardener,,
+660_plantsthatareneithertreesnorbushesgreensvegetablesallplantsthataregatheredafterbeingsown,"plants that are neither trees, nor bushes; greens, vegetables, all plants that are gathered after being sown",924,VEGETABLES
+661_plantgrassvegetation,"plant, grass, vegetation",606,GRASS
+662_wheat,wheat,1077,WHEAT
+663_ediblegrainwheatorbarley,edible grain (wheat or barley),932,BARLEY
+664_grainseed,"grain, seed",605,GRAIN
+665_totearout,to tear out,,
+666_toscrapeoff,to scrape off,1767,SCRAPE
+667_todefeat,to defeat,782,DEFEAT
+668_toseizetocarryoffbyforcetotakehastilytosnatchaway,"to seize, to carry off by force, to take hastily, to snatch away",855,SEIZE
+669_garlic,garlic,2368,GARLIC
+670_leek,leek,,
+671_analliaceousplant,(an alliaceous plant),,
+672_aplantbelongingtocucurbits,(a plant belonging to cucurbits),,
+673_melongourdcucumberamemberofthegenuscucurbitaceae,"melon, gourd, cucumber (a member of the genus Cucurbitaceae)",411,GOURD
+674_commoncucumber,common cucumber,,
+675_aplantbelongingtocucurbits,a plant belonging to cucurbits,,
+676_almondtreealmond,"almond tree, almond",3815,ALMOND
+677_figfigtree,"fig, fig tree",322,FIG
+678_figtreefig,"fig tree, fig",322,FIG
+679_jackal,jackal,3313,JACKAL
+680_jackalsgoldengods,"jackals, golden gods",,
+681_plbanatuawanjackal,(pl. banātu ˀāwān) jackal,3313,JACKAL
+682_datepalm,date palm,,
+683_datesfruitofpalm,"dates, fruit of palm",,
+684_treetrunk,"tree, trunk",906,TREE
+685_bushfruittreevine,"bush, (fruit)tree; vine",1683,BUSH
+686_fruit,fruit,1507,FRUIT
+687_clusterbunchofgrapesetc,"cluster, bunch (of grapes etc.)",1966,BUNCH
+688_bunchofgrapes,bunch of grapes,,
+689_father,father,1217,FATHER
+690_mother,mother,1216,MOTHER
+691_brother,brother,1262,BROTHER
+692_sister,sister,1263,SISTER
+693_goose,goose,1187,GOOSE
+694_duck,duck,1360,DUCK
+695_ram,ram,1344,RAM
+696_afinebreedofsheep,a fine breed of sheep,,
+697_ramofsuperiorquality,ram (of superior quality),1344,RAM
+698_stagdeer,"stag, deer",1936,DEER
+699_deer,deer,1936,DEER
+700_fallowdeer,fallow deer,,
+701_doeofafallowdeer,doe of a fallow deer,,
+702_hind,hind,,
+703_ibexmountaingoatdeer,"ibex, mountain goat; deer",1936,DEER
+704_ibexmountaingoat,"ibex, mountain goat",,
+705_weaselmouse,"weasel, mouse",1491,MOUSE
+706_weasel,weasel,3384,WEASEL
+707_mouseweasel,"mouse, weasel",1491,MOUSE
+708_kindofsh,kind of ﬁsh,,
+709_ash,a ﬁsh,,
+710_calf,calf,1989,CALF
+711_calfbullock,"calf, bullock",1989,CALF
+712_heifer,heifer,,
+713_youngbullox,"young bull, ox",1169,OX
+714_heiferyoungcow,"heifer, young cow",,
+715_bullcalf,bull calf,,
+716_calfheifer,"calf, heifer",1989,CALF
+717_taureauvieuxoldbull,taureau vieux (old bull),,
+718_anyanimalorfowl,any animal or fowl,265,FOWL
+719_daughter,daughter,1357,DAUGHTER
+720_pupiloftheeye,pupil of the eye,1658,PUPIL
+721_tobefatwellfed,"to be fat, well fed",1279,FAT (OBESE)
+722_tofatten,to fatten,,
+723_fattenedanimal,fattened (animal),,
+724_fattenedox,fattened ox,,
+725_tobeusefulforsomeone,to be useful for someone,,
+726_firstborn,firstborn,,
+727_mousejerboa,"mouse, jerboa",1491,MOUSE
+728_jerboa,jerboa,,
+729_kindofbat,(kind of) bat,1793,BAT
+730_mouse,mouse,1491,MOUSE
+731_mousemuscle,mouse; muscle,1491,MOUSE
+732_maresmurumquibusyarbunomenest,"mares murum, quibus yarbūˁ nomen est",,
+733_hyraxsyriacus,hyrax Syriacus,,
+734_leech,leech,2273,LEECH
+735_plkleinetierchendieimbrunnenlebensmallanimalsthatliveinawell,"(pl.) kleine Tierchen, die im Brunnen leben (small animals that live in a well)",,
+736_goat,goat,1502,GOAT
+737_shegoatgoatgenterm,"shegoat, goat (gen. term)",1502,GOAT
+738_caprineanimalkidgoat,"caprine animal, kid, goat",1502,GOAT
+739_shegoatfemaleofgazellefemaleeagleandvulturebustard,"shegoat, female of gazelle, female eagle and vulture, bustard",,
+740_paternaluncle,paternal uncle,3763,PATERNAL UNCLE
+741_fosterfather,foster father,,
+742_paternalaunt,paternal aunt,2175,PATERNAL AUNT
+743_wetnurse,wetnurse,,
+744_maternalaunt,maternal aunt,2693,MATERNAL AUNT (MOTHER'S SISTER)
+745_grandfatherancestorforefather,"grandfather, ancestor, forefather",1383,GRANDFATHER
+746_ancestorforefather,"ancestor, forefather",1669,ANCESTORS
+747_earthasasolidsurfaceground,earth as a solid surface (ground),,
+748_floorbottomofthesea,floor; bottom of the sea,1632,FLOOR
+749_bottomofavessel,bottom of a vessel,,
+750_mudclay,"mud, clay",640,MUD
+751_clay,clay,1399,CLAY
+752_flint,flint,,
+753_flintobsidian,"flint, obsidian",,
+754_mound,mound,,
+755_hillhillockknoll,"hill, hillock, knoll",614,HILL
+756_kindofverminworm,"kind of vermin, worm",1219,WORM
+757_aworm,(a worm),,
+758_verminingeneralpestsnoxiousinsectsaparticulartypeofflyespahorsefly,"vermin in general, pests, noxious insects(?); a particular type of fly, esp. a horsefly(?)",,
+759_culices,culices,,
+760_birdofprey,bird of prey,,
+761_eagle,eagle,1905,EAGLE
+762_hirondelle,hirondelle,,
+763_corbeau,corbeau,,
+764_river,river,666,RIVER
+765_stream,stream,947,STREAM
+766_streamcanal,"stream, canal",947,STREAM
+767_subdivisionofatribewatercourseartificialwaterchannelcanal,"subdivision of a tribe; watercourse; artificial water channel, canal",,
+768_rivervalleywadi,"river valley, wadi",,
+769_wellsourceofwater,"well, source of water",954,WELL
+770_wellholepit,"well; hole, pit",1667,HOLE
+771_well,well,954,WELL
+772_cisternpitgrave,"cistern, pit, grave",1773,GRAVE
+773_cookingpit,(cooking) pit,2539,PIT (POTHOLE)
+774_aholeduginthegroundinwhichtocookaplaceinwhichfireislighted,a hole dug in the ground in which to cook; a place in which fire is lighted,,
+775_cisternwellpit,"cistern, well, pit",954,WELL
+776_heaven,heaven,1565,HEAVEN
+777_tobreathe,to breathe,1407,BREATHE
+778_soul,soul,811,SOUL
+779_niptobreathefreelyrecover,"(nip.) to breathe freely, recover",1978,RECOVER
+780_etptogetarespite,(etp.) to get a respite,,
+781_vtobreathe,V. to breathe,,
+782_breath,breath,870,BREATH
+783_toblowwindspirit,"to blow (wind, spirit)",175,BLOW (OF WIND)
+784_rain,rain,658,RAIN (PRECIPITATION)
+785_torain,to rain,1253,RAIN (RAINING)
+786_lightning,lightning,1654,LIGHTNING
+787_thunder,thunder,1150,THUNDER
+788_nameofthestormgod,name of the Stormgod,,
+789_rainstorm,rainstorm,,
+790_snow,snow,784,SNOW
+791_adisease,(a disease),,
+792_flame,flame,889,FLAME
+793_charcoal,charcoal,1188,CHARCOAL
+794_coal,coal,2658,COAL
+795_tobehot,to be hot,1286,HOT
+796_hot,hot,1286,HOT
+797_tobecomehot,to become hot,,
+798_morning,morning,1339,MORNING
+799_warmthheat,"warmth, heat",612,HEAT
+800_heatflame,"heat, flame",889,FLAME
+801_sunlight,"sun, light",1343,SUN
+802_shadow,shadow,1388,SHADE
+803_tobecomedarkdim,"to be(come) dark, dim",706,DARK
+804_dark,dark,706,DARK
+805_dawnmorning,"dawn, morning",1339,MORNING
+806_dawn,dawn,729,DAWN
+807_year,year,1226,YEAR
+808_autumn,autumn,1276,AUTUMN
+809_autumn,autumn(?),1276,AUTUMN
+810_autumnyear,autumn; year,1226,YEAR
+811_currentyear,current year,,
+812_righthandside,right hand (side),2183,RIGHT HAND
+813_right,right,1019,RIGHT
+814_rightside,right side,1019,RIGHT
+815_lefthandside,left hand (side),2182,LEFT HAND
+816_left,left,244,LEFT
+817_lefthandside,"left hand, side",682,SIDE
+818_leftsideleft,"left side, left",244,LEFT
+819_leftsidelefthand,"left side, left hand",244,LEFT
+820_leftsidedirection,"left side, direction",244,LEFT
+821_northwind,north wind,,
+822_fatherinlaw,father-in-law,1055,FATHER-IN-LAW
+823_fatherinlaw,fatherinlaw,,
+824_motherinlaw,mother-in-law,1050,MOTHER-IN-LAW
+825_motherinlaw,motherinlaw,,
+826_tospeakaffectivelytoshout,"to speak affectively, to shout",715,SHOUT
+827_tocalltoprophesytosummontolodgeaclaimtosue,"to call; to prophesy; to summon; to lodge a claim, to sue",1084,CALL
+828_tosay,to say,1458,SAY
+829_toreviletoutterevilspeechiiitopleadindefenseofsomeone,"to revile, to utter evil speech; III. to plead in defense of someone",,
+830_tocursetoinsult,"to curse, to insult",8,CURSE
+831_sleep,sleep,1585,SLEEP
+832_dream,dream,2374,DREAM
+833_enviededormirsomnolencesommeilprofondpremiersommewanttosleepdrowsinessdeepsleepfirstslumber,"envie de dormir, somnolence; sommeil profond; premier somme (want to sleep, drowsiness; deep sleep; first slumber)",,
+834_tobemulticolored,to be multicolored,2997,COLORFUL
+835_colouredwool,coloured wool,,
+836_twocoloredfabric,twocolored fabric,,
+837_tomakearopeoftwostrandsordistinctyarnsortwists,"to make a rope of two strands, or distinct yarns or twists",,
+838_aropeinwhicharetwocolors,a rope in which are two colors,,
+839_shoot,shoot,1172,SHOOT
+840_budshoot,"bud, shoot",1172,SHOOT
+841_bud,bud,1684,BUD
+842_bull,bull,1008,BULL
+843_bullyoungcattle,"bull, young cattle",1008,BULL
+844_youngcalf,young calf,,
+845_livestockcattle,"livestock, cattle",1153,CATTLE
+846_bruteanimalabeastofburdenaherdofcattleabeastofburdenpackhorse,"brute animal, a beast of burden; a herd of cattle; a beast of burden, packhorse",,
+847_camel,camel,1871,CAMEL
+848_oxbullhornedcattle,"ox, bull, horned cattle",1008,BULL
+849_awildhoofedanimal,a wild hoofed animal,,
+850_meaningisuncertain,(meaning is uncertain),,
+851_youngofsmallcattlemalelamb,young of small cattle; (male) lamb,820,LAMB
+852_youngbullheifer,young bull; heifer,,
+853_bullsteercow,"bull, steer; cow",1007,COW
+854_lambkidorantelopecub,"lamb, kid or antelope cub",820,LAMB
+855_youngofsmallcattle,young of small cattle,,
+856_smallcattle,small cattle,,
+857_ewesmallcattle,"ewe, small cattle",1345,EWE
+858_flockssheepandgoats,flocks (sheep and goats),,
+859_flocksheepherd,flock; sheep; herd,1331,SHEEP
+860_ewe,ewe,1345,EWE
+861_youngsheep,young sheep,,
+862_wether,wether,,
+863_springlamb,spring lamb,,
+864_ewelambewe,"ewe lamb, ewe",1345,EWE
+865_yearlingunripegrain,yearling; unripe grain,3329,YEARLING (HORSE)
+866_billygoat,billy goat,,
+867_buckram,"buck, ram",1344,RAM
+868_hegoat,hegoat,,
+869_maleofsmallcattle,male of small cattle,,
+870_wildsheep,wild sheep,,
+871_malegoatorsheep,male goat or sheep,1331,SHEEP
+872_malekid,male kid,,
+873_femalekid,female kid,,
+874_headofsmallcattle,head of small cattle,,
+875_kid,kid,1972,YOUNG GOAT (KID)
+876_sucklinglamborkid,suckling (lamb or kid),1972,YOUNG GOAT (KID)
+877_donkey,donkey,1862,DONKEY
+878_donkeyloadmeasureofcapacity,donkey; load (measure of capacity),1862,DONKEY
+879_donkeywildassonager,"donkey, wild ass, onager",1862,DONKEY
+880_toeatswallow,"to eat, swallow (?)",1336,EAT
+881_toeattograze,"to eat, to graze",1336,EAT
+882_food,food,256,FOOD
+883_foodsustenance,"food, sustenance",256,FOOD
+884_foal,foal,1647,FOAL
+885_horsesfoal,horse`s foal,,
+886_coltyoungcamel,"colt, young camel",1647,FOAL
+887_pig,pig,1337,PIG
+888_swineboar,"swine, boar",1348,BOAR (MALE PIG)
+889_pigwildboar,"pig, wild boar",1337,PIG
+890_leopard,leopard,1139,LEOPARD
+891_wolf,wolf,522,WOLF
+892_hyena,hyena,1799,HYENA
+893_fox,fox,1312,FOX
+894_foxjackal,fox; jackal,1312,FOX
+895_bear,bear,1820,BEAR
+896_shebear,shebear,,
+897_gazelledeer,"gazelle, deer",1936,DEER
+898_wildbullbosprimigenius,wild bull (bos primigenius),,
+899_wildbull,wild bull,,
+900_wildbullbuffalo,"wild bull, buffalo",934,BUFFALO
+901_buffalloo,buffalloo,,
+902_gazellefawn,gazelle; fawn,5,GAZELLE
+903_awildruminant,a wild ruminant,,
+904_roedeer,roe deer,,
+905_wildass,wild ass,,
+906_mule,mule,890,MULE
+907_elephant,elephant,1290,ELEPHANT
+908_waterbuffaloelephant,water buffalo; elephant,1290,ELEPHANT
+909_birddomesticfowlpoultry,"bird; domestic fowl, poultry",937,BIRD
+910_crowraven,"crow, raven",913,CROW
+911_stork,stork,3724,STORK
+912_swallow,swallow,897,SWALLOW
+913_snake,snake,730,SNAKE
+914_snakehornedviper,snake; horned viper,730,SNAKE
+915_avenomousserpent,a venomous serpent,,
+916_adderasp,"adder, asp",,
+917_todrawoff,to draw off,,
+918_topresstosqeezeouttocleanbycombing,"to press, to sqeeze out; to clean by combing",1913,PRESS
+919_patopillagestealtodrawoutextract,"(pa.) to pillage, steal; to draw out, extract",713,STEAL
+920_tobecomeclear,to become clear,,
+921_sedimentofbutter,sediment of butter,,
+922_topullouttheeyetogetherwiththefatofaslaughteredcamel,to pull out the eye together with the fat (of a slaughtered camel),,
+923_topeeltobark,"to peel, to bark",275,PEEL
+924_chameleon,chameleon,1555,CHAMELEON
+925_gecko,gecko,2355,GECKO
+926_alizard,(a lizard),,
+927_asnakeorlizard,a snake or lizard,632,LIZARD
+928_reptile,reptile,,
+929_serpent,serpent,730,SNAKE
+930_largelibyanlizard,large Libyan lizard,,
+931_starredlizard,starred lizard,,
+932_lizard,lizard,632,LIZARD
+933_turtle,turtle,112,TURTLE
+934_turtleasnake,turtle; a snake,112,TURTLE
+935_fly,fly,1441,FLY (MOVE THROUGH AIR)
+936_gnat,gnat,1509,MOSQUITO
+937_flea,flea,232,FLEA
+938_louse,louse,1392,LOUSE
+939_louseparasiteweevil,"louse, parasite, weevil",1392,LOUSE
+940_gnats,gnats,,
+941_nit,nit,267,NIT
+942_alouse,a louse,1392,LOUSE
+943_lousenit,"louse, nit",1392,LOUSE
+944_moth,moth,2828,MOTH
+945_clothesmoth,clothes moth,,
+946_marekindofwormswhichinfestthegrapevine,mare; kind of worms which infest the grape vine,938,MARE
+947_smalllouse,small louse,,
+948_cricket,cricket,2354,CRICKET
+949_kindoflocust,kind of locust,,
+950_swarmoflocust,swarm of locust,,
+951_typeoflocust,type of locust,,
+952_worm,worm,1219,WORM
+953_wormmaggot,"worm, maggot",1219,WORM
+954_flesh,flesh,2259,FLESH
+955_bodyflesh,"body, flesh",1480,BODY
+956_tendonsinew,"tendon, sinew",1137,TENDON
+957_sinewfiberofaroot,sinew; fiber of a root,1137,TENDON
+958_sinewtendonnerve,"sinew, tendon; nerve",1137,TENDON
+959_sinewtendon,"sinew, tendon",1137,TENDON
+960_spinetendonsinew,"spine; tendon, sinew",1137,TENDON
+961_sinewnervemuscle,"sinew, nerve, muscle",1004,MUSCLE
+962_jointoflimbbonesflexionbendoflimbs,"joint of limb bones; flexion, bend of limbs",,
+963_crookedarms,crooked arms,,
+964_upperpartofthethighwherethesocketturns,upper part of the thigh where the socket turns,,
+965_articulationjointwrist,"articulation, joint, wrist",799,WRIST
+966_wrist,wrist,799,WRIST
+967_sleeve,sleeve,2953,SLEEVE
+968_tobefat,to be fat,1279,FAT (OBESE)
+969_fattyfleshytissue,"fatty, fleshy tissue",2449,FAT (OF MEAT AND FOOD)
+970_fattallow,"fat, tallow",323,FAT (ORGANIC SUBSTANCE)
+971_glutinoussubstancepus,"glutinous substance, pus",1808,PUS
+972_pieceoffleshpeeledofffromthebone,piece of flesh peeled off from the bone,,
+973_skin,skin,763,SKIN
+974_skinleather,"skin, leather",3326,LEATHER OR HIDE
+975_leatherpouch,leather pouch,,
+976_peauoteerecemmentdunagneauoudunchevreaurecentlyremovedskinfromalamborkid,peau ôtée récemment d'un agneau ou d'un chevreau (recently removed skin from a lamb or kid),1972,YOUNG GOAT (KID)
+977_skinhide,"skin, hide",763,SKIN
+978_branhuskshellscaleofheaddandruff,"bran; husk, shell; scale of head, dandruff",598,SHELL
+979_furskin,"fur, skin",763,SKIN
+980_toshellhusk,"to shell, husk",2501,RICE HUSK
+981_ring,ring,1374,RING
+982_neckchain,neckchain(?),,
+983_neckchain,neckchain,,
+984_necklace,necklace,1961,NECKLACE
+985_tocarryaroundtheneck,to carry around the neck,,
+986_throat,throat,1346,THROAT
+987_palate,palate,540,PALATE
+988_throat,throat(?),1346,THROAT
+989_throatgulletpalate,"throat, gullet, palate",1346,THROAT
+990_armpit,armpit,1886,ARMPIT
+991_rib,rib,801,RIB
+992_ribsidepartofthehumanandtheanimalbodysideofanobject,"rib, side (part of the human and the animal body); side (of an object)",801,RIB
+993_femalebreast,female breast,1402,BREAST
+994_breastteat,"breast, teat",1402,BREAST
+995_cervix,cervix (?),,
+996_breastfullofmilk,breast full of milk,,
+997_udderteat,"udder, teat",154,UDDER
+998_loinsthighgroin,"loins, thigh, groin",471,UPPER LEG (THIGH)
+999_neckmuscles,neck muscles,,
+1000_brust,Brust,,
+1001_teat,teat,796,NIPPLE
+1002_nipplefullbreast,nipple; full breast,796,NIPPLE
+1003_lowerbellyuteruswomb,"lower belly, uterus, womb",804,WOMB
+1004_hypogastricregion,hypogastric region,,
+1005_lowerbelly,lower belly,,
+1006_abdomenomassum,"abdomen, omassum",1251,BELLY
+1007_uteruswombpubes,"uterus, womb, pubes",804,WOMB
+1008_adesignationofnoahsark,a designation of Noah’s Ark,,
+1009_lowerpartofthetrunkgenitals,"lower part of the trunk, genitals",,
+1010_transverseprocessofthevertebra,transverse process of the vertebra,,
+1011_loinsgenitals,loins; genitals,187,LOIN
+1012_glanspenis,glans penis,,
+1013_crotchgroin,"crotch, groin",,
+1014_groin,groin,,
+1015_swellingsinthegrointesticles,swellings in the groin; testicles,797,TESTICLES
+1016_aineracinedefemurelderfemurroot,aine; racine de fémur (elder; femur root),,
+1017_areabetweenthethighsgroin,"area between the thighs, groin",,
+1018_hinderpartposteriorsbuttocksrump,"hinder part, posteriors, buttocks, rump",834,BUTTOCKS
+1019_lapcrotch,"lap, crotch",3263,LAP
+1020_lowerpartofthebellythepubes,"lower part of the belly, the pubes",36,PUBIC HAIR
+1021_buttocks,buttocks,834,BUTTOCKS
+1022_basefoot,"base, foot",1301,FOOT
+1023_buttocksbasefoundation,"buttocks; base, foundation",834,BUTTOCKS
+1024_buttocksrumpbottom,"buttocks, rump; bottom",834,BUTTOCKS
+1025_podexanus,"podex, anus",1935,ANUS
+1026_buttocksposteriorsrump,"buttocks, posteriors, rump",834,BUTTOCKS
+1027_buttocksanus,"buttocks, anus",834,BUTTOCKS
+1028_anusbuttocksrear,"anus, buttocks; rear",834,BUTTOCKS
+1029_backloinsspacebetweenthehips,"back, loins, space between the hips",1291,BACK
+1030_kidney,kidney,489,KIDNEY
+1031_tuftofhair,tuft of hair,,
+1032_woolfleece,"wool, fleece",964,WOOL
+1033_moustache,moustache,1165,MOUSTACHE
+1034_lockofhair,lock of hair,,
+1035_gallgallbladder,"gall, gall bladder",1780,BILE
+1036_gallbladder,gallbladder,,
+1037_gall,gall,1780,BILE
+1038_gallbile,"gall, bile",1780,BILE
+1039_fielbilegallbile,"fiel, bile (gall, bile)",1780,BILE
+1040_spleen,spleen,1744,SPLEEN
+1041_clitorisvagina,"clitoris, vagina",1836,VAGINA
+1042_vulvafemalegenitals,"vulva, female genitals",1837,VULVA
+1043_clitoris,clitoris,3257,CLITORIS
+1044_vulva,vulva,1837,VULVA
+1045_vulvavagina,"vulva, vagina",1837,VULVA
+1046_foreskin,foreskin,,
+1047_penis,penis,1222,PENIS
+1048_studbreedanimal,"stud, breed animal",,
+1049_testicles,testicles,797,TESTICLES
+1050_stallionmaleanimalusedforfecundation,"stallion, male animal used for fecundation",936,STALLION
+1051_themalepalmtree,the male palmtree,,
+1052_tobelasxivioussexuallyarousedanimals,"to be lasxivious, sexually aroused (animals)",,
+1053_afterbirth,afterbirth,,
+1054_afterbirthwomb,"afterbirth, womb",804,WOMB
+1055_embryo,embryo,,
+1056_placentaafterbirth,"placenta, afterbirth",3388,PLACENTA
+1057_childmaleoffspring,"child, male offspring",2099,CHILD
+1058_thinskininwhichistheftus,"thin skin, in which is the fœtus",,
+1059_foetusembryo,"foetus, embryo",,
+1060_craneteteskullhead,crâne; tête (skull; head),1256,HEAD
+1061_lung,lung,688,LUNG
+1062_partofsheepslung,part of sheep's lung,,
+1063_ramifiedbloodvesselarterybronchiae,"ramified bloodvessel, artery; bronchiae",1925,ARTERY
+1064_hipbone,hip(-bone),1745,HIP
+1065_rearrearside,"rear, rear side",2134,RAISE (BRING UP)
+1066_afterbehind,"after, behind",1685,AFTER
+1067_hips,hips (?),,
+1068_upperthighside,upper thigh; side,682,SIDE
+1069_haunchupperthigh,"haunch, upper thigh",,
+1070_towatchtoprotect,"to watch, to protect",2900,PROTECT
+1071_toprotectdefend,"to protect, defend",2900,PROTECT
+1072_tobeskillfulintelligentendowedwithmagicalpower,"to be skillful, intelligent, endowed with magical power",2530,SMART
+1073_wise,wise,698,WISE
+1074_tomakespellsorincantations,to make spells or incantations,,
+1075_magicspell,magic spell,,
+1076_magic,magic,392,MAGIC
+1077_magicarts,magic arts,,
+1078_topracticesorcery,to practice sorcery,,
+1079_totread,to tread,575,TREAD
+1080_tostepupontomakecompacttolettimepass,to step upon; to make compact; to let time pass,,
+1081_tofillupwithearthiitopresssqueeze,"to fill up with earth; II. to press, squeeze",1414,SQUEEZE
+1082_tocutsplit,"to cut, split",1432,CUT
+1083_tocutdown,to cut (down),1432,CUT
+1084_totrim,to trim,,
+1085_tocrumbleinoneshand,to crumble in one’s hand,,
+1086_tocrytoshout,"to cry, to shout",1839,CRY
+1087_toroar,to roar,3896,ROAR
+1088_tobray,to bray,,
+1089_toutteranoise,to utter a noise,,
+1090_honey,honey,942,HONEY
+1091_datesyrup,datesyrup,,
+1092_templecheekbone,"temple, cheek-bone",911,TEMPLE
+1093_temple,temple,911,TEMPLE
+1094_areabetweenthejawandtheneck,area between the jaw and the neck,,
+1095_tobestrongvigorous,"to be strong, vigorous",785,STRONG
+1096_strength,strength,202,STRENGTH
+1097_strong,strong,785,STRONG
+1098_tobeinagoodrightproperstate,"to be in a good, right, proper state",1019,RIGHT
+1099_tolookat,to look at,1819,LOOK
+1100_signmark,"sign, mark",1720,SIGN
+1101_terebinth,terebinth,,
+1102_tohaveindigestion,to have indigestion,,
+1103_toglowtoburnofintestines,"to glow, to burn (of intestines)",2102,BURN
+1104_tosufferfromindigestion,to suffer from indigestion,,
+1105_nosesnoutmuzzlebeak,"nose, snout, muzzle, beak",1221,NOSE
+1106_muzzlesnout,"muzzle, snout",2200,SNOUT
+1107_thedistinctivefeatureofthefacenosenostril,"the distinctive feature of the face, nose, nostril",1221,NOSE
+1108_muzzlebeak,"muzzle, beak",73,BEAK
+1109_field,field,212,FIELD
+1110_toleave,to leave,1752,LEAVE
+1111_toremaintobeleftovertoleave,"to remain, to be left over; to leave",1752,LEAVE
+1112_hill,hill,614,HILL
+1113_kindoflargeaquaticanimal,kind of large aquatic animal,,
+1114_amythicalseamonster,a mythical seamonster,,
+1115_speciespiscismariniiqkawsay,"species piscis marini, i.q. kawsay",,
+1116_toturntotwisttosurround,"to turn, to twist, to surround",1588,TURN
+1117_tomoveinacircle,to move in a circle,,
+1118_totwist,to twist,430,TWIST
+1119_tobetwistedwrapped,"to be twisted, wrapped",,
+1120_toeattotaste,"to eat, to taste",1336,EAT
+1121_totakefoodordrink,to take food or drink,1401,DRINK
+1122_tobenumerous,to be numerous,1198,MANY
+1123_many,many,1198,MANY
+1124_tobecomeflourishingandfresh,to become flourishing and fresh,,
+1125_people,people,789,PEOPLE
+1126_mankindhumanbeingspeople,"mankind, human beings, people",789,PEOPLE
+1127_peoplemen,"people, men",789,PEOPLE
+1128_tobelarge,to be large,1202,BIG
+1129_big,big,1202,BIG
+1130_tobecomenumeroustobegreat,to become numerous; to be great,1202,BIG
+1131_tobecomebigtoincrease,to become big; to increase,1041,INCREASE
+1132_toincreaseaugment,"to increase, augment",1041,INCREASE
+1133_tobewickedruthless,"to be wicked, ruthless",45,EVIL
+1134_tobehavethoughtlessly,to behave thoughtlessly,,
+1135_badperson,bad person,2197,BAD PERSON
+1136_tobeguilty,to be guilty,1682,GUILTY
+1137_tocommitawickeddeedactwickedly,"to commit a wicked deed, act wickedly",,
+1138_fasadulaynicorruptionoftheeye,fasādu lˁayni (corruption of the eye),,
+1139_locationthatisbehindbeyondthetimepast,"location that is behind, beyond; the time past",,
+1140_waist,waist,1681,WAIST
+1141_toperish,to perish,2865,DIE (FROM ACCIDENT)
+1142_todisappeartovanish,"to disappear, to vanish",485,DISAPPEAR
+1143_pidestroy,(pi.) destroy,681,DESTROY
+1144_tobeshabbyclothesivtowearoutagarment,"to be shabby (clothes), IV. to wear out (a garment)",,
+1145_tobeconsumedtobewastedtoperishtocease,"to be consumed, to be wasted, to perish, to cease",1928,CEASE
+1146_todig,to dig,1418,DIG
+1147_tomakeaditchtoexcavate,"to make a ditch, to excavate",,
+1148_tobeexactdonewithcare,"to be exact, done with care",1466,EXACT
+1149_tomakeamarkupontheground,to make a mark upon the ground,,
+1150_tolifttocarry,"to lift, to carry",700,CARRY
+1151_tocarry,to carry,700,CARRY
+1152_invalidsickperson,"invalid, sick person",,
+1153_toraise,to raise,501,LIFT
+1154_elevationheightloftyabode,"elevation, height, lofty abode",2936,ELEVATION
+1155_tobeartocarrytotakeupandcarry,"to bear, to carry, to take up and carry",700,CARRY
+1156_occiputbackoftheneck,"occiput, back of the neck",,
+1157_partofneck,part of neck,,
+1158_topoftheheadneck,"top of the head, neck",1333,NECK
+1159_manefeathersontheneck,"mane, feathers on the neck",1918,MANE
+1160_partbetweenthehumpandtheneck,part between the hump and the neck,,
+1161_brainmarrow,"brain, marrow",1583,BRAIN
+1162_topoftheheadbrainmarrow,"top of the head; brain, marrow",1583,BRAIN
+1163_topoftheheadbrain,"top of the head, brain",1583,BRAIN
+1164_bonemarrow,bonemarrow,,
+1165_skullmarrowbrain,"skull; marrow, brain",1583,BRAIN
+1166_brain,brain,1583,BRAIN
+1167_tobewarmhot,"to be warm, hot",1286,HOT
+1168_inflammation,inflammation,,
+1169_towarmbewarmedpatowarmheat,"to warm, be warmed; (pa.) to warm, heat",612,HEAT
+1170_towarm,to warm,1232,WARM
+1171_akindofmushroom,a kind of mushroom,,
+1172_truffle,truffle,,
+1173_apertureoftheearearfacultyofhearing,"aperture of the ear, ear; (faculty of) hearing",1247,EAR
+1174_cartilagesformingtheear,cartilages forming the ear,,
+1175_cartilage,cartilage,,
+1176_botharteriesbehindtheears,both arteries behind the ears,,
+1177_nostril,nostril,1178,NOSTRIL
+1178_nostrils,nostrils,1178,NOSTRIL
+1179_forepartofthenose,fore part of the nose,,
+1180_lip,lip,478,LIP
+1181_cheekjaw,"cheek, jaw",1730,CHEEK
+1182_jaw,jaw,798,JAW
+1183_cheekside,cheek; side,1730,CHEEK
+1184_cheek,cheek,1730,CHEEK
+1185_chinjawbonecheek,"chin, jawbone, cheek",1510,CHIN
+1186_jawjawbonejowl,"jaw, jawbone, jowl",798,JAW
+1187_beard,beard,678,BEARD
+1188_gum,gum,139,GUMS
+1189_toothlessmouthgum,"toothless mouth, gum",139,GUMS
+1190_gums,gums,139,GUMS
+1191_socketsofteeth,sockets of teeth,,
+1192_toothless,toothless,,
+1193_partofthegumwhereteethgrow,part of the gum where teeth grow,,
+1194_kindofsmallmammal,kind of small mammal,,
+1195_mongoose,mongoose,3677,MONGOOSE
+1196_looselyhangingandunplaitedhaironthehead,loosely hanging and unplaited hair on the head,,
+1197_touncoverheadtountiehair,to uncover (head); to untie (hair),352,UNTIE
+1198_chevelurehair,chevelure (hair),,
+1199_stiffhair,(stiff) hair,1040,HAIR
+1200_stiffwiryhair,"stiff, wiry (?) hair",,
+1201_havingwiryhair,having wiry (?) hair,,
+1202_neckandjawhair,neck and jaw hair,,
+1203_hairhairoftheneckbackoftheheadandjawhaironthethighsofwomen,"hair, hair of the neck, back of the head and jaw; hair on the thighs (of women)",1040,HAIR
+1204_wispyhaironthethighsandforeheadofwomen,wispy hair on the thighs and forehead (of women),,
+1205_forelockhairontheforeheadofalion,"forelock, hair on the forehead (of a lion)",,
+1206_sidewhiskersandpointedbeard,side whiskers and (pointed) beard,,
+1207_extremelyagedman,extremely aged man,,
+1208_palm,palm,1183,PALM OF HAND
+1209_armhand,"arm, hand",2121,ARM OR HAND
+1210_thehollowtheflatofthehand,"the hollow, the flat of the hand",3701,HOLLOW
+1211_palmhand,"palm, hand",1277,HAND
+1212_heelpalmofhandsoleoffoot,"heel, palm of hand, sole of foot",980,HEEL
+1213_handclawpawhandful,"hand, claw, paw; handful",1277,HAND
+1214_palmofthehand,palm of the hand,1183,PALM OF HAND
+1215_winnowingshovel,winnowing shovel,,
+1216_palmofhand,palm of hand,1183,PALM OF HAND
+1217_hollowofthehand,hollow of the hand,,
+1218_thehollowofbothhands,the hollow of both hands,,
+1219_handfulfistful,"handful, fistful",,
+1220_hollowcavitytrench,"hollow, cavity, trench",3701,HOLLOW
+1221_thumb,thumb,1781,THUMB
+1222_finger,finger,1303,FINGER
+1223_thumbbigtoe,"thumb, big toe",1781,THUMB
+1224_thumbtoe,"thumb, toe",1389,TOE
+1225_shoulder,shoulder,1482,SHOULDER
+1226_sternumorpartoftheribs,sternum or part of the ribs,2810,BREASTBONE
+1227_shoulderupperarm,"shoulder, upper arm",1482,SHOULDER
+1228_shoulderbladeshoulder,"shoulderblade, shoulder",1482,SHOULDER
+1229_shouldershoulderblade,"shoulder, shoulder blade",1482,SHOULDER
+1230_etlockjointtarsus,"etlock joint, tarsus",,
+1231_fetlocklowerleg,"fetlock, lower leg",447,LOWER LEG
+1232_articulus,articulus,,
+1233_carpalendoftheulnacarpalbonewristbone,"carpal end of the ulna, carpal bone, wrist bone",,
+1234_ankle,ankle,803,ANKLE
+1235_anklebone,ankle bone,,
+1236_ankles,ankles,,
+1237_anklebonewrist,ankle bone; wrist,799,WRIST
+1238_wingquillplumagefrond,"wing; quill, plumage, frond",1257,WING
+1239_wingpinion,"wing, pinion",1257,WING
+1240_wingfinoffishbranchoftreeborderofgarmentland,"wing; fin (of fish); branch of tree; border (of garment, land)",1257,WING
+1241_stomachofanimals,stomach (of animals),819,STOMACH
+1242_partoftheanimalstomach,part of the animal stomach,,
+1243_abomasumstomach,"abomasum, stomach",819,STOMACH
+1244_stomach,stomach,819,STOMACH
+1245_kneeandshinbonelowerlegofanimal,knee and shin-bone; lower leg (of animal),447,LOWER LEG
+1246_shinofanimals,shin (of animals),186,SHIN
+1247_jarreteartejo,"jarrete, artejo",,
+1248_lowerlegfibula,"lower leg, fibula",447,LOWER LEG
+1249_shinleg,"shin, leg",1297,LEG
+1250_shankshinbonelegofbothhumansandanimals,"shank, shinbone; leg (of both humans and animals)",1297,LEG
+1251_three,three,492,THREE
+1252_four,four,1500,FOUR
+1253_five,five,493,FIVE
+1254_six,six,1703,SIX
+1255_seven,seven,1704,SEVEN
+1256_eight,eight,1705,EIGHT
+1257_nine,nine,1483,NINE
+1258_ten,ten,1515,TEN
+1259_tobendtoencircle,to bend; to encircle,2004,BEND
+1260_tobendcurve,"to bend, curve",2004,BEND
+1261_looptendril,"loop, tendril",,
+1262_archdoorwaybowskullcap,"arch, doorway, bow; skullcap",994,BOW
+1263_tobendtobowdown,"to bend, to bow down",2004,BEND
+1264_tobendbowcurve,"to bend, bow, curve",2004,BEND
+1265_tosewtheedgerefrain,to sew the edge; refrain,,
+1266_bezelcollet,"bezel, collet",,
+1267_tobeweak,(to be) weak,1601,WEAK
+1268_tobeweakimpoverishedshaky,"to be weak, impoverished, shaky",1601,WEAK
+1269_tobesickly,to be sickly,,
+1270_what,what,1236,WHAT
+1271_anythingallthat,"any(thing), all (that)",98,ALL
+1272_toshinetobebright,"to shine, to be bright",708,SHINE
+1273_lightshiningappearanceofthesunmoonandstarssultryweatheropenairopensun,"light, shining appearance of the sun, moon and stars, sultry weather, open air, open sun",630,LIGHT (RADIATION)
+1274_thesun,the sun,1343,SUN
+1275_periodofdayaftersunrise,period of day after sunrise,,
+1276_totake,to take,1749,TAKE
+1277_totaketoaccepttotakeover,"to take, to accept, to take over",1749,TAKE
+1278_togetholdoftakegrasptoreceivecollectobtain,"to get hold of, take, grasp; to receive, collect, obtain",694,GET
+1279_totakegraspacceptreceive,"to take, grasp; accept, receive",1749,TAKE
+1280_tojointoputtogether,"to join, to put together",1743,JOIN
+1281_friendcompanion,"friend, companion",1325,FRIEND
+1282_friend,friend,1325,FRIEND
+1283_yoke,yoke,14,YOKE
+1284_tobesickill,"to be sick, ill",1847,SICK
+1285_tofallill,to fall ill,2327,BECOME SICK
+1286_tobebadpainful,"to be bad, painful",1129,PAINFUL
+1287_tobeillsick,"to be ill, sick",1847,SICK
+1288_tobediseaseddisordereddistemperedsickill,"to be diseased, disordered, distempered, sick, ill",1847,SICK
+1289_toridetobejoinedconnectedtomount,"to ride; to (be) join(ed), connect(ed); to mount",367,RIDE
+1290_tomounttomate,"to mount, to mate",705,GO UP (ASCEND)
+1291_lightwarchariotchariotbody,(light war) chariot; chariot body,,
+1292_toridetomounttoleapuponsexuallycopulatewith,"to ride; to mount; to leap upon, sexually copulate with",367,RIDE
+1293_toride,to ride,367,RIDE
+1294_tohaveintercourse,to have intercourse,,
+1295_tosuck,to suck,1421,SUCK
+1296_tirerlamoelledunostopullthemarrowoutofabone,tirer la moelle d’un os (to pull the marrow out of a bone),,
+1297_tobeargivebirthto,"to bear, give birth to",1820,BEAR
+1298_togivebirthtobear,"to give birth (to), bear",1820,BEAR
+1299_boy,boy,1366,BOY
+1300_togivebirthtobeget,"to give birth, to beget",1195,GIVE BIRTH
+1301_tobeargivebirth,"to bear, give birth",1195,GIVE BIRTH
+1302_achildsonyoungone,"a child, son, young one",1620,SON
+1303_togivebirthbegetbearachildconceive,"to give birth, beget, bear (a child), conceive",1195,GIVE BIRTH
+1304_towash,to wash,1453,WASH
+1305_towashtobathetorinseoff,"to wash, to bathe, to rinse off",1453,WASH
+1306_tosweattoperspire,"to sweat, to perspire",126,SWEAT (PERSPIRE)
+1307_tobenarrow,to be narrow,1267,NARROW
+1308_tograsptoputpressureoncaus,"to grasp, to put pressure on (caus.)",2021,GRASP
+1309_hiptoharasspresshardtodrivesomeoneintoacorner,"(hip.) to harass, press hard; to drive someone into a corner",,
+1310_patooppress,(pa.) to oppress,,
+1311_taumelnder,Taumelnder,,
+1312_agravediseasecharacterizedbyaheadache,a grave disease characterized by a headache,,
+1313_sickperson,sick person,,
+1314_sickness,sickness,1986,DISEASE
+1315_tomenstruate,to menstruate,2827,MENSTRUATE
+1316_faintsickmenstruating,"faint, sick, menstruating",1847,SICK
+1317_tobeweakwretched,"to be weak, wretched",1601,WEAK
+1318_tobesick,to be sick,1847,SICK
+1319_tobemadcrazy,"to be mad, crazy",1899,MAD
+1320_tobeinafrenzytoactcrazily,"to be in a frenzy, to act crazily",,
+1321_atypeofextatic,a type of extatic,,
+1322_folieaiguefureuracutemadnessfury,"folie aiguë, fureur (acute madness, fury)",,
+1323_evilmischiefannoyanceharm,"evil, mischief; annoyance, harm",45,EVIL
+1324_tobebaldontheforehead,to be bald (on the forehead),1125,BALD
+1325_bald,bald,1125,BALD
+1326_withrecedinghairline,with receding hairline,,
+1327_recedinghairlinebarespot,receding hairline; bare spot,,
+1328_baldontheforehead,bald on the forehead,,
+1329_tobelchretchvomit,"to belch, retch, vomit",2245,BELCH
+1330_tobelch,to belch,2245,BELCH
+1331_hitpotovomitloudly,(hitpo.) to vomit loudly,,
+1332_tospitoutbelchvomit,"to spit out, belch, vomit",1278,VOMIT
+1333_todepositexcrements,to deposit excrements,,
+1334_toburp,to burp,2789,BURP
+1335_tobelchvomit,"to belch, vomit",2245,BELCH
+1336_tobemadtalkwithoutsenseproduceincoherentsoundsinonessleep,"to be mad, talk without sense; produce incoherent sounds (in one’s sleep)",1899,MAD
+1337_toproduceunnaturalsounds,to produce unnatural sounds,,
+1338_topantinitssleepdog,to pant in its sleep (dog),,
+1339_tolead,to lead,43,LEAD (GUIDE)
+1340_deliredelirium,délire (delirium),,
+1341_totalknonsense,to talk nonsense,,
+1342_tobeimbecileweakmindedmadbemockedat,"to be imbecile, weak-minded, mad; be mocked at",1899,MAD
+1343_weakling,weakling,,
+1344_tobeinfatuatedtomakelookfoolishpotomakeamockeryofhitpotopretendtobemadtoactlikeamadman,to be infatuated; to make look foolish; (po.) to make a mockery of; (hitpo.) to pretend to be mad; to act like a madman,,
+1345_foolishnessblindness,"foolishness, blindness",,
+1346_aphtoscoffmocktodespisedisdaintopraise,"(aph.) to scoff, mock; to despise, disdain; to praise",2715,DESPISE
+1347_injuresottise,injure; sottise,44,INJURE
+1348_opinionideefaussequonsefaitsurquelquechoseopinionmisconceptionwehaveaboutsomething,"opinion, idée fausse qu'on se fait sur quelque chose (opinion, misconception we have about something)",,
+1349_toridiculemockmakefunofjeerat,"to ridicule, mock, make fun of, jeer at",,
+1350_tobepregnantconceive,"to be pregnant, conceive",1087,CONCEIVE
+1351_toconceive,to conceive,1087,CONCEIVE
+1352_toconceivetobepregnant,"to conceive, to be pregnant",1087,CONCEIVE
+1353_toswellinflateespofstomach,"to swell, inflate (esp. of stomach)",1573,SWELL
+1354_tohavecrampssaidofinternalabdominalandothermuscles,to have cramps (said of internal abdominal and other muscles),,
+1355_tohaveaswollenbelly,to have a swollen belly,,
+1356_boilswellingtumor,"boil, swelling, tumor",2493,BOIL
+1357_toswelluptoblowup,"to swell up, to blow up",1573,SWELL
+1358_toitchscratchoneself,"to itch, scratch (oneself)",3855,ITCH (CAUSE ITCHING OR FEEL ITCHY)
+1359_toscratch,to scratch,1436,SCRATCH
+1360_toscrapetoitch,"to scrape, to itch",1767,SCRAPE
+1361_toscratchscraperubgrate,"to scratch, scrape, rub, grate",1436,SCRATCH
+1362_toitchtoscratchtorub,"to itch, to scratch, to rub",1436,SCRATCH
+1363_tobeinconfinementinchildbed,"to be in confinement, in childbed",,
+1364_imkindbettliegen,im Kindbett liegen,,
+1365_femalethathasnotyetbroughtforthinthefirstperiodofherpregnancyonehavingascantyflowofmilk,female that has not yet brought forth in the first period of her pregnancy; one having a scanty flow of milk,,
+1366_iitofeedthewomanontheoccasionofchildbirth,II. to feed the woman on the occasion of childbirth,,
+1367_tobearachildlieinbedwhengivingbirthtoachild,"to bear a child, lie in bed when giving birth to a child",,
+1368_tofeednourishtakegoodcareofsomeonebyproperlyfeedinghim,"to feed, nourish, take good care of someone by properly feeding him",739,FEED
+1369_tobedeafanddumb,to be deaf and dumb,,
+1370_bindenanbinden,"binden, anbinden(?)",,
+1371_deaf,deaf,996,DEAF
+1372_tobedeaf,to be deaf,996,DEAF
+1373_tobemutesilent,"to be mute, silent",48,BE SILENT
+1374_tobenumb,to be numb,2216,BECOME NUMB
+1375_tosleep,to sleep,1585,SLEEP
+1376_tobeinlabourhavelabourpains,to be in labour; have labour pains,,
+1377_tobeinlabour,to be in labour,,
+1378_womaninlabour,woman in labour,,
+1379_labourpains,labour pains,,
+1380_towrithewithbirthpains,to writhe (with birth pains),,
+1381_procreationchildbirth,procreation childbirth,,
+1382_ivavoirdulaitseditdunechamelletohavemilksaidofacamel,IV. avoir du lait (se dit d'une chamelle) (to have milk (said of a camel),,
+1383_tohaveinflammation,to have inflammation,,
+1384_entzundung,Entzündung,,
+1385_inflammationfever,"inflammation, fever",1534,FEVER
+1386_livecoal,live coal,,
+1387_iisenfoncerdanslorbiteseditdeloeilamaigrirexpressonchevaltosinkintotheorbitsaidoftheeyetoloseweightonpurposeofhorse,II. s’enfoncer dans l’orbite (se dit de l’oeil); amaigrir exprès (son cheval) (to sink into the orbit (said of the eye); to lose weight on purpose (of horse),,
+1388_tobesickperspirehavediarrhea,"to be sick, perspire, have diarrhea",126,SWEAT (PERSPIRE)
+1389_tohaveadiseasecausingfallofhair,to have a disease causing fall of hair,,
+1390_topluckwool,to pluck wool,,
+1391_withhairfallingoutintufts,with hair falling out in tufts,,
+1392_castorbean,castor bean,,
+1393_tofalloffbydegreesfromthesheepandbecomecompactedinlumpsorclottedsaidofwool,"to fall off by degrees from the sheep and become compacted in lumps, or clotted (said of wool)",,
+1394_woolstickingtogetherandcompactedinalump,wool sticking together and compacted in a lump,,
+1395_toscraperemovehairbyscraping,"to scrape, remove hair by scraping",1767,SCRAPE
+1396_mitschutteremhaar,mit schütterem Haar?,,
+1397_hitpatoscrapeoneself,(hitpa.) to scrape oneself,,
+1398_toscrapeofftoerasetotakeaway,to scrape off; to erase; to take away,1767,SCRAPE
+1399_tohavenohair,to have no hair,,
+1400_removechaff,remove chaff,,
+1401_tovomit,to vomit,1278,VOMIT
+1402_tospewtovomit,"to spew, to vomit",1278,VOMIT
+1403_tospitbesickhiptovomitsomething,"to spit, be sick; (hip.) to vomit something",1440,SPIT
+1404_tohavesexualdesiredischargespermexudevaginalsecretion,"to have sexual desire; discharge sperm, exude vaginal secretion",,
+1405_tolovetobecomefondofso,"to love, to become fond of so.",923,LOVE
+1406_typekind,"type, kind",3299,KIND
+1407_racestock,"race, stock",,
+1408_epoqueousetrouveunefemellelorsquelleaetecouverteparlemaletimewhenafemaleisfoundwhenshehasbeencoveredbythemale,époque où se trouve une femelle lorsqu’elle a été couverte par le mâle(time when a female is found when she has been covered by the male),,
+1409_laissercoulerlespermedanslacopulationouautrementletthespermflowincopulationorotherwise,laisser couler le sperme (dans la copulation ou autrement) (let the sperm flow (in copulation or otherwise),,
+1410_vtowishdesire,"V. to wish, desire",2960,LONGING (WISH)
+1411_spermeliqueurdelafemellequisemeleauspermeetcontribuealagenerationspermliquorofthefemalewhichmixeswiththespermandcontributestothegeneration,sperme; liqueur de la femelle qui se mêle au sperme et contribue à la génération (sperm; liquor of the female which mixes with the sperm and contributes to the generation),,
+1412_spermedumaleliqueuruterinedelafemellesemenfromthemalefemaleuterineliquor,sperme (du mâle); liqueur utérine de la femelle (semen (from the male); female uterine liquor),,
+1413_towishdesirebeeagerfor,"to wish, desire, be eager for",2117,DESIRE
+1414_wishdesirelust,"wish, desire, lust",2960,LONGING (WISH)
+1415_tobrayofdonkeycrygroanroar,"to bray (of donkey); cry, groan; roar",1839,CRY
+1416_tobraytoneigh,"to bray, to neigh",,
+1417_tocrytogroan,"to cry, to groan",1839,CRY
+1418_braying,braying,,
+1419_tosob,to sob,,
+1420_tomoan,to moan,,
+1421_braireseditdelanebrayofdonkey,braire (se dit de l’âne) (bray (of donkey),,
+1422_coassersanscessetocroakincessantly,coasser sans cesse (to croak incessantly),,
+1423_coassermiaulergloussertocroakmeowsquawk,"coasser, miauler; glousser (to croak, meow; squawk)",,
+1424_togroansigh,"to groan, sigh",716,GROAN
+1425_toemitasoundreferringtoanysoundofanimalsandbirdsscreamshout,"to emit a sound (referring to any sound of animals and birds); scream, shout",715,SHOUT
+1426_plumagefeathers,"plumage, feathers",1201,FEATHER
+1427_feathers,feathers,1201,FEATHER
+1428_forelock,forelock,,
+1429_teardrop,tear(-drop),1651,TEAR (OF EYE)
+1430_tear,tear,1651,TEAR (OF EYE)
+1431_togushforth,to gush forth,,
+1432_sweat,sweat,125,SWEAT (SUBSTANCE)
+1433_venombile,"venom, bile",1780,BILE
+1434_poisonousfoamspittle,poisonous foam; spittle,1503,SALIVA
+1435_venenovenom,veneno (venom),,
+1436_poisonvenom,"poison, venom",655,POISON
+1437_heatardorpoison,"heat, ardor; poison",655,POISON
+1438_scorpionsvenom,scorpion’s venom,,
+1439_bilegallvenom,"bile, gall, venom",1780,BILE
+1440_foamsalivaexcretion,foam; saliva; excretion,1503,SALIVA
+1441_spittleslaversalivaphlegmmucussap,"spittle, slaver, saliva, phlegm, mucus; sap",1503,SALIVA
+1442_secretionexcrements,"secretion, excrements",,
+1443_foam,foam,1768,FOAM
+1444_frothofmilk,froth of milk,,
+1445_tourinate,to urinate,592,PISS
+1446_urine,urine,1142,URINE
+1447_hipparttopasswaterurinate,"(hip. part.) to pass water, urinate",592,PISS
+1448_urina,urina,,
+1449_bladder,bladder,1746,BLADDER
+1450_nondigestedfoodinthestomach,non-digested food in the stomach,,
+1451_excrementgore,"excrement, gore",675,FAECES (EXCREMENT)
+1452_contentsofthegutfaeces,"contents of the gut, faeces",675,FAECES (EXCREMENT)
+1453_dungexcrementmudmire,"dung, excrement; mud, mire",640,MUD
+1454_feces,feces,675,FAECES (EXCREMENT)
+1455_drycowsdung,(dry cow's) dung,2057,DUNG (ANIMAL FAECES)
+1456_excrementdungofanimals,"excrement, dung (of animals)",675,FAECES (EXCREMENT)
+1457_dungexcrement,"dung, excrement",675,FAECES (EXCREMENT)
+1458_orduresoteesdelamaisonetjeteesenuntasgarbageremovedfromthehouseandthrowninaheap,ordures ôtées de la maison et jetées en un tas (garbage removed from the house and thrown in a heap),,
+1459_sweepingsmanure,"sweepings, manure",2057,DUNG (ANIMAL FAECES)
+1460_drycowsdung,dry cow's dung,,
+1461_dung,dung,2057,DUNG (ANIMAL FAECES)
+1462_wastematterrefusedebris,"waste matter, refuse, debris",49,REFUSE
+1463_foliagepiledupforformingmanuredeposits,"foliage piled up for forming manure, deposits",,
+1464_todefecatehavediarrheaspreadmanure,"to defecate, have diarrhea, spread manure",676,SHIT (DEFECATE)
+1465_tohavesexualintercourse,to have sexual intercourse,549,COPULATE
+1466_tohaveillicitsexualintercoursetofornicate,"to have illicit sexual intercourse, to fornicate",103,FORNICATE
+1467_tomarryawoman,to marry a woman,,
+1468_tosleepslumber,"to sleep, slumber",1585,SLEEP
+1469_wakingtime,waking time,,
+1470_ittheforestwasstill,it (the forest) was still,,
+1471_sleepofdeathdrowsiness,sleep of death; drowsiness,,
+1472_tofallasleeptoslumber,"to fall asleep, to slumber",1106,FALL ASLEEP
+1473_tosleepfallasleep,"to sleep, fall asleep",1585,SLEEP
+1474_dormirtosleep,dormir (to sleep),,
+1475_etreendormidunprofondsommeiletredanssonpremiersommesommeillertosleepdeeplytoslumber,être endormi d’un profond sommeil; être dans son premier somme; sommeiller (to sleep deeply; to slumber),,
+1476_eruptionontheskinwhitespot,"eruption (on the skin), white spot",,
+1477_askineruption,a skin eruption,,
+1478_awhitenessinthelowerlipofahorse,a whiteness in the lower lip of a horse,,
+1479_leprosyscab,"leprosy, scab",3624,LEPROSY
+1480_blisterboil,"blister, boil",2493,BOIL
+1481_boilpustule,"boil, pustule",2493,BOIL
+1482_blistersulcers,"blisters, ulcers",,
+1483_flute,flute,777,FLUTE
+1484_swellings,swellings,,
+1485_ulcersresultingfromelephantiasispustules,"ulcers resulting from elephantiasis, pustules",,
+1486_soresscabiesleprosy,"sores, scabies, leprosy",3172,SCABIES
+1487_leprosy,leprosy,3624,LEPROSY
+1488_askindisease,a skin disease,,
+1489_scarcausedbyawoundintheballormostelevatedpartofthecheek,"scar caused by a wound in the ball, or most elevated part, of the cheek",,
+1490_scabiesitchsoresskinrashleprosy,"scabies, itch, sores, skin rash, leprosy",3855,ITCH (CAUSE ITCHING OR FEEL ITCHY)
+1491_leprosymangescab,"leprosy, mange, scab",3624,LEPROSY
+1492_festeringrash,festering rash,,
+1493_leprosyscabies,leprosy; scabies,3624,LEPROSY
+1494_scabrust,scab; rust,3064,RUST
+1495_kindofskindisease,(kind of) skin disease,,
+1496_skindiseasenotleprosy,skin disease (not leprosy),,
+1497_smallswellingpustule,"small swelling, pustule",,
+1498_sortedexcroissancehideuseavoirsurleslevressurlenezousurlesoreillesakindofuglygrowthseenonthelipsnoseorears,"sorte d'excroissance hideuse à voir sur les lèvres, sur le nez ou sur les oreilles (a kind of ugly growth seen on the lips, nose, or ears)",1221,NOSE
+1499_scabmalignantulcer,"scab, malignant ulcer",2664,SCAB
+1500_molepustule,mole; pustule,1907,MOLE
+1501_blackmoleonthefaceandbodyblackspotadiseaseofbarley,black mole (on the face and body); black spot (a disease of barley),,
+1502_pustulesbreakingoutuponthelipsafterafever,pustules breaking out upon the lips after a fever,,
+1503_birthmarkscarontheskin,"birth-mark, scar on the skin",1751,BIRTHMARK
+1504_amoleorwart,a mole or wart,2665,WART
+1505_cautereulcereartificielcauteryartificialulcer,"cautère, ulcère artificiel (cautery, artificial ulcer)",,
+1506_spotontheskinbruisemarkofviolence,"spot on the skin, bruise, mark of violence",1148,BRUISE
+1507_amarkofdiscolorationontheskin,a mark of discoloration on the skin,,
+1508_woundslash,"wound, slash",1109,WOUND
+1509_skinspecks,skin specks,,
+1510_wound,wound,1109,WOUND
+1511_markofbeatingahealedwound,mark of beating; a healed wound,,
+1512_eruptionontheskin,eruption on the skin,,
+1513_scabiesitchboil,"scabies, itch, boil",2493,BOIL
+1514_etrerongeparlagaletobeeatenupbythescab,être rongé par la gâle (to be eaten up by the scab),,
+1515_itchaboil,"itch, a boil",793,BOIL (OF SKIN)
+1516_skinrash,skin rash,,
+1517_whitescurf,white scurf,,
+1518_onehavinganeruptionresemblingleprosy,one having an eruption resembling leprosy,,
+1519_pimplespustules,"pimples, pustules",1809,PIMPLE
+1520_mildspeciesofleprosy,mild species of leprosy,,
+1521_greyhair,grey hair,,
+1522_graueshaar,graues Haar,,
+1523_thegreyhairadvancedage,the grey hair; advanced age,,
+1524_whitehair,white hair,,
+1525_whitenessofthehair,whiteness of the hair,,
+1526_deafperson,deaf person,458,DEAF PERSON
+1527_tostoponesears,to stop one’s ears,,
+1528_firmsolidmute,firm; solid; mute,1666,MUTE
+1529_tocough,to cough,879,COUGH
+1530_phlegmcoughwithphlegm,phlegm; cough with phlegm,3061,PHLEGM
+1531_qalhitptocough,"(qal, hitp.) to cough",879,COUGH
+1532_cough,cough,879,COUGH
+1533_tofartbreakwindaudibly,"to fart, break wind audibly",1159,FART
+1534_tofart,to fart,1159,FART
+1535_patobreakwind,(pa.) to break wind,1159,FART
+1536_stomachgrowling,stomach growling,,
+1537_tobreakwindsilently,to break wind silently,,
+1538_pet,pet,3780,PET
+1539_toemitanoiselesswindfromonesanus,to emit a noiseless wind from one's anus,,
+1540_tobreakwind,to break wind,1159,FART
+1541_toberabidmad,"to be rabid, mad",1899,MAD
+1542_toragetoberabid,"to rage, to be rabid",2203,RABID
+1543_puhitptobehavelikeamadman,"(pu., hitp.) to behave like a madman",,
+1544_mad,mad,1899,MAD
+1545_tobury,to bury,1719,BURY
+1546_tobestrong,to be strong,785,STRONG
+1547_male,male,1553,MALE
+1548_manmale,"man, male",1554,MAN
+1549_maleanimal,male animal,2263,MALE (OF ANIMAL)
+1550_malemasculineanimalrampenisarsenic,"male, masculine animal; ram; penis; arsenic",1222,PENIS
+1551_malepenis,male; penis,1222,PENIS
+1552_daughterinlawbride,daughter-in-law; bride,1266,BRIDE
+1553_daughterinlawwifeofasonlivinginhisfathershouseholdbridesisterinlaw,"daughterinlaw, wife of a son living in his father's household, bride, sisterinlaw",1266,BRIDE
+1554_daughterinlawbride,"daughterinlaw, bride",1266,BRIDE
+1555_,???,,
+1556_daughterinlawsisterinlaw,"daughterinlaw, sisterinlaw",,
+1557_widow,widow,1756,WIDOW
+1558_maidservant,maidservant,,
+1559_slavegirlservantgirl,"slave girl, servant girl",,
+1560_tohire,to hire,856,HIRE
+1561_tohiretobehired,to hire; to be hired,856,HIRE
+1562_toown,to own,684,OWN
+1563_subjects,subjects,,
+1564_torule,to rule,1846,RULE
+1565_capital,capital,,
+1566_herdofcattlesheeporhorses,"herd of cattle, sheep, or horses",1331,SHEEP
+1567_mistress,mistress,,
+1568_mistressofthehouse,mistress of the house,,
+1569_tobesated,to be sated,106,SATIATED
+1570_tobecomesated,to become sated,,
+1571_sichsattigen,sich sättigen,,
+1572_toeatonesfill,to eat one's fill,,
+1573_tobesatedhaveonesfill,"to be sated, have one`s fill",106,SATIATED
+1574_tobebecomesatiated,"to be, become satiated",1579,BE
+1575_tobethirsty,to be thirsty,3474,BE THIRSTY
+1576_tosiptoabsorb,"to sip, to absorb",,
+1577_tosip,to sip,,
+1578_totastetobetasty,"to taste, to be tasty",21,TASTE (SOMETHING)
+1579_thoughtreasonplan,"thought, reason, plan",2975,THOUGHT
+1580_totaste,to taste,21,TASTE (SOMETHING)
+1581_tobebitter,to be bitter,887,BITTER
+1582_bitter,bitter,887,BITTER
+1583_tobesweet,to be sweet,717,SWEET
+1584_sweet,sweet,717,SWEET
+1585_vtosmackoneslips,V. to smack one’s lips,,
+1586_tobesour,to be sour,1906,SOUR
+1587_vinegar,vinegar,985,VINEGAR
+1588_tobeleavened,to be leavened,,
+1589_tofermentrise,"to ferment, rise",3652,FERMENT
+1590_todrawwater,to draw water,1911,DRAW (WATER)
+1591_tobesatisfiedwithdrinking,to be satisfied with drinking,,
+1592_receptacleforliquids,receptacle for liquids,,
+1593_todragpull,"to drag, pull",2030,DRAG
+1594_todrawwaterwithabucket,to draw water with a bucket,,
+1595_todrawwaterfromawell,to draw water from a well,,
+1596_todrawwatertopullout,to draw water; to pull out,2325,PULL OUT
+1597_bucket,bucket,2052,BUCKET
+1598_waterbucket,water bucket,,
+1599_clarifiedbutter,clarified butter,,
+1600_buttercream,butter; cream,1245,BUTTER
+1601_cream,cream,,
+1602_butter,butter,1245,BUTTER
+1603_alcoholicdrink,alcoholic drink,404,ALCOHOL (FERMENTED DRINK)
+1604_analcoholicdrinkbeer,"an alcoholic drink, beer",1639,BEER
+1605_intoxicatingdrinknotmadefromgrapes,intoxicating drink not made from grapes,,
+1606_tobecomeinebriated,to become inebriated,,
+1607_tobecomeintoxicated,to become intoxicated,,
+1608_togrind,to grind,1033,GRIND
+1609_togrindintoflour,to grind into flour,,
+1610_flour,flour,1594,FLOUR
+1611_tosieve,to sieve,86,SIEVE
+1612_tosift,to sift,,
+1613_sieve,sieve,3353,SIEVE (TOOL)
+1614_pitofanwinnowsift,"(pi.) to fan, winnow, sift",2462,WINNOWING
+1615_dirt,dirt,25,DIRT
+1616_kindofsievemadeofpalmleaves,kind of sieve made of palm leaves,,
+1617_tofanwinnowsift,"to fan, winnow, sift",360,FAN (ACTION)
+1618_tosifttosprinkle,to sift; to sprinkle,,
+1619_fruityield,"fruit, yield",1507,FRUIT
+1620_toknead,to knead,274,KNEAD
+1621_torollamorseloffoodinmeltedfat,to roll a morsel of food in melted fat,,
+1622_tobake,to bake,183,BAKE
+1623_bakingtray,baking tray,,
+1624_baked,baked,,
+1625_toboilcook,"to boil, cook",1100,COOK (SOMETHING)
+1626_tobecookedreadyripe,"to be cooked, ready, ripe",178,RIPE
+1627_toboiltoroast,"to boil, to roast",2493,BOIL
+1628_boilseethegrowripe,"boil, seethe, grow ripe",2493,BOIL
+1629_togrowripetoboil,to grow ripe; to boil,2493,BOIL
+1630_toripen,to ripen,179,RIPEN
+1631_ivtoboilunripedates,IV. to boil unripe dates,,
+1632_aigleeagle,aigle (eagle),,
+1633_kindofinsect,kind of insect,,
+1634_agreenwingedinsectabird,a green winged insect; a bird,937,BIRD
+1635_mouchequisattaqueauchameausintroduitdanssonnezetletourmenteflythatattacksthecamelgetsintoitsnoseandtormentsit,"mouche qui s'attaque au chameau, s'introduit dans son nez et le tourmente (fly that attacks the camel, gets into its nose and torments it)",,
+1636_abreedofsheep,a breed of sheep(?),,
+1637_youngram,(young) ram,1344,RAM
+1638_caterpillar,caterpillar,2247,CATERPILLAR
+1639_weevilfly,weevil; fly,1441,FLY (MOVE THROUGH AIR)
+1640_araigneespider,araignée (spider),,
+1641_youngbull,young bull,,
+1642_ibis,ibis,,
+1643_kindofbirdsimilartotheswallowandprovidedwithaverylongbeak,kind of bird similar to the swallow and provided with a very long beak,,
+1644_todigtomakeahole,"to dig, to make a hole",1418,DIG
+1645_kindofsnakeworm,"kind of snake, worm",1219,WORM
+1646_cat,cat,1208,CAT
+1647_catweaselanimalthateatschickens,"cat; weasel, animal that eats chickens",1208,CAT
+1648_turtledove,turtledove,1853,DOVE
+1649_youngmalesheep,young (male) sheep,,
+1650_flockofsheeporgoats,flock of sheep or goats,,
+1651_viscerainnerorganintestine,"viscera, inner organ, intestine",1991,INTESTINES
+1652_apartoftheliver,a part of the liver,,
+1653_partorboneofthelegofanimal,(part or bone of the) leg of animal,,
+1654_partofthelowerlegofaquadruped,part of the lower leg of a quadruped,,
+1655_thighboneshinbonetibialeglargeboneofthelegshoulderofanimal,"thighbone, shinbone, tibia, leg, large bone of the leg, shoulder of animal",1297,LEG
+1656_thelongportionofthewingarmsshoulders,"the long portion of the wing; arms, shoulders",1673,ARM
+1657_wingarmfinellfathom,"wing; arm; fin; ell, fathom",1257,WING
+1658_agiterlesailesseditdunoiseauquicouvetowavewingssaidofabroodingbird,agiter les ailes (se dit d'un oiseau qui couve) (to wave wings (said of a brooding bird),,
+1659_sagiterherissersesplumesetleverlesailescommefaitunoiseauquicouvesesoeufsalapprochedunennemitoflutterbristleitsfeathersandliftitswingslikeabirdthatincubatesitseggswhenanenemyapproaches,"s'agiter, hérisser ses plumes et lever les ailes, comme fait un oiseau qui couve ses oeufs, à l'approche d'un ennemi (to flutter, bristle its feathers and lift its wings, like a bird that incubates its eggs, when an enemy approaches)",,
+1660_tobegiddyhavepaininthehead,to be giddy; have pain in the head,,
+1661_tobegiddystagger,"to be giddy, stagger",,
+1662_vertigogiddinessinthehead,"vertigo, giddiness in the head",,
+1663_tobuyouttoransomtoredeem,"to buy out, to ransom, to redeem",,
+1664_tosparetorelease,"to spare, to release",1095,LET GO OR SET FREE
+1665_toransomtoredeem,"to ransom, to redeem",,
+1666_tobuyouttoransomtoredeem,"to buy out, to ransom; to redeem",,
+1667_payingrewardingcompensating,"paying, rewarding, compensating",,
+1668_tospeakemphaticallytopray,"to speak emphatically, to pray",24,PRAY
+1669_topraytotobeseechtosupplicate,"to pray to, to beseech, to supplicate",,
+1670_tocurseviiitoaddresswithearnestenergeticsupplication,"to curse; VIII. to address with earnest, energetic supplication",8,CURSE
+1671_tobeofbadqualitytobeputridtostink,"to be of bad quality, to be putrid, to stink",1587,SMELL (STINK)
+1672_tosmellbadbeofbadquality,"to smell bad, be of bad quality",42,STINKING
+1673_tostink,to stink,1587,SMELL (STINK)
+1674_badfoulsmelling,"bad, foulsmelling",1292,BAD
+1675_sourunripeberries,"sour, unripe berries",1906,SOUR
+1676_tobebaddispleasetobeinabadconditiontobeinpaingrieve,"to be bad, displease; to be in a bad condition; to be in pain; grieve",1292,BAD
+1677_tobeinastateofdistresspoverty,"to be in a state of distress, poverty",,
+1678_veryevilorbadishe,very evil or bad is he!,,
+1679_tobebad,to be bad,1292,BAD
+1680_tobeashamed,to be ashamed,1894,ASHAMED
+1681_tocometoshame,to come to shame,,
+1682_beashamed,be ashamed,1894,ASHAMED
+1683_shameshamelessness,shame; shamelessness,1776,SHAME
+1684_shame,shame,1776,SHAME
+1685_tobeashamedtobeconfused,to be ashamed; to be confused,1894,ASHAMED
+1686_calumnyslanderfalseaccusation,"calumny, slander, false accusation",,
+1687_toblowbreatheinflate,"to blow, breathe, inflate",175,BLOW (OF WIND)
+1688_toblowsomethinghissetc,"to blow (something), hiss, etc.",3685,HISS
+1689_toblow,to blow,175,BLOW (OF WIND)
+1690_todiffuseofodourtoblowofwind,to diffuse (of odour); to blow (of wind),175,BLOW (OF WIND)
+1691_toblowwithmouth,to blow with mouth,176,BLOW (WITH MOUTH)
+1692_toblowbreatheoninflatesoundaninstrumentblowahorntrumpet,"to blow, breathe on, inflate, sound (an instrument), blow (a horn, trumpet)",175,BLOW (OF WIND)
+1693_god,god,1944,GOD
+1694_toblowawaywinnow,"to blow away, winnow",2462,WINNOWING
+1695_window,window,1375,WINDOW
+1696_ivtobeviolentanddrivealongthedustandpebblesaboutwind,IV. to be violent and drive along the dust and pebbles (about wind),,
+1697_tobelamehaveadislocatedlimb,to be lame; have a dislocated limb,320,LAME
+1698_lamecrippled,"lame, crippled",320,LAME
+1699_tobelamelimp,"to be lame, limp",366,LIMP
+1700_limping,limping,,
+1701_todislocatetoremovefromitsplacetoseparatetodispersetobeweakinintellectandinbody,"to dislocate, to remove from its place, to separate, to disperse; to be weak in intellect and in body",1359,SEPARATE
+1702_iiavoirlesmembresducorpslachessansvigeurtohaveloosebodymemberswithoutvigor,"II. avoir les membres du corps lâches, sans vigeur (to have loose body members, without vigor)",,
+1703_without,without,1478,WITHOUT
+1704_withoutwithouttheconsentofapartfromintheabsenceof,"without, without the consent of, apart from, in the absence of",1478,WITHOUT
+1705_withoutsavebeforeexceptforbutratheroutsideofbesidesapartfromregardlessof,"without, save; before; except for; but, rather; outside of, besides, apart from regardless of",1882,BEFORE
+1706_tobuild,to build,1840,BUILD
+1707_tobuildtocreate,"to build, to create",1840,BUILD
+1708_toface,to face,1560,FACE
+1709_tofacetoapproachtoaccept,"to face, to approach, to accept",1778,APPROACH
+1710_pastbygonetimebeforeinthepresenceinfrontof,"past, bygone time; before, in the presence, in front of",1882,BEFORE
+1711_tocleavethewaterwithitsstemtofacethewindship,to cleave the water with its stem; to face the wind (ship),,
+1712_toenclosetoprotecttoshelter,"to enclose, to protect, to shelter",2900,PROTECT
+1713_toconfine,to confine,,
+1714_toenclosetofencetoprotect,"to enclose, to fence, to protect",2900,PROTECT
+1715_aphtomakedwell,(aph.) to make dwell,,
+1716_toveiltoconcealtocovertoprotect,"to veil, to conceal, to cover, to protect",761,COVER
+1717_shoe,shoe,1381,SHOE
+1718_atypeofshoe,a type of  shoe,,
+1719_shoesandalsrim,"shoe, sandal(s); rim (?)",1381,SHOE
+1720_boot,boot,585,BOOT
+1721_toplace,to place,723,PLACE (POSITION)
+1722_toplacetoestablish,"to place, to establish",723,PLACE (POSITION)
+1723_tohavegreyhair,to have grey hair,,
+1724_tobecomeold,to become old,,
+1725_tobegreyheadedold,"to be grey headed, old",1229,OLD
+1726_tobecomewhitehairedhoary,"to become whitehaired, hoary",,
+1727_toturngreyhair,to turn grey (hair),,
+1728_tohaveanosewithacutofftiphaveaslitlip,to have a nose with a cut-off tip; have a slit lip,,
+1729_flatnosed,flat nosed,,
+1730_beingflatnosed,being flat nosed,,
+1731_havingthenoseslit,having the nose slit,,
+1732_tocutsplitbreak,"to cut, split, break",1432,CUT
+1733_tobreakopenasealcuttosizepruneweed,"to break open a seal, cut to size, prune, weed",3288,WEED
+1734_fendrelegerementdechirerlegerementycauserunedechiruretocracklightlytearlightlycauseatear,"fendre légerement, déchirer légèrement, y causer une déchirure (to crack lightly, tear lightly, cause a tear)",,
+1735_womanhavinghervaginaandrectumunitedbytherendingoftheseparationbetweenthem,woman having her vagina and rectum united by the rending of the separation between them,,
+1736_kindofdiseasefevercoldintheheadplague,"kind of disease (fever, cold in the head; plague)",,
+1737_tobenauseated,to be nauseated,,
+1738_adiseaseaffectingtheheadvisionetc,"a disease (affecting the head, vision, etc.)",2519,SEEING (VISUAL SENSE)
+1739_certainemaladiedeschameauxakindofcameldisease,certaine maladie des chameaux (a kind of camel disease),,
+1740_pestilenceplague,"pestilence, plague",,
+1741_acalamity,a calamity,,
+1742_plaguepestilence,"plague, pestilence",,
+1743_bubonicplague,bubonic plague,,
+1744_ivtogobackwardtoabadstatetodie,"IV. to go backward, to a bad state; to die",1494,DIE
+1745_death,death,910,DEATH
+1746_plmalheuradversiteinfortunemisfortuneadversity,"(pl.) malheur, adversité, infortune (misfortune, adversity)",,
+1747_touxcoqueluchecoughwhoopingcough,"toux, coqueluche (cough, whooping cough)",,
+1748_plaieulcereaudosdunchameauwoundulceronthebackofacamel,"plaie, ulcère au dos d’un chameau (wound, ulcer on the back of a camel)",,
+1749_eyebroweyepitfront,"eyebrow, eye-pit, front",1173,EYEBROW
+1750_brain,brain(?),1583,BRAIN
+1751_eyebrows,eyebrows,1173,EYEBROW
+1752_eyebrowtheelevationaroundgenitals,eyebrow; the elevation around genitals,1173,EYEBROW
+1753_bonethatformstheeyesocket,bone that forms the eye socket,,
+1754_tomix,to mix,2017,MIX
+1755_tomixtobrewbeertomakeanalloytokneadinthestativetobespottedvariegatedtomixupconfusetopollutetobenumb,"to mix, to brew beer, to make an alloy, to knead (in the stative), to be spotted, variegated, to mix up, confuse, to pollute, to be numb",2017,MIX
+1756_tomoistentomixuptoconfound,"to moisten; to mix up, to confound",28,MOISTEN
+1757_tominglemix,"to mingle, mix",2017,MIX
+1758_toscattertodisperse,"to scatter, to disperse",3705,SCATTER
+1759_tomoisten,to moisten,28,MOISTEN
+1760_tospoiltoruintodestroytomixtoconfusetomoistentowet,"to spoil, to ruin, to destroy; to mix, to confuse; to moisten, to wet",681,DESTROY
+1761_tosprouttogerminate,"to sprout, to germinate",2076,SPROUT (VERB)
+1762_toproduceplantsorherbstobecomegreentoputforththeirbudstrees,"to produce plants or herbs, to become green, to put forth their buds (trees)",,
+1763_tosprouttoshootforthtogrow,"to sprout, to shoot forth, to grow",479,GROW
+1764_tobeinvalidlosttostopworking,"to be invalid, lost, to stop working",3667,LOST
+1765_toceasetostop,"to cease, to stop",1928,CEASE
+1766_toceaseworking,to cease working,,
+1767_toceasedesistperish,"to cease, desist, perish",1928,CEASE
+1768_tobefalseuntruewrong,"to be false, untrue, wrong",1390,WRONG
+1769_tobeuselessidlevoid,"to be useless, idle, void",2756,IDLE
+1770_tobringgoodtidings,to bring good tidings,,
+1771_toreporttobringgoodnews,"to report, to bring (good) news",,
+1772_pitobringgoodtidings,(pi.) to bring good tidings,,
+1773_iitobringgoodtidings,II. to bring good tidings,,
+1774_toteartocut,"to tear, to cut",1432,CUT
+1775_tostopcutofftostaunchtodecidetoapportiontodivideanumberawhole,"to stop, cut off, to staunch; to decide; to apportion, to divide a number, a whole",685,DECIDE
+1776_secret,secret,1121,SECRET
+1777_tobreakbread,to break bread,,
+1778_togiveacleardecision,to give a clear decision,,
+1779_todivide,to divide,1119,DIVIDE
+1780_toseversunderbreak,"to sever, sunder, break",680,BREAK (DESTROY OR GET DESTROYED)
+1781_miracle,miracle,2541,MIRACLE
+1782_tobreaktocrushtobruise,"to break, to crush, to bruise",1520,CRUSH
+1783_todemolishtodestroy,"to demolish, to destroy",681,DESTROY
+1784_tocuttoteartodividetodetachtoseparate,"to cut, to tear; to divide, to detach, to separate",1432,CUT
+1785_toclearaway,to clear away(?),,
+1786_grapesthathavefalleninavineyard,grapes that have fallen in a vineyard,,
+1787_toopenwidesplit,"to open wide, split",1437,SPLIT
+1788_totearasundercleavetoopenwide,"to tear asunder, cleave; to open wide",,
+1789_togobeforetoprecedethepeopleorcompanyofmen,"to go before, to precede the people or company of men",,
+1790_borderside,"border, side",682,SIDE
+1791_side,side,682,SIDE
+1792_foreheadfront,"forehead, front",123,FOREHEAD
+1793_templeboundarybordersidefringe,"temple; boundary, border, side, fringe",682,SIDE
+1794_sideedge,"side, edge",682,SIDE
+1795_browforehead,"brow, forehead",123,FOREHEAD
+1796_appearanceformfrontside,"appearance, form, front side",1017,APPEARANCE
+1797_troopofmen,troop (of men),,
+1798_tobreaktocrush,"to break, to crush",1520,CRUSH
+1799_todisperse,to disperse,,
+1800_ivtosplittocleave,"IV. to split, to cleave",,
+1801_tosparkletoshinebrightly,"to sparkle, to shine brightly",2889,TWINKLE
+1802_shiningglistering,"shining, glistering",,
+1803_whiteplacesorportionsofsand,white places or portions of sand,,
+1804_toscintillatetoflashtoredden,"to scintillate, to flash, to redden",,
+1805_toopen,to open,1156,OPEN
+1806_pitobreakopenarablesoiltodigfurrows,"(pi.) to break open arable soil, to dig furrows",,
+1807_topierce,to pierce,398,PIERCE
+1808_topuncturetopierce,"to puncture, to pierce",398,PIERCE
+1809_pitoengrave,(pi.) to engrave,,
+1810_aringwithoutastone,a ring without a stone,,
+1811_toplait,to plait,3295,BRAID (VERB)
+1812_totwine,to twine,,
+1813_tiedonadjthreadsubst,tied on (adj.); thread (subst.),1161,THREAD
+1814_niptobeentangledwithoneanothertowrestletobetortuousastute,"(nip.) to be entangled with one another, to wrestle; to be tortuous, astute",,
+1815_totwistdistorttoturnasideturnaway,"to twist, distort; to turn aside, turn away",430,TWIST
+1816_tospintotwist,"to spin, to twist",121,SPIN
+1817_tosplittocleave,"to split, to cleave",1437,SPLIT
+1818_tountietorelease,"to untie, to release",352,UNTIE
+1819_aperture,aperture,,
+1820_todepartgoaway,"to depart, go away",1752,LEAVE
+1821_tocleavetosplittobegintooriginatetrans,"to cleave, to split; to begin, to originate (trans.)",1437,SPLIT
+1822_intestinesexcrement,intestines; excrement,1991,INTESTINES
+1823_darm,Darm,,
+1824_intestinesgut,"intestines, gut",1991,INTESTINES
+1825_dungofsolidhoofedanimalsandbirdshumanexcrement,dung of solidhoofed animals and birds; human excrement,,
+1826_hairontheheadbristle,"hair (on the head), bristle",2648,HAIR (HEAD)
+1827_bristleanimalhair,"bristle, (animal) hair",1040,HAIR
+1828_bristleseyebrows,bristles; eyebrows,1173,EYEBROW
+1829_stinking,stinking,42,STINKING
+1830_abundanceofhair,abundance of hair,,
+1831_sign,sign,1720,SIGN
+1832_tocometocomebacktoreturntoenter,"to come; to come back, to return; to enter",1446,COME
+1833_towalkalonggothroughastreetaroadasquareagateetctopassoveraregion,"to walk along, go through (a street, a road, a square, a gate, etc.), to pass over (a region)",667,ROAD
+1834_tocometoentertowalkalongtopassover,"to come, to enter; to walk along, to pass over",1446,COME
+1835_tocometoenter,to come; to enter,1446,COME
+1836_toreturntocomeback,"to return, to come back",581,COME BACK
+1837_tochoosetotest,"to choose, to test",1750,CHOOSE
+1838_toselectchoosetoexamine,"to select, choose; to examine",1750,CHOOSE
+1839_toselecttolevytroops,to select; to levy (troops),1750,CHOOSE
+1840_toexaminetochoose,to examine; to choose,1750,CHOOSE
+1841_youngfullygrownvigorousman,"young, fullygrown, vigorous man",1207,YOUNG
+1842_tocuttoslittodivide,"to cut, to slit, to divide",1432,CUT
+1843_togiveoffvapourorfume,to give off vapour or fume,,
+1844_patoinflameexcite,"(pa.) to inflame, excite",,
+1845_tosendupitsfumevaporsteamthecookingpot,"to send up its fume, vapor, steam (the cooking pot)",1193,STEAM
+1846_house,house,1252,HOUSE
+1847_houseplaceofdwelling,"house, place of dwelling",1252,HOUSE
+1848_housebuildingresidencehome,"house, building; residence, home",1252,HOUSE
+1849_housedwellingplace,"house, dwelling place",1252,HOUSE
+1850_housetent,"house, tent",1252,HOUSE
+1851_withtogetherwith,"with, together with",1340,WITH
+1852_with,with,1340,WITH
+1853_withbeside,"with, beside",1340,WITH
+1854_togetherwithwiththehelpofbythesideofbesidesoutoffrom,"together with, with the help of, by the side of, besides, out of, from",693,FROM
+1855_uptountil,"up to, until",2753,UNTIL
+1856_uptoasfarasuntiluptoconnotingtimeconcerningasto,"up to, as far as; until, up to (connoting time); concerning, as to",2753,UNTIL
+1857_uptountilclosetoaround,"up to, until; close to, around",2753,UNTIL
+1858_asfarasuntiljustbeforeduring,"as far as, until, just before, during",2753,UNTIL
+1859_upto,up to,,
+1860_likeinthemannerof,"like, in the manner of",1117,LIKE
+1861_likeinthemannerofasaccordingtoinsteadof,"like, in the manner of, as, according to, instead of",1117,LIKE
+1862_like,like,1117,LIKE
+1863_likeasasmanyasaboutaccordingto,"like, as; as many as, about; according to",1117,LIKE
+1864_likeinthemannerofasaccordingtocorrespondingtoinsteadofinlieuof,"like, in the manner of, as, according to, corresponding to, instead of, in lieu of",1117,LIKE
+1865_likeas,"like, as",1117,LIKE
+1866_dememequeinthesamemanneras,de même que (in the same manner as),,
+1867_asjustasevenaslikeasifsuch,"as, just as, even as, like; as if; such",1117,LIKE
+1868_onover,"on, over",1741,ABOVE
+1869_onabovebeyondovertotowardsagainstmorethanatthedebitofonaccountof,"on, above, beyond, over; to, towards; against; more than; at the debit of, on account of",1741,ABOVE
+1870_uponontopofnexttointhepresenceoffromforbecauseofagainstontheaccountofchargedtoonafter,"upon, on top of; next to, in the presence of; from; for, because of; against, on the account of; charged to; on, after",1685,AFTER
+1871_aboveupon,"above, upon",1741,ABOVE
+1872_uponovernotwithstandingonaccountofinthetimeofaccordingtoinconformitytoontheconditionof,"upon, over; notwithstanding; on account of; in the time of; according to, in conformity to; on the condition of",1741,ABOVE
+1873_aboveagainstonuponoveraboutconcerning,"above; against; on, upon, over; about, concerning",1741,ABOVE
+1874_rope,rope,1218,ROPE
+1875_cordropemooringrope,"cord, rope, mooring rope",1218,ROPE
+1876_ropecordsnares,"rope, cord, snares",1218,ROPE
+1877_ropecord,"rope, cord",1218,ROPE
+1878_stringcordropesnares,"string, cord, rope, snares",1218,ROPE
+1879_besidesapartfrom,"besides, apart from",,
+1880_besidesapartfrominadditiontobeyond,"besides, apart from, in addition to, beyond",,
+1881_totowards,"to, towards",2754,TOWARDS
+1882_tosendtostretchout,"to send, to stretch out",1127,SEND
+1883_todispatchsendoff,"to dispatch, send off",,
+1884_tostretchthrowtosend,"to stretch, throw, to send",1127,SEND
+1885_tostripoffhideskin,"to strip off (hide, skin)",763,SKIN
+1886_totakeouttearofftearout,"to take out, tear off, tear out",3654,TAKE OUT
+1887_tofor,"to, for",2754,TOWARDS
+1888_forto,"for, to",2754,TOWARDS
+1889_untiltilluntoasfarassomuchsouptotothepointofevenalsowithinfor,"until, till, unto, as far as, so much so, up to, to the point of, even also, within, for",2753,UNTIL
+1890_becauseofforthesakeof,"because of, for the sake of",2918,BECAUSE OF
+1891_concerningonbehalfofonaccountofbecauseofwithrespecttorelatedto,"concerning, on behalf of, on account of, because of, with respect to, related to",2918,BECAUSE OF
+1892_becausesinceinthatthatisnamelyindeedinfact,"because, since, in that; that is, namely; indeed, in fact",1157,BECAUSE
+1893_red,red,156,RED
+1894_redredgarment,"red, red garment",156,RED
+1895_etrerougeavoirlapeaubrunietoberedtohavebrownskin,"être rouge, avoir la peau brunie (to be red; to have brown skin)",,
+1896_tawnydarkcomplexionedhavinganintermixedcolor,"tawny, darkcomplexioned; having an intermixed color",,
+1897_animalfat,(animal) fat,323,FAT (ORGANIC SUBSTANCE)
+1898_tallowfat,"tallow, fat",323,FAT (ORGANIC SUBSTANCE)
+1899_saindouxaxongelardaxonge,"saindoux, axonge (lard, axonge)",,
+1900_footsoleoffoot,"foot, sole of foot",1301,FOOT
+1901_upperpartpointofthenose,upper part; point of the nose,,
+1902_thepointoftheextremityofanythingtheportionwithwhichonecutsinaswordthetwosidesofthetaperingheadofasandal,the point of the extremity of anything; the portion with which one cuts (in a sword); the two sides of the tapering head of a sandal,,
+1903_eyelashtuftofhair,eyelash; (tuft of) hair,1540,EYELASH
+1904_kopffellfellanhornwurzel,Kopffell (?); Fell an Hornwurzel,,
+1905_ciliafin,"cilia, fin",213,FIN
+1906_placeofgrowthoftheeyelash,place of growth of the eyelash,,
+1907_buttockshindpartssmalloftheback,"buttocks, hind parts, small of the back",834,BUTTOCKS
+1908_buttocksrectumanus,"buttocks, rectum, anus",834,BUTTOCKS
+1909_ano,ano,,
+1910_taillewaist,taille (waist),,
+1911_toabandontodeserttoleave,"to abandon, to desert, to leave",1752,LEAVE
+1912_toputplacearrange,"to put, place, arrange",998,PUT
+1913_toleaveabandontoleavebehindtoletgo,"to leave, abandon; to leave behind; to let go",1752,LEAVE
+1914_tobedistantremoteabsent,"to be distant, remote, absent",1406,FAR
+1915_intestinespleen,intestine; spleen,1991,INTESTINES
+1916_largeintestinepaunchbelly,"large intestine; paunch, belly(?)",1251,BELLY
+1917_apartoftheintestinaltract,a part of the intestinal tract,,
+1918_anusrectum,"anus, rectum",1935,ANUS
+1919_anus,anus,1935,ANUS
+1920_painoftheanus,pain of the anus,,
+1921_kindofskinulcermolemarkontheskin,"kind of skin ulcer; mole, mark on the skin",1907,MOLE
+1922_molemark,"mole, mark",1907,MOLE
+1923_tobeswollenskinlimbwoundtobecomeenraged,"to be swollen (skin, limb, wound); to become enraged",1531,BRANCH
+1924_swellingtumour,"swelling, tumour",1903,SWELLING
+1925_piercingwoundinjuryinfectedwoundulcerswellingofawoundskinrashscar,"piercing, wound, injury, infected wound, ulcer, swelling of a wound, skin rash, scar",497,SCAR
+1926_backpodex,"back, podex",1291,BACK
+1927_chestfrontofthechest,"chest, front of the chest",1592,CHEST
+1928_backrumploin,"back, rump, loin",1291,BACK
+1929_backbreasttorso,"back, breast, torso",1402,BREAST
+1930_backofhandupperpartofsandalmadefromleathershoepatch,"back of hand; upper part of sandal made from leather, shoe patch",,
+1931_dosderrierebackbehind,"dos, derrière (back, behind)",1686,BEHIND
+1932_anusbuttocks,"anus, buttocks",1935,ANUS
+1933_youfemsg,you (fem. sg.),1213,YOU
+1934_youfemsing,you (fem. sing.),1213,YOU
+1935_thoufem,thou (fem.),1215,THOU
+1936_he,he,1211,HE
+1937_heit,"he, it",1211,HE
+1938_she,she,1834,SHE
+1939_sheit,"she, it",1834,SHE
+1940_youmascpl,you (masc. pl.),1213,YOU
+1941_youplmasc,you (pl. masc.),1213,YOU
+1942_threshingfloor,threshing floor,,
+1943_waterjarwaterpotcoffinsarcophagus,"water jar, water pot; coffin, sarcophagus",2011,COFFIN
+1944_threshingfloorplacewherefruitsaredriedstonebasin,threshing floor; place where fruits are dried; stone basin,,
+1945_youfempl,you (fem. pl.),1213,YOU
+1946_youplfem,you (pl. fem.),1213,YOU
+1947_theymasc,they (masc.),817,THEY
+1948_theyfem,they (fem.),817,THEY
+1949_which,which?,727,WHICH
+1950_which,which,727,WHICH
+1951_where,where?,1237,WHERE
+1952_whowhichwhat,"who, which, what",1235,WHO
+1953_arrow,arrow,977,ARROW
+1954_asmallarrow,a small arrow,,
+1955_arrowdart,"arrow,  dart",977,ARROW
+1956_mygenitivepronominalsuffix1sg,"my (genitive pronominal suffix, 1 sg.)",2090,MY
+1957_meaccusativepronominalsuffix1sg,"me (accusative pronominal suffix, 1 sg.)",2301,ME
+1958_youryougenitiveandaccusativepronominalsuffix2mascsg,"your, you (genitive and accusative pronominal suffix, 2 masc. sg.)",732,YOUR (SINGULAR)
+1959_youryougenitiveandaccusativepronominalsuffix2mascsg,"your; you (genitive and accusative pronominal suffix, 2 masc. sg.)",732,YOUR (SINGULAR)
+1960_youryougenitiveandaccusativepronominalsuffix2femsg,"your; you (genitive and accusative pronominal suffix, 2 fem. sg.)",732,YOUR (SINGULAR)
+1961_hishimgenitiveandaccusativepronominalsuffix3mascsg,"his; him (genitive and accusative pronominal suffix, 3 masc. sg.)",2473,HIS (GENITIVE OF HE)
+1962_himaccusativepronominalsuffix3mascsg,"him (accusative pronominal suffix, 3 masc. sg.)",,
+1963_hisgenitivepronominalsuffix3mascsg,"his (genitive pronominal suffix, 3 masc. sg.)",2473,HIS (GENITIVE OF HE)
+1964_hergenitiveandaccusativepronominalsuffix3femsg,"her (genitive and accusative pronominal suffix, 3 fem. sg.)",2474,HER (GENITIVE OF SHE)
+1965_hergenitivepronominalsuffix,her (genitive pronominal suffix),2474,HER (GENITIVE OF SHE)
+1966_ourusgenitiveandaccusativepronominalsuffix1pl,"our; us (genitive and accusative pronominal suffix, 1 pl.)",780,OUR
+1967_ourgenitivepronominalsuffix1pl,"our (genitive pronominal suffix, 1 pl.)",780,OUR
+1968_ourusgenitiveandaccusativepronominalsuffix,our; us (genitive and accusative pronominal suffix),780,OUR
+1969_youryougenitiveandaccusativepronominalsuffix2pl,"your; you (genitive and accusative pronominal suffix, 2 pl.)",732,YOUR (SINGULAR)
+1970_yourgenitivepronominalsuffix2fempl,"your (genitive pronominal suffix, 2 fem. pl.)",732,YOUR (SINGULAR)
+1971_yourgenitivepronominalsuffix2mascpl,"your (genitive pronominal suffix, 2 masc. pl.)",732,YOUR (SINGULAR)
+1972_youryougenitiveandaccusativepronominalsuffix2mascpl,"your; you (genitive and accusative pronominal suffix, 2 masc. pl.)",732,YOUR (SINGULAR)
+1973_youryougenitiveandaccusativepronominalsuffix2fempl,"your; you (genitive and accusative pronominal suffix, 2 fem. pl.)",732,YOUR (SINGULAR)
+1974_theirthemgenitiveandaccusativepronominalsuffix3pl,"their; them (genitive and accusative pronominal suffix, 3 pl.)",2400,THEIR
+1975_theirgenitivepronominalsuffix3fempl,"their (genitive pronominal suffix, 3 fem. pl.)",2400,THEIR
+1976_theirgenitivepronominalsuffix3mascpl,"their (genitive pronominal suffix, 3 masc. pl.)",2400,THEIR
+1977_theirthemgenitiveandaccusativepronominalsuffix3mascpl,"their; them (genitive and accusative pronominal suffix, 3 masc. pl.)",2400,THEIR
+1978_theirthemgenitiveandaccusativepronominalsuffix3fempl,"their; them (genitive and accusative pronominal suffix, 3 fem. pl.)",2400,THEIR
+1979_aringofgoldorsilveranearring,"a ring of gold or silver, an earring",759,SILVER
+1980_toseizetakeholdofcatch,"to seize, take hold of, catch",855,SEIZE
+1981_toseizetakeholdofsthsmb,"to seize, take hold of sth/smb",855,SEIZE
+1982_asmithstongs,a smith’s tongs,,
+1983_toseize,to seize,855,SEIZE
+1984_totakeholdtowithholdrestraintokeeppreserveguardtakecareof,"to take, hold; to withhold, restrain; to keep, preserve,  guard, take care of",1749,TAKE
+1985_tograsptotakeholdoftolayhandson,"to grasp, to take hold of, to lay hands on",2021,GRASP
+1986_tobebrilliant,to be brilliant,3709,BRILLIANT
+1987_numinoussplendouremanatingfromgods,numinous splendour emanating from gods,,
+1988_splendour,splendour,,
+1989_wholesomesweetwater,"wholesome, sweet (water)",717,SWEET
+1990_tolove,to love,923,LOVE
+1991_tolovetobeaffectedinclinedto,"to love, to be affected, inclined to",923,LOVE
+1992_tobesmall,to be small,1246,SMALL
+1993_tobecomesmallfewtobeyoung,"to become small, few, to be young",1242,FEW
+1994_servant,servant,255,SERVANT
+1995_smalloftenderyearsyoung,"small, of tender years, young",1246,SMALL
+1996_thesmalleronetheyoungerone,"the smaller one, the younger one",,
+1997_tobedisgracedoutraged,"to be disgraced, outraged",,
+1998_tobeorbecomelittlesmall,"to be or become little,  small",1579,BE
+1999_tothrowshoot,"to throw, shoot",1456,THROW
+2000_tofireshootarrows,"to fire, shoot arrows",221,FIRE
+2001_tothrow,to throw,1456,THROW
+2002_notnoprohibitiveandnegativeparticle,"not, no (prohibitive and negative particle)",1240,NOT
+2003_notwhere,not; where?,1240,NOT
+2004_notnegativeparticleprefixedtotheverb,not (negative particle prefixed to the verb),1240,NOT
+2005_totie,to tie,1917,TIE
+2006_prisonerofwarcaptiveforeignerusedasworker,"prisoner of war, captive foreigner used as worker",,
+2007_prisonercaptive,"prisoner, captive",1072,PRISONER
+2008_prisoner,prisoner,1072,PRISONER
+2009_tobindtie,"to bind, tie",1917,TIE
+2010_totietotieuptobindtofetter,"to tie, to tie up, to bind, to fetter",1917,TIE
+2011_backsidelowerlegbasefoundation,"backside, lower leg, base, foundation",447,LOWER LEG
+2012_dampcoursebasefoundationofabuildingreignbottomrootlowerextremities,"damp course, base, foundation (of a building, reign), bottom, root, lower extremities",670,ROOT
+2013_tosupporttostand,to support; to stand,1442,STAND
+2014_toleanagainststhtostandbytoplace,"to lean against sth, to stand by; to place",723,PLACE (POSITION)
+2015_supportorfootofawall,support or foot of a wall,,
+2016_goupbeforestanduptostandtobemotionless,"go up before, stand up; to stand; to be motionless",1442,STAND
+2017_tosupporttostaysth,"to support, to stay sth",,
+2018_totietowrap,"to tie, to wrap",1917,TIE
+2019_totwinetodouble,"to twine, to double",,
+2020_wrapveil,"wrap, veil",1113,WRAP
+2021_iiitodouble,III. to double,,
+2022_tobendfoldupdouble,"to bend, fold up, double",2004,BEND
+2023_tolivetoescape,"to live, to escape",1422,BE ALIVE
+2024_togetwelltorecoverfromsicknesstobealivetostayalive,"to get well, to recover from sickness; to be alive, to stay alive",1422,BE ALIVE
+2025_iiitoflee,III. to flee,,
+2026_tobeoldwornout,"to be old, worn out",1229,OLD
+2027_tobecomeextinguishedtocometoanend,"to become extinguished, to come to an end",2209,BECOME EXTINGUISHED
+2028_tobewornout,to be worn out,,
+2029_woodblockasfuel,wood block (as fuel),,
+2030_tobewornoutoldtoage,"to be worn out, old; to age",1229,OLD
+2031_tobeoldwornout,"to be old, wornout",1229,OLD
+2032_becomeold,become old,,
+2033_tospendthenight,to spend the night,,
+2034_tostayovernightspendthenighttodelay,"to stay overnight, spend the night; to delay",425,BE LATE
+2035_tostaythenight,to stay the night,,
+2036_tospendthenightlodge,"to spend the night, lodge",,
+2037_tospendthenighttodosthatnight,to spend the night; to do sth at night,,
+2038_toperseverepersistlaststay,"to persevere, persist, last, stay",1529,LAST (FINAL)
+2039_tobecompletetocometoanend,"to be complete, to come to an end",,
+2040_tobringtoanendtoannihilatetospendtofinishtocometoanend,"to bring to an end, to annihilate, to spend, to finish; to come to an end",1766,FINISH
+2041_totalitytotal,"totality, total",2277,WHOLE
+2042_tocometoanend,to come to an end,,
+2043_tocompletebringtoanendaccomplishtofailcometoanendperishbedestroyed,"to complete, bring to an end, accomplish; to fail, come to an end, perish, be destroyed",3861,FAIL
+2044_iitocollect,II. to collect,,
+2045_accomplishcompleteperfectconsummatebringtoanendcontaincomprehendincludecompletely,"accomplish, complete, perfect,  consummate; bring to an end; contain, comprehend, include completely",,
+2046_tobesharp,to be sharp,1396,SHARP
+2047_tobeorbecomepointeddtoactquickly,to be or become pointed; (D) to act quickly,1579,BE
+2048_tobequickhiptosharpen,to be quick; (hip.) to sharpen,251,SHARPEN (SOMETHING)
+2049_toedgetosharpen,"to edge, to sharpen",251,SHARPEN (SOMETHING)
+2050_tobeparchedshrivelled,"to be parched, shrivelled",,
+2051_shrivelledorwithered,shrivelled or withered,,
+2052_parchedfield,parched field,,
+2053_intenselyhot,intensely hot,,
+2054_speltemmer,"spelt, emmer",,
+2055_speltemmerwheat,"spelt, emmer wheat",,
+2056_tobeinfronttoprecede,"to be in front, to precede",1883,IN FRONT OF
+2057_toprecedegobeforelead,"to precede, go before, lead",43,LEAD (GUIDE)
+2058_gobeforecomebeforeprecedebeginhaveprioritybefirstbeaheadofsurpass,"go before, come before, precede, begin, have priority, be first, be ahead of, surpass",1806,BEGIN
+2059_tobenear,to be near,1942,NEAR
+2060_toapproach,to approach,1778,APPROACH
+2061_toapproachtobenear,"to approach to, be near",1942,NEAR
+2062_tick,tick,1527,TICK
+2063_teignetick,teigne (tick),,
+2064_topluckoff,to pluck off,,
+2065_toplucktopicktocutoff,"to pluck, to pick, to cut off",2148,PICK
+2066_topluckofftwigsearsofcorn,"to pluck off (twigs, ears of corn)",,
+2067_topluckoffcollectharvest,"to pluck off, collect, harvest",3327,AUTUMN OR HARVEST SEASON
+2068_tocollectfruits,to collect fruits,,
+2069_topickflowerstoplucktosnap,"to pick (flowers), to pluck, to snap",2558,BREAK (CLEAVE)
+2070_towear,to wear,976,WEAR
+2071_toputonclothingtoclotheoneselftoclothesomebodytocover,to put on clothing; to clothe oneself; to clothe somebody; to cover,761,COVER
+2072_todresswearputonclothes,"to dress, wear, put on clothes",976,WEAR
+2073_toclotheoneselfwithagarment,to clothe oneself with a garment,,
+2074_toputontowear,"to put on, to wear",976,WEAR
+2075_clotheoneselfputonclotheswearclothesomebody,"clothe oneself, put on clothes, wear; clothe somebody",976,WEAR
+2076_hundred,hundred,1634,HUNDRED
+2077_hundredonehundred,"hundred, one hundred",1634,HUNDRED
+2078_hundredcentury,"hundred, century",1634,HUNDRED
+2079_toask,to ask,1309,ASK (INQUIRE)
+2080_toasktoinquiretointerrogatetoaskforsomething,"to ask, to inquire, to interrogate; to ask for something",1309,ASK (INQUIRE)
+2081_toaskrequest,"to ask, request",1309,ASK (INQUIRE)
+2082_toasktobegfortodemand,"to ask; to beg for, to demand",1309,ASK (INQUIRE)
+2083_toaskinquiretoaskordemandforsomething,"to ask, inquire; to ask or demand for something",1309,ASK (INQUIRE)
+2084_toaskenquiremakearequestpraybeg,"to ask, enquire, make a request,  pray, beg",1309,ASK (INQUIRE)
+2085_einvogelabird,ein Vogel (a bird),,
+2086_aspeciesofpartrige,a species of partrige,,
+2087_chevreaukid,chevreau (kid),,
+2088_toslaughter,to slaughter,1796,SLAUGHTER
+2089_toslaughterbutchertoslitthethroat,"to slaughter, butcher; to slit the throat",1796,SLAUGHTER
+2090_toslaughtertokilloff,to slaughter; to kill off,1796,SLAUGHTER
+2091_tocook,to cook,1100,COOK (SOMETHING)
+2092_toslaughterslaykillcutupsacrificeskin,"to slaughter, slay, kill, cut up, sacrifice, skin",1796,SLAUGHTER
+2093_todriveawaytoexpel,"to drive away, to expel",30,DISPEL
+2094_tosendtodriveoutdriveawaysendawaytoexpel,"to send; to drive out, drive away, send away; to expel",1127,SEND
+2095_todriveawayexpelbanish,"to drive away, expel, banish",30,DISPEL
+2096_nameofabirdprobblackeagle,"name of a bird, prob. black eagle",,
+2097_heron,heron,758,HERON
+2098_owl,owl,735,OWL
+2099_nightbirdowl,"nightbird, owl",735,OWL
+2100_hoopoeowl,hoopoe; owl,735,OWL
+2101_kindofinsectorworm,kind of insect or worm,1219,WORM
+2102_pestle,pestle,225,PESTLE
+2103_nameofaspider,name of a spider,,
+2104_thespider,the spider,843,SPIDER
+2105_largewildbeast,large wild beast,,
+2106_animals,animals,,
+2107_spider,spider,843,SPIDER
+2108_alouseaffectingclothanimalsandpeopleamoth,"a louse affecting cloth, animals and people; a moth",2828,MOTH
+2109_flyingantspecies,flying ant species,,
+2110_alargewildcat,a large wild cat,,
+2111_tiger,tiger (?),846,TIGER
+2112_nonwingedlocustwoodwormcaterpiller,nonwinged locust; wood worm; caterpiller,,
+2113_termitewhiteant,termite; white ant,883,TERMITE
+2114_ostrich,ostrich,3797,OSTRICH
+2115_youngofanimalslarva,"'young of animals, larva'",,
+2116_kindofwormsorlarvae,(kind of worms or larvae),,
+2117_babyanimalsandbirdsorsmallcreatures,baby animals and birds or small creatures,,
+2118_nightingalesparrowchick,nightingale; sparrowchick,3723,NIGHTINGALE
+2119_youngcamel,young camel,,
+2120_ayoungcamelwhenjustborn,a young camel when just born,,
+2121_swarmofbees,swarm of bees,,
+2122_beehivealsothebeesofahiveswarm,"beehive, also the bees of a hive; swarm",88,BEEHIVE
+2123_beebees,bee; bees,665,BEE
+2124_phoenix,phoenix,,
+2125_whitehawkregardedasofevilomen,white hawk regarded as of evil omen,,
+2126_alocust,a locust,810,LOCUST
+2127_kindofbirdsomewhatlikeasparrow,"kind of bird, somewhat like a sparrow",,
+2128_kindofsmallbird,kind of small bird,,
+2129_aspeciesofcrestedbird,a species of crested bird,,
+2130_nightingale,nightingale,3723,NIGHTINGALE
+2131_abirdfattenedtobeeatenbykingsolomon,a bird fattened to be eaten by king Solomon,,
+2132_caterpillarinsectlarva,"caterpillar, insect larva",2247,CATERPILLAR
+2133_raptorconventionallyhawk,"raptor, conventionally “hawk”",,
+2134_redkite,red kite,,
+2135_uncleanbirdofpreyfrequentingruins,unclean bird of prey (frequenting ruins),,
+2136_kite,kite,307,HAWK
+2137_epitheteducorbeauepithetoftheraven,épithète du corbeau (epithet of the raven),,
+2138_cricketsucker,cricket; sucker,2354,CRICKET
+2139_kindofabird,kind of a bird,,
+2140_birdwildbirdperhapsaraptoresphawkfalcon,"bird, wild bird (perhaps a raptor, esp. 'hawk, falcon')",937,BIRD
+2141_falcon,falcon,3258,FALCON
+2142_hawk,hawk,307,HAWK
+2143_femalesparrow,female sparrow,,
+2144_yearlingfoalsmallofdomesticanimals,"yearling foal, small of domestic animals",,
+2145_viscera,viscera,,
+2146_foetusdechatdelievredeherissondegerboisefetuscatharehedgehogjerkin,"foetus (de chat, de lièvre, de hérisson, de gerboise) (fetus (cat, hare, hedgehog, jerkin)",1190,HARE
+2147_fatfatness,fat; fatness,323,FAT (ORGANIC SUBSTANCE)
+2148_fatness,fatness,1279,FAT (OBESE)
+2149_fatpastureground,fat pasture ground,,
+2150_etregrastobefat,être gras (to be fat),,
+2151_qualitedunalimentgrasqualityofafattyfood,qualité d'un aliment gras (quality of a fatty food),,
+2152_tresgrasveryfat,très gras (very fat),,
+2153_kindofinsectlouse,"kind of insect, louse",1392,LOUSE
+2154_parasitelouse,"parasite, louse",1392,LOUSE
+2155_kindofinsectsimilartothescarabmarkedwithblackandwhitespotswhichusuallyaccompaniesorprecedesscorpionsorvipers,kind of insect similar to the scarab marked with black and white spots which usually accompanies or precedes scorpions or vipers,,
+2156_kindofbirdhenquail,"kind of bird (hen, quail)",1893,QUAIL
+2157_youngpoultry,young poultry,,
+2158_chick,chick,2512,CHICK
+2159_quailsparrow,quail; sparrow?,1893,QUAIL
+2160_kindofsmallaquaticbird,kind of small aquatic bird,,
+2161_quail,quail,1893,QUAIL
+2162_tailback,"tail, back",1220,TAIL
+2163_queuetoupettailtoupee,queue; toupet (tail; toupee),,
+2164_queuetail,queue (tail),,
+2165_backbackparttailborder,"back, back part, tail, border",1220,TAIL
+2166_goosecrane,"goose, crane",1187,GOOSE
+2167_grusgrue,grus (grue),,
+2168_numidiancrane,Numidian crane,,
+2169_crane,crane,1830,CRANE
+2170_ailedunoiseauwingofabird,aile (d'un oiseau) (wing (of a bird),,
+2171_prepuceclitoris,"prepuce, clitoris",3257,CLITORIS
+2172_oterenleverleprepucedanslacirconcisiontotakeoffremovetheforeskinincircumcision,"oter, enlever le prépuce (dans la circoncision) (to take off, remove the foreskin (in circumcision)",,
+2173_pieceofskin,(piece of) skin,763,SKIN
+2174_depouillepeauoteebodyskinremoved,"dépouille, peau ôtée (body, skin removed)",,
+2175_peaumincequicouvrelaplaieenvoiedeguerisonthinskinthatcoversthehealingwound,peau mince qui couvre la plaie en voie de guérison (thin skin that covers the healing wound),,
+2176_toweep,to weep,1839,CRY
+2177_toweepcry,"to weep, cry",1839,CRY
+2178_skinpeelscalestest,skin; peel; scales; test,763,SKIN
+2179_crabshell,crab shell,,
+2180_peaudunebeteoteeetvideeskinofananimalremovedandemptied,peau d'une bête ôtée et vidée (skin of an animal removed and emptied),,
+2181_morceaudepeauenleveepieceofskinremoved,morceau de peau enlevée (piece of skin removed),,
+2182_longhairmane,"(long) hair, mane",1918,MANE
+2183_toupettoupee,toupet (toupee),,
+2184_grandenueedesauterelleslargeswarmoflocusts,grande nuée de sauterelles (large swarm of locusts),,
+2185_kindofsmallcreature,kind of small creature,,
+2186_asmallanimalprobablyafrog,"a small animal, probably a frog",,
+2187_alocustorbirdeineartheuschreckekindofgrasshopper,a locust or bird; eine Art Heuschrecke (kind of grasshopper),937,BIRD
+2188_poufourmilouseant,pou; fourmi (louse; ant),587,ANT
+2189_wildcat,(wild) cat,1208,CAT
+2190_awildanimalgepardcheetah,a wild animal; Gepard (cheetah),958,WILD ANIMAL
+2191_akindofbirdswallowdove,"a kind of bird (swallow, dove)",1853,DOVE
+2192_perroquetparrotlaperrucheacolliercouleurderosetherosecolouredparakeet,perroquet (parrot); la perruche a collier couleur de rose (the rosecoloured parakeet),,
+2193_kindofworminsect,"kind of worm, insect",620,INSECT
+2194_aparasiteworminthebowels,a parasite worm in the bowels,,
+2195_quailpl,quail (pl.),1893,QUAIL
+2196_awadingbird,a wading bird,,
+2197_dove,dove,1853,DOVE
+2198_kindoflittlebirdsimilartoaswallow,kind of little bird similar to a swallow,,
+2199_deadbodybackofbody,"(dead) body, back (of body)",1291,BACK
+2200_corpsedeadman,"corpse, dead man",767,CORPSE
+2201_thelocustlocusts,the locust; locusts,810,LOCUST
+2202_heronpelicanibis,"heron, pelican; ibis",758,HERON
+2203_kindofbirdofprey,kind of bird of prey,,
+2204_anuncleanbird,an unclean bird,,
+2205_youngoneofpartridge,young one of partridge,,
+2206_kindofreptilesnakelizard,"kind of reptile (snake, lizard)",632,LIZARD
+2207_kindofbiglizard,kind of big lizard,,
+2208_araneaspider,aranea (spider),,
+2209_pelican,pelican,472,PELICAN
+2210_ant,ant,587,ANT
+2211_sesame,sesame,2797,SESAME
+2212_redant,red ant,,
+2213_kindofsnakeworminsectlarvae,"kind of snake, worm, insect larvae",1219,WORM
+2214_hornedviper,horned viper,,
+2215_serpentfieldcricketcreepinganimalcrawlinglocust,serpent; field cricket; creeping animal; crawling locust,730,SNAKE
+2216_serpentkindofsnakewithblackandwhitespots,serpent; kind of snake with black and white spots,730,SNAKE
+2217_anocturnalbird,a nocturnal bird,,
+2218_birdwhichhuntsfish,bird which hunts fish,,
+2219_kitebird,kite (bird),307,HAWK
+2220_backofneck,back of neck,,
+2221_dosback,dos (back),,
+2222_amygdal,amygdal,,
+2223_gorge,gorge,,
+2224_torsobody,"torso, body",1480,BODY
+2225_hipflank,"hip, flank",1745,HIP
+2226_sidearm,"side, arm",1673,ARM
+2227_hipsidegirdlearoundmalepubicareawheelsandaxles,hip.side; girdle around male pubic area; wheels and axles,,
+2228_coeurameespritheartsoulspirit,"coeur, âme, esprit (heart, soul, spirit)",811,SOUL
+2229_poitrinebreast,poitrine (breast),,
+2230_milieududosvertebresdunebetedesommemiddleofthebackchine,"milieu du dos, vertèbres (d'une bête de somme) (middle of the back, chine)",,
+2231_poitrinemilieuducorpsdelhommechestmidsection,poitrine; milieu (du corps de l'homme) (chest; midsection),,
+2232_poitrinechest,poitrine (chest),,
+2233_corpstailleetvolumeducorpscadavrebodycorpse,"corps, taille et volume du corps; cadavre (body; corpse)",767,CORPSE
+2234_cadavredesauterelledeadlocust,cadavre de sauterelle (dead locust),,
+2235_corpsobjetsaillantbodyprotrudingobject,corps; objet saillant (body; protruding object),,
+2236_cricketlocust,"cricket, locust",810,LOCUST
+2237_especedesauterellespeciesoflocust,espèce de sauterelle (species of locust),,
+2238_breastbonesideofbody,breastbone; side of body,2810,BREASTBONE
+2239_chestbonessternumbreastbone,"chest bones, sternum, breastbone",2810,BREASTBONE
+2240_bosomchestdewlap,"bosom, chest; dewlap",1592,CHEST
+2241_bosom,bosom,1402,BREAST
+2242_hangingfleshunderthechinofsomeanimalsdewlapofoxenbeardofcockthroatofhumans,"hanging flesh under the chin (of some animals), dewlap (of oxen), beard (of cock), throat (of humans)",678,BEARD
+2243_dewlapbeardthroat,"dewlap, beard, throat",678,BEARD
+2244_chestbosom,"chest, bosom",1592,CHEST
+2245_chest,chest,1592,CHEST
+2246_whelpcub,"whelp, cub",74,PUPPY
+2247_cublionjackal,"cub (lion, jackal)",3313,JACKAL
+2248_whelpofaliondogpigsnake,"whelp (of a lion, dog, pig, snake)",2009,DOG
+2249_petitdechiendelionoudetouteautrebetecarnassierewhelpofadoglionoranyothercarnivorousanimal,"petit de chien, de lion ou de toute autre bête carnassière (whelp of a dog, lion or any other carnivorous animal)",1386,LION
+2250_kindofmouserat,"kind of mouse, rat",1490,RAT
+2251_dormouse,dormouse,,
+2252_rat,rat,1490,RAT
+2253_kindofcreepingcreature,kind of creeping creature,,
+2254_saraphserpent,Saraph serpent,,
+2255_adove,a dove,1853,DOVE
+2256_asmallbird,a small bird,,
+2257_aninsectlarva,an insect; larva,2640,LARVA
+2258_aspeciesofspider,a species of spider,,
+2259_scorpionnewlyhatchedyoungscorpion,scorpion (newly hatched); young scorpion,1538,SCORPION
+2260_animalsofthedesert,animals of the desert,,
+2261_tomcat,tomcat,,
+2262_antelope,antelope,3674,ANTELOPE
+2263_largehoofedanimal,large-hoofed animal,,
+2264_kindofinsectbeewasp,"kind of insect (bee, wasp)",1517,WASP
+2265_youngbull,(young) bull,1008,BULL
+2266_sucklingfattedcalfyoungofflockyounganimalcalfheiferlamb,"suckling, fatted calf, young of flock, young animal (calf, heifer, lamb)",820,LAMB
+2267_kindofinsectsnail,"kind of insect, snail",1543,SNAIL
+2268_kindofinsectorlarva,kind of insect or larva,2640,LARVA
+2269_snail,snail,1543,SNAIL
+2270_kindofbirdexplqataiepteroclesorcoturnix,"kind of bird, expl. Qaṭā, i.e. pterocles or coturnix",,
+2271_smallcamelsorlambsyoungofaherdmadeupofcamelsorsheep,small camels or lambs; young of a herd made up of camels or sheep,1331,SHEEP
+2272_youngofungulate,(young of) ungulate,,
+2273_kidkidthatistieduporthrownintoapittoattractalionorawolf,kid; kid that is tied up or thrown into a pit to attract a lion or a wolf,1972,YOUNG GOAT (KID)
+2274_kindofgazelle,kind of gazelle,,
+2275_tofleesaidofagazelle,to flee (said of a gazelle),956,FLEE
+2276_starling,starling,,
+2277_rooster,rooster,1511,ROOSTER
+2278_asmallcreaturesthatruinthefields,a small creatures that ruin the fields,,
+2279_grasshopper,grasshopper,607,GRASSHOPPER
+2280_kindofrodent,kind of rodent,,
+2281_castorbeaver,castor (beaver),,
+2282_especedegrosratdeschampsakindoflargefieldrat,espèce de gros rat des champs (a kind of large field rat),,
+2283_tocatchtofishtohunt,"to catch, to fish, to hunt",1435,HUNT
+2284_tobeclear,to be clear,989,CLEAR
+2285_toshine,to shine,708,SHINE
+2286_tobebald,to be bald,1125,BALD
+2287_kindoffish,kind of fish,,
+2288_abird,(a bird),,
+2289_anuncleanspeciesofbirdfrequentingruinsandthedesertatypeofowlscopsowlorjackdaw,an unclean species of bird frequenting ruins and the desert; a type of owl (?); scops owl or jackdaw,,
+2290_smallhoofedanimal,small hoofed animal,,
+2291_nameofabirdofpreysupposedtobefalcon,"name of a bird of prey, supposed to be falcon",,
+2292_birdofpreyfalconhawk,"bird of prey, falcon, hawk",307,HAWK
+2293_kranichcrane,Kranich (crane),,
+2294_grue,grue,,
+2295_scarabaeusscarab,scarabaeus (scarab),,
+2296_especedefourmisgrandesetnoiresspeciesoflargeblackants,"espèce de fourmis grandes et noires (species of large, black ants)",,
+2297_tobeavailabletostay,"to be available, to stay",987,REMAIN
+2298_iiitovietocompeteforsuperioritytoemulatetorivaltoimitate,"III. to vie, to compete for superiority; to emulate, to rival, to imitate",117,IMITATE
+2299_tofollowsuccessivelytodobyturnstoalternatewithoneanothertorelayoneanother,"to follow successively, to do by turns, to alternate with one another, to relay one another",,
+2300_tobefilmyorflickeringeyeseveningdusk,"to be filmy or flickering (eyes); evening, dusk",1629,EVENING
+2301_atdusk,at dusk,2297,DUSK
+2302_tobefilmy,to be filmy (?),,
+2303_tobecleanclear,"to be clean, clear",989,CLEAR
+2304_radiance,radiance,,
+2305_tobeorremainpurecleanfree,"to be or remain pure, clean, free",1579,BE
+2306_topurgeout,to purge out,,
+2307_sincereguilelesssimpleinexperienced,"sincere, guileless, simple, inexperienced",686,EASY
+2308_tobegoodpious,"to be good, pious",1035,GOOD
+2309_topurifytomakewhite,"to purify, to make white",,
+2310_reedmat,"reed, mat",195,MAT
+2311_reedmat,reed mat,,
+2312_reedreedpenbranchofachandelierstalkstemoffruitstubble,"reed, reed pen, branch of a chandelier, stalk, stem of fruit, stubble",659,REED
+2313_tobedislocated,to be dislocated,,
+2314_tolieacross,to lie across,,
+2315_viitobedislocatedtheheadofthehumerusfromitsscapulatobelaxorslacktheshoulderjoint,"VII. to be dislocated (the head of the humerus from its scapula), to be lax or slack (the shoulderjoint)",2506,LOOSE
+2316_toseparatetodivide,"to separate, to divide",1119,DIVIDE
+2317_toseparate,to separate,1359,SEPARATE
+2318_toreleasetounknit,"to release, to unknit",1095,LET GO OR SET FREE
+2319_totearofftotearaway,"to tear off, to tear away",,
+2320_toremove,to remove,,
+2321_tomakeaseparation,to make a separation,,
+2322_tocut,to cut,1432,CUT
+2323_toshred,to shred,,
+2324_toteartopieces,to tear to pieces,,
+2325_tocutetptobesplitpatocutapart,to cut; (etp.) to be split; (pa.) to cut apart,1432,CUT
+2326_couperenpetitsmorceauxtocutintosmallpieces,couper en petits morceaux (to cut into small pieces),,
+2327_spinalcolumnwiththighbones,spinal column with thigh bones,,
+2328_crotchregionbetweenthethighsthehindlegsofanimals,"crotch, region between the thighs; the hind legs of animals",,
+2329_limbvertebraofthespinalcolumnlink,limb; vertebra of the spinal column; link,1531,BRANCH
+2330_backofthehorse,back of the horse,,
+2331_midbackvertebra,"mid back, vertebra",,
+2332_canalanaturethra,"canal (anat.), urethra (?)",,
+2333_vagina,vagina,1836,VAGINA
+2334_udderorpeniscanal,udder or penis canal,154,UDDER
+2335_loinhip,"loin, hip",1745,HIP
+2336_armorhip,arm (or hip),1673,ARM
+2337_loins,loins,187,LOIN
+2338_gizzardofsomebirdswhichhasabigbellyabovethenavel,gizzard (of some birds); which has a big belly above the navel,,
+2339_loin,loin,187,LOIN
+2340_breaststomachentrails,"breast, stomach, entrails",1402,BREAST
+2341_partofhumaninsides,part of human insides,,
+2342_middleofchestchestbreastboneetc,"middle of chest, chest, breastbone, etc.",1592,CHEST
+2343_toinsult,to insult,3204,INSULT
+2344_ivtoblametocensure,"IV. to blame, to censure",,
+2345_toberedhot,to be red-hot,,
+2346_tobered,to be red,156,RED
+2347_tobubbleuptoboiltobeeffervescenttoflareup,"to bubble up, to boil; to be effervescent, to flare up",2493,BOIL
+2348_amythicalaquaticreptile,a (mythical) aquatic reptile,,
+2349_anaquaticanimal,an aquatic animal,,
+2350_serpentdragon,"serpent, dragon",2038,DRAGON
+2351_femininegenitalorganuterus,"(feminine) genital organ, uterus",,
+2352_sinuspeniscunnusvagina,"sinus; penis; cunnus, vagina",1222,PENIS
+2353_uterus,uterus,,
+2354_entrails,entrails,,
+2355_humanlungsbellyentrails,"human lungs, belly, entrails",1251,BELLY
+2356_visceraanyinteriorpartofthebodyintestines,viscera (any interior part of the body); intestines,1991,INTESTINES
+2357_fetalmembrane,fetal membrane,,
+2358_eggmembrane,egg membrane,,
+2359_secondmembranethatcomesoutoftheuterusatparturitionandisfilledwithwaterincamels,second membrane that comes out of the uterus at parturition and is filled with water (in camels),,
+2360_afalcon,a falcon,3258,FALCON
+2361_smallowl,small owl,,
+2362_partofhumanbodypossiblywaist,"part of human body, possibly waist",,
+2363_middleofthebodyslimmidbody,"middle of the body, slim mid body",,
+2364_fattytissuearoundintestinsandstomach,fatty tissue around intestins and stomach,,
+2365_fattytissuearoundtheintestines,fatty tissue around the intestines,,
+2366_aninsectadisease,"an insect, a disease",1986,DISEASE
+2367_asnail,a snail,1543,SNAIL
+2368_woodwormmoth,"woodworm, moth",2828,MOTH
+2369_forearmcubit,"forearm, cubit",446,LOWER ARM
+2370_alinearmeasureshortcubit,"a linear measure, short cubit",,
+2371_cubitusulna,"cubitus, ulna",,
+2372_akindofowl,a kind of owl,,
+2373_crow,crow,913,CROW
+2374_corvusraven,corvus (raven),,
+2375_ravencrow,"raven, crow",913,CROW
+2376_frog,frog,503,FROG
+2377_ranafrog,rana (frog),,
+2378_grenouillefrog,grenouille (frog),,
+2379_insectumquoddamacertainkindofinsect,insectum quoddam (a certain kind of insect),,
+2380_sipgulp,"sip, gulp",,
+2381_toraisetolift,"to raise, to lift",501,LIFT
+2382_carryliftup,"carry, lift up",700,CARRY
+2383_toraiselifthelpuptocarrytowear,"to raise, lift, help up; to carry; to wear",700,CARRY
+2384_togrowuptobecomeelevatedtooccur,"to grow up, to become elevated, to occur",552,GROW UP
+2385_totaketopartaketoreceive,"to take, to partake, to receive",1749,TAKE
+2386_toriseup,to rise up,705,GO UP (ASCEND)
+2387_tosplittoseparate,"to split, to separate",1437,SPLIT
+2388_todemarcatetodivideoff,"to demarcate, to divide off",,
+2389_district,district,,
+2390_divisiondividing,"division, dividing",,
+2391_tocleavetosplit,"to cleave, to split",1437,SPLIT
+2392_todividetodisintegrate,"to divide, to disintegrate",1119,DIVIDE
+2393_niptobeseparatedpitosplittomakeafurrow,"(nip.) to be separated; (pi.) to split, to make a furrow",1437,SPLIT
+2394_divisitpartitusesttobedivided,"divisit, partitus est (to be divided)",,
+2395_totilltoplowtodoagriculturalworktoworktoserveespeciallyadeitytovenerate,"to till, to plow, to do agricultural work; to work; to serve (especially a deity), to venerate",1086,WORK (ACTIVITY)
+2396_tobeafraidtoservetovenerate,to be afraid; to serve; to venerate,1419,FEAR (BE AFRAID)
+2397_laboravitveneratusestcoluitdeumtolabortovenerateworshipgod,"laboravit; veneratus est, coluit (deum) (to labor; to venerate, worship (god)",257,WORSHIP
+2398_toplowtocultivate,"to plow, to cultivate",1541,CULTIVATE
+2399_backsideorfrontpartofbodyofasheep,"back, side or front part of body (of a sheep?)",1291,BACK
+2400_softpartofthesheepsbreastboneacutofthemeatofasheep,soft part of the sheep's breastbone; a cut of the meat of a sheep,,
+2401_rearlastpartbacksidebehindbehindofthehead,"rear, last part, backside, behind, behind of the head",1686,BEHIND
+2402_jointoftheribsfingersetc,"joint (of the ribs, fingers, etc.)",1303,FINGER
+2403_jointofthehumanoranimalbody,joint of the human or animal body,,
+2404_hollowatthetopofthechestbetweenthetwocollarbones,"hollow at the top of the chest, between the two collarbones",,
+2405_topierceboretobreakthroughbreakinto,"to pierce, bore, to break through, break into",398,PIERCE
+2406_pitopenetratetoperforate,"(pi.) to penetrate, to perforate",1501,BORE
+2407_topiercebreakthrough,"to pierce, break through",398,PIERCE
+2408_tobeattentiveinterestedinsomebodyorsomething,"to be attentive, interested in somebody or something",1908,ATTENTIVE
+2409_tocommand,to command,1998,COMMAND
+2410_todeposithiptoentrusttoappointtoattendtotopassinreviewtomustertopassinreviewtoseekwithinterestdesiretoseekinvaintomisstolacktovisit,"to deposit; (hip.) to entrust; to appoint; to attend to; to pass in review, to muster; to pass in review; to seek (with interest, desire); to seek in vain, to miss, to lack; to visit",1377,VISIT
+2411_toappointovertoordertocommandtocarefortoenumeratetoexaminetovisit,"to appoint over; to order, to command; to care for; to enumerate, to examine; to visit",1128,ORDER
+2412_prefect,prefect,,
+2413_tomisstolosenottofindvvisiterexaminerunechoselaconsidererattentivementyfaireattentionenprendresointovisitexaminesomethingtoconsideritcarefullytopayattentiontoittotakecareofit,"to miss, to lose, not to find; V. visiter, examiner une chose, la considérer attentivement, y faire attention, en prendre soin (to visit, examine something, to consider it carefully, to pay attention to it, to take care of it)",1660,LOSE
+2414_totakecareoftosurveytoreviewtomustertonumbertoenumerate,"to take care of; to survey, to review; to muster; to number, to enumerate",1356,NUMBER
+2415_tosmashtocrack,"to smash, to crack",3080,SPLIT OPEN
+2416_toslicetoslit,"to slice, to slit",2156,CUT (WITH KNIFE)
+2417_tosmiteonesheadwiththestickorswordtomakeaseparationbetweenpeopleivtomaketobleed,to smite one’s head with the stick or sword; to make a separation (between people); IV. to make to bleed,1535,SWORD
+2418_totearloosetomelt,"to tear loose, to melt",2334,MELT
+2419_meaningexplanation,"meaning, explanation",2950,MEANING
+2420_todigestripentoliquefytointerpret,"to digest, ripen; to liquefy; to interpret",179,RIPEN
+2421_todiscovertorevealtorendercleartoexplain,"to discover, to reveal, to render clear, to explain",1626,EXPLAIN
+2422_tocuttopiercetoincise,"to cut, to pierce, to incise",1432,CUT
+2423_tobreakanoathtotransgressviolateatrust,"to break an oath, to transgress, violate a trust",,
+2424_breachopening,"breach, opening",1667,HOLE
+2425_tomakeasplitabreach,"to make a split, a breach",,
+2426_tomakeanotchorincision,to make a notch or incision,,
+2427_virgin,virgin,2298,VIRGIN
+2428_youngman,young man,76,YOUNG MAN
+2429_chastemodest,"chaste, modest",,
+2430_virginumarriedpersonvirgonameofaconstellation,"virgin, umarried person; Virgo, name of a constellation",2298,VIRGIN
+2431_avirginawomanthatwithholdsherselffrommen,a virgin; a woman that withholds herself from men,2298,VIRGIN
+2432_tobeearly,to be early,672,EARLY
+2433_pitobearfirstfruits,(pi.) to bear firstfruits,,
+2434_firstfruits,firstfruits,,
+2435_tobefirst,to be first,728,FIRST
+2436_firstearliestgenerallysaidoffruit,"first, earliest (generally said of fruit)",728,FIRST
+2437_togoforthearlyinthemorning,to go forth early in the morning,,
+2438_totrickletoflow,"to trickle, to flow",2003,FLOW
+2439_totrickle,to trickle,,
+2440_silt,silt,,
+2441_toflowbylittleandlittle,to flow by little and little,,
+2442_littlewater,little water,,
+2443_rainlittleinquantity,rain little in quantity,,
+2444_rasahatoleaktooozeofwater,"= rašaḥa 'to leak, to ooze (of water)'",,
+2445_toflash,to flash,,
+2446_toshinetoflash,"to shine, to flash",708,SHINE
+2447_toappearlightningtoshinetogleamtoglisten,"to appear (lightning); to shine, to gleam, to glisten",708,SHINE
+2448_toflashtoscintillatetoshinetosparkle,"to flash, to scintillate, to shine, to sparkle",708,SHINE
+2449_ceder,ceder,,
+2450_towish,to wish,2117,DESIRE
+2451_toasktowishtodesire,"to ask, to wish, to desire",2117,DESIRE
+2452_torequestwishdemandclaim,"to request, wish, demand, claim",1784,WANT
+2453_desire,desire,2960,LONGING (WISH)
+2454_reed,reed,659,REED
+2455_tokiss,to kiss,578,KISS
+2456_tokisstocomeintocontactofwater,to kiss; to come into contact (of water),578,KISS
+2457_occiputbackofthehead,"occiput, back of the head",523,BACK OF HEAD
+2458_backsideofthecervical,back side of the cervical,,
+2459_behindthenecknapebackoftheheadocciput,"behind the neck, nape; back of the head, occiput",1347,NAPE (OF NECK)
+2460_shoulderblade,shoulder blade,172,SHOULDERBLADE
+2461_innerpartmiddleofthebody,"inner part, middle of the body",,
+2462_intestinesinsidesintheplmindheart,"intestines, insides (in the pl.), mind, heart",1223,HEART
+2463_midsection,midsection,,
+2464_entrailsinwardparts,"entrails, inward parts",,
+2465_flanksfromthehipstothelowerabdomen,"flanks, from the hips to the lower abdomen",,
+2466_bestraight,be straight,1404,STRAIGHT
+2467_tobeinordertostraightenuptoprosper,to be in order; to straighten up; to prosper,,
+2468_uprightnesslawfulness,"uprightness, lawfulness",,
+2469_bestraightsmoothright,"be straight, smooth, right",1234,SMOOTH
+2470_tobegentleeasy,"to be gentle, easy",686,EASY
+2471_yesterday,yesterday,1174,YESTERDAY
+2472_tomarktobrand,"to mark, to brand",1720,SIGN
+2473_amark,a mark,1720,SIGN
+2474_tomarkstigmatizebrand,"to mark, stigmatize, brand",621,IRON
+2475_sacred,sacred,1702,HOLY
+2476_tomakerituallycleantopurify,"to make ritually clean, to purify",,
+2477_holy,holy,1702,HOLY
+2478_holyconsecrated,"holy, consecrated",1702,HOLY
+2479_patosanctifydeemholy,"(pa.) to sanctify, deem holy",,
+2480_iitosanctifyconsecratepurify,"II. to sanctify, consecrate, purify",,
+2481_tosanctifydeclareholyperformsacredofficescelebratemass,"to sanctify, declare holy, perform sacred offices, celebrate Mass",,
+2482_axe,axe,677,AXE
+2483_anaxeorhatchet,an axe or hatchet,677,AXE
+2484_axeadze,"axe, adze",677,AXE
+2485_twenty,twenty,1710,TWENTY
+2486_tosaw,to saw,3543,SAW (SOMETHING)
+2487_asaw,a saw,1948,SAW
+2488_tosawtoplane,"to saw, to plane",3543,SAW (SOMETHING)
+2489_comb,comb,1475,COMB
+2490_tocomb,to comb,2070,COMB (VERB)
+2491_tosetlaydown,"to set, lay down",160,SET (HEAVENLY BODIES)
+2492_toallotpowerestablishfixadestinyordainthefuture,"to allot power, establish, fix a destiny, ordain the future",,
+2493_tolaydownsetdownarrangefix,"to lay down, set down, arrange, fix",2071,LAY (VERB)
+2494_toplacetosetup,"to place, to set up",723,PLACE (POSITION)
+2495_tohidetoinsertonethingintoanothertoimpress,"to hide, to insert one thing into another, to impress",2486,HIDE
+2496_tosetsetinorderputplacechargepromoteconsecrate,"to set, set in order, put, place, charge, promote, consecrate",723,PLACE (POSITION)
+2497_totakebackgraspseizehold,"to take (back), grasp, seize, hold",1448,HOLD
+2498_toseizetograsp,"to seize, to grasp",855,SEIZE
+2499_totakecatch,"to take, catch",1749,TAKE
+2500_toobstruct,to obstruct,2762,BLOCK (THE WAY)
+2501_todamuptoblock,"to dam up, to block",2762,BLOCK (THE WAY)
+2502_abolt,a bolt,2007,BOLT (OF LIGHTNING)
+2503_niptobeobstructed,(nip.) to be obstructed,,
+2504_toshuttocloseup,"to shut, to close up",1046,SHUT
+2505_todamstopup,"to dam, stop up",,
+2506_tobreakfracture,"to break, fracture",680,BREAK (DESTROY OR GET DESTROYED)
+2507_tobreakshatter,"to break, shatter",680,BREAK (DESTROY OR GET DESTROYED)
+2508_toshattersmash,"to shatter, smash",,
+2509_torestraintocursetodestroytoperish,to restrain; to curse; to destroy; to perish,681,DESTROY
+2510_genitalstesticles,"genitals, testicles",797,TESTICLES
+2511_vulvahapax,vulva (hapax),1837,VULVA
+2512_tocutofftodividetoseparate,"to cut off, to divide, to separate",1119,DIVIDE
+2513_tobreaktonotchtodepartandthenreturn,"to break, to notch; to depart and then return",680,BREAK (DESTROY OR GET DESTROYED)
+2514_tocuttohollowouttorendwiththeteeth,"to cut, to hollow out, to rend with the teeth",1432,CUT
+2515_toslice,to slice,2156,CUT (WITH KNIFE)
+2516_springfountain,"spring, fountain",849,SPRING (OF WATER)
+2517_tocuttoslittoopenavein,"to cut, to slit, to open a vein",1432,CUT
+2518_togazetolookattoseek,"to gaze, to look at, to seek",1468,LOOK FOR
+2519_tolookforsearchtoprobetoseekoutsomeone,"to look for, search, to probe; to seek out someone",1468,LOOK FOR
+2520_togazelookat,"to gaze, look at",1819,LOOK
+2521_jointpointofconnectionbetweenbones,"joint, point of connection between bones",999,JOINT
+2522_kneeshincalfoftheleg,"knee, shin, calf of the leg",1371,KNEE
+2523_tocurluptobend,"to curl up, to bend",2004,BEND
+2524_handfuls,handfuls,,
+2525_aplaceonthebackoftheheadwherethehairendsareaofthebreastwheretheribsmeet,a place on the back of the head where the hair ends; area of the breast where the ribs meet,,
+2526_legshinshinbonethigh,"leg, shin, shinbone, thigh",1297,LEG
+2527_animalsbodyfromnecktorump,(animal's) body from neck to rump,,
+2528_tendonoftheneckneck,tendon of the neck; neck,1333,NECK
+2529_theupperchestthatmeetsthecollarbone,the upper chest that meets the collarbone,,
+2530_upperpartofthechestlownecklinethroat,"upper part of the chest, low neckline, throat",1346,THROAT
+2531_chestespeciallythepartbetweentheteatschestofanyhoofedanimalbreast,"chest, especially the part between the teats, chest (of any hoofed animal); breast",1402,BREAST
+2532_thetopofthechestorchestfromwhichdescendsanecklaceorotherneckadornmentcheststrapofhorseetc,the top of the chest or chest from which descends a necklace or other neck adornment; chest strap (of horse etc.),,
+2533_bladderofanimals,bladder (of animals),1746,BLADDER
+2534_bladderofabirdsheeporfish,"bladder (of a bird, sheep or fish)",1331,SHEEP
+2535_muskpurse,musk purse,,
+2536_wordphraselanguageidiom,"word, phrase, language, idiom",1599,WORD
+2537_jawbonespl,jawbones (pl.),,
+2538_maxillajaw,maxilla (jaw),,
+2539_conchalnerveoftheearearlobe,conchal nerve of the ear; ear lobe,,
+2540_tendonsinewmuscle,"tendon, sinew; muscle",1004,MUSCLE
+2541_sinews,sinews,,
+2542_crinisnervuschordatonus,crinis; nervus; chorda; tonus,,
+2543_theentirepartofthebellythatsurroundsthenavel,the entire part of the belly that surrounds the navel,,
+2544_corpsecarcass,"corpse, carcass",767,CORPSE
+2545_cadaver,cadaver,,
+2546_cadavercarrion,"cadaver, carrion",1770,CARCASS
+2547_tobeconfidentatrest,"to be confident, at rest",168,REST
+2548_tobeconfident,to be confident,,
+2549_tospreadtoexpandtoextendtothrowsomebodydownuponhisfaceviitolietostretchoneself,"to spread, to expand, to extend; to throw somebody down upon his face; VII. to lie, to stretch oneself",38,SPREAD OUT
+2550_tobuy,to buy,1869,BUY
+2551_wombuterus,"womb, uterus",804,WOMB
+2552_intestins,intestins,,
+2553_tobetight,to be tight,3053,TIGHT
+2554_viitobecomeleanemaciatedviiitobecomepoorinwantorneed,"VII. to become lean, emaciated; VIII. to become poor, in want or need",2339,NEED (SOMETHING)
+2555_todeceivetoslander,"to deceive, to slander",3230,DECEIVE
+2556_toslander,to slander,3641,SLANDER
+2557_tobringtogether,to bring together,,
+2558_toownashareinacommonfund,to own a share in a common fund,,
+2559_tomixtoassociatetouniteincompany,"to mix, to associate, to unite in company",2017,MIX
+2560_toassembletocometogether,"to assemble, to come together",3638,ASSEMBLE (GET TOGETHER)
+2561_tocuttotear,"to cut, to tear",1432,CUT
+2562_tosever,to sever,,
+2563_topickgathergrapes,"to pick, gather grapes",2148,PICK
+2564_toseparatetodetachtotear,"to separate, to detach, to tear",1359,SEPARATE
+2565_tobespoiled,to be spoiled,,
+2566_kindofdiseasecausingscalesontheskinleprosy,(kind of) disease causing scales on the skin; leprosy,3624,LEPROSY
+2567_apockmarkorwart,a pockmark or wart,2665,WART
+2568_scalesonthebodiesofserpents,scales on the bodies of serpents,,
+2569_leperwhohasscalyskin,"leper, who has scaly skin",,
+2570_tobesoftmoistened,"to be soft, moistened",1856,SOFT
+2571_tosoakmoisten,"to soak, moisten",2069,SOAK (VERB)
+2572_crushedlooseearth,"crushed, loose earth",,
+2573_rotten,rotten,1728,ROTTEN
+2574_tobecomesourtobecomesoftbyreasonoftoomuchwater,to become sour; to become soft by reason of too much water,2229,BECOME SOUR
+2575_topricktopuncture,"to prick, to puncture",1434,STAB
+2576_topiercetostitch,"to pierce, to stitch",398,PIERCE
+2577_tobeclosetojoineachother,"to be close, to join each other",1046,SHUT
+2578_thousand,thousand,1843,THOUSAND
+2579_peopleclan,"people, clan",302,CLAN
+2580_nation,nation,789,PEOPLE
+2581_toputtogether,to put together,,
+2582_agreementconcord,"agreement, concord",3644,AGREEMENT
+2583_topiercetostab,"to pierce, to stab ?",398,PIERCE
+2584_punctured,punctured,,
+2585_tostrikehard,to strike hard,,
+2586_topush,to push,1452,PUSH
+2587_topushtoknockdown,"to push, to knock down",1452,PUSH
+2588_topushaway,to push away,,
+2589_topushtostrike,"to push, to strike",1452,PUSH
+2590_toperishtobewipedouttopushasidetorepulse,"to perish, to be wiped out; to push aside, to repulse",2865,DIE (FROM ACCIDENT)
+2591_tobegood,to be good,1035,GOOD
+2592_tobegoodbeautifultoprospertobepleasing,"to be good, beautiful, to prosper, to be pleasing",1427,BEAUTIFUL
+2593_toadorntoembellish,"to adorn, to embellish",,
+2594_tothreshtotrample,to thresh; to trample,285,THRESH
+2595_tosmashtogrind,"to smash, to grind",1033,GRIND
+2596_tothreshtotrampledown,to thresh; to trample down,285,THRESH
+2597_totrample,to trample,,
+2598_totreadtotrampletothresh,"to tread, to trample; to thresh",285,THRESH
+2599_tostepontotrampletocrushunderfoot,"to step on, to trample, to crush underfoot",575,TREAD
+2600_tosteptoopentheway,"to step, to open (the way)",2065,STEP (VERB)
+2601_totreadtothrash,"to tread, to thrash",575,TREAD
+2602_tojudge,to judge,1818,ADJUDICATE
+2603_topleadeonescause,to pleade one’s cause,,
+2604_aparticularlawastatuteanordinancealaw,"a particular law, a statute, an ordinance, a law",1062,LAW
+2605_tojudgetosentence,"to judge, to sentence",1818,ADJUDICATE
+2606_tobelosttoperish,"to be lost, to perish",2865,DIE (FROM ACCIDENT)
+2607_tofleetorunawayatrandom,"to flee, to run away at random",956,FLEE
+2608_toputintotojointogether,"to put into, to join together",,
+2609_tobewellshapedfullcomplete,"to be well-shaped, full, complete",1429,FULL
+2610_tobesaddepressed,"to be sad, depressed",3973,DEPRESSED
+2611_tobeangry,to be angry,2223,BE ANGRY
+2612_grieved,grieved,,
+2613_tobeverysad,to be very sad,,
+2614_tobecomelittlediminished,"to become little, diminished ?",,
+2615_miseryhardshiptoil,"misery, hardship, toil",2553,MISERY
+2616_dtooppresstosubdue,"D. to oppress, to subdue",,
+2617_tobecomelittletiny,"to become little, tiny",,
+2618_legsaslowerpartsofbody,legs (as lower parts of body),1297,LEG
+2619_upperorinnerthigh,upper or inner thigh,,
+2620_legsofacamellowerbodypartsass,"legs of a camel; lower body parts, ass",1862,DONKEY
+2621_tocrushtopoundtobegroundfinelytobefineminute,"to crush, to pound; to be ground finely, to be fine, minute",354,POUND
+2622_dtopulverizetocrash,"D. to pulverize, to crash",,
+2623_tinyfineweak,tiny; fine; weak,1601,WEAK
+2624_tocrushtobecomefinethroughgrinding,to crush; to become fine through grinding,1520,CRUSH
+2625_tobreaktocrushtoknocktobethinslendersmallminutefine,"to break, to crush; to knock; to be thin, slender, small, minute, fine",2396,KNOCK
+2626_tocrushtopoundtomakefine,"to crush, to pound, to make fine",354,POUND
+2627_tocontract,to contract,,
+2628_tobendovertocurltodroop,"to bend over, to curl, to droop",2761,BEND (ONESELF)
+2629_todrawtogethershut,"to draw together, shut",1046,SHUT
+2630_tobreakoffapiece,to break off a piece,,
+2631_tosplittocut,"to split, to cut",1432,CUT
+2632_totradeinwineorbeer,to trade in wine or beer,1639,BEER
+2633_tobrewbeer,to brew beer,,
+2634_femaletavernkeeper,female tavern keeper,,
+2635_totipple,to tipple,,
+2636_tobuywineinordertoresellit,to buy wine in order to resell it,,
+2637_toblunttotrim,"to blunt, to trim",379,BLUNT
+2638_toblunttochiptotrim,"to blunt, to chip, to trim",379,BLUNT
+2639_toweigh,to weigh,1098,WEIGH
+2640_balances,balances,,
+2641_beheavy,be heavy,1210,HEAVY
+2642_toweighmeasure,"to weigh, measure",1098,WEIGH
+2643_towatchovertoprotecttokeep,"to watch over, to protect, to keep",1477,KEEP
+2644_toprotectguardtowatchout,"to protect, guard; to watch out",2900,PROTECT
+2645_towatchovertoprotecttoobserve,"to watch over, to protect; to observe",2900,PROTECT
+2646_toguardtoobserve,"to guard, to observe",1940,GUARD
+2647_toload,to load,3669,LOAD (SOMETHING)
+2648_tocarrytoburden,"to carry, to burden",700,CARRY
+2649_tojourney,to journey,2393,JOURNEY
+2650_togoaroundtoturn,"to go around, to turn",1588,TURN
+2651_tosurroundtoencircle,"to surround, to encircle",3274,ENCIRCLE
+2652_tostackincirclestostaypermanentlyinoneplacetodwell,"to stack in circles; to stay permanently in one place, to dwell",363,"DWELL (LIVE, RESIDE)"
+2653_todwelltostay,"to dwell, to stay",987,REMAIN
+2654_togoroundtocircletoreturn,"to go round, to circle; to return",581,COME BACK
+2655_toyokeharness,"to yoke, harness",14,YOKE
+2656_tomakereadytoyokeharnesstoattach,"to make ready, to yoke, harness, to attach",3894,ATTACH
+2657_toharnesstoyoketobind,"to harness, to yoke, to bind",2217,YOKE (VERB)
+2658_totightenharness,"to tighten, harness",1094,FASTEN
+2659_totietogetherconnect,"to tie together, connect",1917,TIE
+2660_tobandagethehead,to bandage the head,,
+2661_toyokebindtogether,"to yoke, bind together",14,YOKE
+2662_akindofenclosure,a kind of enclosure,,
+2663_animalpen,animal pen (?),,
+2664_citywall,(city) wall,933,WALL (OF HOUSE)
+2665_dwellingplace,dwellingplace,,
+2666_houseresidencecourtatrium,"house, residence; court, atrium",1252,HOUSE
+2667_periodcycle,"period, cycle",508,PERIOD
+2668_longtimeeternity,"long time, eternity",418,FOR A LONG TIME
+2669_generation,generation,,
+2670_cyclegeneration,"cycle, generation",,
+2671_periodagegeneration,"period, age; generation",1789,AGE
+2672_agelifetimegeneration,"age, lifetime, generation",1789,AGE
+2673_racegeneration,"race, generation",,
+2674_toroast,to roast,1962,ROAST (SOMETHING)
+2675_tosuspendweighoutbalance,"to suspend, weigh out, balance",,
+2676_shekelunitofweight,shekel (unit of weight),,
+2677_tocarryweightoweigh,"to carry weigh, to weigh",1098,WEIGH
+2678_tobeheavy,to be heavy,1210,HEAVY
+2679_tosuspendtoweigh,"to suspend, to weigh",1098,WEIGH
+2680_tohave,to have,773,HAVE
+2681_presenceexistence,"presence, existence",,
+2682_birthmarkmole,"birth-mark, mole",1907,MOLE
+2683_markmolewart,"mark, mole, wart",1907,MOLE
+2684_molesignanyblacksignseenonearth,mole; sign (any black sign seen on earth),1907,MOLE
+2685_tomentiontoremember,"to mention, to remember",707,REMEMBER
+2686_todeclaretonametoinvoke,"to declare, to name, to invoke",1405,NAME
+2687_toremember,to remember,707,REMEMBER
+2688_torememberrecallmention,"to remember, recall, mention",707,REMEMBER
+2689_tobepure,to be pure,1147,PURE
+2690_tobecomecleanclear,"to become clean, clear",989,CLEAR
+2691_tobethin,to be thin,2308,THIN
+2692_tobecomethin,to become thin,,
+2693_finethin,"fine, thin",2308,THIN
+2694_thinness,thinness,,
+2695_tomakethin,to make thin,,
+2696_acripple,a cripple,3621,DISABLED PERSON
+2697_tocutastick,to cut a stick,,
+2698_bed,bed,1663,BED
+2699_tobeanoutsidertobestrangeforeign,"to be an outsider, to be strange, foreign",109,FOREIGN
+2700_todisliketohatetoavoid,"to dislike, to hate, to avoid",1607,HATE
+2701_tovisit,to visit,1377,VISIT
+2702_toprepareperfume,to prepare perfume,,
+2703_tomixperfume,to mix perfume,,
+2704_topreparemixspicedointment,"to prepare, mix spiced ointment",2909,PREPARE
+2705_tobeinpeace,to be in peace,,
+2706_peace,peace,1338,PEACE
+2707_tobewellfeelwellbeinpeace,"to be well, feel well, be in peace",954,WELL
+2708_redemptionransom,"redemption, ransom",,
+2709_towishtodesire,"to wish, to desire",2117,DESIRE
+2710_needwantrequestpurposebusinessactivityenterprise,"need, want, request; purpose; business activity, enterprise",1784,WANT
+2711_ornamentsplendor,"ornament, splendor",917,ORNAMENT
+2712_willthing,"will, thing",738,THING
+2713_ayouth,a youth,,
+2714_tomanifestpassionateloveordesire,to manifest passionate love or desire,2960,LONGING (WISH)
+2715_tosetouttodepart,"to set out, to depart",1752,LEAVE
+2716_togetuptorisetosetouttodeparttoleave,"to get up, to rise; to set out, to depart, to leave",1752,LEAVE
+2717_togoleavedepart,"to go, leave, depart",695,GO
+2718_tofollow,to follow,1085,FOLLOW
+2719_tocover,to cover,761,COVER
+2720_tocovertoclose,"to cover, to close",761,COVER
+2721_bandage,bandage,,
+2722_husksheath,husk; sheath,3424,SHEATH
+2723_putobecoveredwithpreciousstonestofallintoaswoonhitpatowraponeselfuptobecomefaint,"(pu.) to be covered (with precious stones); to fall into a swoon, (hitpa.) to wrap oneself up; to become faint",,
+2724_toputinasheath,to put in a sheath,,
+2725_tosoaktoimmerse,"to soak, to immerse",2069,SOAK (VERB)
+2726_tosoakirrigateafieldtobathesoakanobject,"to soak, irrigate (a field); to bathe, soak (an object)",138,BATHE
+2727_todyetocolourtodiptoimmerse,"to dye, to colour, to dip, to immerse",157,DYE
+2728_tobethickdense,"to be thick, dense",2239,DENSE
+2729_tobethick,to be thick,1244,THICK
+2730_wellbeingopulence,"wellbeing, opulence",,
+2731_tohavelittleornointelligence,to have little (or no) intelligence,,
+2732_tangledconfuseddense,"tangled, confused, dense",2239,DENSE
+2733_epaisthick,épais (thick),,
+2734_tobedarkcovered,"to be dark, covered",706,DARK
+2735_tobedarkdim,"to be dark, dim",706,DARK
+2736_tocovertoconcealtocomeupontocomeover,"to cover, to conceal, to come upon, to come over",761,COVER
+2737_tobetiedgirded,"to be tied, girded",,
+2738_astrapintheleathernwaterbag,a strap in the leathern waterbag,,
+2739_toholdtorestrain,"to hold, to restrain",1448,HOLD
+2740_toholdbacktowithhold,"to hold back, to withhold",,
+2741_tokeepback,to keep back,,
+2742_akindofslime,a kind of slime,,
+2743_greendrymucusnasaldischarge,"(green) dry mucus, nasal discharge",,
+2744_toprovidewithaheaddresstoputacoveringonsomeoneshead,"to provide with a headdress, to put a covering on someone's head",,
+2745_kindofgarment,kind of garment,,
+2746_tocovertoveiltohidetoforgive,"to cover, to veil, to hide; to forgive",2486,HIDE
+2747_filmchaff,"film, chaff",2363,CHAFF (HUSK)
+2748_membranefilm,"membrane, film",216,MOVIE
+2749_chaffrefusethatistakenforthfromwheat,"chaff, refuse that is taken forth from wheat",2363,CHAFF (HUSK)
+2750_tocleantoclearthewheat,"to clean, to clear the wheat",2235,CLEAN (SOMETHING)
+2751_tobeobscureblack,"to be obscure, black",163,BLACK
+2752_tobecomeobscuredofheavenlybodiestobecomeeclipsedtobeworrieddisturbedrestless,"to become obscured (of heavenly bodies), to become eclipsed; to be worried, disturbed, restless",,
+2753_toactperfidiouslytobreakacompacttoremaintolagbehindtobecomedarkofthenight,"to act perfidiously, to break a compact; to remain, to lag behind; to be(come) dark (of the night)",987,REMAIN
+2754_tohonour,to honour,,
+2755_tofeardeitytoshowrespecttobeinawe,"to fear (deity), to show respect, to be in awe",1419,FEAR (BE AFRAID)
+2756_tohonourtoadorn,"to honour, to adorn",,
+2757_collaryoke,"collar, yoke",14,YOKE
+2758_todetainkeepwaiting,"to detain, keep waiting",,
+2759_collarringanornament,collar; ring (an ornament),2012,COLLAR
+2760_toputaringoracollarofironupontheneckormanacleonthehand,to put a ring or a collar of iron upon the neck or manacle on the hand,,
+2761_aringorcollarofironwhichisputupontheneck,"a ring or collar of iron, which is put upon the neck",1374,RING
+2762_frondleaffoliage,"frond, leaf, foliage",628,LEAF
+2763_leavesofthegrapevine,leaves of the grapevine,,
+2764_totakebyforce,to take by force,,
+2765_totakewrongfullyunjustlyinjuriouslyorbyforce,"to take wrongfully, unjustly, injuriously or by force",,
+2766_tobedry,to be dry,1398,DRY
+2767_dry,dry,1398,DRY
+2768_todryup,to dry up,1786,DRY UP
+2769_tobind,to bind,1917,TIE
+2770_tocollecttogathertosearch,"to collect, to gather, to search",7,GATHER
+2771_womangatheringstraw,woman gathering straw,,
+2772_tosearchout,to search out,,
+2773_torakeuptosweepup,"to rake up, to sweep up",,
+2774_totakeawaytodeprivesomeoneofaphysicalfacility,"to take away, to deprive someone (of a physical facility)",,
+2775_totakeaway,to take away,,
+2776_impeded,impeded,,
+2777_togathertoheapup,"to gather, to heap up",7,GATHER
+2778_everythingbywhichabedofastreamcanbeblockedinanyplacewhereitisstopped,everything by which a bed of a stream can be blocked in any place where it is stopped,,
+2779_togathertocollect,"to gather, to collect",7,GATHER
+2780_topulltodrag,"to pull, to drag",1455,PULL
+2781_roadpath,"road, path",2457,PATH OR ROAD
+2782_todragaway,to drag away,,
+2783_todrag,to drag,2030,DRAG
+2784_todragtodrawtopull,"to drag, to draw, to pull",1455,PULL
+2785_toplough,to plough,1921,PLOUGH
+2786_clodofearth,clod of earth,,
+2787_toploughtopreparelandforsowing,"to plough, to prepare land for sowing",1921,PLOUGH
+2788_towalktogoaway,"to walk, to go away",1443,WALK
+2789_tomove,to move,765,MOVE
+2790_togotorovetowander,"to go, to rove, to wander",695,GO
+2791_todrivetofollowtohelp,"to drive, to follow; to help",1897,HELP
+2792_totakealongescortpersonstosendtoguidecontroloversee,"to take along, escort persons; to send; to guide, control, oversee",1127,SEND
+2793_towalktoruntoleadtoflow,"to walk, to run, to lead, to flow",1443,WALK
+2794_tostrengthentosupporttohelptoaid,"to strengthen, to support; to help, to aid",1897,HELP
+2795_giveaidhelpcometorescue,"give aid, help, come to rescue",1897,HELP
+2796_toaddtoincrease,"to add, to increase",1041,INCREASE
+2797_toincreasetoexceede,"to increase, to exceede",1041,INCREASE
+2798_topayinterest,to pay interest,,
+2799_tobeboundattachedtohang,"to be bound, attached; to hang",2884,HANG
+2800_phthisis,phthisis,,
+2801_toloveathingtobeattachedtoittobindtohang,"to love a thing, to be attached to it; to bind, to hang",2884,HANG
+2802_toprotectguard,"to protect, guard",2900,PROTECT
+2803_brave,brave,3,BRAVE
+2804_orderdecisiondivine,"order, decision (divine)",1128,ORDER
+2805_riteritualdivineauthorityauthoritativedecisioncommanddecree,"rite, ritual; divine authority; authoritative decision, command, decree",1998,COMMAND
+2806_athingmadeobligatoryorbindingbygod,a thing made obligatory or binding by God,,
+2807_towrite,to write,1672,WRITE
+2808_civilservantofficeholderadministrator,"civil servant, office holder, administrator",,
+2809_deeddocument,"deed, document",,
+2810_enclosedarea,enclosed area,,
+2811_towerfortifiedarea,tower; fortified area,1671,TOWER
+2812_toheapuptoaccumulate,"to heap up, to accumulate",1576,PILE UP
+2813_toheapuptopileup,"to heap up, to pile up",1576,PILE UP
+2814_toheaptoaccumulate,"to heap, to accumulate",1576,PILE UP
+2815_toriseuptoplanttoimpale,to rise up; to plant; to impale,1486,PLANT (SOMETHING)
+2816_toriseuptosuspendhang,"to rise up; to suspend, hang",705,GO UP (ASCEND)
+2817_tocovertowraptomakeobscureinvisible,"to cover, to wrap, to make obscure, invisible",761,COVER
+2818_tobeevasive,to be evasive,,
+2819_toputaswordinasheathorscabbard,to put a sword in a sheath or scabbard,3424,SHEATH
+2820_tomixtostir,"to mix, to stir",2017,MIX
+2821_todecoct,to decoct,,
+2822_hoppartmixed,(hop. part.) mixed,,
+2823_tomixtomingle,"to mix, to mingle",2017,MIX
+2824_handmillmillstone,"hand-mill, millstone",2459,GRINDSTONE
+2825_grindingslabhandmill,"grinding slab, handmill",,
+2826_dumillstone,(du.) millstone,2459,GRINDSTONE
+2827_millmillhousemillstone,"mill, millhouse, millstone",636,MILL
+2828_millmillstone,"mill, millstone",636,MILL
+2829_totreadtotrampletokick,"to tread, to trample; to kick",1135,KICK
+2830_tokicktostrikewithalegtorun,"to kick, to strike with a leg; to run",1519,RUN
