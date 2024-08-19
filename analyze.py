@@ -1,5 +1,5 @@
 """
-Analyze the data.
+Analyze the data using multithreading.
 """
 from lingrex.reconstruct import (
         PatternReconstructor, CorPaRClassifier,
@@ -9,6 +9,7 @@ from sys import argv
 from pathlib import Path
 import json
 from functools import partial
+from concurrent.futures import ThreadPoolExecutor
 
 align_psf = partial(
         transform_alignment, align=True, position=True, prosody=True, startend=True)
@@ -26,7 +27,6 @@ align_f = partial(
         transform_alignment, align=True, position=False, prosody=False, startend=True)
 align = partial(
         transform_alignment, align=True, position=False, prosody=False, startend=False)
-
 
 if len(argv) >= 2:
     if argv[1] == "svm":
@@ -50,7 +50,6 @@ datasets = [
         ]
 
 methods = [
-
         ("PosStr", align_ps),
         ("PosIni", align_pf),
         ("StrIni", align_sf),
@@ -63,35 +62,39 @@ methods = [
 
 proportions = ['0.1','0.5','0.8']
 
-for prop in proportions:
-    print("[i] analyzing {0} split".format(prop))
-    for ds, proto in datasets:
-        print("[i] analyzing {0}".format(ds))
-        for i in range(RUNS):
-            print("[i] analyzing {0} test {1}".format(ds, i+1))
-            wlpath = str(Path(
-                "data", f"data-{prop}", "testlists", ds, "test-{0}.tsv".format(i+1)))
-            with open(Path(
-                "data", f"data-{prop}", "testitems", ds, "test-{0}.json".format(i+1))) as f:
-                tests = json.load(f)
-            for meth_name, meth in methods:
-                res_path = Path(
-                    "results", f"split-{prop}", classifier, ds+"-"+meth_name+"-"+str(i+1)+".tsv")
-                if not res_path.exists():
-                    res_path.parent.mkdir(parents=True, exist_ok=True)
-                    pt = PatternReconstructor(
-                            wlpath, ref="cogid", fuzzy=False, target=proto)
-                    pt.fit(clf=clf(), func=meth, onehot=onehot, aligned=False)
-                    results = []
-                    for cogid, target, alignment, languages in tests:
-                        results += [[
-                            pt.predict(
-                                alignment,
-                                languages),
-                            target]]
-                    with open(res_path, "w") as f:
-                        for a, b in results:
-                            f.write(" ".join(a)+"\t"+" ".join(b)+"\n")
-                else:
-                    print("Skipping existing analysis.")
+def analyze_dataset_method(prop, ds, proto, i, meth_name, meth):
+    print(f"[i] analyzing {ds} test {i+1} with method {meth_name}")
+    wlpath = str(Path(
+        "data", f"data-{prop}", "testlists", ds, "test-{0}.tsv".format(i+1)))
+    with open(Path(
+        "data", f"data-{prop}", "testitems", ds, "test-{0}.json".format(i+1))) as f:
+        tests = json.load(f)
+    res_path = Path(
+        "results", f"split-{prop}", classifier, ds+"-"+meth_name+"-"+str(i+1)+".tsv")
+    if not res_path.exists():
+        res_path.parent.mkdir(parents=True, exist_ok=True)
+        pt = PatternReconstructor(
+                wlpath, ref="cogid", fuzzy=False, target=proto)
+        pt.fit(clf=clf(), func=meth, onehot=onehot, aligned=False)
+        results = []
+        for cogid, target, alignment, languages in tests:
+            results += [[
+                pt.predict(
+                    alignment,
+                    languages),
+                target]]
+        with open(res_path, "w") as f:
+            for a, b in results:
+                f.write(" ".join(a)+"\t"+" ".join(b)+"\n")
+    else:
+        print("Skipping existing analysis.")
 
+if __name__ == "__main__":
+    with ThreadPoolExecutor() as executor:
+        for prop in proportions:
+            print("[i] analyzing {0} split".format(prop))
+            for ds, proto in datasets:
+                print("[i] analyzing {0}".format(ds))
+                for i in range(RUNS):
+                    for meth_name, meth in methods:
+                        executor.submit(analyze_dataset_method, prop, ds, proto, i, meth_name, meth)

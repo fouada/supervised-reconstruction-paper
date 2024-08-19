@@ -77,7 +77,7 @@ for prop in proportions:
         dsf = open(Path("results", f"split-{prop}", "datasets-{0}.tsv".format(clf)), "w")
         selected_methods = ["PosStrIni", "StrIni", "Str", "Ini", "none"]
         dsf.write("DATASET\t"+"\t".join(selected_methods)+"\n")
-        dslabels = ["Bai", "Burmish", "Karen", "Lalo", "Purus", "Romance", "Semitic"]
+        dslabels = [ "Semitic", "Bai", "Burmish", "Karen", "Lalo", "Purus", "Romance"]
         table = []
         for ds in datasets:
             dsf.write(ds)
@@ -143,10 +143,10 @@ for prop in proportions:
                     -2, -2, "o", color=transform[m+'-'+clf][1],
                     label=transform[m+'-'+clf][0]
                     )
-    plt.ylim(0.65, 0.95)
+    plt.ylim(0.65, 1)
     plt.xlim(-1, len(ress)+5)
     plt.xticks(
-            range(2, len(ress), 9),
+            range(2, len(ress)+1, 9),
             labels=dslabels)
     ax.legend(loc="lower center", bbox_to_anchor=(0.5, 1.05), ncol=4,
             fancybox=True, shadow=True)
