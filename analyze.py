@@ -64,6 +64,7 @@ methods = [
 proportions = ['0.1','0.5','0.8']
 
 for prop in proportions:
+    print("[i] analyzing {0} split".format(prop))
     for ds, proto in datasets:
         print("[i] analyzing {0}".format(ds))
         for i in range(RUNS):
