@@ -1,0 +1,3070 @@
+form_id	COGID	DOCULECT	VALUE	FORM	CONCEPT
+1	1	Proto-Semitic	-at-	-at-	NA
+2	1	Akkadian	-(a)tum	-𒌈	NA
+3	1	Gulf Arabic	-a	ـة	NA
+4	1	Maltese	-tā,-ṯā	-a	NA
+5	1	Classical Syriac	-tā,-ṯā	ـܬܳܐ	NA
+6	1	Classical Syriac	-īṯā	ـܻܝܬܳܐ	NA
+7	1	Classical Syriac	-ūṯā	ـܽܘܬܳܐ	NA
+8	1	Yiddish	-e	־ה	NA
+9	1	Hebrew	-ít, -îṯ	־ִית	NA
+10	1	Yiddish	-es	־ות	NA
+11	11	Proto-Semitic	-ay-	-ay-	NA
+12	11	Arabic	-ā	ـَى	NA
+13	11	Classical Syriac	-ayā	ـܰܝܳܐ	NA
+14	14	Proto-Semitic	baraḳ-	baraḳ-	NA
+15	14	Akkadian	birqum	𒉏𒄈	NA
+16	14	Hijazi Arabic	barg	برق	NA
+17	14	Maltese	barq	beraq	NA
+18	14	Moroccan Arabic	barq	برق	NA
+19	14	South Levantine Arabic	barq	برق	NA
+20	14	Ottoman Turkish	berk	برق	NA
+21	14	Persian	barq	برق	NA
+22	14	Classical Mandaic	birqā	ࡁࡉࡓࡒࡀ	NA
+23	14	Classical Syriac	barqā	ܒܱ݁ܪܩܳܐ	NA
+24	14	Hebrew	barák, bārāq	בָּרָק	NA
+25	14	Punic	brq	𐤁𐤓𐤒	NA
+26	14	Ugaritic	brq	𐎁𐎗𐎖	NA
+27	14	Old South Arabian	brq	𐩨𐩧𐩤	NA
+28	14	Amharic	bärḳ	በርቅ	NA
+29	14	Ge'ez	bärḳ	በርቅ	NA
+30	14	Tigrinya	bärḳi	በርቂ	NA
+31	14	Tigre	bärḳ	በርቅ	NA
+32	14	Mehri	barq	bōreq	NA
+33	14	Shehri	barq	barq	NA
+34	14	Soqotri	ebrēce	barq	NA
+35	14	Coptic	ebrēce	ⲉⲃⲣⲏϭⲉ	NA
+36	36	Proto-Semitic	barr-	barr-	NA
+37	36	Akkadian	barrum	𒁉𒊒𒌑	NA
+38	36	Arabic	barr	بَرّ	NA
+39	36	Classical Syriac	barrā	ܒܱ݁ܪܴ݁ܐ	NA
+40	36	Hebrew	bar	בַּר	NA
+41	36	Old South Arabian	br	𐩨𐩧	NA
+42	36	Tigre	barr	ባር	NA
+43	43	Proto-Semitic	batūl-	batūl-	NA
+44	43	Turkish	betulá	Betül	NA
+45	43	Yiddish	psule	בְּתוּלָה	NA
+46	43	Aramaic	bəṯūltā	בתולתא	NA
+47	43	Ugaritic	batūlatu	𐎁𐎚𐎍𐎚	NA
+48	48	Proto-Semitic	bayt-	bayt-	NA
+49	48	Akkadian	bītum	𒂍	NA
+50	48	Egyptian Arabic	bēt	بيت	NA
+51	48	Gulf Arabic	bēt	بيت	NA
+52	48	Hijazi Arabic	bēt	بيت	NA
+53	48	Maltese	bīt	bejt	NA
+54	48	Moroccan Arabic	bīt	بيت	NA
+55	48	Moroccan Arabic	bayt	بيت	NA
+56	48	Azerbaijani	bait	beyt	NA
+57	48	Malay	bayṯā	bait	NA
+58	48	Classical Syriac	baytā	ܒܱ݁ܝܬܴ݁ܐ	NA
+59	48	Lishana Deni	bēṯa	ביתא	NA
+60	48	Mandaic	bīt	ࡁࡉࡕ	NA
+61	48	Central Neo-Aramaic	bayto	ܒܰܝܬܳܐ	NA
+62	48	Sabaean	byt	𐩨𐩺𐩩	NA
+63	48	Hebrew	báyit, báyiṯ	בַּיִת	NA
+64	48	Punic	bt	𐤁𐤕	NA
+65	48	Ugaritic	bt	𐎁𐎚	NA
+66	48	Amharic	bet	ቤት	NA
+67	48	Ge'ez	bet	ቤት	NA
+68	48	Tigrinya	bet	ቤት	NA
+69	69	Proto-Semitic	baʕl-	baʕl-	NA
+70	69	Akkadian	bēlum	𒂗	NA
+71	69	Arabic	baʕl	بَعْل	NA
+72	69	Classical Syriac	baʿlā	ܒܱ݁ܥܠܳܐ	NA
+73	69	Hebrew	bá'al, báʿal	בַּעַל	NA
+74	69	Punic	bʿl	𐤁𐤏𐤋	NA
+75	69	Ugaritic	bʿl	𐎁𐎓𐎍	NA
+76	69	Ugaritic	ba-ʾa-lu	𒁀𒀪𒇻	NA
+77	69	Ugaritic	bʿl	[1]	NA
+78	69	Old South Arabian	bʿl	𐩨𐩲𐩡	NA
+79	69	Amharic	bal	ባል	NA
+80	69	Ge'ez	bäʿal	በዓል	NA
+81	69	Tigrinya	bäʿal	በዓል	NA
+82	69	Mehri	abɛ́li	bāl	NA
+83	69	Mehri	báʕal	abɛ́li	NA
+84	69	Shehri	bʕéhl	báʕal	NA
+85	69	Shehri	ʔɔʕź	bʕéhl	NA
+86	69	Shehri	ʔɔ̄ʕź	ʔɔʕź	NA
+87	69	Shehri	ʔɔ́ʕɔź	ʔɔ̄ʕź	NA
+88	69	Shehri	baʕ-	ʔɔ́ʕɔź	NA
+89	69	Soqotri	di-báḥlʼe	baʕ-	NA
+90	69	Soqotri	báʕlʼhi	di-báḥlʼe	NA
+91	69	Soqotri	N/A	báʕlʼhi	NA
+92	92	Proto-Semitic	baʕlat-	baʕlat-	NA
+93	92	Akkadian	bēltum	𒎏	NA
+94	92	Arabic	baʕla	بَعْلَة	NA
+95	92	Classical Syriac	baʿltā	ܒܱ݁ܥܠܬܴ݁ܐ	NA
+96	92	Biblical Hebrew	baʿălâ	בַּעֲלָה	NA
+97	92	Biblical Hebrew	baʿălāṯ	בַּעֲלָת	NA
+98	92	Phoenician	bʿlt	𐤁𐤏𐤋𐤕	NA
+99	92	Ugaritic	bʿlt	𐎁𐎓𐎍𐎚	NA
+100	92	Akkadian	ba-ʾ-al-tu	𒁀𒀪𒀠𒌅	NA
+101	92	Akkadian	ba-ʾ-la-tu	𒁀𒀪𒆷𒌅	NA
+102	92	Mehri	āʿlét	bālīt	NA
+103	92	Shehri	baʿalét	āʿlét	NA
+104	92	Shehri	báləh	baʿalét	NA
+105	92	Soqotri	N/A	báləh	NA
+106	106	Proto-Semitic	baṭal-	baṭal-	NA
+107	106	Akkadian	baṭālum	𒁀𒁕𒇻𒌝	NA
+108	106	Arabic	baṭala	بَطَلَ	NA
+109	106	Classical Syriac	bəṭel	ܒܛܶܠ	NA
+110	106	Hebrew	batál, bāṭal	בָּטַל	NA
+111	106	Amharic	bäṭṭälä	በጠለ	NA
+112	106	Ge'ez	bäṭälä	በጠለ	NA
+113	113	Proto-Semitic	baṯan-	baṯan-	NA
+114	113	Sumerian	ušum	𒁔	NA
+115	113	Sumerian	MAḪ-MUŠ	[1]	NA
+116	113	Eblaite	MAḪ-MUŠ	𒈤𒈲	NA
+117	113	Eblaite	ba-ša-mu-um	𒁀𒊭𒈬𒌝	NA
+118	113	Eblaite	ba-ša-nu-um	𒁀𒊭𒉡𒌝	NA
+119	113	Arabic	baṯan	بَثَن	NA
+120	113	Ancient Greek	bathanērathán	βαθανηραθάν	NA
+121	113	Ancient Greek	*paṯnā	[4]	NA
+122	113	Jewish Palestinian Aramaic	*paṯnā	פתנה	NA
+123	113	Jewish Babylonian Aramaic	piṯnā	פִתנָא	NA
+124	113	Samaritan Aramaic	pṯn	ࠐࠕࠍ	NA
+125	113	Hebrew	péten, péṯen	פֶּתֶן	NA
+126	113	Hebrew	bashán, bāšān	[5]	NA
+127	113	Hebrew	bashán, bāšān	בָּשָׁן	NA
+128	113	Ugaritic	bṯn	𐎁𐎘𐎐	NA
+129	113	Inor	butəyämata	ቡትየማታ	NA
+130	113	Chaha	butyamat	ቡትያማት	NA
+131	113	Ezha	butyamat	ቡትያማት	NA
+132	113	Gyeto	butyämata	ቡትየማታ	NA
+133	113	Muher	buttəyamat	ቡትያማት	NA
+134	134	Proto-Semitic	bin-	bin-	NA
+135	134	Akkadian	bīnum	𒁉𒉏	NA
+136	134	Hijazi Arabic	ibin	ابن	NA
+137	134	Maltese	bin	iben	NA
+138	134	Moroccan Arabic	bin	بن	NA
+139	134	Classical Syriac	bərā	ܒ݁ܪܳܐ	NA
+140	134	Ammonite	bn	𐤁𐤍	NA
+141	134	Edomite	bn	𐤁𐤍	NA
+142	134	Hebrew	ben, bēn	בֵּן	NA
+143	134	Hebrew	ban	ࠁࠠ‎ࠍ	NA
+144	134	Moabite	bn	𐤁𐤍	NA
+145	134	Punic	bn	𐤁𐤍	NA
+146	134	Ugaritic	bn	𐎁𐎐	NA
+147	147	Proto-Semitic	bint-	bint-	NA
+148	147	Akkadian	bintum	𒁉𒅔𒌈	NA
+149	147	Maltese	bint	bint	NA
+150	147	Swahili	bat, baṯ	binti	NA
+151	147	Hebrew	bat, baṯ	בַּת	NA
+152	147	Hebrew	banót, bānôṯ	בָּנוֹת	NA
+153	147	Ugaritic	bt	𐎁𐎚	NA
+154	147	Old South Arabian	bnt	𐩨𐩬𐩩	NA
+155	155	Proto-Semitic	birk-	birk-	NA
+156	155	Akkadian	birkum	𒄭	NA
+157	155	Maltese	birka	birek	NA
+158	155	Classical Syriac	burkā	ܒܾ݁ܘܪܟܴ݁ܐ	NA
+159	155	Hebrew	bérekh, béreḵ	בֶּרֶךְ	NA
+160	155	Ugaritic	brk	𐎁𐎗𐎋	NA
+161	155	Amharic	bərk	ብርክ	NA
+162	155	Ge'ez	bərk	ብርክ	NA
+163	155	Tigrinya	bərki	ብርኪ	NA
+164	155	Soqotri	bɛrk	برك	NA
+165	165	Proto-Semitic	biʔr-	biʔr-	NA
+166	165	Akkadian	bīrtum	𒁍𒌨𒋾	NA
+167	165	Arabic	biʔr	بِئْر	NA
+168	165	Classical Syriac	bəʾerā	ܒ݁ܐܶܪܰܐ	NA
+169	165	Hebrew	b'ér, bəʾēr	בְּאֵר	NA
+170	165	Ugaritic	bỉr	𐎁𐎛𐎗	NA
+171	171	Proto-Semitic	bV-	bV-	NA
+172	171	fossiziled perhaps Akkadian	bašûm	𒅅	NA
+173	171	fossiziled perhaps Akkadian	biri	𒁉𒊑	NA
+174	171	fossiziled perhaps Akkadian	bari	𒁀𒊑	NA
+175	171	fossiziled perhaps Akkadian	ana	Proto-West Semitic	NA
+176	171	fossiziled perhaps Akkadian	ana	*bayna	NA
+177	171	fossiziled perhaps Akkadian	ana	𒀀𒈾	NA
+178	171	fossiziled perhaps Akkadian	ina	𒄿𒈾	NA
+179	171	fossiziled perhaps Akkadian	balu	𒁀𒇻	NA
+180	171	fossiziled perhaps Akkadian	bala	𒁀𒆷	NA
+181	171	fossiziled perhaps Akkadian	bal	𒁀𒀠	NA
+182	171	Arabic	bi-	بِـ	NA
+183	171	Classical Syriac	bə-, ba-	ܒ-	NA
+184	171	Hebrew	bə-	בְּ־	NA
+185	171	Punic	b	𐤁	NA
+186	171	Punic	by	𐤁𐤉	NA
+187	171	Punic	ʾb	𐤀𐤁	NA
+188	171	Punic	b	ef-	NA
+189	171	Ugaritic	b	𐎁	NA
+190	171	Hadrami	-b	-𐩨	NA
+191	171	Minaean	-b	-𐩨	NA
+192	171	Qatabanian	-b	-𐩨	NA
+193	171	Sabaean	-b	-𐩨	NA
+194	171	Ge'ez	bä-	በ-	NA
+195	171	Tigre	bə-	ብ-	NA
+196	171	Tigre	ʾəb	እብ	NA
+197	171	Tigre	bu-	ቡ-	NA
+198	171	Tigrinya	bə-	ብ-	NA
+199	171	Tigrinya	ʾäb	አብ	NA
+200	171	Amharic	bä-	በ-	NA
+201	171	Amharic	bə-	ብ-	NA
+202	171	Amharic	bi-	ቢ-	NA
+203	171	Harari	-be	-ቤ	NA
+204	171	Gurage	bä-	በ-	NA
+205	205	Proto-Semitic	būṣ-	būṣ-	NA
+206	205	Akkadian	būṣum	𒁍𒌋𒋗	NA
+207	205	Arabic	būṣ	بُوص	NA
+208	205	Classical Syriac	būṣā	ܒܾ݁ܘܨܳܐ	NA
+209	205	Ge'ez	bisənso	ቢስንሶ	NA
+210	205	Tigrinya	biso	ቢሶ	NA
+211	205	Gothic	bwssaun	𐌱𐍅𐍃𐍃𐌰𐌿𐌽	NA
+212	205	Gothic	byssus	bwssaun	NA
+213	205	Translingual	bussínē	Byssus	NA
+214	205	Armenian	behez	բեհեզ	NA
+215	205	Old Georgian	zeezi	ზეეზი	NA
+216	205	Old Georgian	zehezi	ზეჰეზი	NA
+217	205	Old Georgian	zelezi	ზელეზი	NA
+218	205	Old Georgian	zezi	ზეზი	NA
+219	205	Ottoman Turkish	boğası	بوغاسی	NA
+220	205	Ottoman Turkish	boğası	بوغاصی	NA
+221	205	Ottoman Turkish	bohası	بوحاسی	NA
+222	205	Uyghur	N/A	böz	NA
+223	223	Proto-Semitic	dalt-	dalt-	NA
+224	223	Akkadian	daltum	𒄑𒅅	NA
+225	223	Jewish Palestinian Aramaic	dalṯā	דַּלְתָא	NA
+226	223	Classical Syriac	āḏlāṯā	ܐܳܕ݂ܠܳܬ݂ܳܐ	NA
+227	223	Hebrew	déleṯ	דֶּלֶת	NA
+228	223	Ugaritic	dlt	𐎄𐎍𐎚	NA
+229	229	Proto-Semitic	dam-	dam-	NA
+230	229	Akkadian	dāmum	𒁁	NA
+231	229	Hijazi Arabic	damm	دَمّ	NA
+232	229	Maltese	damm	demm	NA
+233	229	Moroccan Arabic	damm	دم	NA
+234	229	Indonesian	damu	dam	NA
+235	229	Swahili	dəmā	damu	NA
+236	229	Classical Syriac	dəmā	ܕ݁ܡܳܐ	NA
+237	229	Hebrew	dam, dām	דָּם	NA
+238	229	Punic	dm	𐤃𐤌	NA
+239	229	Ugaritic	dm	𐎄𐎎	NA
+240	229	Old South Arabian	dm	𐩵𐩣	NA
+241	229	Sabaean	dm	𐩵𐩣	NA
+242	229	Amharic	däm	ደም	NA
+243	229	Ge'ez	däm	ደም	NA
+244	229	Harari	däm	ደም	NA
+245	229	Tigrinya	däm	ደም	NA
+246	229	Tigre	däm	ደም	NA
+247	247	Proto-Semitic	daṯʔ-	daṯʔ-	NA
+248	247	Akkadian	dīšum	𒌑𒇷𒀀𒊬	NA
+249	247	Arabic	ṯuddāʔ	ثُدَّاء	NA
+250	247	Arabic	diṯʾā	Cyperus conglomeratus	NA
+251	247	Jewish Literary Aramaic	diṯʾā	דִּתְאָה	NA
+252	247	Classical Syriac	taḏʾā	ܬܱ݁ܕܐܳܐ	NA
+253	247	Hebrew	dashá, dāšāʾ	דָּשָׁא	NA
+254	247	Hebrew	dīs	sprout	NA
+255	247	Hebrew	dīs	grow	NA
+256	247	Arabic	dīs	دِيس	NA
+257	247	Arabic	N/A	rush	NA
+258	247	Arabic	N/A	Juncus	NA
+259	247	Arabic	N/A	club-rush	NA
+260	247	Arabic	N/A	Scirpus	NA
+261	247	Arabic	N/A	rope grass	NA
+262	247	Arabic	N/A	Ampelodesmos mauritanicus	NA
+263	263	Proto-Semitic	dubb-	dubb-	NA
+264	263	Akkadian	dabûm	𒁕𒁍𒌝	NA
+265	263	Gulf Arabic	dubb	دب	NA
+266	263	Maltese	dubb	debb	NA
+267	263	Moroccan Arabic	dubb	دب	NA
+268	263	Swahili	doḇ	dubu	NA
+269	263	Aramaic	doḇ	דֹּב	NA
+270	263	Aramaic	debbā	ܕܷ݁ܒܴ݁ܐ	NA
+271	263	Aramaic	dbb	𐡃𐡁𐡁	NA
+272	263	Aramaic	dubbā	דּוּבָּא	NA
+273	263	Aramaic	dubbā	דּוּבָּא	NA
+274	263	Aramaic	dubb	דּוּבּ	NA
+275	263	Hebrew	dov, dōḇ	דֹּב	NA
+276	263	Ugaritic	db	𐎄𐎁	NA
+277	263	Amharic	dəbb	ድብ	NA
+278	263	Ge'ez	dǝbb	ድብ	NA
+279	263	Tigre	dǝbb	ድብ	NA
+280	263	Tigrinya	dǝbbi	ድቢ	NA
+281	281	Proto-Semitic	ganb-	ganb-	NA
+282	281	Akkadian	janb	gabbum	NA
+283	281	Hijazi Arabic	janb	جَنْب	NA
+284	281	Classical Syriac	gabbā	ܓܰܒܴ݁ܐ	NA
+285	281	Hebrew	gáv, gaḇ	גַּב	NA
+286	281	Ugaritic	gb	𐎂𐎁	NA
+287	281	Ge'ez	gäbo	ገቦ	NA
+288	281	Tigre	gäbo	ገቦ	NA
+289	281	Tigre	ʾängäb	አንገብ	NA
+290	281	Tigrinya	gobo	ጎቦ	NA
+291	281	Inor	gupa	ጉፐ	NA
+292	281	Gyeto	gʷəpa	ጕፐ	NA
+293	281	Mehri	yanb	ganb	NA
+294	281	Harsusi	ganb	yanb	NA
+295	281	Shehri	N/A	ganb	NA
+296	296	Proto-Semitic	habat-	habat-	NA
+297	296	Akkadian	abātum	𒄢	NA
+298	296	Arabic	habata	هَبَتَ	NA
+299	296	Hebrew	khavát, ḥāḇaṭ	חָבַט	NA
+300	300	Proto-Semitic	hadad-	hadad-	NA
+301	300	Akkadian	addum	𒀜𒁺𒌝	NA
+302	300	Arabic	hādda	هَادَّة	NA
+303	300	Ugaritic	hd	𐎅𐎄	NA
+304	300	Tigrinya	hadädä	ሃደደ	NA
+305	300	Tigre	hadud	ሃዱድ	NA
+306	300	Tigre	hədud	ህዱድ	NA
+307	300	Mehri	hid	həd	NA
+308	300	Shehri	šed	hid	NA
+309	300	Soqotri	N/A	šed	NA
+310	310	Proto-Semitic	halak-	halak-	NA
+311	310	Akkadian	alākum	𒁺	NA
+312	310	Bengali	halak	হালাক	NA
+313	310	Classical Syriac	həleḵ	ܗܠܶܟ	NA
+314	310	Hebrew	halákh, hālaḵ	הָלַךְ	NA
+315	310	Ugaritic	hlk	𐎅𐎍𐎋	NA
+316	316	Proto-Semitic	-iš	-iš	NA
+317	316	Akkadian	*-ah	-iš	NA
+318	316	Hebrew	-a, -â	־ָה	NA
+319	316	Ugaritic	-h	-𐎅	NA
+320	316	Ge'ez	-he	-ሄ	NA
+321	321	Proto-Semitic	kabid-	kabid-	NA
+322	321	Akkadian	kabattum	𒅗𒁁𒌈	NA
+323	321	Arabic	kabid	كَبِد	NA
+324	321	Arabic	kibd	كِبْد	NA
+325	321	Jewish Babylonian Aramaic	kaḇdā	כַּבדָּא	NA
+326	321	Classical Syriac	kaḇdā	ܟܱ݁ܒܕܴ݁ܐ	NA
+327	321	Hebrew	kavéd, kāḇēd	כָּבֵד	NA
+328	321	Ugaritic	kbd	𐎋𐎁𐎄	NA
+329	321	Amharic	hod	ሆድ	NA
+330	321	Ge'ez	käbd	ከብድ	NA
+331	321	Tigrinya	käbdi	ከብዲ	NA
+332	332	Proto-Semitic	kabkab-	kabkab-	NA
+333	332	Akkadian	kakkabum	𒀯	NA
+334	332	Eblaite	/⁠kakkab⁠/	𒆕𒅗𒁍	NA
+335	332	Maltese	kawkab, kūkab	kewkba	NA
+336	332	Moroccan Arabic	kawkab, kūkab	كوكب	NA
+337	332	Hindustani	kaukab	کَوکَب	NA
+338	332	Classical Mandaic	kukb-	ࡊࡅࡊࡁ	NA
+339	332	Classical Syriac	kawkəḇā	ܟܱ݁ܘܟ݁ܒܳܐ	NA
+340	332	Hebrew	kokháv	כּוֹכָב	NA
+341	332	Phoenician	kkb	𐤊𐤊𐤁	NA
+342	332	Phoenician	kbkb	𐤊𐤁𐤊𐤁	NA
+343	332	Ugaritic	kbkb	𐎋𐎁𐎋𐎁	NA
+344	332	Old South Arabian	kwkb	𐩫𐩥𐩫𐩨	NA
+345	332	Amharic	kokäb	ኮከብ	NA
+346	332	Ge'ez	kokäb	ኮከብ	NA
+347	332	Tigrinya	xʷaxob	ዃኾብ	NA
+348	332	Mehri	kebkeb	kabkīb	NA
+349	332	Shehri	kobkob	kebkeb	NA
+350	332	Shehri	kebkeb	kobkob	NA
+351	332	Soqotri	kobkob	kebkeb	NA
+352	332	Soqotri	N/A	kobkob	NA
+353	353	Proto-Semitic	kalb-	kalb-	NA
+354	353	Akkadian	kalbum	𒌨	NA
+355	353	Gulf Arabic	/t͡ʃəlb/	چَلْب	NA
+356	353	Gulf Arabic	čalb	جَلْب	NA
+357	353	Maltese	kalb	kelb	NA
+358	353	Moroccan Arabic	kalb	كلب	NA
+359	353	Gujarati	kalb	કલ્બ	NA
+360	353	Ottoman Turkish	kelp	كلب	NA
+361	353	Swahili	kalbā	kelbu	NA
+362	353	Classical Syriac	kalbā	ܟܱ݁ܠܒܴ݁ܐ	NA
+363	353	Hebrew	kélev, kéleḇ	כֶּלֶב	NA
+364	353	Phoenician	klb	𐤊𐤋𐤁	NA
+365	353	Ugaritic	klb	𐎋𐎍𐎁	NA
+366	353	Sabaean	klb	𐩫𐩡𐩨	NA
+367	353	Hadramautic	klb	𐩫𐩡𐩨	NA
+368	353	Amharic	kälb	ከልብ	NA
+369	353	Ge'ez	kälb	ከልብ	NA
+370	353	Tigre	kälb	ከልብ	NA
+371	353	Tigrinya	kälbi	ከልቢ	NA
+372	353	Mehri	kawb	كَوب	NA
+373	373	Proto-Semitic	kanap-	kanap-	NA
+374	373	Akkadian	kappum	𒉺	NA
+375	373	Arabic	kanaf	كَنَف	NA
+376	373	Classical Syriac	kenəp̄ā	ܟܷ݁ܢܦܳܐ	NA
+377	373	Hebrew	kanáf, kānāp̄	כָּנָף	NA
+378	373	Ugaritic	knp	𐎋𐎐𐎔	NA
+379	373	Amharic	kənf	ክንፍ	NA
+380	373	Ge'ez	kənf	ክንፍ	NA
+381	381	Proto-Semitic	kapp-	kapp-	NA
+382	381	Akkadian	kappum	𒀉	NA
+383	381	Gulf Arabic	čaff	چَف	NA
+384	381	Maltese	kaff	keff	NA
+385	381	Moroccan Arabic	kaff	كف	NA
+386	381	Classical Persian	kaff	کَفّ	NA
+387	381	Classical Syriac	kappā	ܟܱ݁ܦܴ݁ܐ	NA
+388	381	Ge'ez	kaf	ካፍ	NA
+389	381	Ugaritic	kp	𐎋𐎔	NA
+390	390	Proto-Semitic	kariś-	kariś-	NA
+391	390	Akkadian	karšum	𒍜𒊮	NA
+392	390	Gulf Arabic	karš	كَرْش	NA
+393	390	Maltese	karsā	kirxa	NA
+394	390	Aramaic	karsā	ܟܱ݁ܪܣܳܐ	NA
+395	390	Aramaic	karsā	כַּרְסָא	NA
+396	390	Hebrew	kārēś	כָּרֵשׂ	NA
+397	390	Hebrew	kéres	כֶּרֶס	NA
+398	390	Ugaritic	krs	𐎋𐎗𐎒	NA
+399	390	Ge'ez	kärś	ከርሥ	NA
+400	400	Proto-Semitic	kawan-	kawan-	NA
+401	400	Akkadian	kânum	𒄀	NA
+402	400	Arabic	kāna	كَانَ	NA
+403	400	Ge'ez	konä	ኮነ	NA
+404	404	Proto-Semitic	kaʔs-	kaʔs-	NA
+405	404	Akkadian	kāsum	𒃲	NA
+406	404	Eblaite	gi-šu	𒄀𒋗	NA
+407	404	Hittite	ga-a-zi	𒂵𒀀𒍣	NA
+408	404	Hurrian	ka-su₂	𒅗𒍪	NA
+409	404	Arabic	kaʔs	كَأْس	NA
+410	404	Classical Syriac	kāsā	ܟܴ݁ܣܳܐ	NA
+411	404	Hebrew	kos, kôs	כּוֹס	NA
+412	404	Phoenician	ks	𐤊𐤎	NA
+413	404	Ugaritic	ks	𐎋𐎒	NA
+414	414	Proto-Semitic	kinnār-	kinnār-	NA
+415	414	Neo-Babylonian	kinnārum	𒆠𒅔𒈾𒊒	NA
+416	414	Eblaite	gi-na-ru₁₂-um	𒄀𒈾𒂗𒌝	NA
+417	414	Eblaite	gi-na-rúm	𒄀𒈾𒊒	NA
+418	414	Arabic	kinnāra	كِنَّارَة	NA
+419	414	Mandaic	kinar	ࡊࡉࡍࡀࡓ	NA
+420	414	Mandaic	kinara	ࡊࡉࡍࡀࡓࡀ	NA
+421	414	Armenian	kʻnar	քնար	NA
+422	414	Georgian	knari	ქნარი	NA
+423	414	Sanskrit	kiṃnarā	किंनरा	NA
+424	414	Sanskrit	kinnara	किन्नर	NA
+425	414	Coptic	kinera	ⲕⲓⲛⲉⲣⲁ	NA
+426	414	Italian	kinnor	cinira	NA
+427	414	Italian	knr	kinnor	NA
+428	414	Ugaritic	knr	𐎋𐎐𐎗	NA
+429	414	Ugaritic	dGIŠ ki-na-ru3	𒀭𒄑𒆠𒈾𒀸	NA
+430	414	Amharic	krar	ክራር	NA
+431	414	Amharic	kärar	ከራር	NA
+432	414	Ge'ez	kissari	ከሰረ	NA
+433	414	Parthian	šnng	𐫢𐫗𐫗𐫃	NA
+434	414	Arabic	jank	جَنْك	NA
+435	414	Arabic	junk	جُنْك	NA
+436	414	Azerbaijani	caung:	çəng	NA
+437	414	Burmese	caung:	စောင်း	NA
+438	414	Georgian	čangi	ჩანგი	NA
+439	414	Pashto	çenk, çeng	چنگ	NA
+440	414	Turkish	çeng	çenk	NA
+441	414	Turkish	ṣanj	çeng	NA
+442	414	Arabic	ṣanj	صَنْج	NA
+443	414	Sogdian	cyngryʾ	[4]	NA
+444	414	Sogdian	cyngryʾ	𐫝𐫏𐫗𐫃𐫡𐫏𐫀	NA
+445	414	Sogdian	cngryʾ	𐫝𐫗𐫃𐫡𐫏𐫀	NA
+446	446	Proto-Semitic	labiʔ-	labiʔ-	NA
+447	446	Akkadian	lābum	𒆷𒁍𒌝	NA
+448	446	Eblaite	labʾum	𒊊	NA
+449	446	Arabic	labuʔa	لَبُؤَة	NA
+450	446	Amorite	la-ba	𒆷𒁀	NA
+451	446	Amorite	la-ba-a	𒆷𒁀𒀀	NA
+452	446	Imperial Aramaic	lbʾ	𐡋𐡁𐡀	NA
+453	446	Hebrew	laví, lāḇîʾ	לָבִיא	NA
+454	446	Coptic	labo	ⲗⲁⲃⲟ	NA
+455	446	Egyptian	lbủ	rbw	NA
+456	446	Ugaritic	lbủ	𐎍𐎁𐎜	NA
+457	446	Sabaean	lbʾ	𐩡𐩨𐩱	NA
+458	458	Proto-Semitic	lapt-	lapt-	NA
+459	458	Akkadian	laptum, liptum	𒇻𒊬	NA
+460	458	Arabic	lift	لِفْت	NA
+461	458	Classical Syriac	lap̄tā	ܠܰܦܬܳܐ	NA
+462	458	Classical Syriac	lep̄tā	ܠܶܦܬܳܐ	NA
+463	458	Classical Syriac	lp̄eṯ	ܠܦܶܬ	NA
+464	458	Hebrew	léfet, lép̄eṯ	לֶפֶת	NA
+465	465	Proto-Semitic	lawaṯ-	lawaṯ-	NA
+466	465	Akkadian	lāšum	𒋃	NA
+467	465	Arabic	lāṯa	لَاثَ	NA
+468	465	Classical Mandaic	lōš	ࡋࡅࡔ	NA
+469	465	Classical Syriac	lōš	ܠܳܫ	NA
+470	465	Hebrew	lash, lāš	לָשׁ	NA
+471	465	Ugaritic	lš	𐎍𐎌	NA
+472	465	Amharic	läwwäsä	ለወሰ	NA
+473	465	Ge'ez	losä	ሎሰ	NA
+474	465	Tigrinya	läwwäsä	ለወሰ	NA
+475	475	Proto-Semitic	laylay-	laylay-	NA
+476	475	Akkadian	līlum	𒇷𒈝	NA
+477	475	Akkadian	līliātum	𒆥𒋝	NA
+478	475	Akkadian	li-la₂	𒇷𒇲	NA
+479	475	Akkadian	li-el	𒇷𒂖	NA
+480	475	Egyptian Arabic	lēl	ليل	NA
+481	475	Egyptian Arabic	lēla	ليلة	NA
+482	475	Maltese	līl	lejl	NA
+483	475	Moroccan Arabic	līl	ليل	NA
+484	475	Moroccan Arabic	līla	ليلة	NA
+485	475	Classical Syriac	lēlyā	ܠܶܠܝܳܐ	NA
+486	475	Classical Syriac	laylē	ܠܝܠܐ	NA
+487	475	Hebrew	láyil	לַיִל	NA
+488	475	Hebrew	láyla, láylâ	לַיְלָה	NA
+489	475	Phoenician	ll	𐤋𐤋	NA
+490	475	Ugaritic	ll	𐎍𐎍	NA
+491	475	Sabaean	lly	𐩡𐩡𐩺	NA
+492	475	Sabaean	lyly	𐩡𐩺𐩡𐩺	NA
+493	475	Qatabanian	lyl	𐩡𐩺𐩡	NA
+494	475	Amharic	let	ሌት	NA
+495	475	Amharic	lelit	ሌሊት	NA
+496	475	Ge'ez	lelit	ሌሊት	NA
+497	475	Harari	läyli	ለይሊ	NA
+498	475	Tigre	lali	ላሊ	NA
+499	475	Tigrinya	läyti	ለይቲ	NA
+500	500	Proto-Semitic	libb-	libb-	NA
+501	500	Akkadian	libbum	𒊮	NA
+502	500	Eblaite	li-bù	𒇷𒅤	NA
+503	500	Arabic	lubb	لُبّ	NA
+504	500	Classical Syriac	lebbā	ܠܶܒܴ݁ܐ	NA
+505	500	Hebrew	lev, lēḇ	לֵב	NA
+506	500	Hebrew	leváv, lēḇāḇ	לֵבָב	NA
+507	500	Phoenician	lb	𐤋𐤁	NA
+508	500	Ugaritic	lb	𐎍𐎁	NA
+509	500	Sabaean	lb	𐩡𐩨	NA
+510	500	Sabaean	lbb	𐩡𐩨𐩨	NA
+511	500	Minaean	lb	𐩡𐩨	NA
+512	500	Ge'ez	ləbb	ልብ	NA
+513	500	Amharic	ləbb	ልብ	NA
+514	500	Tigre	ləbb	ልብ	NA
+515	500	Tigrinya	ləbbi	ልቢ	NA
+516	516	Proto-Semitic	lišān-	lišān-	NA
+517	517	Proto-Semitic	lV-	lV-	NA
+518	517		li-	lapān	NA
+519	517	Arabic	li-	لِـ	NA
+520	517	Arabic	la-	لَـ	NA
+521	517	Classical Syriac	lə-, l-, li-, la-, le-, lā-	ܠ-	NA
+522	517	Hebrew	lə-, l-, li-, la-, le-, lā-	לְ־, ל־, לִ־, לַ־, לֶ־, לָ־	NA
+523	517	Hebrew	ʾel	אֶל	NA
+524	517	Phoenician	ʾl	𐤀𐤋	NA
+525	517	Ugaritic	l	𐎍	NA
+526	517	Akkadian	-l	la	NA
+527	517	Hadrami	-l	-𐩡	NA
+528	517	Minaean	-l	-𐩡	NA
+529	517	Qatabanian	-l	-𐩡	NA
+530	517	Sabaean	-l	-𐩡	NA
+531	517	Mehri	l-	l-	NA
+532	517	Shehri	le	l-	NA
+533	517	Soqotri	lä-	le	NA
+534	517	Ge'ez	lä-	ለ-	NA
+535	517	Tigre	ʾəl	እል	NA
+536	517	Tigre	läʿäl	ለዐል	NA
+537	517	Tigrinya	lə-	ል-	NA
+538	517	Tigrinya	-l	-ል	NA
+539	517	Tigrinya	laʿli	ላዕሊ	NA
+540	517	Amharic	lä-	ለ-	NA
+541	517	Harari	-le	-ሌ	NA
+542	542	Proto-Semitic	lā	lā	NA
+543	542	Akkadian	lā	𒆷𒀀	NA
+544	542	Gulf Arabic	laʔ	لَأْ	NA
+545	542	Gulf Arabic	la	لا	NA
+546	542	South Levantine Arabic	laʔ	لأ	NA
+547	542	South Levantine Arabic	la	لا	NA
+548	542	Maltese	le	la	NA
+549	542	Maltese	la	le	NA
+550	542	Swahili	lā	la	NA
+551	542	Mandaic	lā	ࡋࡀ	NA
+552	542	Classical Syriac	lā	ܠܳܐ	NA
+553	542	Hebrew	lo, lōʾ	לֹא	NA
+554	542	Phoenician	lʾ	𐤋𐤀	NA
+555	542	Ugaritic	l	𐎍	NA
+556	542	Mehri	laʾ	لَأ	NA
+557	557	Proto-Semitic	malk-	malk-	NA
+558	557	Akkadian	malkum	𒈠𒀠𒆪𒌝	NA
+559	557	Gulf Arabic	malik	مَلِك	NA
+560	557	Armenian	melikʻ	մելիք	NA
+561	557	Maranao	malik	malik	NA
+562	557	Iranian Persian	malek	ملک	NA
+563	557	Tajik	malik	малик	NA
+564	557	Indonesian	malika	malik	NA
+565	557	Sanskrit	malika	मलिक	NA
+566	557	Turkish	mèlik	melik	NA
+567	557	Serbo-Croatian	malkā	mèlik	NA
+568	557	Serbo-Croatian	malkā	мѐлик	NA
+569	557	Mandaic	malkā	ࡌࡀࡋࡊࡀ	NA
+570	557	Classical Syriac	malkā	ܡܰܠܟܴ݁ܐ	NA
+571	557	Ammonite	mlk	𐤌𐤋𐤊	NA
+572	557	Hebrew	mélekh, méleḵ	מֶלֶךְ	NA
+573	557	Moabite	mlk	𐤌𐤋𐤊	NA
+574	557	Phoenician	mlk	𐤌𐤋𐤊	NA
+575	557	Ugaritic	mlk	𐎎𐎍𐎋	NA
+576	557	Minaean	mlk	𐩣𐩡𐩫	NA
+577	557	Sabaean	mlk	𐩣𐩡𐩫	NA
+578	557	Qatabanian	mlk	𐩣𐩡𐩫	NA
+579	557	Safaitic	mlk	𐪃𐪁𐪋	NA
+580	557	Amharic	ʾämlak	አምላክ	NA
+581	557	Ge'ez	ʾämlak	አምላክ	NA
+582	582	Proto-Semitic	mataḳ-	mataḳ-	NA
+583	582	Akkadian	matāqum	𒈠𒋫𒄣	NA
+584	582	Aramaic	matteq	מתק	NA
+585	582	Hebrew	mtq	מתק	NA
+586	582	Ge'ez	mätäḳä	መተቀ	NA
+587	587	Proto-Semitic	matḳ-	matḳ-	NA
+588	587	Hittite	NINDAKUR4.RA KU7-KU7	𒃻𒆸𒊏𒆯𒆯	NA
+589	587	Hittite	mi-it-ga-i-mi	[1]	NA
+590	587	Luwian	mi-it-ga-i-mi	𒈪𒀉𒂵𒄿𒈪	NA
+591	587	Hebrew	mótek, mṓṯeq	מֹתֶק	NA
+592	587	Hebrew	métek, méṯeq	מֶתֶק	NA
+593	587	Ge'ez	mätäḳä	መተቀ	NA
+594	594	Proto-Semitic	mawut-	mawut-	NA
+595	594	Akkadian	mâtum	𒁁	NA
+596	594	Arabic	māta	مَاتَ	NA
+597	594	Classical Syriac	mīṯ	ܡܺܝܬ	NA
+598	594	Hebrew	met, mēṯ	מֵת	NA
+599	594	Ugaritic	mt	𐎎𐎚	NA
+600	594	Sabaean	mwt	𐩣𐩥𐩩	NA
+601	594	Safaitic	myt	𐪃𐪚𐪉	NA
+602	594	Ge'ez	motä	ሞተ	NA
+603	594	Tigre	motä	ሞተ	NA
+604	594	Tigrinya	motä	ሞተ	NA
+605	594	Amharic	motä	ሞተ	NA
+606	594	Harari	mota	ሞታ	NA
+607	594	Mehri	N/A	mōt	NA
+608	608	Proto-Semitic	may-	may-	NA
+609	609	Proto-Semitic	mašk-	mašk-	NA
+610	609	Akkadian	maškum	𒋢	NA
+611	609	Arabic	mask	مَسْك	NA
+612	609	Classical Mandaic	miška	ࡌࡉࡔࡊࡀ	NA
+613	609	Classical Mandaic	maška	ࡌࡀࡔࡊࡀ	NA
+614	609	Modern Aramaic	meškā	ܡܫܟܐ	NA
+615	609	Modern Aramaic	miška	ܡܫܟܐ	NA
+616	609	Classical Syriac	meškā	ܡܶܫܟܴ݁ܐ	NA
+617	609	Ancient Greek	méskos	μέσκος	NA
+618	609	Armenian	mašk	մաշկ	NA
+619	609	Cappadocian Greek	máski	μάσκι	NA
+620	609	Old Georgian	mašḳi	მაშკი	NA
+621	609	Romani	m-š-k-a	maski	NA
+622	609	Chagatai	mešk	مشك	NA
+623	609	Chagatai	mešik	مشیك	NA
+624	609	Ottoman Turkish	meşk	مشك	NA
+625	609	Hebrew	méshekh, méšeḵ	מֶשֶׁךְ	NA
+626	626	Proto-Semitic	min	min	NA
+627	626	Arabic	min	مِن	NA
+628	626	Arabic	mina	مِنَ	NA
+629	626	Classical Syriac	min	ܡܺܢ	NA
+630	626	Hebrew	min	מִן	NA
+631	626	Punic	mn	𐤌𐤍	NA
+632	626	Punic	m-	𐤌-	NA
+633	626	Punic	mn	my-	NA
+634	626	Sabaean	mn	𐩣𐩬	NA
+635	626	Sabaean	mn	Haram	NA
+636	626	Safaitic	mn	𐪃𐪌	NA
+637	626	Safaitic	m-	𐪃-	NA
+638	626	Ge'ez	ʾəm	እም	NA
+639	626	Ge'ez	ʾəmmənä	እምነ	NA
+640	626	Tigre	mən	ምን	NA
+641	626	Amharic	mən	ምን	NA
+642	642	Proto-Semitic	miʔat-	miʔat-	NA
+643	642	Akkadian	meʔatum	𒈨𒀜	NA
+644	642	Akkadian	mât	𒈠𒀜	NA
+645	642	Akkadian	mē	𒈨𒂊	NA
+646	642	Akkadian	mētum	𒈨𒌈	NA
+647	642	Gulf Arabic	imya	امية	NA
+648	642	Egyptian Arabic	miyya	مية	NA
+649	642	Hijazi Arabic	miyya	مية	NA
+650	642	South Levantine Arabic	miyya, miyye	مية	NA
+651	642	Maltese	myā	mija	NA
+652	642	Central Atlas Tamazight	mya	ⵎⵢⴰ	NA
+653	642	Swahili	məʾā, mā	mia	NA
+654	642	Classical Syriac	məʾā, mā	ܡܐܶܐ	NA
+655	642	Classical Syriac	māṯā	ܡܳܐܬܳܐ	NA
+656	642	Dutch	mäto	meier	NA
+657	642	Amharic	mäto	መቶ	NA
+658	642	Tigrinya	miʾti	ሚእቲ	NA
+659	659	Proto-Semitic	miʕay-	miʕay-	NA
+660	659	Akkadian	amūtum	𒌍	NA
+661	659	Akkadian	mu-ú-tum	𒈬𒌑𒌈	NA
+662	659	Arabic	miʕan	مِعًى	NA
+663	659	Arabic	maʕan	مَعًى	NA
+664	659	Arabic	maʕy	مَعْي	NA
+665	659	Arabic	miʕāʔ	مِعَاء	NA
+666	659	Aramaic	məʿā	מְעָא	NA
+667	659	Aramaic	maʿyā	ܡܰܥܝܳܐ	NA
+668	659	Aramaic	məʿūṯā	etc.	NA
+669	659	Aramaic	məʿūṯā	ܡܥܽܘܬܳܐ	NA
+670	659	Aramaic	*məʿō	absolute state	NA
+671	659	Aramaic	maʿyānā	מַעְיָנָא	NA
+672	659	Hebrew	mēʿê	מֵעֶה	NA
+673	659	Hebrew	maʿyān	מַעְיָן	NA
+674	659	Hebrew	mēʿîm	מֵעִים	NA
+675	659	Hebrew	mēʿáyim	מֵעַיִם	NA
+676	659	Hebrew	məʿî	מְעִי	NA
+677	659	Hebrew	mēʿôṯ	מֵעוֹת	NA
+678	659	Ge'ez	ʾämaʿut	አማዑት	NA
+679	659	Ge'ez	ʾämʿut	አምዑት	NA
+680	659	Ge'ez	ʾämʿut	አምዑት	NA
+681	659	Ge'ez	ʾämaʿut	አማዑት	NA
+682	659	Ge'ez	ʾämaʿəwat	አማዕዋት	NA
+683	659	Tigrinya	ʾämʿut	አምዑት	NA
+684	659	Tigre	ʾämʿit	አምዒት	NA
+685	659	Tigre	ʾämʿut	አምዑት	NA
+686	659	Tigre	ʿämʿit	ዐምዒት	NA
+687	659	Harsusi	məʔwəyēn	mʕeyīn	NA
+688	659	Mehri	məʔəwəyēn	məʔwəyēn	NA
+689	659	Mehri	miʕḥo	məʔəwəyēn	NA
+690	659	Soqotri	míḥo	miʕḥo	NA
+691	659	Soqotri	N/A	míḥo	NA
+692	692	Proto-Semitic	muhr-	muhr-	NA
+693	692	Akkadian	mūrum	𒀲𒍑	NA
+694	692	Arabic	muhr	مُهْر	NA
+695	692	Amorite	mu-ru	𒈬𒊒	NA
+696	692	Classical Syriac	muhrā	ܡܽܘܗܪܳܐ	NA
+697	692	Turoyo	muhro	ܡܘܗܪܳܐ	NA
+698	692	Qatabanian	mhrt	𐩣𐩠𐩧𐩩	NA
+699	692	Sabaean	mhrt	𐩣𐩠𐩧𐩩	NA
+700	692	Ge'ez	mähär	መሀር	NA
+701	692	Tigre	məhər	ምህር	NA
+702	692	Tigrinya	məhir	ምሂር	NA
+703	703	Proto-Semitic	mut-	mut-	NA
+704	703	Akkadian	mutum	𒁮	NA
+705	703	Hebrew	m'tím, məṯîm	מְתִים	NA
+706	703	Ugaritic	mt	𐎎𐎚	NA
+707	703	Ge'ez	mət	ምት	NA
+708	708	Proto-Semitic	mušy-	mušy-	NA
+709	708	Akkadian	mūšum	𒈪	NA
+710	708	Akkadian	mušītum	𒈪	NA
+711	708	Arabic	masāʔ	مَسَاء	NA
+712	708	Arabic	ʔams	أَمْس	NA
+713	708	Arabic	ʔumsiyya	أُمْسِيَّة	NA
+714	708	Aramaic	ramšā	רַמְשָׁא	NA
+715	708	Aramaic	ramšā	ܪܰܡܫܳܐ	NA
+716	708	Hebrew	'émesh, ʾémeš	אֶמֶשׁ	NA
+717	708	Ge'ez	məset	ምሴት	NA
+718	708	Tigre	məset	ምሴት	NA
+719	708	Tigrinya	məšät	ምሸት	NA
+720	708	Amharic	məššət	ምሽት	NA
+721	708	Argobba	mušed	ሙሼድ	NA
+722	708	Gafat	məštä	məsiet	NA
+723	708	Gafat	məšet	məštä	NA
+724	708	Harari	məšet	ምሼት	NA
+725	708	Inor	mušed	ሙሼድ	NA
+726	708	Kistane	məšät	ምሸት	NA
+727	708	Kistane	məššət	ምሽት	NA
+728	708	Soqotri	*laylay-	imšin	NA
+729	729	Proto-Semitic	muḫḫ-	muḫḫ-	NA
+730	729	Akkadian	muḫḫum	𒌋𒅗	NA
+731	729	Eblaite	mu-ḫu-um	𒈬𒄷𒌝	NA
+732	729	Egyptian Arabic	muḵḵ	مخ	NA
+733	729	Gulf Arabic	muḵ	مخ	NA
+734	729	Maltese	muḵḵ	moħħ	NA
+735	729	Moroccan Arabic	muḵḵ	مخ	NA
+736	729	Kurdish	mox	mox	NA
+737	729	Kurdish	mox	مۆخ	NA
+738	729	Persian	mox	مخ	NA
+739	729	Classical Syriac	muḥo	ܡܘܚܐ	NA
+740	729	Turoyo	muḥo	ܡܘܚܐ	NA
+741	729	Hebrew	móakh, mốaḥ	מוֹחַ	NA
+742	729	Ugaritic	mḥ	𐎎𐎈	NA
+743	729	Amharic	āmiro	አዕምሮ	NA
+744	744	Proto-Semitic	mVdr-	mVdr-	NA
+745	744	Akkadian	midrum	𒃻	NA
+746	744	Arabic	madar	مَدَر	NA
+747	744	Classical Syriac	meḏrā	ܡܶܕܪܳܐ	NA
+748	744	Biblical Hebrew	méder, méḏer	מֶדֶר	NA
+749	744	Sabaean	mdr	𐩣𐩵𐩧	NA
+750	744	Amharic	mədr	ምድር	NA
+751	744	Ge'ez	mədr	ምድር	NA
+752	752	Proto-Semitic	māy-	māy-	NA
+753	752	Akkadian	mû	𒀀	NA
+754	752	Algerian Arabic	mā	ما	NA
+755	752	Andalusian Arabic	mā	ما	NA
+756	752	Baharna Arabic	me	مي	NA
+757	752	Chadian Arabic	almi	المي	NA
+758	752	Egyptian Arabic	máyya	مية	NA
+759	752	Gulf Arabic	māy	ماي	NA
+760	752	Hassaniya Arabic	ma	ما	NA
+761	752	Hijazi Arabic	mōya	موية	NA
+762	752	Iraqi Arabic	māy	ماي	NA
+763	752	Juba Arabic	moyo	moya	NA
+764	752	Nubi	me	moyo	NA
+765	752	Libyan Arabic	me	مي	NA
+766	752	Maltese	mā	ilma	NA
+767	752	Moroccan Arabic	mā	ما	NA
+768	752	North Levantine Arabic	may	مَي	NA
+769	752	South Levantine Arabic	ṃayy	مي	NA
+770	752	Sudanese Arabic	mōya	موية	NA
+771	752	Classical Syriac	mayyā	ܡܰܝܴ̈ܐ	NA
+772	752	Mandaic	miā/myā	ࡌࡉࡀ	NA
+773	752	Lishana Deni	ṃāya	מאיא	NA
+774	752	Lishana Deni	ṃāye	מאייה	NA
+775	752	Dutch	mm	majem	NA
+776	752	Phoenician	mm	𐤌𐤌	NA
+777	752	Ugaritic	my	𐎎𐎊	NA
+778	752	Sabaean	mw	𐩣𐩥	NA
+779	752	Safaitic	my	𐪃𐪚	NA
+780	752	Safaitic	myt	𐪃𐪚𐪉	NA
+781	752	Safaitic	mwʾ	𐪃𐪅𐪑	NA
+782	752	Safaitic	mʾ	𐪃𐪑	NA
+783	752	Harsusi	ḥmo	myōh	NA
+784	752	Hobyót	moh	ḥmo	NA
+785	752	Mehri	míh	moh	NA
+786	752	Shehri	muh	míh	NA
+787	752	Bathari	may	muh	NA
+788	752	Dahalik	may	ማይ	NA
+789	752	Ge'ez	may	ማይ	NA
+790	752	Harari	miy	ሚይ	NA
+791	752	Silt'e	may	መይ	NA
+792	752	Tigre	may	ማይ	NA
+793	752	Tigrinya	may	ማይ	NA
+794	752	Wolane	N/A	መይ	NA
+795	752	Zay	N/A	ማይ	NA
+796	796	Proto-Semitic	nadaw-	nadaw-	NA
+797	796	Akkadian	nâdum	𒄿	NA
+798	796	Eblaite	na-da-um	𒈾𒁕𒌝	NA
+799	796	Arabic	nadā	نَدَا	NA
+800	796	Aramaic	niddâ	CAL	NA
+801	796	Hebrew	niddâ	נִדָּה	NA
+802	796	Ugaritic	ndy	𐎐𐎄𐎊	NA
+803	796	Ugaritic	nd	𐎐𐎄	NA
+804	796	Sabaean	ndy	𐩬𐩵𐩺	NA
+805	796	Ge'ez	nädäyä	ነደየ	NA
+806	796	Ge'ez	nädyä	ነድየ	NA
+807	796	Tigre	näda	ነዳ	NA
+808	796	Tigrinya	nädäyä	ነደየ	NA
+809	796	Old Georgian	nadi	ნადი	NA
+810	796	Laz	noderi	ნოდერი	NA
+811	796	Mingrelian	nodi	ნოდი	NA
+812	796	Svan	nodär	ნოდა̈რ	NA
+813	796	Svan	lindi	ლინდი	NA
+814	814	Proto-Semitic	nahar-	nahar-	NA
+815	815	Proto-Semitic	namir-	namir-	NA
+816	815	Akkadian	nimrum	𒊊𒌉	NA
+817	815	Eblaite	na-me-lum	𒈾𒈨𒈝	NA
+818	815	Arabic	namir	نَمِر	NA
+819	815	Classical Syriac	nemrā	ܢܶܡܪܳܐ	NA
+820	815	Hebrew	namér, nāmēr	נָמֵר	NA
+821	815	Old South Arabian	nmr	𐩬𐩣𐩧	NA
+822	815	Amharic	näbr	ነብር	NA
+823	815	Ge'ez	nämr	ነምር	NA
+824	815	Tigre	näbri	ነብሪ	NA
+825	815	Tigrinya	nämri	ነምሪ	NA
+826	815	Tigrinya	näbri	ነብሪ	NA
+827	815	Sebat Bet Gurage	näwǝr	ነውር	NA
+828	815	Harsusi	N/A	nemr	NA
+829	829	Proto-Semitic	napaḫ-	napaḫ-	NA
+830	829	Akkadian	napāḫum	𒃸𒃸	NA
+831	829	Maltese	nāp̄aḥ	nefaħ	NA
+832	829	Classical Syriac	nəp̄aḥ	ܢܦܰܚ	NA
+833	829	Kurdish	nepixandin	nepixîn	NA
+834	829	Kurdish	nafákh, nāp̄aḥ	nepixandin	NA
+835	829	Hebrew	nafákh, nāp̄aḥ	נָפַח	NA
+836	829	Amharic	näffa	ነፋ	NA
+837	829	Ge'ez	näfḫä	ነፍኀ	NA
+838	829	Ge'ez	näfḥä	ነፍሐ	NA
+839	829	Sebat Bet Gurage	näfa	ነፋ	NA
+840	829	Tigre	näfḥa	ነፍሓ	NA
+841	829	Tigrinya	näfḥe	ነፍሔ	NA
+842	842	Proto-Semitic	napš-	napš-	NA
+843	842	Akkadian	napištum	𒍣	NA
+844	842	Maltese	nəfəs	nifs	NA
+845	842	Azerbaijani	nafas	nəfəs	NA
+846	842	Armenian	nafas	նաֆաս	NA
+847	842	Armenian	nafs	նաֆս	NA
+848	842	Baluchi	napas	نپس	NA
+849	842	Khalaj	nafas	nəfəs	NA
+850	842	Amahai	napas	napas	NA
+851	842	Tausug	nafas	napas	NA
+852	842	Persian	nafas	نفس	NA
+853	842	Swahili	nefes	nafasi	NA
+854	842	Ottoman Turkish	nefes	نفس	NA
+855	842	Ottoman Turkish	nepes	nefes	NA
+856	842	Uyghur	nepes	نەپەس	NA
+857	842	Uzbek	nap̄šā	nafas	NA
+858	842	Classical Syriac	nap̄šā	ܢܲܦܼܫܵܐ	NA
+859	842	Lishana Deni	nōšā	נושא	NA
+860	842	Hebrew	néfesh, nép̄eš	נֶפֶשׁ	NA
+861	842	Ugaritic	npš	𐎐𐎔𐎌	NA
+862	842	Old South Arabian	nfs¹	𐩬𐩰𐩪	NA
+863	842	Amharic	näfs	ነፍስ	NA
+864	842	Argobba	näfs	ነፍስ	NA
+865	842	Ge'ez	näfs	ነፍስ	NA
+866	842	Harari	näfsi	ነፍሲ	NA
+867	842	Sebat Bet Gurage	näfs	ነፍስ	NA
+868	842	Tigrinya	näfsi	ነፍሲ	NA
+869	842	Tigrinya	näfs	personal pronouns	NA
+870	842	Tigre	näfs	ነፍስ	NA
+871	871	Proto-Semitic	naḥat-	naḥat-	NA
+872	871	Akkadian	nuḫḫutum	𒉡𒄴𒄷𒌅	NA
+873	871	Arabic	naḥata	نَحَتَ	NA
+874	871	Ugaritic	nḥt	𐎐𐎈𐎚	NA
+875	871	Sabaean	nḥt	𐩬𐩢𐩩	NA
+876	871	Old Armenian	naxatem	նախատեմ	NA
+877	877	Proto-Semitic	naḥaš-	naḥaš-	NA
+878	877	Akkadian	nēšum	𒌨𒈤	NA
+879	877	Arabic	ḥanaš	حَنَش	NA
+880	877	Arabic	nahhās	نَهَّاس	NA
+881	877	Arabic	nahūs	نَهُوس	NA
+882	877	Arabic	minhas	مِنْهَس	NA
+883	877	Hebrew	nakhásh, nāḥāš	נָחָשׁ	NA
+884	877	Ugaritic	nḥš	𐎐𐎈𐎌	NA
+885	885	Proto-Semitic	naḫar-	naḫar-	NA
+886	885	Akkadian	naḫārum	𒍝𒊏𒄷	NA
+887	885	Maltese	nəḥar	naħar	NA
+888	885	Classical Syriac	nəḥar	ܢܚܰܪ	NA
+889	885	Hebrew	nakhár, nāḥar	נָחַר	NA
+890	885	Ugaritic	ảnḫr	𐎀𐎐𐎃𐎗	NA
+891	885	Ge'ez	nəḫrä	ንኅረ	NA
+892	892	Proto-Semitic	niḥnu	niḥnu	NA
+893	892	Akkadian	nīnu	𒉌𒄿𒉡	NA
+894	892	Arabic	naḥnu	نَحْنُ	NA
+895	892	Classical Syriac	ʾənaḥnan	ܐܢܰܚܢܰܢ	NA
+896	892	Classical Syriac	ʾănān	ܐܢܳܢ	NA
+897	892	Hebrew	anákhnu, ʾănáḥnû	אֲנַחְנוּ	NA
+898	892	Hebrew	ánu, ʾănû	אֲנוּ	NA
+899	892	Phoenician	nḥn	𐤍𐤇𐤍	NA
+900	892	Phoenician	ʾnḥn	𐤀𐤍𐤇𐤍	NA
+901	892	Amharic	ʾəña	እኛ	NA
+902	892	Ge'ez	nəḥnä	ንሕነ	NA
+903	892	Tigrinya	nəḥna	ንሕና	NA
+904	892	Soqotri	ḥan	حن	NA
+905	905	Proto-Semitic	nūr-	nūr-	NA
+906	905	Akkadian	nūrum	𒂟	NA
+907	905	Avar	nur	нур	NA
+908	905	Bashkir	nur	нур	NA
+909	905	Bengali	nur	নূর	NA
+910	905	Turkish	nur	nur	NA
+911	905	Tajik	nur	нур	NA
+912	905	Swahili	nur	nuru	NA
+913	905	Uyghur	nur	نۇر	NA
+914	905	Uzbek	nār	nur	NA
+915	905	Maltese	nār	nar	NA
+916	905	Moroccan Arabic	nār	نار	NA
+917	905	Bengali	nar	নার	NA
+918	905	Persian	nâr	نار	NA
+919	905	Ottoman Turkish	nâr	نار	NA
+920	905	Classical Syriac	nūrā	ܢܽܘܪܳܐ	NA
+921	905	Hebrew	nur, nûr	נוּר	NA
+922	905	Hebrew	ner, nēr	נֵר	NA
+923	905	Ugaritic	nr	𐎐𐎗	NA
+924	905	Old South Arabian	nwr	𐩬𐩥𐩧	NA
+925	925	Proto-Semitic	patal-	patal-	NA
+926	925	Akkadian	patālum	𒉺𒋫𒇻	NA
+927	925	Maltese	fetilîn	fettel	NA
+928	925	Kurdish	fitilîn	fetilîn	NA
+929	925	Kurdish	pātal	fitilîn	NA
+930	925	Classical Syriac	patal	ܦܱ݁ܬܱ݁ܠ	NA
+931	925	Hebrew	patál, pāṯal	פָּתַל	NA
+932	925	Amharic	bäṭälä	በጠለ	NA
+933	925	Argobba	fättälä	በጠለ	NA
+934	925	Gafat	fättälä	በጠለ	NA
+935	925	Ge'ez	fätälä	ፈተለ	NA
+936	925	Harari	bäṭäla	በጠላ	NA
+937	925	Sebat Bet Gurage	fättälä	በጠለ	NA
+938	925	Tigre	fätla	ፈትላ	NA
+939	925	Tigrinya	fätälä	ፈተለ	NA
+940	940	Proto-Semitic	pataḥ-	pataḥ-	NA
+941	940	Akkadian	petûm	𒉿𒌅𒌑𒌝	NA
+942	940	Egyptian Arabic	fataḥ	فتح	NA
+943	940	Maltese	ftaḥ	fetaħ	NA
+944	940	Moroccan Arabic	ftaḥ	فتح	NA
+945	940	South Levantine Arabic	fataḥ	فتح	NA
+946	940	Northeastern Neo-Aramaic	pāṯeḥ	ܦܵܬܹܚ	NA
+947	940	Hebrew	pɔṯaḥ, patákh	פָּתַח	NA
+948	940	Ugaritic	ptḥ	𐎔𐎚𐎈	NA
+949	940	Ge'ez	fätäḥä	ፈተሐ	NA
+950	950	Proto-Semitic	pay-	pay-	NA
+951	950	Akkadian	pûm	𒅗	NA
+952	950	Maltese	pm	fomm	NA
+953	950	Classical Syriac	pumā	ܦܾ݁ܘܡܳܐ	NA
+954	950	Hebrew	pe, pê	פֶּה	NA
+955	950	Ugaritic	p	𐎔	NA
+956	950	Old South Arabian	f	𐩰	NA
+957	950	Amharic	ʾäf	አፍ	NA
+958	950	Argobba	ʾäf	አፍ	NA
+959	950	Ge'ez	ʾäf	አፍ	NA
+960	950	Gurage	ʾäf	አፍ	NA
+961	950	Harari	ʾäf	አፍ	NA
+962	950	Tigre	ʾäf	አፍ	NA
+963	950	Tigrinya	ʾäf	አፍ	NA
+964	964	Proto-Semitic	paʔr-	paʔr-	NA
+965	964	Akkadian	pērūrūtum	𒉾𒌉	NA
+966	964	Gulf Arabic	far	فار	NA
+967	964	Maltese	fār	far	NA
+968	964	Moroccan Arabic	fār	فار	NA
+969	964	Amharic	fərfər	ፍርፍር	NA
+970	964	Harari	fūr	فُوءْر	NA
+971	964	Inor	fuʾur	ፉኡር	NA
+972	964	Sebat Bet Gurage	fur	ፉር	NA
+973	973	Proto-Semitic	paḥal-	paḥal-	NA
+974	973	Akkadian	puḫālum	𒁍𒄩𒇻	NA
+975	973	Arabic	faḥl	فَحْل	NA
+976	973	Classical Mandaic	piḥlā	ࡐࡉࡇࡋࡀ	NA
+977	973	Classical Syriac	paḥlā	ܦܱ݁ܚܠܳܐ	NA
+978	973	Classical Syriac	pāḥlā	ܦܴ݁ܚܠܳܐ	NA
+979	973	Classical Syriac	peḥlā	ܦܷ݁ܚܠܴܐ	NA
+980	973	Ugaritic	pḥl	𐎔𐎈𐎍	NA
+981	973	Ge'ez	fäḥäl	ፈሐል	NA
+982	973	Ge'ez	fäḥal	ፈሓል	NA
+983	973	Ge'ez	faḥl	ፋሕል	NA
+984	984	Proto-Semitic	piry-	piry-	NA
+985	984	Hebrew	p'rí, pərî	פְּרִי	NA
+986	984	Ugaritic	pr	𐎔𐎗	NA
+987	984	Ge'ez	fəre	ፍሬ	NA
+988	988	Proto-Semitic	piʔat-	piʔat-	NA
+989	988	Aramaic	ʾappūṯā	*ʔanp-	NA
+990	988	Aramaic	ʾappūṯā	אַפּוּתָא	NA
+991	988	Aramaic	pūṯā	ࡐࡅࡕࡀ	NA
+992	988	Aramaic	ʾappūṯā	ܐܰܦܾ݁ܘܬܳܐ	NA
+993	988	Hebrew	pot, pōṯ	פֹּת	NA
+994	988	Eblaite	bí-a-tum	𒉈𒀀𒌈	NA
+995	988	Arabic	fiʔa	فِئَة	NA
+996	988	Classical Syriac	paʾṯā	ܦܱ݁ܐܬܳܐ	NA
+997	988	Classical Syriac	paṯā	ܦܱ݁ܬܳܐ	NA
+998	988	Akkadian	piātum	𒁉𒀀𒌈	NA
+999	988	Hebrew	pe'á, pēʾâ	פֵּאָה	NA
+1000	988	Hebrew	pe'át, pəʾaṯ	פְּאַת	NA
+1001	988	Ugaritic	pảt	𐎔𐎀𐎚	NA
+1002	988	Ge'ez	läfe	*la-	NA
+1003	988	Ge'ez	läfe	ለፌ	NA
+1004	988	Tigrinya	fit	ፊት	NA
+1005	988	Argobba	fid	ፊድ	NA
+1006	988	Harari	fit	ፊት	NA
+1007	988	Aymälläl	ift	ኢፍት	NA
+1008	988	Goggot	ift	ኢፍት	NA
+1009	988	Silt'e	uft	ኡፍት	NA
+1010	988	Wolane	uft	ኡፍት	NA
+1011	988	Zay	əfit	እፊት	NA
+1012	988	Mesqan	ift	ኢፍት	NA
+1013	988	Sebat Bet Gurage	yift	ዪፍት	NA
+1014	988	Sebat Bet Gurage	ift	ኢፍት	NA
+1015	988	Soqotri	N/A	fī́ʾɔh	NA
+1016	1016	Proto-Semitic	purḡūṯ-	purḡūṯ-	NA
+1017	1016	Akkadian	piršaʾum, perʾāšum, purʾušum, peršāʾum, puršāʾum	𒄴	NA
+1018	1016	Eblaite	pur-ḫa-šúm	𒁓𒄩𒋧	NA
+1019	1016	Gulf Arabic	barḡūṯ	برغوث	NA
+1020	1016	Maltese	barḡūt	bergħud	NA
+1021	1016	Moroccan Arabic	barḡūt	برغوت	NA
+1022	1016	Classical Syriac	purtaʿnā	ܦܾ݁ܘܪܬܱ݁ܥܢܳܐ	NA
+1023	1016	Hebrew	par'ósh, parʿôš	פַּרְעוֹשׁ	NA
+1024	1016	Ugaritic	prġṯ	𐎔𐎗𐎙𐎘	NA
+1025	1025	Proto-Semitic	rabb-	rabb-	NA
+1026	1025	Akkadian	rapāšum	𒂼	NA
+1027	1025	Arabic	rabba	رَبَّ	NA
+1028	1025	Classical Syriac	rbb	ܪܒܒ	NA
+1029	1025	Ge'ez	rabba	ረበ	NA
+1030	1025	Ge'ez	rababa	ረበበ	NA
+1031	1031	Proto-Semitic	ramay-	ramay-	NA
+1032	1031	Akkadian	/⁠ramûm⁠/	𒊏𒈬𒌋	NA
+1033	1031	Maltese	rəmā	rema	NA
+1034	1031	Biblical Aramaic, Jewish Palestinian Aramaic, Jewish Literary Aramaic, Jewish Babylonian Aramaic	rəmā	רְמָא	NA
+1035	1031	Classical Mandaic	/⁠rəmā⁠/	ࡓࡌࡀ	NA
+1036	1031	Classical Syriac	rəmā	ܪܡܰܐ	NA
+1037	1031	Hebrew	ramá, rāmâ	רָמָה	NA
+1038	1031	Ugaritic	rmy	𐎗𐎎𐎊	NA
+1039	1031	Ge'ez	rämäyä	ረመየ	NA
+1040	1040	Proto-Semitic	rayam-	rayam-	NA
+1041	1040	Akkadian	ramûm	𒊑	NA
+1042	1040	Eblaite	ni-ra-mu	𒉌𒊏𒈬	NA
+1043	1040	Arabic	rāma	رَامَ	NA
+1044	1040	Christian Palestinian Aramaic, Classical Syriac	rām	ܪܳܡ	NA
+1045	1040	Hebrew	ram, rām	רָם	NA
+1046	1040	Ugaritic	rm	𐎗𐎎	NA
+1047	1040	Old South Arabian	rym	𐩧𐩺𐩣	NA
+1048	1040	Ge'ez	räyämä	ረየመ	NA
+1049	1040	Egyptian	/⁠râma⁠/	rꜣmꜥ	NA
+1050	1040	Egyptian	/⁠rômu⁠/	rwmw	NA
+1051	1051	Proto-Semitic	raʔš-	raʔš-	NA
+1052	1051	Akkadian	rēšum	𒊕	NA
+1053	1051	Eblaite	rí-še6/riʔši/ [URU.NE]	𒌷𒉈	NA
+1054	1051	Egyptian Arabic	rās	راس	NA
+1055	1051	Gulf Arabic	rās	راس	NA
+1056	1051	Maltese	rās	ras	NA
+1057	1051	Moroccan Arabic	rās	راس	NA
+1058	1051	Punjabi	rās	ਰਾਸ	NA
+1059	1051	Swahili	re's	rasi	NA
+1060	1051	Ottoman Turkish	re's	رأس	NA
+1061	1051	Classical Syriac	rēšā	ܪܶܝܫܳܐ	NA
+1062	1051	Hebrew	rosh, rōʾš	רֹאשׁ	NA
+1063	1051	Hebrew	rashím, rāʾšîm	רָאשִׁים	NA
+1064	1051	Hebrew	reshít, rēʾšîṯ	רֵאשִׁית	NA
+1065	1051	Hebrew	rishón, riʾšôn	רִאשׁוֹן	NA
+1066	1051	Moabite	rš	𐤓𐤔	NA
+1067	1051	Phoenician	rʾš	𐤓𐤀𐤔	NA
+1068	1051	Ugaritic	rỉš	𐎗𐎛𐎌	NA
+1069	1051	Old South Arabian	rʾs¹	𐩧𐩱𐩪	NA
+1070	1051	Sabaean	rʾs¹	𐩧𐩱𐩪	NA
+1071	1051	Amharic	ras	ራስ	NA
+1072	1051	Ge'ez	rəʾs	ርእስ	NA
+1073	1051	Tigre	räʾas	ረኣስ	NA
+1074	1051	Tigrinya	rəʾsi	ርእሲ	NA
+1075	1075	Proto-Semitic	raʕay-	raʕay-	NA
+1076	1075	Akkadian	re'ûm	𒊑𒂍𒌝	NA
+1077	1075	Maltese	rʿy	ragħa	NA
+1078	1075	Imperial Aramaic	rʿy	𐡓𐡏𐡉	NA
+1079	1075	Aramaic	rəʿāʾ	רְעֵי	NA
+1080	1075	Aramaic	rəʿāʾ	רְעָא	NA
+1081	1075	Classical Syriac	rəʿāʾ	ܪܥܵܐ	NA
+1082	1075	Biblical Hebrew	rāʿâ	רָעָה	NA
+1083	1075	Phoenician	rʿ	𐤓𐤏	NA
+1084	1075	Ugaritic	rʿy	𐎗𐎓𐎊	NA
+1085	1075	Sabaean	rʿy	𐩧𐩲𐩺	NA
+1086	1075	Ge'ez	rəʿyä	ርዕየ	NA
+1087	1087	Proto-Semitic	raʕd-	raʕd-	NA
+1088	1087	Akkadian	rādum	𒊏𒀀𒁺𒌝	NA
+1089	1087	Maltese	raʕd	ragħad	NA
+1090	1087	Moroccan Arabic	raʕd	رعد	NA
+1091	1087	Persian	ra'd	رعد	NA
+1092	1087	Swahili	rʿt	radi	NA
+1093	1087	Ugaritic	rʿt	𐎗𐎓𐎚	NA
+1094	1087	Christian Palestinian Aramaic	rʿd	ܪܥܕ	NA
+1095	1087	Harari	raʾdi	ራእዲ	NA
+1096	1087	Argobba	raʾad	ራኣድ	NA
+1097	1097	Proto-Semitic	raḥat-	raḥat-	NA
+1098	1097	Akkadian	rettum	rittum	NA
+1099	1097	Akkadian	ra/la-ʾà-tum	rettum	NA
+1100	1097	Arabic	rāḥa	رَاحَة	NA
+1101	1097	Arabic	rāḥa	رَاحَة	NA
+1102	1097	Classical Syriac	laḥṯā	ܠܰܚܬܳܐ	NA
+1103	1097	Hebrew	rakhát, raḥaṯ	רַחַת	NA
+1104	1097	Ugaritic	rḥt	𐎗𐎈𐎚	NA
+1105	1097	Ge'ez	ʾəraḥ	እራሕ	NA
+1106	1097	Ge'ez	ʾəgr	እግር	NA
+1107	1097	Ge'ez	ʾäf	አፍ	NA
+1108	1097	Tigre	räḥät	ረሐት	NA
+1109	1097	Tigrinya	raḥ	ራሕ	NA
+1110	1097	Tigrinya	raḫ	ራኅ	NA
+1111	1097	Mehri	ərḥāt	rəḥāt	NA
+1112	1097	Harsusi	rīḥet	ərḥāt	NA
+1113	1097	Harsusi	irɔ́ḥɔ́t	rīḥet	NA
+1114	1097	Shehri	ríḥoh	irɔ́ḥɔ́t	NA
+1115	1097	Soqotri	N/A	ríḥoh	NA
+1116	1116	Proto-Semitic	rigl-	rigl-	NA
+1117	1116	Akkadian	riglum	𒊑𒅅𒇻	NA
+1118	1116	Egyptian Arabic	regl	رجل	NA
+1119	1116	Gulf Arabic	rīl	ريل	NA
+1120	1116	Hijazi Arabic	rijil	رِجِل	NA
+1121	1116	Maltese	rjal	riġel	NA
+1122	1116	Moroccan Arabic	rjal	رجل	NA
+1123	1116	North Levantine Arabic	ʔijr	إجر	NA
+1124	1116	Classical Syriac	reḡlā	ܪܶܓܠܳܐ	NA
+1125	1116	Classical Syriac	neḡra	ܢܶܓܪܳܐ	NA
+1126	1116	Classical Mandaic	ligra	ࡋࡉࡂࡓࡀ	NA
+1127	1116	Hebrew	régel, réḡel	רֶגֶל	NA
+1128	1116	Ugaritic	riglu	𒊑𒅅𒇻	NA
+1129	1116	Minaean	rgl	𐩧𐩴𐩡	NA
+1130	1116	Sabaean	rgl	𐩧𐩴𐩡	NA
+1131	1116	Amharic	ʾəgr	እግር	NA
+1132	1116	Ge'ez	ʾəgr	እግር	NA
+1133	1116	Harari	ʾigir	ኢጊር	NA
+1134	1116	Harari	ʾingir	ኢንጊር	NA
+1135	1116	Inor	ägər	አግር	NA
+1136	1116	Kistane	ägər	አግር	NA
+1137	1116	Sebat Bet Gurage	ʾägər	አግር	NA
+1138	1116	Silt'e	ʾəngər	እንግር	NA
+1139	1116	Tigre	ʾəgr	እግር	NA
+1140	1116	Tigrinya	ʾəgri	እግሪ	NA
+1141	1116	Wolane	ʾəngər	እንግር	NA
+1142	1116	Zay	ʾəngər	እንግር	NA
+1143	1143	Proto-Semitic	tall-	tall-	NA
+1144	1143	Akkadian	tīlum, tillum	𒇯	NA
+1145	1143	Arabic	tall	تَلّ	NA
+1146	1143	Classical Syriac	tellā	ܬܠܐ	NA
+1147	1143	Hebrew	tel, tēl	תֵּל	NA
+1148	1143	Ugaritic	tl	𐎚𐎍	NA
+1149	1149	Proto-Semitic	tihām-	tihām-	NA
+1150	1150	Proto-Semitic	tišʕ-	tišʕ-	NA
+1151	1150	Akkadian	tišīt	𒑆	NA
+1152	1150	Egyptian Arabic	tisʕa	تسعة	NA
+1153	1150	Maltese	tisʕa	disgħa	NA
+1154	1150	Moroccan Arabic	tisʕa	تسعة	NA
+1155	1150	Moroccan Arabic	tisʕūd	تسعود	NA
+1156	1150	Swahili	tišʿā	tisa	NA
+1157	1150	Western Neo-Aramaic	ṭešʿa	ܛܫܥܐ	NA
+1158	1150	Western Neo-Aramaic	ʾeṭšaʿ	ܐܛܫܥ	NA
+1159	1150	Classical Syriac	tešʿā	ܬܷ݁ܫܥܳܐ	NA
+1160	1150	Classical Syriac	təšaʿ	ܬ݁ܫܰܥ	NA
+1161	1150	Hebrew	tésha', tḗšaʿ	תֵּשַׁע	NA
+1162	1150	Hebrew	tish'á, tišʿâ	תִּשְׁעָה	NA
+1163	1150	Punic	tšʿ	𐤕𐤔𐤏	NA
+1164	1150	Ugaritic	tšʿt	𐎚𐎌𐎓𐎚	NA
+1165	1150	Ge'ez	təsʿattu	ትስዓቱ	NA
+1166	1150	Tigre	səʿ	ስዕ	NA
+1167	1150	Tigre	təsʿi	ትስዒ	NA
+1168	1150	Tigrinya	təšʿattä	ትሽዓተ	NA
+1169	1169	Proto-Semitic	tiʔin-	tiʔin-	NA
+1170	1169	Akkadian	tittum	𒄑𒈠	NA
+1171	1169	Classical Syriac	tēʾntā	ܬܷ݁ܐܢܬ݁ܳܐ	NA
+1172	1169	Arabic	tīn	تِين	NA
+1173	1169	Ammonite	tʾn	𐤕𐤀𐤍	NA
+1174	1169	Hebrew	t'ená, təʾēnâ	תְּאֵנָה	NA
+1175	1169	Punic	tyn	𐤕𐤉𐤍	NA
+1176	1176	Proto-Semitic	wa	wa	NA
+1177	1176	Akkadian	U₃	𒅇	NA
+1178	1176	Arabic	wa	وَ	NA
+1179	1176	Classical Syriac	wə-	ܘ-	NA
+1180	1176	Hebrew	wə-	וְ־	NA
+1181	1176	Punic	w-	𐤅-	NA
+1182	1176	Ugaritic	wa-	𐎆	NA
+1183	1176	Hadrami	w-	𐩥-	NA
+1184	1176	Minaean	w-	𐩥-	NA
+1185	1176	Qatabanian	w-	𐩥-	NA
+1186	1176	Sabaean	w-	𐩥-	NA
+1187	1176	Mehri	wə-	w-	NA
+1188	1176	Mehri	əw-	wə-	NA
+1189	1176	Mehri	b-	əw-	NA
+1190	1176	Shehri	wə-	b-	NA
+1191	1176	Soqotri	wä-	wə-	NA
+1192	1176	Amharic	wä-	ወ-	NA
+1193	1176	Tigre	wä-	ወ-	NA
+1194	1176	Tigrinya	wən	ውን	NA
+1195	1176	Tigrinya	wäy	ወይ	NA
+1196	1176	Gurage	-wä	-ወ	NA
+1197	1176	Harari	wa	ዋ	NA
+1198	1198	Proto-Semitic	wabal-	wabal-	NA
+1199	1198	Akkadian	wabālum	𒀀𒁀𒈝	NA
+1200	1198	Eblaite	ʾa₃-ba-al	𒂍𒁀𒀠	NA
+1201	1198	Arabic	wabala	وَبَلَ	NA
+1202	1198	Classical Syriac	ʾ-b-l	ܝܒܠ	NA
+1203	1198	Aramaic	ʾ-b-l	א־ב־ל	NA
+1204	1198	Aramaic	ybl	see CAL	NA
+1205	1198	Amorite	ybl	𐎊𐎁𐎍	NA
+1206	1198	Hebrew	yāḇal	יָבַל	NA
+1207	1198	Ugaritic	ybl	𐎊𐎁𐎍	NA
+1208	1198	Egyptian	wbl	ywbꜣjrꜣ	NA
+1209	1198	Minaean	wbl	𐩥𐩨𐩡	NA
+1210	1198	Sabaean	wbl	𐩥𐩨𐩡	NA
+1211	1211	Proto-Semitic	wadaʕ-	wadaʕ-	NA
+1212	1211	Akkadian	edûm	𒍪	NA
+1213	1211	Arabic	wadaʕa	وَدَعَ	NA
+1214	1211	Classical Syriac	ʔīḏaʕ	ܝܕܥ	NA
+1215	1211	Assyrian Neo-Aramaic	yādēˁ	ܝܵܕܹܥ	NA
+1216	1211	Hebrew	yāḏáʿ	יָדַע	NA
+1217	1211	Phoenician	ydʿ	𐤉𐤃𐤏	NA
+1218	1211	Ugaritic	ydʿ	𐎊𐎄𐎓	NA
+1219	1211	Qatabanian	ydʿ	𐩺𐩵𐩲	NA
+1220	1211	Sabaean	ydʿ	𐩺𐩵𐩲	NA
+1221	1211	Mehri	ʔedaʕ	wīḏa	NA
+1222	1211	Shehri	ʔedaḥ	ʔedaʕ	NA
+1223	1211	Soqotri	N/A	ʔedaḥ	NA
+1224	1224	Proto-Semitic	walad-	walad-	NA
+1225	1224	Akkadian	walādum	𒉿𒆷𒁺𒌝	NA
+1226	1224	Arabic	walada	وَلَدَ	NA
+1227	1224	Classical Syriac	yəlaḏ	ܝܠܰܕ	NA
+1228	1224	Hebrew	yalád, yālaḏ	יָלַד	NA
+1229	1224	Ugaritic	yld	𐎊𐎍𐎄	NA
+1230	1224	Ge'ez	wäld	ወልድ	NA
+1231	1231	Proto-Semitic	waral-	waral-	NA
+1232	1231	Akkadian	urnum	𒌨𒉡	NA
+1233	1231	German	warlā	Monitor	NA
+1234	1231	Classical Syriac	warlā	ܘܪܠܐ	NA
+1235	1231	Classical Syriac	warnā	ܘܪܢܐ	NA
+1236	1231	Classical Syriac	waralā	ܘܪܐܠܐ	NA
+1237	1231	Translingual	yallā	Varanus	NA
+1238	1231	Translingual	yallā	monitor lizard	NA
+1239	1231	Classical Syriac	yarlā	ܝܰܪܠܳܐ	NA
+1240	1231	Classical Syriac	yallā	ܝܠܐ	NA
+1241	1231	Latin	rewōl	iūlus	NA
+1242	1231	Harsusi	rəwōl	rewōl	NA
+1243	1231	Mehri	N/A	rəwōl	NA
+1244	1244	Proto-Semitic	waraḳ-	waraḳ-	NA
+1245	1244	Akkadian	warāqum	𒉿𒊏𒄣	NA
+1246	1244	Egyptian Arabic	waraʔ	ورق	NA
+1247	1244	Hijazi Arabic	warag	وَرَق	NA
+1248	1244	Maltese	warkat	weraq	NA
+1249	1244	Afar	vərəq	warkat	NA
+1250	1244	Azerbaijani	varaq̇i	vərəq	NA
+1251	1244	Georgian	varaq̇i	ვარაყი	NA
+1252	1244	Kazakh	paraq	парақ	NA
+1253	1244	Kyrgyz	barak	барак	NA
+1254	1244	Malay	warkat	warkah	NA
+1255	1244	Malay	varaḳ	warkat	NA
+1256	1244	Ottoman Turkish	varaḳ	ورق	NA
+1257	1244	Ottoman Turkish	varaq	varak	NA
+1258	1244	Persian	varaq	ورق	NA
+1259	1244	Persian	varaqe	ورقه	NA
+1260	1244	Punjabi	varak	ਵਰਕ	NA
+1261	1244	Somali	ataurique	warqad	NA
+1262	1244	Spanish	waraq	ataurique	NA
+1263	1244	Uyghur	waraq	ۋاراق	NA
+1264	1244	Uzbek	yūrāq	varaq	NA
+1265	1244	Classical Syriac	yurrāqā	ܝܽܘܪܴ݁ܩܐ	NA
+1266	1244	Classical Syriac	yarqā	ܝܰܪܩܳܐ	NA
+1267	1244	Israeli Hebrew	yérek	יֶרֶק	NA
+1268	1244	Israeli Hebrew	yarák	יָרָק	NA
+1269	1244	Ugaritic	yrq	𐎊𐎗𐎖	NA
+1270	1244	Sidamo	wärḳ	worqe	NA
+1271	1244	Argobba	wärḳ	ወርቅ	NA
+1272	1244	Ge'ez	wärḳ	ወርቅ	NA
+1273	1244	Harari	wärīq	ወሪቅ	NA
+1274	1244	Sebat Bet Gurage	wärḳ	ወርቅ	NA
+1275	1244	Tigre	wärḳ	ወርቅ	NA
+1276	1244	Tigrinya	wärḳi	ወርቂ	NA
+1277	1277	Proto-Semitic	warḫ-	warḫ-	NA
+1278	1277	Akkadian	warḫum	𒌚	NA
+1279	1277	Safaitic	wrẖ	𐪅𐪇𐪍	NA
+1280	1277	Western Middle Aramaic	yrḥ	יְרַח	NA
+1281	1277	Western Middle Aramaic	yarḥā	יַרְחָא	NA
+1282	1277	Western Middle Aramaic	yrḥʾ	ܝܪܚܐ	NA
+1283	1277	Western Middle Aramaic	yrḥ	𐢍𐢛𐢊	NA
+1284	1277	Eastern Middle Aramaic	yrḥ	𐣩𐣣𐣧	NA
+1285	1277	Eastern Middle Aramaic	yrḥ	𐡩𐡴𐡧	NA
+1286	1277	Eastern Middle Aramaic	yrḥ	ירח	NA
+1287	1277	Eastern Middle Aramaic	yarḥā	ירחא	NA
+1288	1277	Classical Syriac	yarḥāʾ	ܝܰܪܚܳܐ	NA
+1289	1277	Assyrian Neo-Aramaic	yarḥā	ܝܲܪܚܵܐ	NA
+1290	1277	Hebrew	yaréakh, yārḗaḥ	יָרֵחַ	NA
+1291	1277	Punic	yrḥ	𐤉𐤓𐤇	NA
+1292	1277	Ugaritic	yrḫ	𐎊𐎗𐎃	NA
+1293	1277	Arabic	tārīḵ	تَارِيخ	NA
+1294	1277	Ge'ez	wärḫ	ወርኅ	NA
+1295	1277	Tigrinya	wärḥi	ወርሒ	NA
+1296	1277	Tigrinya	warḥi	ዋርሒ	NA
+1297	1277	Tigre	wärəḥ	ወርሕ	NA
+1298	1277	Amharic	wär	ወር	NA
+1299	1277	Argobba	wärəḥ	ወርሕ	NA
+1300	1277	Gurage	wär	ወር	NA
+1301	1277	Harari	wärḥi	ወርሒ	NA
+1302	1277	Harari	warḥi	ዋርሒ	NA
+1303	1277	Mehri	ɔ́rx	warḫ	NA
+1304	1277	Shehri	írəx	ɔ́rx	NA
+1305	1277	Shehri	ʾɛrə́t	írəx	NA
+1306	1277	Shehri	ʾére	ʾɛrə́t	NA
+1307	1277	Soqotri	ʾôr	ʾére	NA
+1308	1277	Soqotri	ʾôr	Hebrew	NA
+1309	1277	Soqotri	ʾôr	אוֹר	NA
+1310	1277	Soqotri	urrum	Akkadian	NA
+1311	1277	Soqotri	urrum	𒌓𒁕	NA
+1312	1277	Soqotri	šahr	Arabic	NA
+1313	1277	Soqotri	šahr	شَهْر	NA
+1314	1314	Proto-Semitic	waʕil-	waʕil-	NA
+1315	1314	Eblaite	wa-ʾa₅-lum, wa-i₃-lum	𒉿𒉌𒈝	NA
+1316	1314	Arabic	waʕil	وَعِل	NA
+1317	1314	Arabic	waʕl	وَعْل	NA
+1318	1314	Classical Syriac	yaʿlā	ܝܰܥܠܳܐ	NA
+1319	1314	Amorite	ia-i-la	𒅀𒄿𒆷	NA
+1320	1314	Hebrew	ya'él, yāʿēl	יָעֵל	NA
+1321	1314	Latin	yʿl	eale	NA
+1322	1314	Ugaritic	yʿl	𐎊𐎓𐎍	NA
+1323	1314	Hadrami	wʿl	𐩥𐩲𐩡	NA
+1324	1314	Qatabanian	wʿl	𐩥𐩲𐩡	NA
+1325	1314	Sabaean	wʿl	𐩥𐩲𐩡	NA
+1326	1314	Amharic	waliya	ዋሊያ	NA
+1327	1314	Amharic	waləya	ዋልያ	NA
+1328	1314	Amharic	wala	ዋላ	NA
+1329	1314	Ge'ez	wəʿəla	ውዕላ	NA
+1330	1314	Ge'ez	wäʿala	ወዓላ	NA
+1331	1314	Ge'ez	waʾəla	ዋእላ	NA
+1332	1314	Tigre	wärʿe	ወርዔ	NA
+1333	1314	Tigrinya	wəʿla	ውዕላ	NA
+1334	1314	Mehri	wāl	wɛ̄l	NA
+1335	1314	Mehri	wāl	wāl	NA
+1336	1314	Harsusi	ɛbʿɔ́ẕ̂	wāl	NA
+1337	1314	Shehri	N/A	ɛbʿɔ́ẕ̂	NA
+1338	1338	Proto-Semitic	yad-	yad-	NA
+1339	1338	Akkadian	idum	𒀉	NA
+1340	1338	Egyptian Arabic	īd	ايد	NA
+1341	1338	Gulf Arabic	īd	ايد	NA
+1342	1338	Maltese	jedd	id	NA
+1343	1338	Maltese	yadd, yidd	jedd	NA
+1344	1338	Moroccan Arabic	yadd, yidd	يد	NA
+1345	1338	Moroccan Arabic	ʔīd	ايد	NA
+1346	1338	Classical Syriac	ʾīḏā	ܐܺܝܕܳܐ	NA
+1347	1338	Hebrew	yad, yāḏ	יָד	NA
+1348	1338	Phoenician	yd	𐤉𐤃	NA
+1349	1338	Ugaritic	yd	𐎊𐎄	NA
+1350	1338	Minaean	yd	𐩺𐩵	NA
+1351	1338	Old South Arabian	yd	𐩺𐩵	NA
+1352	1338	Qatabanian	yd	𐩺𐩵	NA
+1353	1338	Sabaean	yd	𐩺𐩵	NA
+1354	1338	Amharic	ʾəǧǧ	እጅ	NA
+1355	1338	Ge'ez	ʾəd	እድ	NA
+1356	1338	Tigre	ʾəde	እዴ	NA
+1357	1338	Tigrinya	ʾid	ኢድ	NA
+1358	1338	Soqotri	ə́ʔəd	أأد	NA
+1359	1359	Proto-Semitic	yamīn-	yamīn-	NA
+1360	1359	Akkadian	imnum	𒍠	NA
+1361	1359	Gulf Arabic	yimīn	يمين	NA
+1362	1359	Maltese	ymīn	lemin	NA
+1363	1359	Moroccan Arabic	ymīn	يمين	NA
+1364	1359	Moroccan Arabic	līman, līmin	ليمن	NA
+1365	1359	Moroccan Arabic	līmīn	ليمين	NA
+1366	1359	Swahili	yammīnā	yamini	NA
+1367	1359	Classical Syriac	yammīnā	ܝܰܡܻ݁ܝܢܳܐ	NA
+1368	1359	Hebrew	yamín, yāmîn	יָמִין	NA
+1369	1359	Ugaritic	ymn	𐎊𐎎𐎐	NA
+1370	1359	Old South Arabian	ymn	𐩺𐩣𐩬	NA
+1371	1359	Ge'ez	yäman	የማን	NA
+1372	1372	Proto-Semitic	yanaḳ-	yanaḳ-	NA
+1373	1372	Akkadian	/⁠enēqu⁠/	𒂊𒉈𒆪	NA
+1374	1372	Arabic	nāqa	نَاقَة	NA
+1375	1372	Aramaic	ynq	יְנַק	NA
+1376	1372	Aramaic	ynq	ܝܻܢܷܩ	NA
+1377	1372	Hebrew	ynq	יָנַק	NA
+1378	1372	Ugaritic	ynq	𐎊𐎐𐎖	NA
+1379	1379	Proto-Semitic	yawm-	yawm-	NA
+1380	1379	Akkadian	ūmum	𒌓	NA
+1381	1379	Egyptian Arabic	yōm	يوم	NA
+1382	1379	Gulf Arabic	yōm	يوم	NA
+1383	1379	Hijazi Arabic	yōm	يوم	NA
+1384	1379	Maltese	yūm	jum	NA
+1385	1379	Moroccan Arabic	yūm	يوم	NA
+1386	1379	Turkish	yowm	yevm	NA
+1387	1379	Urdu	yaum	یوم	NA
+1388	1379	Hindi	yaum	यौम	NA
+1389	1379	Hindi	iyyām	इय्याम	NA
+1390	1379	Classical Syriac	yawmā	ܝܰܘܡܳܐ	NA
+1391	1379	Lishana Deni	yōma	יומא	NA
+1392	1379	Classical Mandaic	ium	ࡉࡅࡌ	NA
+1393	1379	Hebrew	yom, yôm	יוֹם	NA
+1394	1379	Punic	ym	𐤉𐤌	NA
+1395	1379	Ugaritic	ym	𐎊𐎎	NA
+1396	1379	Old South Arabian	ywm	𐩺𐩥𐩣	NA
+1397	1379	Amharic	yom	ዮም	NA
+1398	1379	Tigre	yom	ዮም	NA
+1399	1379	Tigrinya	lom	ሎም	NA
+1400	1379	Tigrinya	lomi	ሎሚ	NA
+1401	1379	Mehri	yum	yum	NA
+1402	1379	Shehri	yum	yum	NA
+1403	1379	Shehri	yuhm	yum	NA
+1404	1379	Shehri	ɛ́m	yuhm	NA
+1405	1379	Shehri	yōm	ɛ́m	NA
+1406	1379	Soqotri	N/A	yōm	NA
+1407	1407	Proto-Semitic	zamar-	zamar-	NA
+1408	1407	Akkadian	zamārum	𒍝𒈠𒊒𒌝	NA
+1409	1407	Arabic	zamara	زَمَرَ	NA
+1410	1407	Classical Syriac	zəmar	ܙܡܰܪ	NA
+1411	1407	Hebrew	zimér, zimmēr	זִמֵּר	NA
+1412	1407	Ugaritic	zmr	𐎇𐎎𐎗	NA
+1413	1407	Ge'ez	zämärä	ዘመረ	NA
+1414	1407	Amharic	mäzämärä	መዘመረ	NA
+1415	1407	Amharic	mäzämurä	መዘሙረ	NA
+1416	1416	Proto-Semitic	śamš-	śamš-	NA
+1417	1416	Akkadian	šamšum	𒌓	NA
+1418	1416	Maltese	šamš	xemx	NA
+1419	1416	Moroccan Arabic	šamš	شمش	NA
+1420	1416	Moroccan Arabic	šams	شمس	NA
+1421	1416	Indonesian	şems	syamsi	NA
+1422	1416	Turkish	shams	şems	NA
+1423	1416	Uzbek	šimšā	shams	NA
+1424	1416	Classical Syriac	šemšā	ܫܶܡܫܳܐ	NA
+1425	1416	Hebrew	shémesh, šémeš	שֶׁמֶשׁ	NA
+1426	1416	Punic	šmš	𐤔𐤌𐤔	NA
+1427	1416	Ugaritic	špš	𐎌𐎔𐎌	NA
+1428	1416	Minaean	s²ms¹	𐩦𐩣𐩪	NA
+1429	1416	Qatabanian	s²ms¹	𐩦𐩣𐩪	NA
+1430	1416	Sabaean	s²ms¹	𐩦𐩣𐩪	NA
+1431	1416	Tigre	šämš	ሸምሽ	NA
+1432	1432	Proto-Semitic	śapat-	śapat-	NA
+1433	1432	Akkadian	šaptum	𒅻	NA
+1434	1432	Maltese	sep̄ṯa	xoffa	NA
+1435	1432	Classical Syriac	sep̄ṯā	ܣܶܦܬܳܐ	NA
+1436	1432	Hebrew	safá, śāfâ	שָׂפָה	NA
+1437	1432	Ugaritic	špt	𐎌𐎔𐎚	NA
+1438	1432	Old Armenian	šurtʻn	շուրթն	NA
+1439	1439	Proto-Semitic	śaʕr-	śaʕr-	NA
+1440	1439	Akkadian	šārtum	𒊬𒌈	NA
+1441	1439	Gulf Arabic	šaʕar	شعر	NA
+1442	1439	Maltese	šʕar	xagħar	NA
+1443	1439	Moroccan Arabic	šʕar	شعر	NA
+1444	1439	Moroccan Arabic	šaʕra	شعرة	NA
+1445	1439	Classical Syriac	saʿrā	ܣܰܥܪܳܐ	NA
+1446	1439	Hebrew	se'ár, śēʿār	שֵׂעָר	NA
+1447	1439	Ugaritic	šʿrt	𐎌𐎓𐎗𐎚	NA
+1448	1439	Amharic	ṣ́ägur	ፀጉር	NA
+1449	1439	Ge'ez	ṣägʷr	ጸጕር	NA
+1450	1450	Proto-Semitic	šabaṭ-	šabaṭ-	NA
+1451	1450	Akkadian	šabaṭa	šabāṭum	NA
+1452	1450	Arabic	šabaṭa	شَبَطَ	NA
+1453	1450	Aramaic	šbaṭ	שְׁבַט	NA
+1454	1450	Aramaic	šbaṭ	ܫܒܛ	NA
+1455	1450	Hebrew	shabát, šāḇaṭ	שָׁבַט	NA
+1456	1450	Sabaean	s¹bṭ	𐩪𐩨𐩷	NA
+1457	1450	Amharic	zäbbäṭä	ዘበጠ	NA
+1458	1450	Ge'ez	zäbäṭä	ዘበጠ	NA
+1459	1450	Tigre	zäbṭä	ዘብጠ	NA
+1460	1450	Tigrinya	zäbäṭä	ዘበጠ	NA
+1461	1450	Harsusi	səbōṭ	sebōṭ	NA
+1462	1450	Mehri	sɔ̄ṭ	səbōṭ	NA
+1463	1450	Mehri	N/A	sɔ̄ṭ	NA
+1464	1464	Proto-Semitic	šabʕ-	šabʕ-	NA
+1465	1464	Akkadian	sebet	𒐌	NA
+1466	1464	Egyptian Arabic	sabʕa	سبعة	NA
+1467	1464	Maltese	sabʕa	sebgħa	NA
+1468	1464	Moroccan Arabic	sabʕa	سبعة	NA
+1469	1464	Swahili	šabʿā	saba	NA
+1470	1464	Classical Syriac	šaḇʿā	ܫܰܒܥܳܐ	NA
+1471	1464	Classical Syriac	šəḇaʿ	ܫܒܰܥ	NA
+1472	1464	Hebrew	shiv'á, šiḇʿâ	שִׁבְעָה	NA
+1473	1464	Hebrew	shéva', šéḇaʿ	שֶׁבַע	NA
+1474	1464	Ugaritic	šbʿt	𐎌𐎁𐎓𐎚	NA
+1475	1464	Dadanitic	s¹bʿ	𐪊𐪈𐪒	NA
+1476	1464	Safaitic	s¹bʿ	𐪊𐪈𐪒	NA
+1477	1464	Amharic	säbat	ሰባት	NA
+1478	1464	Ge'ez	säbʿätu	ሰብዐቱ	NA
+1479	1464	Ge'ez	säbʿu	ሰብዑ	NA
+1480	1464	Tigre	säbuʿ	ሰቡዕ	NA
+1481	1464	Tigrinya	šäwʿatä	ሸውዓተ	NA
+1482	1482	Proto-Semitic	šabṭ-	šabṭ-	NA
+1483	1482	Akkadian	šabbiṭum	𒉺𒅁𒁉𒂅	NA
+1484	1482	Arabic	sibṭ	سِبْط	NA
+1485	1482	Aramaic	šiḇṭā	שִׁבְטָא	NA
+1486	1482	Aramaic	šaḇṭā	ܫܰܒܛܳܐ	NA
+1487	1482	Hebrew	shévet, šḗḇeṭ	שֵׁבֶט	NA
+1488	1482	Ge'ez	səbṭ	ስብጥ	NA
+1489	1489	Proto-Semitic	šamaʕ-	šamaʕ-	NA
+1490	1489	Akkadian	šemûm	𒄑𒌇	NA
+1491	1489	Arabic	samiʕa	سَمِعَ	NA
+1492	1489	Classical Syriac	šəmaʿ	ܫܡܰܥ	NA
+1493	1489	Hebrew	shamá', šāmaʿ	שָׁמַע	NA
+1494	1489	Samaritan Hebrew	šəmaʿ	ࠔࠌࠏ	NA
+1495	1489	Phoenician	šmʿ	𐤔𐤌𐤏	NA
+1496	1489	Ugaritic	šmʿ	𐎌𐎎𐎓	NA
+1497	1489	Old South Arabian	s¹mʿ	𐩪𐩣𐩲	NA
+1498	1489	Amharic	säma	ሰማ	NA
+1499	1489	Argobba	sämma	ሰማ	NA
+1500	1489	Gafat	sämmä	ሰመ	NA
+1501	1489	Ge'ez	sämʿä	ሰምዐ	NA
+1502	1489	Sebat Bet Gurage	säma	ሰማ	NA
+1503	1489	Harari	sämaʿa	ሰማዓ	NA
+1504	1489	Tigre	sämʿa	ሰምዓ	NA
+1505	1489	Tigrinya	sämʿe	ሰምዔ	NA
+1506	1506	Proto-Semitic	šamn-	šamn-	NA
+1507	1506	Akkadian	šamnum	𒉌𒄑	NA
+1508	1506	Arabic	samn	سَمْن	NA
+1509	1506	Aramaic	šuman	שומן	NA
+1510	1506	Aramaic	šumnā	שומנא	NA
+1511	1506	Hebrew	shémen, šémen	שֶׁמֶן	NA
+1512	1506	Ugaritic	šmn	𐎌𐎎𐎐	NA
+1513	1513	Proto-Semitic	šamāy-	šamāy-	NA
+1514	1513	Akkadian	šamû	𒀭	NA
+1515	1513	Algerian Arabic	smā	سما	NA
+1516	1513	Egyptian Arabic	sama	سما	NA
+1517	1513	Gulf Arabic	sima	سما	NA
+1518	1513	Hijazi Arabic	sama	سما	NA
+1519	1513	Maltese	smā	sema	NA
+1520	1513	Moroccan Arabic	smā	سما	NA
+1521	1513	South Levantine Arabic	sama	سما	NA
+1522	1513	Tunisian Arabic	smā	سما	NA
+1523	1513	Lishana Deni	šəmme	שמיה	NA
+1524	1513	Classical Mandaic	šumia	ࡔࡅࡌࡉࡀ	NA
+1525	1513	Classical Syriac	šmayyā	ܫܡܰܝܴ݁ܐ	NA
+1526	1513	Hebrew	shamáyim, šāmáyim	שָׁמַיִם	NA
+1527	1513	Phoenician	šmm	𐤔𐤌𐤌	NA
+1528	1513	Ugaritic	šmm	𐎌𐎎𐎎	NA
+1529	1513	Ugaritic	šmyn	𐎌𐎎𐎊𐎐	NA
+1530	1513	Sabaean	s¹myn	𐩪𐩣𐩺𐩬	NA
+1531	1513	Safaitic	s¹my	𐪊𐪃𐪚	NA
+1532	1513	Amharic	sämay	ሰማይ	NA
+1533	1513	Ge'ez	sämay	ሰማይ	NA
+1534	1513	Tigre	šamaʾä	ሻማአ	NA
+1535	1513	Tigrinya	sämay	ሰማይ	NA
+1536	1536	Proto-Semitic	šanat-	šanat-	NA
+1537	1536	Akkadian	šattum	𒈬	NA
+1538	1536	Egyptian Arabic	sána	سنة	NA
+1539	1536	Gulf Arabic	sɪnə	سِنَة	NA
+1540	1536	North Levantine Arabic	sini	سنه	NA
+1541	1536	Maltese	sanát	sena	NA
+1542	1536	Afar	sənə	sanát	NA
+1543	1536	Azerbaijani	śon	sənə	NA
+1544	1536	Bengali	śon	সন	NA
+1545	1536	Harsusi	san	senet	NA
+1546	1536	Hindi	san	सन्	NA
+1547	1536	Mehri	senēt	سنيت	NA
+1548	1536	Soqotri	sänät	sanah	NA
+1549	1536	Tigre	sänät	ሰነት	NA
+1550	1536	Turkish	sana	sene	NA
+1551	1536	Uzbek	šantā	sana	NA
+1552	1536	Classical Syriac	šantā	ܫܰܢܬܴ݁ܐ	NA
+1553	1536	Assyrian Neo-Aramaic	šēttā	ܫܹܢ݇ܬܵܐ	NA
+1554	1536	Chaldean Neo-Aramaic	šeta	ܫܹܐܬܵܐ	NA
+1555	1536	Chaldean Neo-Aramaic	šǝnne	ܫܢܐ	NA
+1556	1536	Lishana Deni	šāta	שאתא	NA
+1557	1536	Lishana Deni	šǝnne	שניה	NA
+1558	1536	Hebrew	shaná, šānâ	שָׁנָה	NA
+1559	1536	Moabite	št	𐤔𐤕	NA
+1560	1536	Punic	št	𐤔𐤕	NA
+1561	1536	Ugaritic	šnt	𐎌𐎐𐎚	NA
+1562	1562	Proto-Semitic	šawmān-	šawmān-	NA
+1563	1562	Akkadian	summum	𒋢𒌝𒈬𒌝	NA
+1564	1562	Arabic	ḥamām	حَمَام	NA
+1565	1562	Amorite	ia-ma-a-ma	𒅀𒈠𒀀𒈠	NA
+1566	1562	Emarite	PI-at-tu₄, PI-àb-tu₄	𒉿𒀜𒌈	NA
+1567	1562	Classical Mandaic	/⁠yūnā⁠/	ࡉࡅࡍࡀ	NA
+1568	1562	Classical Mandaic	/⁠yawnā⁠/	ࡉࡀࡅࡍࡀ	NA
+1569	1562	Classical Syriac	yawnā	ܝܰܘܢܳܐ	NA
+1570	1562	Arabic	yamām	يَمَام	NA
+1571	1562	Arabic	ḥamām	حَمَام	NA
+1572	1562	Hebrew	yoná, yônâ	יוֹנָה	NA
+1573	1562	Ugaritic	ynt	𐎊𐎐𐎚	NA
+1574	1562	Ge'ez	wanos	ዋኖስ	NA
+1575	1562	Ge'ez	yonas	ዮናስ	NA
+1576	1576	Proto-Semitic	šaḥ(a)r-	šaḥ(a)r-	NA
+1577	1576	Akkadian	šērum	𒀉𒄘𒍣𒂵	NA
+1578	1576	Eblaite	si-EN-lum	𒋛𒂗𒈝	NA
+1579	1576	Arabic	saḥar	سَحَر	NA
+1580	1576	Hebrew	šáḥar	שַׁחַר	NA
+1581	1576	Hebrew	shákhar	שַׁחַר	NA
+1582	1576	Ugaritic	šḥr	𐎌𐎈𐎗	NA
+1583	1583	Proto-Semitic	šidṯ-	šidṯ-	NA
+1584	1584	Proto-Semitic	šikar-	šikar-	NA
+1585	1584	Akkadian	šikarum	𒁉	NA
+1586	1584	Arabic	sakar	سَكَر	NA
+1587	1584	Classical Syriac	šaḵrā	ܫܰܟܪܳܐ	NA
+1588	1584	Dutch	cidre	cider	NA
+1589	1584	Japanese	chistr	シードル	NA
+1590	1584	Breton	cider	chistr	NA
+1591	1584	Hebrew	sáider	סַיְדֶּר	NA
+1592	1584	Korean	saida	사이다	NA
+1593	1584	Welsh	N/A	seidr	NA
+1594	1594	Proto-Semitic	šilyat-	šilyat-	NA
+1595	1594	Akkadian	šelītu	silītu	NA
+1596	1594	Akkadian	šalītu	šelītu	NA
+1597	1594	Akkadian	salan	šalītu	NA
+1598	1594	Arabic	salan	سَلًى	NA
+1599	1594	Arabic	salan	سَلًا	NA
+1600	1594	Arabic	salīl	سَلِيل	NA
+1601	1594	Jewish Literary Aramaic	šilyəṯā	שִׁילְיְתָא	NA
+1602	1594	Jewish Literary Aramaic	šilyā	שִׁילְיָא	NA
+1603	1594	Jewish Literary Aramaic	silyəṯā	סִלְיְתָא	NA
+1604	1594	Jewish Literary Aramaic	siləṯā	סִילְתָא	NA
+1605	1594	Jewish Literary Aramaic	šəlīlā	שְׁלִילָא	NA
+1606	1594	Jewish Literary Aramaic	šəllūlā	שְׁלּוּלָא	NA
+1607	1594	Jewish Babylonian Aramaic	šilyəṯā	שִׁלְיְיתָא	NA
+1608	1594	Classical Syriac	šəlīṯā	ܫܰܠܺܝܬܳܐ	NA
+1609	1594	Classical Mandaic	šulita	ࡔࡅࡋࡉࡕࡀ	NA
+1610	1594	Arabic	salīl	سَلِيل	NA
+1611	1594	Arabic	salīla	سَلِيلَة	NA
+1612	1594	Arabic	šalīl	شَلِيل	NA
+1613	1594	Old Armenian	šałił	շաղիղ	NA
+1614	1594	Old Armenian	šałał	շաղաղ	NA
+1615	1594	Hebrew	shilyá, šilyâ	שִׁלְיָה	NA
+1616	1594	Hebrew	shalíl, šālîl	שָׁלִיל	NA
+1617	1594	Ge'ez	säyl	ሰይል	NA
+1618	1594	Tigre	səlet	ስሌት	NA
+1619	1594	Tigrinya	šəl	ሽል	NA
+1620	1594	Tigrinya	šəlät	ሽለት	NA
+1621	1594	Amharic	šəl	ሽል	NA
+1622	1594	Čäha, Äža, Ənor	šərər	ሺርር	NA
+1623	1594	Gyäto	šīr	ሺር	NA
+1624	1594	Mäsqan	šəl	ሽል	NA
+1625	1594	Muher	šər	ሽር	NA
+1626	1626	Proto-Semitic	šim	šim	NA
+1627	1626	Akkadian	šumma	𒋳𒈠	NA
+1628	1626	Arabic	ʔin	إِن	NA
+1629	1626	Dadanitic	ʾn	𐪑𐪌	NA
+1630	1626	Safaitic	ʾn	𐪑𐪌	NA
+1631	1626	Classical Syriac	ʾen	ܐܢ	NA
+1632	1626	Hebrew	ʾim	אִם	NA
+1633	1626	Hebrew	ʾam	ࠀࠌ	NA
+1634	1626	Ugaritic	hm	𐎅𐎎	NA
+1635	1626	Ugaritic	ỉm	𐎛𐎎	NA
+1636	1626	Old South Arabian	hm	𐩠𐩣	NA
+1637	1626	Old South Arabian	hmy	𐩠𐩣𐩺	NA
+1638	1626	Old South Arabian	hmw	𐩠𐩣𐩥	NA
+1639	1626	Ge'ez	ʾəm	እም	NA
+1640	1626	Ge'ez	ʾəmä	እመ	NA
+1641	1641	Proto-Semitic	šim-	šim-	NA
+1642	1641	Akkadian	šumum	𒈬	NA
+1643	1641	Arabic	ism	اِسْم	NA
+1644	1641	Classical Syriac	šəmā	ܫܡܳܐ	NA
+1645	1641	Hebrew	shem, šēm	שֵׁם	NA
+1646	1641	Phoenician	šm	𐤔𐤌	NA
+1647	1641	Ugaritic	šm	𐎌𐎎	NA
+1648	1641	Old South Arabian	s¹m	𐩪𐩣	NA
+1649	1641	Amharic	səm	ስም	NA
+1650	1641	Argobba	səm	ስም	NA
+1651	1641	Ge'ez	səm	ስም	NA
+1652	1641	Tigre	səm	ስም	NA
+1653	1641	Tigrinya	səm	ስም	NA
+1654	1641	Mehri	šɛm	ham	NA
+1655	1641	Soqotri	šɛm	شام	NA
+1656	1656	Proto-Semitic	šin	šin	NA
+1657	1656	Akkadian	šina	𒅆𒈾	NA
+1658	1656	Arabic	hunna	هُنَّ	NA
+1659	1656	Aramaic	hēnēn	הֵנֵין	NA
+1660	1656	Aramaic	hen, hēn	אינהי	NA
+1661	1656	Hebrew	hen, hēn	הֵן	NA
+1662	1656	Phoenician	hmt	𐤄𐤌𐤕	NA
+1663	1656	Ugaritic	hn	𐎅𐎐	NA
+1664	1656	Shehri	N/A	sɛn	NA
+1665	1665	Proto-Semitic	šinn-	šinn-	NA
+1666	1665	Akkadian	šinnum	𒅗	NA
+1667	1665	Eblaite	si-nu-um	𒋛𒉡𒌝	NA
+1668	1665	Eblaite	si-na-tum	𒋛𒈾𒌈	NA
+1669	1665	Gulf Arabic	senn	سِنّ	NA
+1670	1665	Maltese	sanna	sinna	NA
+1671	1665	Moroccan Arabic	sanna	سنة	NA
+1672	1665	South Levantine Arabic	sinn	سن	NA
+1673	1665	Classical Syriac	šinā’	ܫܺܢܳܐ	NA
+1674	1665	Israeli Hebrew	shén	שֵׁן	NA
+1675	1665	Ugaritic	šn	𐎌𐎐	NA
+1676	1665	Tigrinya	səni	ስኒ	NA
+1677	1665	Argobba	sǝn	ስን	NA
+1678	1665	Ge'ez	sən	ስን	NA
+1679	1665	Harari	sən	ስን	NA
+1680	1680	Proto-Semitic	šiʔa	šiʔa	NA
+1681	1680	Akkadian	šī	𒅆𒄿	NA
+1682	1680	Chadian Arabic	hī	هي	NA
+1683	1680	Egyptian Arabic	híyya	هي	NA
+1684	1680	Gulf Arabic	ehya	اِهْيَ	NA
+1685	1680	Hijazi Arabic	hiyya	هِيَّ	NA
+1686	1680	Maltese	hi	hija	NA
+1687	1680	Maltese	hiyya	hi	NA
+1688	1680	Moroccan Arabic	hiyya	هي	NA
+1689	1680	Tunisian Arabic	hiyya	هي	NA
+1690	1680	Classical Syriac	hī	ܗܺܝ	NA
+1691	1680	Hebrew	hi, hîʾ	הִיא	NA
+1692	1680	Phoenician	hʾ	𐤄𐤀	NA
+1693	1680	Ugaritic	hy	𐎅𐎊	NA
+1694	1694	Proto-Semitic	šum	šum	NA
+1695	1694	Akkadian	šunu	𒋗𒉡	NA
+1696	1694	Arabic	hum	هُمْ	NA
+1697	1694	Aramaic	hēnōn	הֵנוֹן	NA
+1698	1694	Aramaic	ʾīnhū	אינהו	NA
+1699	1694	Hebrew	hem, hēm	הֵם	NA
+1700	1694	Phoenician	hmt	𐤄𐤌𐤕	NA
+1701	1694	Ugaritic	hm	𐎅𐎎	NA
+1702	1694	Shehri	N/A	šum	NA
+1703	1703	Proto-Semitic	šu(n)bulat-	šu(n)bulat-	NA
+1704	1703	Akkadian	šubultum	𒋗𒁍𒌌𒌈	NA
+1705	1703	Arabic	sunbula	سُنْبُلَة	NA
+1706	1703	Aramaic	šubbaltā/šibbaltā	שׁוּבַּלְתָּא	NA
+1707	1703	Israeli Hebrew	shibólet	שיבולת	NA
+1708	1703	Ugaritic	šblt	𐎌𐎁𐎍𐎚	NA
+1709	1703	Old South Arabian	s¹blt	𐩪𐩨𐩡𐩩	NA
+1710	1710	Proto-Semitic	šurš-	šurš-	NA
+1711	1710	Akkadian	šuršum	𒁼	NA
+1712	1710	Arabic	širš	شِرْش	NA
+1713	1710	Arabic	šurš	شُرْش	NA
+1714	1710	Hebrew	shóresh, šṓreš	שֹׁרֶשׁ	NA
+1715	1710	Proto-Berber	aẓur	ⴰⵥⵓⵔ	NA
+1716	1710	Ugaritic	šrš	𐎌𐎗𐎌	NA
+1717	1710	Minaean	s²rs¹	𐩦𐩧𐩪	NA
+1718	1710	Qatabanian	s²rs¹	𐩦𐩧𐩪	NA
+1719	1710	Sabaean	s²rs¹	𐩦𐩧𐩪	NA
+1720	1710	Ge'ez	śərw	ሥርው	NA
+1721	1710	Ge'ez	sərw	ስርዌ	NA
+1722	1710	Ge'ez	sər	ሥር	NA
+1723	1710	Ge'ez	sur	ሡር	NA
+1724	1710	Ge'ez	śärw	ሠርዌ	NA
+1725	1710	Tigre	sər	ሥር	NA
+1726	1710	Tigrinya	sər	ሥር	NA
+1727	1710	Tigrinya	sur	ሡር	NA
+1728	1710	Amharic	sər	ሥር	NA
+1729	1710	Argobba	səred	ሥሬድ	NA
+1730	1710	Gafat	sər	ሥር	NA
+1731	1710	Gafat	səret	ሥሬት	NA
+1732	1710	Sebat Bet Gurage	sər	ሥር	NA
+1733	1710	Harari	sər	ሥር	NA
+1734	1710	Shehri	ŝeraḥ	ŝírɔ́ḫ	NA
+1735	1710	Soqotri	širs	ŝeraḥ	NA
+1736	1736	Proto-Semitic	šuʔa	šuʔa	NA
+1737	1736	Akkadian	šū	𒋗𒌑	NA
+1738	1736	Arabic	huwa	هُوَ	NA
+1739	1736	Classical Syriac	hū	ܗܽܘ	NA
+1740	1736	Hebrew	hu, hûʾ	הוּא	NA
+1741	1736	Phoenician	hʾ	𐤄𐤀	NA
+1742	1736	Ugaritic	hw	𐎅𐎆	NA
+1743	1743	Proto-Semitic	ʔabay-	ʔabay-	NA
+1744	1743	Akkadian	bu-ʾ-i-tum	𒁍𒀪𒄿𒌈	NA
+1745	1743	Arabic	ʔabā	أَبَى	NA
+1746	1743	Hebrew	ava	אָבָה	NA
+1747	1743	Ge'ez	ʾäbäyä	አበየ	NA
+1748	1743	Ge'ez	ʾäbyä	አብየ	NA
+1749	1743	Tigre	ʾäba	አባ	NA
+1750	1743	Tigrinya	ʾäbäyä	አበየ	NA
+1751	1743	Amharic	ʾabbäyä	ኣበየ	NA
+1752	1743	Gurage	ebbä	ኤበ	NA
+1753	1743	Egyptian	N/A	ꜣbj	NA
+1754	1754	Proto-Semitic	ʔabn-	ʔabn-	NA
+1755	1754	Akkadian	abnum	𒎎	NA
+1756	1754	Classical Syriac	ʾaḇnā	ܐܰܒܢܳܐ	NA
+1757	1754	Hebrew	éven, ʾéḇen	אֶבֶן	NA
+1758	1754	Punic	ʾbn	𐤀𐤁𐤍	NA
+1759	1754	Ugaritic	ảbn	𐎀𐎁𐎐	NA
+1760	1754	Minaean	ʾbn	𐩱𐩨𐩬	NA
+1761	1754	Qatabanian	ʾbn	𐩱𐩨𐩬	NA
+1762	1754	Sabaean	ʾbn	𐩱𐩨𐩬	NA
+1763	1754	Ge'ez	ʾəbn	እብን	NA
+1764	1754	Harari	ʾun	ኡን	NA
+1765	1754	Tigre	ʾəbn	እብን	NA
+1766	1754	Tigrinya	ʾəmni	እምኒ	NA
+1767	1754	Soqotri	óʔobən	أأبن	NA
+1768	1768	Proto-Semitic	ʔabw-	ʔabw-	NA
+1769	1769	Proto-Semitic	ʔahl-	ʔahl-	NA
+1770	1769	Akkadian	ālum	𒌷	NA
+1771	1769	Eblaite	a-ʾà-al6	𒀀𒂍𒈤	NA
+1772	1769	Judeo-Arabic	ʾahlun	אהל	NA
+1773	1769	Afar	aháli	áhli	NA
+1774	1769	Afar	ʾhl	aháli	NA
+1775	1769	Hatran Aramaic	ʾhl	𐣠𐣤𐣫	NA
+1776	1769	Christian Palestinian Aramaic	ʾhl	ܐܗܠ	NA
+1777	1769	Azerbaijani	ahl	əhl	NA
+1778	1769	Persian	ahl	اهل	NA
+1779	1769	Sindhi	ahl	اهل	NA
+1780	1769	Swahili	ehl	ahali	NA
+1781	1769	Ottoman Turkish	ehl	اهل	NA
+1782	1769	Uzbek	ehl	ahl	NA
+1783	1769	Uyghur	ehl	ئەھل	NA
+1784	1769	Akkadian	/⁠aʾlu⁠/	𒀪𒇻	NA
+1785	1769	Hebrew	ʾahel	אַהֶל	NA
+1786	1769	Hebrew	óhel, ʾṓhel	אֹהֶל	NA
+1787	1769	Phoenician	ʾhl	𐤀𐤄𐤋	NA
+1788	1769	Ugaritic	ảhl	𐎀𐎅𐎍	NA
+1789	1769	Minaean	ʾhl	𐩱𐩠𐩡	NA
+1790	1769	Qatabanian	ʾhl	𐩱𐩠𐩡	NA
+1791	1769	Sabaean	ʾhl	𐩱𐩠𐩡	NA
+1792	1769	Dadanitic	ʾhl	𐪑𐪀𐪁	NA
+1793	1769	Safaitic	ʾl	𐪑𐪁	NA
+1794	1769	Thamudic	ʾhl	𐪑𐪀𐪁	NA
+1795	1769	Thamudic	ʾl	𐪑𐪁	NA
+1796	1769	Egyptian	N/A	jhjr	NA
+1797	1797	Proto-Semitic	ʔak-	ʔak-	NA
+1798	1797	Akkadian	akkû	𒀝𒆪𒌑	NA
+1799	1797	Classical Syriac	kawk(ə)ḇay	ܟܱ݁ܘܟ݁ܒܰܝ	NA
+1800	1797	Hebrew	óakh, ʾốaḥ	אוֹחַ	NA
+1801	1797	Amharic	gugut	ጉጉት	NA
+1802	1797	Ge'ez	kʷakʷa	ኳኳ	NA
+1803	1797	Tigrinya	kʷakʷ	ኳኵ	NA
+1804	1804	Proto-Semitic	ʔakal-	ʔakal-	NA
+1805	1804	Akkadian	akālum	𒅥	NA
+1806	1804	Egyptian Arabic	ʔakal	أكل	NA
+1807	1804	Gulf Arabic	kila, kala	كلى	NA
+1808	1804	Gulf Arabic	kila, kala	كَلَا	NA
+1809	1804	Maltese	kāl	kiel	NA
+1810	1804	Moroccan Arabic	kāl	كال	NA
+1811	1804	Moroccan Arabic	klā	كلى	NA
+1812	1804	South Levantine Arabic	ʔakal	أكل	NA
+1813	1804	Classical Syriac	ʾeḵal	ܐܶܟܰܠ	NA
+1814	1804	Hebrew	akhál, ʾāḵal	אָכַל	NA
+1815	1804	Phoenician	ʾkl	𐤀𐤊𐤋	NA
+1816	1804	Ugaritic	ảkl	𐎀𐎋𐎍	NA
+1817	1817	Proto-Semitic	ʔalp-	ʔalp-	NA
+1818	1817	Azerbaijani	alif	əlif	NA
+1819	1817	Iranian Persian	alef	اَلِف	NA
+1820	1817	Tajik	alif	алиф	NA
+1821	1817	Uzbek	ʾalpā	alif	NA
+1822	1817	Classical Syriac	ʾalpā	ܐܰܠܦܴ݁ܐ	NA
+1823	1817	Hebrew	'élef, ʾélep̄	אֶלֶף	NA
+1824	1817	Moabite	ʾlp	𐤀𐤋𐤐	NA
+1825	1817	Punic	ʾlp	𐤀𐤋𐤐	NA
+1826	1817	Ugaritic	ảlp	𐎀𐎍𐎔	NA
+1827	1817	Old South Arabian	ʾlf	𐩱𐩡𐩰	NA
+1828	1817	Amharic	ʾəlf	እልፍ	NA
+1829	1817	Ge'ez	ʾəlf	እልፍ	NA
+1830	1817	Harari	ʾälfi	አልፊ	NA
+1831	1817	Tigre	ʾəlf	እልፍ	NA
+1832	1817	Tigrinya	ʾəlfi	እልፊ	NA
+1833	1833	Proto-Semitic	ʔamat-	ʔamat-	NA
+1834	1833	Akkadian	amtum	𒊩𒆳	NA
+1835	1833	Arabic	ʔama	أَمَة	NA
+1836	1833	Classical Mandaic	ʾamtā	ࡀࡌࡕࡀ	NA
+1837	1833	Classical Syriac	ʾamṯā	ܐܰܡܬܳܐ	NA
+1838	1833	Hebrew	'amá, ʾāmâ	אָמָה	NA
+1839	1833	Phoenician	ʾmt	𐤀𐤌𐤕	NA
+1840	1833	Ugaritic	ảmt	𐎀𐎎𐎚	NA
+1841	1833	Sabaean	ʾmt	𐩱𐩣𐩩	NA
+1842	1833	Qatabanian	ʾmt	𐩱𐩣𐩩	NA
+1843	1833	Amharic	ʾamät	አመት	NA
+1844	1833	Tigre	ʾämät	አመት	NA
+1845	1845	Proto-Semitic	ʔanp-	ʔanp-	NA
+1846	1845	Akkadian	appum	𒀊𒁍	NA
+1847	1845	Moroccan Arabic	nīf	نيف	NA
+1848	1845	Ottoman Turkish	enf	انف	NA
+1849	1845	Classical Syriac	ʾappē	ܐܰܦܷ݁ܐ	NA
+1850	1845	Hebrew	af, ʾap̄	אַף	NA
+1851	1845	Ugaritic	ảp	𐎀𐎔	NA
+1852	1845	Minaean	ʾnf	𐩱𐩬𐩰	NA
+1853	1845	Sabaean	ʾf	𐩱𐩰	NA
+1854	1845	Sabaean	ʾʾnf	𐩱𐩱𐩬𐩰	NA
+1855	1845	Gafat	āfʷä	ኣᎈ	NA
+1856	1845	Ge'ez	ʾänf	አንፍ	NA
+1857	1845	Harari	ʾuf	ኡፍ	NA
+1858	1845	Tigre	ʾanəf	ኣንፍ	NA
+1859	1845	Tigrinya	ʾanfi	ኣንፊ	NA
+1860	1860	Proto-Semitic	ʔanta	ʔanta	NA
+1861	1860	Akkadian	atta	𒀜𒋫	NA
+1862	1860	Arabic	ʔanta	أَنْتَ	NA
+1863	1860	Classical Syriac	ʾant	݁ܐܰܢܬ	NA
+1864	1860	Turoyo	hat	ܗܰܬ	NA
+1865	1860	Hebrew	atá, ʾattâ	אַתָּה	NA
+1866	1860	Punic	ʾt	𐤀𐤕	NA
+1867	1860	Ugaritic	ảt	𐎀𐎚	NA
+1868	1860	Amharic	ʾäntä	አንተ	NA
+1869	1860	Ge'ez	ʾäntä	አንተ	NA
+1870	1870	Proto-Semitic	ʔanti	ʔanti	NA
+1871	1870	Akkadian	atti	𒀜𒋾	NA
+1872	1870	Arabic	ʔanti	أَنْتِ	NA
+1873	1870	Classical Syriac	'antī	ܐܰܢܬܻ݁ܝ	NA
+1874	1870	Classical Syriac	ʾant	݁ܐܰܢܬ	NA
+1875	1870	Hebrew	át, ʾat	אַתְּ	NA
+1876	1870	Punic	ʾt	𐤀𐤕	NA
+1877	1870	Ugaritic	ảt	𐎀𐎚	NA
+1878	1870	Amharic	ʾänči	አንቺ	NA
+1879	1870	Ge'ez	ʾänti	አንቲ	NA
+1880	1880	Proto-Semitic	ʔantin	ʔantin	NA
+1881	1880	Akkadian	attina	𒀜𒋾𒈾	NA
+1882	1880	Arabic	ʔantunna	أَنْتُنَّ	NA
+1883	1880	Classical Syriac	ʾantēn	ܐܺܢܬܷ݁ܝܢ	NA
+1884	1880	Hebrew	atén, ʾatten	אַתֶּן	NA
+1885	1880	Ge'ez	ʾäntən	አንትን	NA
+1886	1886	Proto-Semitic	ʔantum	ʔantum	NA
+1887	1886	Akkadian	attunu	𒀜𒌅𒉡	NA
+1888	1886	Arabic	ʔantum	أَنْتُمْ	NA
+1889	1886	Classical Syriac	ʾantūn	ܐܰܢܬܾ݁ܘܢ	NA
+1890	1886	Hebrew	atém, ʾattem	אַתֶּם	NA
+1891	1886	Phoenician	ʾtm	𐤀𐤕𐤌	NA
+1892	1886	Ugaritic	ảtm	𐎀𐎚𐎎	NA
+1893	1886	Ge'ez	ʾantəmu	አንትሙ	NA
+1894	1894	Proto-Semitic	ʔanāku	ʔanāku	NA
+1895	1894	Akkadian	anāku	𒀀𒈾𒆪	NA
+1896	1894	Israeli Hebrew	anokhí	אָנֹכִי	NA
+1897	1894	Moabite	ʾnk	𐤀𐤍𐤊	NA
+1898	1894	Punic	ʾnk	𐤀𐤍𐤊	NA
+1899	1894	Punic	ʾnky	𐤀𐤍𐤊𐤉	NA
+1900	1894	Ugaritic	ảnk	𐎀𐎐𐎋	NA
+1901	1901	Proto-Semitic	ʔapʕaw-	ʔapʕaw-	NA
+1902	1901	Eblaite	ì-pá-ù-um	𒉌𒁀𒅇𒌝	NA
+1903	1901	Arabic	ʔafʕan	أَفْعًى	NA
+1904	1901	Hebrew	ʾep̄ʿê	אֶפְעֶה	NA
+1905	1901	Ugaritic	ảpʿ	𐎀𐎔𐎓	NA
+1906	1901	Amharic	ʾəffuññət	እፉኝት	NA
+1907	1901	Amharic	fuññət	ፉኝት	NA
+1908	1901	Amharic	ʾəffəññət	እፍኝት	NA
+1909	1901	Amharic	fəññət	ፍኝት	NA
+1910	1901	Amharic	ʾəmfut	እምፉት	NA
+1911	1901	Ge'ez	ʾäfʿot	አፍዖት	NA
+1912	1901	Harari	ḥiffiñ	ሒፊኝ	NA
+1913	1901	Tigrinya	ʾäfʿut	አፍዑት	NA
+1914	1901	Tigrinya	ʾäfʿot	አፍዖት	NA
+1915	1901	Tigre	ʾäfʿot	አፍዖት	NA
+1916	1901	Awngi	afuwa	አፉወ	NA
+1917	1917	Proto-Semitic	ʔarbaʕ-	ʔarbaʕ-	NA
+1918	1917	Akkadian	erbet	𒐉	NA
+1919	1917	Egyptian Arabic	ʔaṛbaʕa	أربعة	NA
+1920	1917	Maltese	rabʕa	erbgħa	NA
+1921	1917	Moroccan Arabic	rabʕa	ربعة	NA
+1922	1917	Moroccan Arabic	ʔarbʕa	أربعة	NA
+1923	1917	Dadanitic	ʾrbʿ	𐪑𐪇𐪈𐪒	NA
+1924	1917	Classical Syriac	ʾarbʿā	ܐܰܪܒ݁ܥܳܐ	NA
+1925	1917	Hebrew	'arba'á, ʾarbāʿâ	אַרְבָּעָה	NA
+1926	1917	Phoenician	ʾrbʿt	𐤀𐤓𐤁𐤏𐤕	NA
+1927	1917	Ugaritic	ảrbʿt	𐎀𐎗𐎁𐎓𐎚	NA
+1928	1917	Safaitic	ʾrbʿ	𐪑𐪇𐪈𐪒	NA
+1929	1917	Safaitic	ʾrbʿt	𐪑𐪇𐪈𐪒𐪉	NA
+1930	1917	Amharic	ʾärat	አራት	NA
+1931	1917	Ge'ez	ʾärbäʿtu	አርበዕቱ	NA
+1932	1917	Tigre	ʾärbäʿ	አርበዕ	NA
+1933	1917	Tigrinya	ʾarbaʿtä	ኣርባዕተ	NA
+1934	1917	Georgian	rva	რვა	NA
+1935	1917	Laz	ovro	ოვრო	NA
+1936	1917	Laz	orvo	ორვო	NA
+1937	1917	Laz	ruo	Lome	NA
+1938	1917	Mingrelian	ruo	რუო	NA
+1939	1917	Mingrelian	bruo	ბრუო	NA
+1940	1917	Svan	ara	არა	NA
+1941	1941	Proto-Semitic	ʔarway-	ʔarway-	NA
+1942	1941	Akkadian	arûm	𒀉𒄷	NA
+1943	1941	Classical Syriac	ʾaryəyāʾ	ܐܰܪܝܝܳܐ	NA
+1944	1941	Classical Syriac	ʾaryā	ܐܰܪܝܳܐ	NA
+1945	1941	Classical Syriac	ʾaryūṯā	ܐܰܪܝܽܘܬܳܐ	NA
+1946	1941	Assyrian Neo-Aramaic	ʾaryā	ܐܪܝܐ	NA
+1947	1941	Assyrian Neo-Aramaic	ʾaryita	ܐܪܝܝܬܐ	NA
+1948	1941	Hebrew	aryé, ʾaryê	אַרְיֵה	NA
+1949	1941	Hebrew	arí, ʾărî	אֲרִי	NA
+1950	1941	Phoenician	ʾrw	𐤀𐤓𐤅	NA
+1951	1941	Ugaritic	ảrw	𐎀𐎗𐎆	NA
+1952	1941	Amharic	ʾäwre	አውሬ	NA
+1953	1941	Ge'ez	ʾärwe	አርዌ	NA
+1954	1941	Tigrinya	ʾäwre	አውሬ	NA
+1955	1941	Old Armenian	aṙiwc	առիւծ	NA
+1956	1956	Proto-Semitic	ʔarḫ-	ʔarḫ-	NA
+1957	1956	Akkadian	arḫum	𒀖	NA
+1958	1956	Arabic	ʔarḵ	أَرْخ	NA
+1959	1956	Arabic	ʔirḵ	إِرْخ	NA
+1960	1956	Ammonite	ʾrḥ	𐤀𐤓𐤇	NA
+1961	1956	Ugaritic	ảrḫ	𐎀𐎗𐎃	NA
+1962	1956	Soqotri	ʾarḥi	ʔarḥ	NA
+1963	1956	Tigrinya	ʾarḥi	ኣርሒ	NA
+1964	1956	Tigrinya	ʾarḥa	ኣርሓ	NA
+1965	1965	Proto-Semitic	ʔarṣ́-	ʔarṣ́-	NA
+1966	1965	Akkadian	erṣetum	𒆠	NA
+1967	1965	Gulf Arabic	arḏ̣	ارض	NA
+1968	1965	Maltese	árdi	art	NA
+1969	1965	Afar	arli	árdi	NA
+1970	1965	Somali	ardhi	arli	NA
+1971	1965	Swahili	erd	ardhi	NA
+1972	1965	Zazaki	erd	erd	NA
+1973	1965	Northern Kurdish	arz	erd	NA
+1974	1965	Turkish	ʾrq	arz	NA
+1975	1965	Persian	ʾrq	ارض	NA
+1976	1965	Classical Syriac	ʾarʿā	ܐܰܪܥܳܐ	NA
+1977	1965	Hebrew	'érets, ʾéreṣ	אֶרֶץ	NA
+1978	1965	Moabite	ʾrṣ	𐤀𐤓𐤑	NA
+1979	1965	Punic	ʾrṣ	𐤀𐤓𐤑	NA
+1980	1965	Ugaritic	ảrṣ	𐎀𐎗𐎕	NA
+1981	1965	Hadrami	ʾrḍ	𐩱𐩧𐩳	NA
+1982	1965	Minaean	ʾrḍ	𐩱𐩧𐩳	NA
+1983	1965	Qatabanian	ʾrḍ	𐩱𐩧𐩳	NA
+1984	1965	Sabaean	ʾrḍ	𐩱𐩧𐩳	NA
+1985	1965	Shehri	rṯnw	ʾɛrẓ̂	NA
+1986	1965	Egyptian	N/A	rṯnw	NA
+1987	1987	Proto-Semitic	ʔasar-	ʔasar-	NA
+1988	1987	Akkadian	esērum	𒂊𒋛𒊒	NA
+1989	1987	Arabic	ʔasara	أَسَرَ	NA
+1990	1987	Classical Syriac	ʾāsar	ܐܶܣܰܪ	NA
+1991	1987	Hebrew	asár, ʾāsar	אָסַר	NA
+1992	1987	Ugaritic	ảsr	𐎀𐎒𐎗	NA
+1993	1987	Amharic	ʾäsärä	አሰረ	NA
+1994	1987	Amharic	ʾäśärä	አሠረ	NA
+1995	1987	Ge'ez	ʾäsärä	አሰረ	NA
+1996	1987	Tigrinya	ʾasärä	ኣሰረ	NA
+1997	1997	Proto-Semitic	ʔasīr-	ʔasīr-	NA
+1998	1997	Hurrian	as-si-ri	𒊍𒋛𒊑	NA
+1999	1997	Arabic	ʔasīr	أَسِير	NA
+2000	1997	Classical Syriac	ʾasīrā	ܐܰܣܺܝܪܳܐ	NA
+2001	1997	Hebrew	asír, ʾāsîr	אָסִיר	NA
+2002	1997	Ugaritic	ảsr	𐎀𐎒𐎗	NA
+2003	1997	Amharic	ʾəsr	እስር	NA
+2004	1997	Tigrinya	ʾəsur	እሱር	NA
+2005	2005	Proto-Semitic	ʔatān-	ʔatān-	NA
+2006	2005	Akkadian	atānum	𒊩𒀲	NA
+2007	2005	Arabic	ʔatān	أَتَان	NA
+2008	2005	Aramaic	ʾăṯānā	אֲתָנָא	NA
+2009	2005	Aramaic	ʾattānā	אַתָּנָא	NA
+2010	2005	Hebrew	'atón, ʾāṯôn	אָתוֹן	NA
+2011	2005	Ugaritic	ảtnt	𐎀𐎚𐎐𐎚	NA
+2012	2012	Proto-Semitic	ʔaw	ʔaw	NA
+2013	2012	Akkadian	u	𒅇	NA
+2014	2012	Akkadian	a	*wa	NA
+2015	2012	Arabic	ʔaw	أَو	NA
+2016	2012	Classical Syriac	ʾaw	ܐܘ	NA
+2017	2012	Hebrew	o, ʾô	אוֹ	NA
+2018	2012	Ugaritic	ʾō	𐎜	NA
+2019	2012	Qatabanian	ʾw	𐩱𐩥	NA
+2020	2012	Sabaean	ʾw	𐩱𐩥	NA
+2021	2021	Proto-Semitic	ʔayy-	ʔayy-	NA
+2022	2021	Akkadian	ayyum	𒀀𒀀𒌑𒌝	NA
+2023	2021	Arabic	ʔayy	أَيّ	NA
+2024	2021	Jewish Babylonian Aramaic	ʾaynā	אַיְנָא	NA
+2025	2021	Classical Syriac	ʾaynā	ܐܰܝܢܳܐ	NA
+2026	2021	Hebrew	e, ʾê	אֵי	NA
+2027	2021	Hebrew	'ayé, ʾayyê	אַיֵּה	NA
+2028	2021	Hebrew	'éze, ʾếzê	אֵיזֶה	NA
+2029	2021	Hebrew	efo, ʾêp̄ô	אֵיפֹה	NA
+2030	2021	Hebrew	hékhan, hêḵān	הֵיכָן	NA
+2031	2021	Hebrew	'ematáy, ʾêmāṯay	אֵימָתַי	NA
+2032	2021	Hebrew	ketsád, kêṣaḏ	כֵּיצַד	NA
+2033	2021	Hebrew	ékh, ʾêḵ	אֵיך	NA
+2034	2021	Ugaritic	ỉy	𐎛𐎊	NA
+2035	2021	Ugaritic	ỉ	𐎛	NA
+2036	2021	Minaean	ʾy	𐩱𐩺	NA
+2037	2021	Qatabanian	ʾy	𐩱𐩺	NA
+2038	2021	Sabaean	ʾy	𐩱𐩺	NA
+2039	2021	Ge'ez	ʾäy	አይ	NA
+2040	2021	Tigre	ʾäyi	አዪ	NA
+2041	2021	Tigrinya	-äy	-አይ	NA
+2042	2042	Proto-Semitic	ʔayyal-	ʔayyal-	NA
+2043	2042	Akkadian	ayyalum	𒁰𒈦	NA
+2044	2042	Maltese	oyyal	ajl	NA
+2045	2042	Classical Persian	oyyal	ایل	NA
+2046	2042	Classical Syriac	ʾaylā	ܐܰܝܠܳܐ	NA
+2047	2042	Hebrew	ayál, ʾayyāl	אַיָּל	NA
+2048	2042	Hebrew	áyil, ʾáyil	אַיִל	NA
+2049	2042	Phoenician	ʾyl	𐤀𐤉𐤋	NA
+2050	2042	Ugaritic	ảyl	𐎀𐎊𐎍	NA
+2051	2042	Old South Arabian	ʾyl	𐩱𐩺𐩡	NA
+2052	2042	Ge'ez	häyyäl	ሀየል	NA
+2053	2042	Ge'ez	ḫäyyäl	ኀየል	NA
+2054	2042	Coptic	eioul	ⲉⲓⲟⲩⲗ	NA
+2055	2042	Old Armenian	analutʻ	անալութ	NA
+2056	2056	Proto-Semitic	ʔaḥad-	ʔaḥad-	NA
+2057	2056	Akkadian	wēdum	𒀸	NA
+2058	2056	Arabic	ʔaḥad	أَحَد	NA
+2059	2056	Arabic	ʔiḥdā	إِحْدَى	NA
+2060	2056	Classical Syriac	ḥaḏ	ܚܰܕ	NA
+2061	2056	Classical Syriac	ḥḏā	ܚܕܳܐ	NA
+2062	2056	Turoyo	ḥa	ܚܰܐ	NA
+2063	2056	Israeli Hebrew	'ekhád	אֶחָד	NA
+2064	2056	Israeli Hebrew	'akhát	אַחַת	NA
+2065	2056	Ugaritic	ảḥd	𐎀𐎈𐎄	NA
+2066	2056	Ugaritic	ảḥt	𐎀𐎈𐎚	NA
+2067	2056	Amharic	ʾänd	አንድ	NA
+2068	2056	Ge'ez	ʾäḥädu	አሐዱ	NA
+2069	2056	Ge'ez	ʾäḥätti	አሐቲ	NA
+2070	2056	Tigre	ḥäte	ሐቴ	NA
+2071	2056	Tigrinya	ḥadä	ሓደ	NA
+2072	2072	Proto-Semitic	ʔaḫaḏ-	ʔaḫaḏ-	NA
+2073	2072	Akkadian	aḫāzum	𒆪	NA
+2074	2072	Egyptian Arabic	ʔaḵad	أخد	NA
+2075	2072	Egyptian Arabic	ḵad	خد	NA
+2076	2072	Gulf Arabic	ḵaḏa, ḵiḏa	خذا	NA
+2077	2072	Maltese	ḵād	ħa	NA
+2078	2072	Moroccan Arabic	ḵād	خاد	NA
+2079	2072	Moroccan Arabic	ḵdā	خدى	NA
+2080	2072	Classical Syriac	ʾeḥaḏ	ܐܶܚܰܕ	NA
+2081	2072	Hebrew	akház, ʾāḥaz	אָחַז	NA
+2082	2072	Ugaritic	ảḫḏ	𐎀𐎃𐎏	NA
+2083	2072	Sabaean	ʾḫḏ	𐩱𐩭𐩹	NA
+2084	2084	Proto-Semitic	ʔaḫw-	ʔaḫw-	NA
+2085	2084	Akkadian	aḫum	𒋀	NA
+2086	2084	Gulf Arabic	uḵu	أخو	NA
+2087	2084	Maltese	ʔaḵḵ	ħu	NA
+2088	2084	Moroccan Arabic	ʔaḵḵ	أخ	NA
+2089	2084	Moroccan Arabic	ḵū	خو	NA
+2090	2084	Moroccan Arabic	ḵā	خا	NA
+2091	2084	Malayalam	ikka	ഇക്ക	NA
+2092	2084	Portuguese	ʾăḥā	Lafões	NA
+2093	2084	Classical Syriac	ʾaḥā	ܐܰܚܳܐ	NA
+2094	2084	Hebrew	'ákh, ʾāḥ	אָח	NA
+2095	2084	Punic	ʾḥ	𐤀𐤇	NA
+2096	2084	Ugaritic	ảḫ	𐎀𐎃	NA
+2097	2084	Hadrami	ʾḫ	𐩱𐩭	NA
+2098	2084	Minaean	ʾḫ	𐩱𐩭	NA
+2099	2084	Qatabanian	ʾḫ	𐩱𐩭	NA
+2100	2084	Sabaean	ʾḫ	𐩱𐩭	NA
+2101	2084	Argobba	äh	አህ	NA
+2102	2084	Ge'ez	ʾəḫʷ	እኍ	NA
+2103	2084	Ge'ez	ʾäḫäw	አኀው	NA
+2104	2084	Harari	əḥ	እሕ	NA
+2105	2084	Tigre	ḥu	ሑ	NA
+2106	2084	Tigrinya	ḥawä	ሓወ	NA
+2107	2107	Proto-Semitic	ʔaḫwat-	ʔaḫwat-	NA
+2108	2107	Akkadian	aḫātum	𒎏	NA
+2109	2107	Maltese	ʾăḥāṯā	oħt	NA
+2110	2107	Classical Syriac	ḥāṯā	ܚܳܬܳܐ	NA
+2111	2107	Hebrew	'akhót, ʾāḥôṯ	אָחוֹת	NA
+2112	2107	Phoenician	ʾḥt	𐤀𐤇𐤕	NA
+2113	2107	Ugaritic	ảḫt	𐎀𐎃𐎚	NA
+2114	2107	Old South Arabian	ʾḫt	𐩱𐩭𐩩	NA
+2115	2107	Amharic	ʾəḫət	እኅት	NA
+2116	2107	Amharic	ʾət	እት	NA
+2117	2107	Ge'ez	ʾəḫt	እኅት	NA
+2118	2107	Tigre	ḥət	ሕት	NA
+2119	2107	Tigrinya	ḥawti	ሓውቲ	NA
+2120	2120	Proto-Semitic	ʔaṯar-	ʔaṯar-	NA
+2121	2120	Akkadian	ašrum	𒆠	NA
+2122	2120	Arabic	ʔaṯar	أَثَر	NA
+2123	2120	Classical Syriac	ʾaṯrā	ܐܰܬܪܳܐ	NA
+2124	2120	Hebrew	'ashér, ʾăšer	אֲשֶׁר	NA
+2125	2120	Hebrew	ảṯr	relativizer	NA
+2126	2120	Ugaritic	ảṯr	𐎀𐎘𐎗	NA
+2127	2120	Ge'ez	ʾäsär	አሰር	NA
+2128	2120	Ge'ez	ʾäśär	አሠር	NA
+2129	2129	Proto-Semitic	ʔil-	ʔil-	NA
+2130	2129	Akkadian	ilum	𒀭	NA
+2131	2129	Arabic	ʔill	إِلّ	NA
+2132	2129	Aramaic	ʾĕl	ࠀࠢࠋ	NA
+2133	2129	Aramaic	ēla	ࠀࠜࠋࠠࠄ	NA
+2134	2129	Aramaic	ʾelūwem	ࠀࠝࠋࠦࠄࠉ࠙ࠝࠌࠬ	NA
+2135	2129	Ammonite	ʾlm	𐤀𐤋𐤌	NA
+2136	2129	Hebrew	el, ʾēl	אֵל	NA
+2137	2129	Phoenician	ʾl	𐤀𐤋	NA
+2138	2129	Phoenician	ʾlt	𐤀𐤋𐤕	NA
+2139	2129	Phoenician	ʾlm	𐤀𐤋𐤌	NA
+2140	2129	Ugaritic	ỉl	𐎛𐎍	NA
+2141	2129	Ugaritic	ỉlt	𐎛𐎍𐎚	NA
+2142	2129	Old South Arabian	ʾl	𐩱𐩡	NA
+2143	2143	Proto-Semitic	ʔimm-	ʔimm-	NA
+2144	2143	Akkadian	ummum	𒂼	NA
+2145	2143	Maltese	umma	omm	NA
+2146	2143	Malayalam	umma	ഉമ്മ	NA
+2147	2143	Coptic	ama	ⲁⲙⲁ	NA
+2148	2143	Hebrew	ímma	אִמָּא	NA
+2149	2143	Hebrew	em, ʾēm	אֵם	NA
+2150	2143	Punic	ʾm	𐤀𐤌	NA
+2151	2143	Ugaritic	ủm	𐎜𐎎	NA
+2152	2143	Minaean	ʾm	𐩱𐩣	NA
+2153	2143	Qatabanian	ʾm	𐩱𐩣	NA
+2154	2143	Sabaean	ʾm	𐩱𐩣	NA
+2155	2143	Amharic	ʾəmaye	እማዬ	NA
+2156	2143	Amharic	ʾəma	እማ	NA
+2157	2143	Argobba	ʾəmm	እም	NA
+2158	2143	Ge'ez	ʾəmm	እም	NA
+2159	2143	Tigre	ʾəm	እም	NA
+2160	2160	Proto-Semitic	ʔināš-	ʔināš-	NA
+2161	2160	Akkadian	nīšum	𒈬	NA
+2162	2160	Akkadian	nišū	𒌦𒎌	NA
+2163	2160	Maltese	ʾĕnāš	nies	NA
+2164	2160	Classical Syriac	ʾenāšā	ܐܶܢܳܫܳܐ	NA
+2165	2160	Hebrew	enósh, ʾĕnôš	אֱנוֹשׁ	NA
+2166	2160	Tigre	ʾənas	እናስ	NA
+2167	2167	Proto-Semitic	ʔirbay-	ʔirbay-	NA
+2168	2167	Akkadian	erbum	𒉅𒄭𒀀	NA
+2169	2167	Eblaite	ir-bi₂-num₂	𒅕𒉈𒈝	NA
+2170	2167	Eblaite	BURU₅.KUR	𒉆𒆳	NA
+2171	2167	Arabic	ʔirbiyān	إِرْبِيَان	NA
+2172	2167	Arabic	rūbiyān	رُوبِيَان	NA
+2173	2167	Arabic	rūbyān	رُوبْيَان	NA
+2174	2167	Arabic	rubyān	رُبْيَان	NA
+2175	2167	Classical Syriac	ʾarbīṯā	ܐܰܪܒܻ݁ܝܬܳܐ	NA
+2176	2167	Israeli Hebrew	arbé	אַרְבֶּה	NA
+2177	2167	Ugaritic	ỉrby	𐎛𐎗𐎁𐎊	NA
+2178	2167	Sabaean	ʾrby	𐩱𐩧𐩨𐩺	NA
+2179	2167	Chaha	wäräba	ወረባ	NA
+2180	2167	Sebat Bet Gurage	wäräba	ወረባ	NA
+2181	2167	Inor	wäräḇa	ወረቫ	NA
+2182	2167	Kistane	woraba	ዎራባ	NA
+2183	2167	Muher	wäräba	ወረባ	NA
+2184	2167	Mehri	harbēt	ḥarbyēt	NA
+2185	2167	Harsusi	ʾírbɔ́t	harbēt	NA
+2186	2167	Shehri	ʾerbhíyoh	ʾírbɔ́t	NA
+2187	2167	Soqotri	N/A	ʾerbhíyoh	NA
+2188	2188	Proto-Semitic	ʔiš-	ʔiš-	NA
+2189	2188	Akkadian	išātum	𒉈	NA
+2190	2188	Arabic	ʔussun	أُسٌّ	NA
+2191	2188	Classical Syriac	ʾeššāṯā	ܐܶܫܴ݁ܬܴܐ	NA
+2192	2188	Hebrew	esh, ʾēš	אֵשׁ	NA
+2193	2188	Hebrew	'ishé, ʾiššê	אִשֶּׁה	NA
+2194	2188	Phoenician	ʾs	𐤀𐤎	NA
+2195	2188	Ugaritic	ỉšt	𐎛𐎌𐎚	NA
+2196	2188	Amharic	ʾəsat	እሳት	NA
+2197	2188	Amharic	sat	ሳት	NA
+2198	2188	Ge'ez	ʾəsat	እሳት	NA
+2199	2188	Tigre	ʾəsat	እሳት	NA
+2200	2200	Proto-Semitic	ʔiṣbaʕ-	ʔiṣbaʕ-	NA
+2201	2200	Arabic	ʔiṣbaʕ	إِصْبَع	NA
+2202	2200	Classical Syriac	ṣeḇʿā	ܨܶܒܥܳܐ	NA
+2203	2200	Hebrew	'etsbá', ʾeṣbaʿ	אֶצְבַּע	NA
+2204	2200	Ugaritic	ủṣbʿ	𐎜𐎕𐎁𐎓	NA
+2205	2200	Tigrinya	ʾaṣabʿ	ኣጻብዕ	NA
+2206	2206	Proto-Semitic	ʔurḫ-	ʔurḫ-	NA
+2207	2206	Akkadian	urḫum	𒌫𒄷𒌝	NA
+2208	2206	Classical Syriac	ʾŏraḥ	ܐܘܪܚ	NA
+2209	2206	Classical Syriac	ʾurḥā	ܐܘܪܚܐ	NA
+2210	2206	Hebrew	órakh, ʾốraḥ	אֹרַח	NA
+2211	2211	Proto-Semitic	ʔuḏn-	ʔuḏn-	NA
+2212	2211	Akkadian	uznum	𒉿	NA
+2213	2211	Egyptian Arabic	widn	ودن	NA
+2214	2211	Gulf Arabic	aḏūn	اذون	NA
+2215	2211	Maltese	dayni	widna	NA
+2216	2211	North Levantine Arabic	dayni	دينه	NA
+2217	2211	North Levantine Arabic	dāne	دانة	NA
+2218	2211	North Levantine Arabic	ʾidn	إدن	NA
+2219	2211	Aramaic	nāṯā	ܢܵܬ݂ܵܐ	NA
+2220	2211	Aramaic	ʾeḏnā	ܐܕܢܐ	NA
+2221	2211	Aramaic	ʾuḏnā	אֻדְנָא	NA
+2222	2211	Aramaic	ʾūnā	אוּנָא	NA
+2223	2211	Aramaic	ʾeḏnā	אֶדְנָא	NA
+2224	2211	Aramaic	aḏno	ܐܰܕ݂ܢܐ	NA
+2225	2211	Hebrew	ózen, ʾṓzen	אֹזֶן	NA
+2226	2211	Ugaritic	ủdn	𐎜𐎄𐎐	NA
+2227	2211	Sabaean	ʾḏn	𐩱𐩹𐩬	NA
+2228	2211	Mehri	ḥe-yḏēn	ḥə-yḏēn	NA
+2229	2211	Harsusi	ʾiḏɛ́n	ḥe-yḏēn	NA
+2230	2211	Shehri	ʾídihen	ʾiḏɛ́n	NA
+2231	2211	Soqotri	ʾəzn	ʾídihen	NA
+2232	2211	Ge'ez	ʾəzn	እዝን	NA
+2233	2211	Tigre	ʾəzən	እዝን	NA
+2234	2211	Tigrinya	ʾəzni	እዝኒ	NA
+2235	2211	Argobba	əzən	እዝን	NA
+2236	2211	Argobba	izin	ኢዚን	NA
+2237	2211	Gafat	əznä	እዝነ	NA
+2238	2211	Gurage	əzən	እዝን	NA
+2239	2211	Gurage	əzən	እዝን	NA
+2240	2211	Gurage	əzn	እዝን	NA
+2241	2211	Gurage	izn	ኢዝን	NA
+2242	2211	Gurage	ənzən	እንዝን	NA
+2243	2211	Gurage	əzər	እዝር	NA
+2244	2211	Harari	ʾuzun	ኡዙን	NA
+2245	2245	Proto-Semitic	ʕalay-	ʕalay-	NA
+2246	2245	Akkadian	eli	𒌋𒅗	NA
+2247	2245	Maltese	ʕal	għal	NA
+2248	2245	Aramaic	ʕal	עַל	NA
+2249	2245	Hebrew	al	על	NA
+2250	2245	Ge'ez	ʿlä	ላዕለ	NA
+2251	2251	Proto-Semitic	ʕapar-	ʕapar-	NA
+2252	2251	Akkadian	eperum	𒅖	NA
+2253	2251	Arabic	ʕafar	عَفَر	NA
+2254	2251	Classical Syriac	ʿap̄rā	ܥܰܦܪܳܐ	NA
+2255	2251	Hebrew	'afár, ʿāp̄ār	עָפָר	NA
+2256	2251	Ugaritic	ʿpr	𐎓𐎔𐎗	NA
+2257	2251	Amharic	ʾäfär	አፈር	NA
+2258	2251	Argobba	ʾäfär	አፈር	NA
+2259	2251	Ge'ez	ʾäfär	አፈር	NA
+2260	2251	Harari	ʾäfär	አፈር	NA
+2261	2251	Sebat Bet Gurage	äfär	አፈር	NA
+2262	2251	Tigrinya	ʿafär	ዓፈር	NA
+2263	2263	Proto-Semitic	ʕayn-	ʕayn-	NA
+2264	2263	Akkadian	īnum	𒅆	NA
+2265	2263	Eblaite	a-na-na	𒀀𒈾𒈾	NA
+2266	2263	Algerian Arabic	ʕīn	عين	NA
+2267	2263	Egyptian Arabic	ʕēn	عين	NA
+2268	2263	Gulf Arabic	ʕēn	عين	NA
+2269	2263	Libyan Arabic	ʕīn, ʕēn	عين	NA
+2270	2263	Maltese	ʕayn, ʕīn	għajn	NA
+2271	2263	Moroccan Arabic	ʕayn, ʕīn	عين	NA
+2272	2263	North Levantine Arabic	ʕayn, ʕēn	عين	NA
+2273	2263	South Levantine Arabic	ʕēn	عين	NA
+2274	2263	Tunisian Arabic	ʕīn	عين	NA
+2275	2263	Tajik	ayn	айн	NA
+2276	2263	Hindustani	ain	ऐन	NA
+2277	2263	Hindustani	'ain	عَین	NA
+2278	2263	Malay	ain	عين	NA
+2279	2263	Assyrian Neo-Aramaic	ʿayna	ܥܝܢܐ	NA
+2280	2263	Classical Syriac	ʿaynā	ܥܰܝܢܳܐ	NA
+2281	2263	Lishana Deni	ʾēna	אינא	NA
+2282	2263	Turoyo	cayno	ܥܰܝܢܳܐ	NA
+2283	2263	Hebrew	'áyin, ʿáyin	עַיִן	NA
+2284	2263	Phoenician	ʿn	𐤏𐤍	NA
+2285	2263	Phoenician	ʿyn	𐤏𐤉𐤍	NA
+2286	2263	Ugaritic	ʿyn	𐎓𐎊𐎐	NA
+2287	2263	Minaean	ʿyn	𐩲𐩺𐩬	NA
+2288	2263	Qatabanian	ʿyn	𐩲𐩺𐩬	NA
+2289	2263	Sabaean	ʿyn	𐩲𐩺𐩬	NA
+2290	2263	Amharic	ʿäyn	ዐይን	NA
+2291	2263	Ge'ez	ʿäyn	ዐይን	NA
+2292	2263	Tigrinya	ʿayni	ዓይኒ	NA
+2293	2293	Proto-Semitic	ʕazab-	ʕazab-	NA
+2294	2293	Akkadian	ezēbum	𒋺	NA
+2295	2293	Arabic	ʕazaba	عَزَبَ	NA
+2296	2293	Hebrew	'azáv, ʿāzaḇ	עָזַב	NA
+2297	2297	Proto-Semitic	ʕaśar-	ʕaśar-	NA
+2298	2298	Proto-Semitic	ʕašt-	ʕašt-	NA
+2299	2298	Akkadian	ištēn	𒁹	NA
+2300	2298	Arabic	ist	اِسْت	NA
+2301	2298	Hebrew	ʿaštê	עַשְׁתֵּי	NA
+2302	2298	Ugaritic	ʿšt	𐎓𐎌𐎚	NA
+2303	2298	Ugaritic	ʿšr	𐎓𐎌𐎗	NA
+2304	2298	Ugaritic	ʿšty	𐎓𐎌𐎚𐎊	NA
+2305	2298	Minaean	ʿs¹t	𐩲𐩪𐩩	NA
+2306	2298	Qatabanian	ʿs¹tnm	𐩲𐩪𐩩𐩬𐩣	NA
+2307	2298	Hurrian	ỉṯt	𐎛𐎘𐎚	NA
+2308	2298	Hurrian	šuk-ki	*šu-	NA
+2309	2298	Hurrian	šuk-ki	𒉻𒆠	NA
+2310	2298	Hurrian	šu-si-ni	𒋗𒋛𒉌	NA
+2311	2311	Proto-Semitic	ʕaṯtar-	ʕaṯtar-	NA
+2312	2311	Akkadian	Ištar	𒀭𒈹	NA
+2313	2311	Eblaite	dMUŠ₃,dINANNA	𒀭𒈹	NA
+2314	2311	Arabic	ʕaṯtar	عَثْتَر	NA
+2315	2311	Imperial Aramaic	ʿAštarum	𐡏𐡔𐡕𐡓𐡌	NA
+2316	2311	Imperial Aramaic	ʿAstōr	[2]	NA
+2317	2311	Palmyrene Aramaic	ʿAstōr	𐡰𐡯𐡶𐡴	NA
+2318	2311	Palmyrene Aramaic	ʿAštarum	[3]	NA
+2319	2311	Palmyrene Aramaic	ʿAštarum	[1]	NA
+2320	2311	Phoenician	ʿAštarum	𐤏𐤔𐤕𐤓𐤌	NA
+2321	2311	Phoenician	diš₈-dar,diš₈-tar₂	[1]	NA
+2322	2311	Ugaritic	ʿṯtr	𐎓𐎘𐎚𐎗	NA
+2323	2311	Ugaritic	ʿṯtrt	𐎓𐎘𐎚𐎗𐎚	NA
+2324	2311	Akkadian	da-tar	𒀭𒀀𒋻	NA
+2325	2311	Akkadian	dat-tar	𒀭𒀜𒋻	NA
+2326	2311	Akkadian	ʿAttar	[3]	NA
+2327	2311	Ancient North Arabian	ʿAttar	𐪒𐪉𐪇	NA
+2328	2311	Ancient North Arabian	'ashtóret, ʿaštṓreṯ	[3]	NA
+2329	2311	Classical Syriac	ʾestərā	ܐܷܣܬܪܴܐ	NA
+2330	2311	Jewish Babylonian Aramaic	ʿaštārōṯ	עַשְׁתָּרוֹת	NA
+2331	2311	Jewish Babylonian Aramaic	ʿaštərāṯā	עַשְׁתְּרָתָא	NA
+2332	2311	Jewish Babylonian Aramaic	ʾistərā	אׅיסְתְּרָא	NA
+2333	2311	Moabite	ʿAštar	𐤏𐤔𐤕𐤓	NA
+2334	2311	Moabite	ʿAštart	[3]	NA
+2335	2311	Egyptian	ꜥsṯrt		NA
+2336	2311	Egyptian	ꜥsṯjrṯt	ꜥsṯrt	NA
+2337	2311	Egyptian	ꜥsṯjrṯt		NA
+2338	2311	Egyptian	ꜥꜣstjr	ꜥsṯjrṯt	NA
+2339	2311	Egyptian	ꜥꜣstjr		NA
+2340	2311	Egyptian	ꜥꜣsjty	ꜥꜣstjr	NA
+2341	2311	Egyptian	ꜥꜣsjty		NA
+2342	2311	Egyptian	ꜥsṯt	ꜥꜣsjty	NA
+2343	2311	Egyptian	ꜥsṯt		NA
+2344	2311	Egyptian	ꜥsṯrdt	ꜥsṯt	NA
+2345	2311	Egyptian	ꜥsṯrdt		NA
+2346	2311	Egyptian	ʿṯtr	ꜥsṯrdt	NA
+2347	2311	Old South Arabian	ʿṯtr	𐩲𐩻𐩩𐩧	NA
+2348	2311	Old South Arabian	ʿśtrm	𐩲𐩯𐩩𐩧𐩣	NA
+2349	2311	Old South Arabian	ʿästär	[3]	NA
+2350	2311	Old South Arabian	ʿästär	[1]	NA
+2351	2311	Amharic	ʾästar	አስታር	NA
+2352	2311	Amharic	ʾastär	ኣስተር	NA
+2353	2311	Blin	astär	ኣስተር	NA
+2354	2311	Tigre	ʿastär	ዓስተር	NA
+2355	2355	Proto-Semitic	ʕaṯ̣m-	ʕaṯ̣m-	NA
+2356	2355	Akkadian	eṣemtum	𒄊𒉻𒁺	NA
+2357	2355	Arabic	ʕaẓm	عَظْم	NA
+2358	2355	Classical Syriac	ʿaṭmā	ܥܰܛܡܳܐ	NA
+2359	2355	Hebrew	'étsem, ʿéṣem	עֶצֶם	NA
+2360	2355	Phoenician	ʿṣm	𐤏𐤑𐤌	NA
+2361	2355	Ugaritic	ʿẓm	𐎓𐎑𐎎	NA
+2362	2355	Amharic	ʾäṭnət	አጥንት	NA
+2363	2355	Ge'ez	ʾäṣ́m	አፅም	NA
+2364	2364	Proto-Semitic	ʕiṣ́-	ʕiṣ́-	NA
+2365	2364	Akkadian	iṣum	𒄑	NA
+2366	2364	Maltese	ʕṣā	għasa	NA
+2367	2364	Moroccan Arabic	ʕṣā	عصا	NA
+2368	2364	Gulf Arabic	ʕaṣāya	عصاية	NA
+2369	2364	Hijazi Arabic	ʕaṣāya	عصاية	NA
+2370	2364	Armenian	asa	ասա	NA
+2371	2364	Arabic	ʕuḍḍ	عُضّ	NA
+2372	2364	Arabic	ʕiḍḍ	عِضّ	NA
+2373	2364	Aramaic	ʾāʿā	אָעָא	NA
+2374	2364	Aramaic	ʿāʿā	עָעָא	NA
+2375	2364	Aramaic	ʿāqā	עָקָא	NA
+2376	2364	Hebrew	'ets, ʿēṣ	עֵץ	NA
+2377	2364	Punic	ʿṣ	𐤏𐤑	NA
+2378	2364	Ugaritic	ʿṣ	𐎓𐎕	NA
+2379	2364	Minaean	ʿḍ	𐩲𐩳	NA
+2380	2364	Qatabanian	ʿḍ	𐩲𐩳	NA
+2381	2364	Sabaean	ʿḍ	𐩲𐩳	NA
+2382	2364	Ge'ez	ʿəṣ́	ዕፅ	NA
+2383	2364	Amharic	ənč̣ät	ዕንጨት	NA
+2384	2364	Tigrinya	ˁəč̣č̣ät	ዕጨት	NA
+2385	2385	Proto-Semitic	ʕVnz-	ʕVnz-	NA
+2386	2385	Akkadian	enzum	𒍚	NA
+2387	2385	Arabic	ʕanz	عَنْز	NA
+2388	2385	Hebrew	éz, ʿēz	עֵז	NA
+2389	2385	Ugaritic	ʿz	𐎓𐎇	NA
+2390	2390	Proto-Semitic	ʕVṣṣūr-	ʕVṣṣūr-	NA
+2391	2390	Akkadian	iṣṣūrum	𒄷	NA
+2392	2390	Ugaritic	ʿṣr	𐎓𐎕𐎗	NA
+2393	2393	Proto-Semitic	ḏanab-	ḏanab-	NA
+2394	2393	Akkadian	zibbatum	𒆲	NA
+2395	2393	Eblaite	še₃-na-bu₃	𒂠𒈾𒅤	NA
+2396	2393	Eblaite	še-ne-buₓ	𒊺𒉈𒅗	NA
+2397	2393	Maltese	danḇā	denb	NA
+2398	2393	Classical Syriac	dunḇā	ܕܾ݁ܘܢܒ݁ܐ	NA
+2399	2393	Classical Mandaic	dnab	ࡃࡍࡀࡁ	NA
+2400	2393	Classical Mandaic	dinba	ࡃࡉࡍࡁࡀ	NA
+2401	2393	Classical Mandaic	dinabta	ࡃࡉࡍࡀࡁࡕࡀ	NA
+2402	2393	Classical Mandaic	dinipta	ࡃࡉࡍࡉࡐࡕࡀ	NA
+2403	2393	Classical Mandaic	danipta	ࡃࡀࡍࡉࡐࡕࡀ	NA
+2404	2393	Hebrew	zanáv, zānāḇ	זָנָב	NA
+2405	2393	Ugaritic	ḏnb	𐎏𐎐𐎁	NA
+2406	2393	Ugaritic	ḏnbt	𐎏𐎐𐎁𐎚	NA
+2407	2393	Amharic	zänäb	ዘነብ	NA
+2408	2393	Amharic	zäläb	ዘለብ	NA
+2409	2393	Tigrinya	zänäb	ዘነብ	NA
+2410	2393	Tigre	zänäb	ዘነብ	NA
+2411	2393	Mehri	ḏenēb	ḏənūb	NA
+2412	2393	Harsusi	ḏúnúb	ḏenēb	NA
+2413	2393	Shehri	dínob	ḏúnúb	NA
+2414	2393	Soqotri	N/A	dínob	NA
+2415	2415	Proto-Semitic	ḏaḳan-	ḏaḳan-	NA
+2416	2415	Akkadian	ziqnum	𒅾	NA
+2417	2415	Eblaite	ša-ga-núm	𒊭𒂵𒈝	NA
+2418	2415	Eblaite	ša-gu-nu-um	𒊭𒄖𒉡𒌝	NA
+2419	2415	Eblaite	SU₆.DÙ	𒋗𒆕	NA
+2420	2415	Hijazi Arabic	digin	ذِقِن	NA
+2421	2415	Maltese	diqnā	daqna	NA
+2422	2415	Classical Syriac	diqnā	ܕܻ݁ܩܢܳܐ	NA
+2423	2415	Hebrew	zakán, zāqān	זָקָן	NA
+2424	2415	Phoenician	zqn	𐤆𐤒𐤍	NA
+2425	2415	Ugaritic	dqn	𐎄𐎖𐎐	NA
+2426	2415	Soqotri	dóḳehan	díḳehon	NA
+2427	2415	Soqotri	dáḳehan	dóḳehan	NA
+2428	2415	Soqotri	də́ḳhɔn	dáḳehan	NA
+2429	2415	Soqotri	N/A	də́ḳhɔn	NA
+2430	2430	Proto-Semitic	ḏikar-	ḏikar-	NA
+2431	2430	Akkadian	zikarum	𒍑	NA
+2432	2430	Akkadian	zikrum	𒈬	NA
+2433	2430	Eblaite	NITA	𒍑	NA
+2434	2430	Egyptian Arabic	dákar	دكر	NA
+2435	2430	Gulf Arabic	ḏəkər	ذَكَر	NA
+2436	2430	Gulf Arabic	ḏekər	ذِكَر	NA
+2437	2430	Classical Syriac	deḵrā	ܕܷ݁ܟܪܳܐ	NA
+2438	2430	Hebrew	zakhár, zāḵār	זָכָר	NA
+2439	2430	Ugaritic	dkr	𐎄𐎋𐎗	NA
+2440	2430	Sabaean	ḏkr	𐩹𐩫𐩧	NA
+2441	2430	Sabaean	N/A		NA
+2442	2430	Sabaean	N/A		NA
+2443	2430	Sabaean	N/A		NA
+2444	2444	Proto-Semitic	ḏiʔb-	ḏiʔb-	NA
+2445	2444	Akkadian	zībum	𒉡𒌝𒈠	NA
+2446	2444	Egyptian Arabic	dīb	ديب	NA
+2447	2444	Gulf Arabic	ḏīb	ذِيب	NA
+2448	2444	Hijazi Arabic	dīb, ḏīb	ذِيب	NA
+2449	2444	Maltese	dīb	dib	NA
+2450	2444	Moroccan Arabic	dīb	ديب	NA
+2451	2444	Malay	dip	zib	NA
+2452	2444	Malay	dip	ذيب	NA
+2453	2444	Catalan	adive	dip	NA
+2454	2444	French	adive	adive	NA
+2455	2444	Imperial Aramaic	dybʾ	𐡃𐡉𐡁𐡀	NA
+2456	2444	Classical Syriac	deʾḇā	ܕ݁ܶܐܒܳܐ	NA
+2457	2444	Jewish Palestinian Aramaic, Jewish Literary Aramaic, Jewish Babylonian Aramaic	dēḇā	דֵּיבָא	NA
+2458	2444	Christian Palestinian Aramaic	diba	ܕܝܒ	NA
+2459	2444	Classical Mandaic	diba	ࡃࡉࡁࡀ	NA
+2460	2444	Hebrew	z'év, zǝʾēḇ	זְאֵב	NA
+2461	2444	Safaitic	ḏʾb	𐪙𐪑𐪈	NA
+2462	2444	Amharic	ǧəb	ጅብ	NA
+2463	2444	Ge'ez	zəʾb	ዝእብ	NA
+2464	2444	Ge'ez	ṣ́əʿb	ፅዕብ	NA
+2465	2444	Ge'ez	zəbʾi	*ṣ́abuʿ-	NA
+2466	2444	Tigre	zəbʾi	ዝብኢ	NA
+2467	2467	Proto-Semitic	ḏV-	ḏV-	NA
+2468	2467	Arabic	ḏā	ذَا	NA
+2469	2467	Aramaic	dī	די	NA
+2470	2467	Hebrew	ze	זה	NA
+2471	2467	Phoenician	zh	𐤆𐤄	NA
+2472	2467	Ge'ez	zə	ዝ	NA
+2473	2467	Amharic	yəh	ይህ	NA
+2474	2474	Proto-Semitic	ḡurayb-	ḡurayb-	NA
+2475	2474	Akkadian	erēbum, ḫerēbum, arēbu	𒌑𒉁𒂵	NA
+2476	2474	Eblaite	ga-ri₂-bu₃	𒂵𒌷𒅤	NA
+2477	2474	Eblaite	ḫa-ri₂-bu₃-um	𒄩𒌷𒅤𒌝	NA
+2478	2474	Maltese	għarab	għorab	NA
+2479	2474	Maltese	ḡrāb	għarab	NA
+2480	2474	Moroccan Arabic	ḡrāb	غراب	NA
+2481	2474	Turkish	ḡurāb	gurab	NA
+2482	2474	South Levantine Arabic	ḡurāb	غراب	NA
+2483	2474	Jewish Palestinian Aramaic, Jewish Literary Aramaic, Jewish Babylonian Aramaic	ʿūrḇā	עוֹרְבָא	NA
+2484	2474	Classical Syriac	ʿūrḇā	ܥܽܘܪܒܳܐ	NA
+2485	2474	Hebrew	'orév, ʿôrēḇ	עוֹרֵב	NA
+2486	2474	Old Armenian	agṙaw	ագռաւ	NA
+2487	2487	Proto-Semitic	ḥabl-	ḥabl-	NA
+2488	2487	Akkadian	eblu	𒂠	NA
+2489	2487	Gulf Arabic	ḥəbel	حَبِل	NA
+2490	2487	Maltese	ḥaḇlā	ħabel	NA
+2491	2487	Classical Syriac	ḥaḇlā	ܚܰܒܠܳܐ	NA
+2492	2487	Hebrew	khével, ḥéḇel	חֶבֶל	NA
+2493	2487	Ugaritic	ḥbl	𐎈𐎁𐎍	NA
+2494	2487	Old South Arabian	ḥbl	𐩢𐩨𐩡	NA
+2495	2487	Amharic	häbl	ሀብል	NA
+2496	2487	Ge'ez	ḥäbl	ሐብል	NA
+2497	2487	Tigre	ḥäbl	ሐብል	NA
+2498	2487	Tigrinya	ḥäbli	ሐብሊ	NA
+2499	2487	Soqotri	N/A	ḥábehol	NA
+2500	2500	Proto-Semitic	ḥalīb-	ḥalīb-	NA
+2501	2500	Akkadian	ḫilpu	𒄭𒅋𒁍	NA
+2502	2500	Maltese	ḥlīb	ħalib	NA
+2503	2500	Moroccan Arabic	ḥlīb	حليب	NA
+2504	2500	Classical Syriac	ħalbā	ܚܰܠܒܴ݁ܐ	NA
+2505	2500	Hebrew	khaláv, ḥālāḇ	חָלָב	NA
+2506	2500	Phoenician	ḥlb	𐤇𐤋𐤁	NA
+2507	2500	Ugaritic	ḥlb	𐎈𐎍𐎁	NA
+2508	2500	Amharic	malāb	ማለብ	NA
+2509	2500	Ge'ez	ḥälib	ሐሊብ	NA
+2510	2510	Proto-Semitic	ḥamaṣ́-	ḥamaṣ́-	NA
+2511	2510	Arabic	ḥamuḍa	حَمُضَ	NA
+2512	2510	Arabic	ḥamiḍa	حَمِضَ	NA
+2513	2510	Jewish Palestinian Aramaic	ḥămaʿ	חֲמַע	NA
+2514	2510	Christian Palestinian Aramaic	ḥămaʿ	ܚܡܰܥ	NA
+2515	2510	Jewish Literary Aramaic	ḥămaʿ	חֲמַע	NA
+2516	2510	Jewish Babylonian Aramaic	ḥămaṣ	חֳמַץ	NA
+2517	2510	Classical Syriac	ḥəmaʿ	ܚܡܰܥ	NA
+2518	2510	Classical Syriac	ḥəmaṣ	ܚܡܰܨ	NA
+2519	2510	Ugaritic	ḥmṣ	𐎈𐎎𐎕	NA
+2520	2520	Proto-Semitic	ḥamw-	ḥamw-	NA
+2521	2520	Akkadian	e-mu	𒂊𒈬	NA
+2522	2520	Eblaite	/⁠ˀà-mu-mu⁠/	𒂍𒈬𒈬	NA
+2523	2520	Arabic	ḥam	حَم	NA
+2524	2520	Aramaic	ḥəmā	חמא	NA
+2525	2520	Aramaic	ḥəmā	ܚܡܐ	NA
+2526	2520	Hebrew	ḥām	חָם	NA
+2527	2520	Hadrami	ḥm	𐩢𐩣	NA
+2528	2520	Mehri	ḥam	ḥaym	NA
+2529	2520	Soqotri	ḥäm	ḥam	NA
+2530	2520	Ge'ez	ḥäm	ሐም	NA
+2531	2520	Tigre	ḥäm	ሐም	NA
+2532	2520	Tigrinya	ḥämu	ሐሙ	NA
+2533	2533	Proto-Semitic	ḥamīṣ́-	ḥamīṣ́-	NA
+2534	2533	Akkadian	ḥămīʿ	emēṣu	NA
+2535	2533	Jewish Palestinian Aramaic	ḥămīʿ	חֲמִיע	NA
+2536	2533	Jewish Literary Aramaic	ḥammīʿā	חֲמִיע	NA
+2537	2533	Classical Syriac	ḥammīʿā	ܚܰܡܻܝܥܳܐ	NA
+2538	2533	Hebrew	khaméts, ḥāmēṣ	חָמֵץ	NA
+2539	2533	Hebrew	khamúts, ḥāmûṣ	חָמוּץ	NA
+2540	2540	Proto-Semitic	ḥamṣ́-	ḥamṣ́-	NA
+2541	2540	Akkadian	ḥamḍ	emṣu	NA
+2542	2540	Arabic	ḥamḍ	حَمْض	NA
+2543	2540	Ugaritic	ḥmṣ	𐎈𐎎𐎕	NA
+2544	2540	Egyptian	N/A	ḥmḏꜣ	NA
+2545	2545	Proto-Semitic	ḥamṯ-	ḥamṯ-	NA
+2546	2545	Akkadian	emšu, imšu	𒍨	NA
+2547	2545	Classical Mandaic	himṣa	ࡉࡌࡑࡀ	NA
+2548	2545	Classical Syriac	ḥumšā	ܚܘܽܡܫܳܐ	NA
+2549	2545	Hebrew	khomésh, ḥṓmeš	חֹמֶשׁ	NA
+2550	2545	Ugaritic	ḥmṯ	𐎈𐎎𐎘	NA
+2551	2545	Amharic	ʾəms	እምስ	NA
+2552	2545	Ge'ez	ḥəms	ሕምስ	NA
+2553	2545	Ge'ez	ḥəmś	ሕምሥ	NA
+2554	2545	Tigre	ḥəms	ሕምስ	NA
+2555	2545	Mehri	ḥamṯ	ḥamṯ	NA
+2556	2545	Harsusi	ḥamṯ	ḥamṯ	NA
+2557	2545	Shehri	ḥánt	ḥamṯ	NA
+2558	2545	Soqotri	N/A	ḥánt	NA
+2559	2559	Proto-Semitic	ḥapar-	ḥapar-	NA
+2560	2559	Akkadian	ḫepērum	𒄭𒉿𒊒𒌝	NA
+2561	2559	Arabic	ḥafara	حَفَرَ	NA
+2562	2559	Classical Syriac	ḥəp̄ar	ܚܦܰܪ	NA
+2563	2559	Hebrew	khafár, ḥāp̄ar	חָפַר	NA
+2564	2559	Amharic	ḳʷäffärä	ቈፈረ	NA
+2565	2559	Ge'ez	ḳäfärä	ቀፈረ	NA
+2566	2559	Old South Arabian	ḥfr	𐩢𐩰𐩧	NA
+2567	2559	Sebat Bet Gurage	ḳoffärä	ቆፈረ	NA
+2568	2559	Tigrinya	ḳʷäfärä	ቈፈረ	NA
+2569	2559	Mehri	ʿɔ́fɔ́r	ʿāfōr	NA
+2570	2559	Shehri	N/A	ʿɔ́fɔ́r	NA
+2571	2571	Proto-Semitic	ḥapaś-	ḥapaś-	NA
+2572	2571	Akkadian	epēšum	𒆕	NA
+2573	2571	Arabic	ḥafaša	حَفَشَ	NA
+2574	2571	Arabic	ḥafisa	حَفِسَ	NA
+2575	2571	Aramaic	ḥippūśīṯā	חִפּוּשִׂיתָא	NA
+2576	2571	Aramaic	ḥippūśīṯā	חִיפּוּשִׂיתָא	NA
+2577	2571	Aramaic	ḥippūśtā	חִיפּוּשְׂתָא	NA
+2578	2571	Aramaic	ḥippūśtā	חִפּוּשְׂתָא	NA
+2579	2571	Hebrew	khafás, ḥāp̄aś	חָפַשׂ	NA
+2580	2571	Hebrew	khipés, ḥippēś	חִפֵּשׂ	NA
+2581	2571	Ugaritic	ḥpš	𐎈𐎔𐎌	NA
+2582	2571	Egyptian	affäsä	ꜥpšꜣy	NA
+2583	2571	Amharic	affäsä	ኣፈሰ	NA
+2584	2571	Argobba	haffäsa	ሃፈሳ	NA
+2585	2571	Ge'ez	ḥäfäśä	ሐፈሠ	NA
+2586	2571	Harari	ḥafäsa	ሓፈሳ	NA
+2587	2571	Sebat Bet Gurage	afäsä	ኣፈሰ	NA
+2588	2571	Tigre	ḥafsa	ሓፍሳ	NA
+2589	2571	Tigrinya	ḥafäsä	ሓፈሰ	NA
+2590	2571	Tigrinya	ḥafäšä	ሓፈሸ	NA
+2591	2571	Alaba	hafas	hamfaššo	NA
+2592	2571	Saho	ḥfɔś	hafas	NA
+2593	2571	Shehri	N/A	ḥfɔś	NA
+2594	2594	Proto-Semitic	ḥapr-	ḥapr-	NA
+2595	2594	Akkadian	uppum, ḫuppum	𒇥	NA
+2596	2594	Arabic	ḥafr	حَفْر	NA
+2597	2594	Classical Syriac	ḥəp̄arā	ܚܦܳܪܳܐ	NA
+2598	2594	Classical Syriac	ḥep̄rā	ܚܶܦܪܳܐ	NA
+2599	2594	Ge'ez	ḳäfär	ቀፈር	NA
+2600	2594	Ge'ez	ḳəfr	ቅፍር	NA
+2601	2601	Proto-Semitic	ḥaraṯ-	ḥaraṯ-	NA
+2602	2601	Akkadian	erēšum	𒀳	NA
+2603	2601	Egyptian Arabic	ḥarat	حرت	NA
+2604	2601	Maltese	kharásh, ḥāraš	ħarat	NA
+2605	2601	Hebrew	kharásh, ḥāraš	חָרַשׁ	NA
+2606	2601	Phoenician	ḥrš	𐤇𐤓𐤔	NA
+2607	2601	Ugaritic	ḥrṯ	𐎈𐎗𐎘	NA
+2608	2601	Old South Arabian	mḥrṯt	𐩣𐩢𐩧𐩻𐩩	NA
+2609	2601	Amharic	ʾarräsä	አረሰ	NA
+2610	2610	Proto-Semitic	ḥarb-	ḥarb-	NA
+2611	2610	Akkadian	ḫarbum	𒄑𒀳𒌆𒆥	NA
+2612	2610	Arabic	ḥarba	حَرْبَة	NA
+2613	2610	Egyptian Arabic	ḥarb	حرب	NA
+2614	2610	Gulf Arabic	ḥarb	حرب	NA
+2615	2610	Maltese	harb	ħarb	NA
+2616	2610	Persian	harb	حرب	NA
+2617	2610	Amharic	ʾärbäñña	አርበኛ	NA
+2618	2610	Imperial Aramaic	ḥrb	𐡇𐡓𐡁	NA
+2619	2610	Christian Palestinian Aramaic	ḥarbā	ܚܪܒ	NA
+2620	2610	Classical Syriac	ḥarbā	ܚܰܪܒ݂ܴܿܐ	NA
+2621	2610	Jewish Babylonian Aramaic	ḥarbā	חַרְבׇּא	NA
+2622	2610	Jewish Palestinian Aramaic	khérev, ḥéreḇ	חַרְבׇּא	NA
+2623	2610	Hebrew	khérev, ḥéreḇ	חֶרֶב	NA
+2624	2610	Ugaritic	ḥrb	𐎈𐎗𐎁	NA
+2625	2610	Old South Arabian	ḥrbt	𐩢𐩧𐩨𐩩	NA
+2626	2610	Ancient Greek	hárpē	ἅρπη	NA
+2627	2610	Egyptian	N/A	ḥjrꜣpw	NA
+2628	2628	Proto-Semitic	ḥargil-	ḥargil-	NA
+2629	2628	Sumerian	buru₅ir-gi-lum	𒉅𒅕𒄀𒈝	NA
+2630	2628	Eblaite	ir-gi-lum	𒅕𒄀𒈝	NA
+2631	2628	Arabic	ḥarjal	حَرْجَل	NA
+2632	2628	Assyrian Neo-Aramaic	ḥargul	ܚܲܪܓܘܼܠ	NA
+2633	2628	Old Armenian	xaragul	խարագուլ	NA
+2634	2628	Jewish Literary Aramaic	ḥargəlā	חַרְגְּלָא	NA
+2635	2628	Jewish Literary Aramaic	ḥargōlā	חַרְגֹּלָא	NA
+2636	2628	Hebrew	khargól, ḥargôl	חַרְגּוֹל	NA
+2637	2628	Sabaean	ʿrgl	𐩲𐩧𐩴𐩡	NA
+2638	2638	Proto-Semitic	ḥaḳl-	ḥaḳl-	NA
+2639	2638	Akkadian	eqlum	𒀀𒊮	NA
+2640	2638	Hijazi Arabic	ḥagil, ḥaqil	حَقِل	NA
+2641	2638	Classical Syriac	ḥaqlā	ܚܰܩܠܳܐ	NA
+2642	2638	Old South Arabian	ḥql	𐩢𐩤𐩡	NA
+2643	2638	Ge'ez	ḥäḳl	ሐቅል	NA
+2644	2644	Proto-Semitic	ḥaṣ́ad-	ḥaṣ́ad-	NA
+2645	2644	Akkadian	eṣēdum	𒊺𒆥𒋻	NA
+2646	2644	Arabic	ḵaḍada	خَضَدَ	NA
+2647	2644	Imperial Aramaic	ḥṣd	𐡇𐡑𐡃	NA
+2648	2644	Palmyrene Aramaic	ḥṣd	𐡧𐡲𐡣	NA
+2649	2644	Jewish Palestinian Aramaic	ḥṣeḏ	חְצֵד	NA
+2650	2644	Classical Syriac	ḥṣeḏ	ܚܨܶܕ	NA
+2651	2644	Jewish Babylonian Aramaic	ḥăṣaḏ	חֲצַד	NA
+2652	2644	Arabic	ḥaṣada	حَصَدَ	NA
+2653	2644	Hebrew	katsár, qāṣar	קָצַר	NA
+2654	2644	Hebrew	ʿäč̣č̣ädä	*qaṣar-	NA
+2655	2644	Amharic	ʿäč̣č̣ädä	ዐጨደ	NA
+2656	2644	Ge'ez	ʿäṣ́ädä	ዐፀደ	NA
+2657	2644	Tigrinya	ʿaṣädä	ዓጸደ	NA
+2658	2658	Proto-Semitic	ḥdṯ-	ḥdṯ-	NA
+2659	2658	Akkadian	edēšum	𒂊𒁲𒋗𒌝	NA
+2660	2658	Arabic	ḥaduṯa	حَدُثَ	NA
+2661	2658	Assyrian Neo-Aramaic	ḥaddit	ܚܲܕܸܬ	NA
+2662	2658	Hebrew	khidésh, ḥiddēš	חִדֵּשׁ	NA
+2663	2658	Phoenician	ḥdš	𐤇𐤃𐤔	NA
+2664	2658	Ugaritic	ḥdṯ	𐎈𐎄𐎘	NA
+2665	2658	Amharic	ʾädäsä	አደሰ	NA
+2666	2658	Ge'ez	hedase	ሄዳሴ	NA
+2667	2658	Tigrinya	ʾaḥadäsä	ኣሓደሰ	NA
+2668	2668	Proto-Semitic	ḥimār-	ḥimār-	NA
+2669	2668	Akkadian	imērum	𒀲	NA
+2670	2668	Egyptian Arabic	ḥumār, ḥmār	حمار	NA
+2671	2668	Gulf Arabic	ḥmār	حمار	NA
+2672	2668	Hijazi Arabic	ḥumār	حُمار	NA
+2673	2668	Maltese	ḥmār	ħmar	NA
+2674	2668	Moroccan Arabic	ḥmār	حمار	NA
+2675	2668	North Levantine Arabic	ḥmār	حمار	NA
+2676	2668	Malay	ḥmārā	himar	NA
+2677	2668	Ottoman Turkish	ḥmārā	حمار	NA
+2678	2668	Imperial Aramaic	ḥmārā	𐡇𐡌𐡓	NA
+2679	2668	Aramaic	ḥmārā	חְמָרָא	NA
+2680	2668	Syriac	ḥmārā, ḥemrā	ܚܡܳܪܳܐ	NA
+2681	2668	Hebrew	khamór, ḥămôr	חֲמוֹר	NA
+2682	2668	Ugaritic	ḥmr	𐎈𐎎𐎗	NA
+2683	2668	Sabaean	ḥmr	𐩢𐩣𐩧	NA
+2684	2668	Minaean	ḥmr	𐩢𐩣𐩧	NA
+2685	2685	Proto-Semitic	ḥāmiṣ́-	ḥāmiṣ́-	NA
+2686	2685	Arabic	ḥāmiḍ	حَامِض	NA
+2687	2685	Jewish Literary Aramaic	ḥūməʿā	חוּמְעָא	NA
+2688	2685	Hebrew	khómets, ḥṓmeṣ	חֹמֶץ	NA
+2689	2689	Proto-Semitic	ḫalap-	ḫalap-	NA
+2690	2689	Akkadian	ḫalāpum	𒁽	NA
+2691	2689	Arabic	ḵalafa	خَلَفَ	NA
+2692	2689	Classical Syriac	ḥlap̄	ܚܠܰܦ	NA
+2693	2689	Hebrew	khaláf, ḥālap̄	חָלַף	NA
+2694	2689	Ge'ez	ḫäläfä	ኀለፈ	NA
+2695	2695	Proto-Semitic	ḫamš-	ḫamš-	NA
+2696	2695	Akkadian	ḫamšat	𒐊	NA
+2697	2695	Egyptian Arabic	ḵamsa	خمسة	NA
+2698	2695	Gulf Arabic	ḵamsa	خمسة	NA
+2699	2695	Maltese	ḵamsa	ħamsa	NA
+2700	2695	Moroccan Arabic	ḵamsa	خمسة	NA
+2701	2695	Azerbaijani	khámsa	xəmsə	NA
+2702	2695	Ottoman Turkish	ḫamse	خمسه	NA
+2703	2695	Persian	xamse	خمسه	NA
+2704	2695	Urdu	xamsa	خمسہ	NA
+2705	2695	Uzbek	ẖms¹	xamsa	NA
+2706	2695	Dadanitic	ẖms¹	𐪍𐪃𐪊	NA
+2707	2695	Safaitic	ẖms¹	𐪍𐪃𐪊	NA
+2708	2695	Safaitic	ẖms¹t	𐪍𐪃𐪊𐪉	NA
+2709	2695	Aramaic	ḥāmēš	חָמֵשׁ	NA
+2710	2695	Aramaic	ḥamša	ܚܡܫܐ	NA
+2711	2695	Aramaic	ḥammeš	ܚܡܫ	NA
+2712	2695	Israeli Hebrew	khamishá	חֲמִישָּׁה	NA
+2713	2695	Israeli Hebrew	khamésh	חָמֵשׁ	NA
+2714	2695	Phoenician	ḥmšt	𐤇𐤌𐤔𐤕	NA
+2715	2695	Ugaritic	ḫmšt	𐎃𐎎𐎌𐎚	NA
+2716	2695	Ge'ez	ḫämsətu	ኀምስቱ	NA
+2717	2695	Ge'ez	ḫäms	ኀምስ	NA
+2718	2695	Tigre	ḥäms	ሐምስ	NA
+2719	2695	Tigrinya	ḥammuštä	ሓሙሽተ	NA
+2720	2695	Amharic	ʾämsət	አምስት	NA
+2721	2721	Proto-Semitic	ḫapar-	ḫapar-	NA
+2722	2721	Akkadian	apārum, ḫapārum	𒀀𒉺𒊒	NA
+2723	2721	Arabic	ḵafar	خَفَر	NA
+2724	2721	Arabic	ḫäfärä	guard	NA
+2725	2721	Ge'ez	ḫäfärä	ኀፈረ	NA
+2726	2721	Ge'ez	Proto-Semitic/ḫapar-	protect	NA
+2727	2721	Ge'ez	Proto-Semitic/ḫapar-	defend	NA
+2728	2728	Proto-Semitic	ḫatan-	ḫatan-	NA
+2729	2728	Akkadian	/⁠ḫatānu⁠/	𒄩𒋫𒉡	NA
+2730	2728	Akkadian	/⁠ḫatnu⁠/	𒄩𒀜𒉡	NA
+2731	2728	Arabic	ḵatan	خَتَن	NA
+2732	2728	Aramaic	ḥaṯnā	חתנה	NA
+2733	2728	Aramaic	ḥaṯnā	חַתְנָא	NA
+2734	2728	Aramaic	ḥaṯnā	ܚܲܬܼܢܵܐ	NA
+2735	2728	Hebrew	ḫātān	חָתָן	NA
+2736	2728	Ugaritic	ḫtn	𐎃𐎚𐎐	NA
+2737	2728	Hadrami	ḫtn	𐩭𐩩𐩬	NA
+2738	2728	Sabaean	ḫtn	𐩭𐩩𐩬	NA
+2739	2739	Proto-Semitic	ḳ-r-ʔ	ḳ-r-ʔ	NA
+2740	2739	Akkadian	qarā'um	𒂵𒊏𒌝	NA
+2741	2739	Akkadian	qerûm	𒆠𒊒𒌝	NA
+2742	2739	Eblaite	ga-la-um, ga-ra-um	𒂵𒆷𒌝, 𒂵𒊏𒌝	NA
+2743	2739	Eblaite	ga-ru₁₂-um	𒂵𒂗𒌝	NA
+2744	2739	Algerian Arabic	qrā	قرا	NA
+2745	2739	Egyptian Arabic	ʔara	قرا	NA
+2746	2739	Gulf Arabic	gira	قرا	NA
+2747	2739	Maltese	qrā	qara	NA
+2748	2739	Moroccan Arabic	qrā	قرا	NA
+2749	2739	Tunisian Arabic	qrā	قرا	NA
+2750	2739	South Levantine Arabic	ʔara	قرا	NA
+2751	2739	Classical Syriac	qərāʾ	ܩܪܳܐ	NA
+2752	2739	Hebrew	kará, qārāʾ	קָרָא	NA
+2753	2739	Kabyle	qrả	ɣer	NA
+2754	2739	Ugaritic	qrả	𐎖𐎗𐎀	NA
+2755	2755	Proto-Semitic	ḳaraṣ-	ḳaraṣ-	NA
+2756	2755	Akkadian	karāṣum, garāṣum, ḫarāṣum, qarāṣum	𒋺	NA
+2757	2755	Arabic	qaraṣa	قَرَصَ	NA
+2758	2755	Arabic	qaraḍa	pinch	NA
+2759	2755	Arabic	qaraḍa	قَرَضَ	NA
+2760	2755	Arabic	qəraṣ	gnaw	NA
+2761	2755	Amharic	ḳäräṣä	ቀረጸ	NA
+2762	2755	Amharic	ḳäräṣä	incise	NA
+2763	2755	Ge'ez	ḳäräṣä	ቀረጸ	NA
+2764	2755	Ge'ez	ḳäräṣä	incise	NA
+2765	2755	Tigrinya	ḳäräṣä	ቀረጸ	NA
+2766	2755	Tigrinya	krcem	incise	NA
+2767	2755	Old Armenian	krcem	կրծեմ	NA
+2768	2755	Old Armenian	N/A	gnaw	NA
+2769	2769	Proto-Semitic	ḳarib-	ḳarib-	NA
+2770	2769	Akkadian	/⁠qarābum, qerēbum⁠/	𒆪𒉡	NA
+2771	2769	Hijazi Arabic	garrab	قرب	NA
+2772	2769	Maltese	qəraḇ	qrib	NA
+2773	2769	Imperial Aramaic	qəraḇ	𐡒𐡓𐡁	NA
+2774	2769	Palmyrene Aramaic	qəraḇ	𐡳𐡴𐡡	NA
+2775	2769	Hatran Aramaic	qəraḇ	𐣲𐣡𐣣	NA
+2776	2769	Biblical Aramaic, Jewish Palestinian Aramaic, Jewish Literary Aramaic, Jewish Babylonian Aramaic	qərēḇ	קְרֵב	NA
+2777	2769	Nabataean Aramaic	qəraḇ	𐢚𐢛𐢂	NA
+2778	2769	Classical Syriac	qəreḇ	ܩܪܶܒ	NA
+2779	2769	Classical Mandaic	karáv, qāraḇ	ࡒࡓࡁ	NA
+2780	2769	Hebrew	karáv, qāraḇ	קָרַב	NA
+2781	2769	Phoenician	qrb	𐤒𐤓𐤁	NA
+2782	2769	Ugaritic	qrb	𐎖𐎗𐎁	NA
+2783	2769	Old South Arabian	qrb	𐩤𐩧𐩨	NA
+2784	2769	Amharic	ḳärräbä	ቀረበ	NA
+2785	2769	Argobba	ḳärräba	ቀረባ	NA
+2786	2769	Ge'ez	ḳäräbä, ḳärbä	ቀረበ	NA
+2787	2769	Ge'ez	ḳäräbä, ḳärbä	ቀርበ	NA
+2788	2769	Gurage	ḳäräbä	ቀረበ	NA
+2789	2769	Harari	ḳäräba	ቀረባ	NA
+2790	2769	Tigre	ḳärba	ቀርባ	NA
+2791	2769	Tigrinya	ḳäräbä	ቀረበ	NA
+2792	2792	Proto-Semitic	ḳarn-	ḳarn-	NA
+2793	2792	Akkadian	qarnum	𒋛	NA
+2794	2792	Arabic	qarn	قَرْن	NA
+2795	2792	Classical Syriac	qəren	ܩܪܶܢ	NA
+2796	2792	Classical Syriac	qarnā	ܩܰܰܪܢܳܐ	NA
+2797	2792	Hebrew	kéren, qéren	קֶרֶן	NA
+2798	2792	Phoenician	qrn	𐤒𐤓𐤍	NA
+2799	2792	Ugaritic	qrn	𐎖𐎗𐎐	NA
+2800	2792	Tigrinya	ḳärni	ቀርኒ	NA
+2801	2801	Proto-Semitic	ḳarḳar-	ḳarḳar-	NA
+2802	2801	Akkadian	qaqqarum	𒆠	NA
+2803	2801	Arabic	qarqar	قَرْقَر	NA
+2804	2801	Jewish Palestinian Aramaic	ḳrḳʿ	קרקע	NA
+2805	2801	Jewish Babylonian Aramaic	ḳarḳəʿā	קַרְקְעָא	NA
+2806	2801	Hebrew	karká', qarqaʿ	קַרְקַע	NA
+2807	2801	Soqotri	N/A	ḳárḳahar	NA
+2808	2808	Proto-Semitic	ḳudš-	ḳudš-	NA
+2809	2808	Maltese	qaddīš	qaddis	NA
+2810	2808	Classical Syriac	qaddīš	ܩܰܕܻ݁ܝܫ	NA
+2811	2808	Hebrew	kadósh, qāḏôš	קָדוֹשׁ	NA
+2812	2808	Ugaritic	qdš	𐎖𐎄𐎌	NA
+2813	2808	Ge'ez	ḳədus	ቅዱስ	NA
+2814	2814	Proto-Semitic	ṣaɣir-	ṣaɣir-	NA
+2815	2814	Akkadian	ṣeḫrum	𒌉	NA
+2816	2814	Maltese	zəʿōrāʾ	żgħir	NA
+2817	2814	Assyrian Neo-Aramaic	zʿora	ܙܥܘܿܪܵܐ	NA
+2818	2814	Classical Syriac	zəʿōrāʾ	ܙܥܘܿܪܵܐ	NA
+2819	2814	Hebrew	tza'ír, ṣāʿīr	צָעִיר	NA
+2820	2814	Ugaritic	ṣġr	𐎕𐎙𐎗	NA
+2821	2821	Proto-Semitic	ṣ́abuʕ-	ṣ́abuʕ-	NA
+2822	2821	Akkadian	būṣum	𒁍𒍮	NA
+2823	2821	Hijazi Arabic	ḍabʕ	ضبع	NA
+2824	2821	Moroccan Arabic	ḍbaʕ	ضبع	NA
+2825	2821	Classical Syriac	ʾap̄ʿā	ܐܰܦܥܳܐ	NA
+2826	2821	Hebrew	tsabó'a, ṣāḇôʿa	צָבוֹעַ	NA
+2827	2821	Ge'ez	ṣ́əʿb	ፅዕብ	NA
+2828	2821	Soqotri	N/A	ḍabʿ	NA
+2829	2829	Proto-Semitic	ṣ́arrat-	ṣ́arrat-	NA
+2830	2829	Akkadian	ṣerretum	𒁮𒋰𒁀	NA
+2831	2829	Arabic	ḍarra	ضَرَّة	NA
+2832	2829	Aramaic	ʿarrəṯā	עָרְּתַה	NA
+2833	2829	Aramaic	ʿarrəṯā	ܥܰܪ݁ܬܳܐ	NA
+2834	2829	Hebrew	tsará, ṣārâ	צָרָה	NA
+2835	2829	Phoenician	ṣrt	𐤑𐤓𐤕	NA
+2836	2836	Proto-Semitic	ṣ́aʔn-	ṣ́aʔn-	NA
+2837	2836	Akkadian	ṣēnum	𒇇𒇻𒄭𒀀	NA
+2838	2836	Arabic	ḍaʔn	ضَأْن	NA
+2839	2836	Aramaic	ʿānā	עָנָא	NA
+2840	2836	Aramaic	ʿānā	ܥܳܢܳܐ	NA
+2841	2836	Hebrew	tsón, ṣōʾn	צֹאן	NA
+2842	2836	Ugaritic	ṣỉn	𐎕𐎛𐎐	NA
+2843	2836	Old South Arabian	ẓʾn	𐩼𐩱𐩬	NA
+2844	2836	Amharic	ḥəṣ́an	ሕፃን	NA
+2845	2836	Ge'ez	ḥəṣ́an	ሕፃን	NA
+2846	2836	Tigrinya	ḥəṣ́an	ሕፃን	NA
+2847	2847	Proto-Semitic	ṭaḥan-	ṭaḥan-	NA
+2848	2847	Akkadian	ṭênum	𒄯	NA
+2849	2847	Arabic	ṭaḥana	طَحَنَ	NA
+2850	2847	Classical Syriac	təḥen	ܛܚܶܢ	NA
+2851	2847	Hebrew	takhán, ṭāḥan	טָחַן	NA
+2852	2847	Ugaritic	ṭḥn	𐎉𐎈𐎐	NA
+2853	2847	Ge'ez	ṭäḥänä	ጠሐነ	NA
+2854	2847	Harari	ṭäḥana	ጠሓና	NA
+2855	2847	Old South Arabian	ṭḥn	𐩷𐩢𐩬	NA
+2856	2847	Tigrinya	ṭäḥanä	ጠሓነ	NA
+2857	2857	Proto-Semitic	ṭiḥāl-	ṭiḥāl-	NA
+2858	2857	Akkadian	ṭulimum, tulimum	𒌅𒇷𒈬	NA
+2859	2857	Eblaite	ti-ʾá-mu / ti-aḫ-mu	𒋾𒄴𒈬	NA
+2860	2857	Arabic	ṭiḥāl	طِحَال	NA
+2861	2857	Aramaic	ṭəḥālā	טְחָלָא	NA
+2862	2857	Aramaic	ṭəḥālā	ܛܚܳܠܳܐ	NA
+2863	2857	Hebrew	t'khól, təḥôl	טְחוֹל	NA
+2864	2857	Ugaritic	ṭḥl	𐎉𐎈𐎍	NA
+2865	2865	Proto-Semitic	ṭāb-	ṭāb-	NA
+2866	2865	Akkadian	ṭābum	𒄭	NA
+2867	2865	Gulf Arabic	ṭābā	طيب	NA
+2868	2865	Classical Syriac	ṭābā	ܛܳܒܴ݁ܐ	NA
+2869	2865	Hebrew	tov, ṭôḇ	טוֹב	NA
+2870	2865	Ugaritic	ṭb	𐎉𐎁	NA
+2871	2865	Old South Arabian	ṭyb	𐩷𐩺𐩨	NA
+2872	2872	Proto-Semitic	ṭīn-	ṭīn-	NA
+2873	2872	Akkadian	ṭīdum	𒅎	NA
+2874	2872	Arabic	ṭīn	طِين	NA
+2875	2872	Israeli Hebrew	tín	טִין	NA
+2876	2872	Biblical Hebrew	tit, ṭîṭ	טִיט	NA
+2877	2872	Tigrinya	ṭäyän	ጠየን	NA
+2878	2872	Mehri	ṭun	ṭayn	NA
+2879	2872	Shehri	N/A	ṭun	NA
+2880	2880	Proto-Semitic	ṯabar-	ṯabar-	NA
+2881	2880	Akkadian	šebērum, šabārum	𒋻	NA
+2882	2880	Arabic	ṯabara	ثَبَرَ	NA
+2883	2880	Old Aramaic	təḇar	𐤕𐤁𐤓	NA
+2884	2880	Imperial Aramaic	təḇar	𐡕𐡁𐡓	NA
+2885	2880	Jewish Palestinian Aramaic, Jewish Literary Aramaic, Jewish Babylonian Aramaic	təḇar	תְבַר	NA
+2886	2880	Classical Syriac	təḇar	ܬܒܰܪ	NA
+2887	2880	Hebrew	shavár, šāḇar	שָׁבַר	NA
+2888	2880	Phoenician	šbr	𐤔𐤁𐤓	NA
+2889	2880	Ugaritic	ṯbr	𐎘𐎁𐎗	NA
+2890	2880	Old South Arabian	ṯbr	𐩻𐩨𐩧	NA
+2891	2880	Amharic	säbbärä	ሰበረ	NA
+2892	2880	Argobba	säbbära	ሰበራ	NA
+2893	2880	Ge'ez	säbärä	ሰበረ	NA
+2894	2880	Gurage	säbärä	ሰበረ	NA
+2895	2880	Harari	säbära	ሰበራ	NA
+2896	2880	Tigre	säbra	ሰብራ	NA
+2897	2880	Tigrinya	säbärä	ሰበረ	NA
+2898	2880	Mehri	tóbir	توبر	NA
+2899	2880	Soqotri	N/A	tóbir	NA
+2900	2900	Proto-Semitic	ṯalg-	ṯalg-	NA
+2901	2900	Akkadian	šalgum	𒊭𒀠𒄖𒌝	NA
+2902	2900	Egyptian Arabic	talg	تلج	NA
+2903	2900	Gulf Arabic	ṯalj	ثلج	NA
+2904	2900	Hijazi Arabic	talj	ثلج	NA
+2905	2900	Maltese	talj	silġ	NA
+2906	2900	Moroccan Arabic	talj	تلج	NA
+2907	2900	Dongolawi	salji	tɛlığ	NA
+2908	2900	Indonesian	salju	salju	NA
+2909	2900	Javanese	salju	ꦱꦭ꧀ꦗꦸ	NA
+2910	2900	Javanese	selc	salju	NA
+2911	2900	Turkish	salju	selc	NA
+2912	2900	Sundanese	salju	ᮞᮜ᮪ᮏᮥ	NA
+2913	2900	Swahili	talgā	theluji	NA
+2914	2900	Aramaic	talgā	תַּלְגָּא	NA
+2915	2900	Aramaic	talgā	ܬܱ݁ܠܓܳܐ	NA
+2916	2900	Hebrew	shéleg, šéleḡ	שֶׁלֶג	NA
+2917	2900	Ugaritic	glṯ	𐎂𐎍𐎘	NA
+2918	2900	Egyptian	sꜣrꜣqw		NA
+2919	2900	Egyptian	N/A	sꜣrꜣqw	NA
+2920	2920	Proto-Semitic	ṯalāṯ-	ṯalāṯ-	NA
+2921	2921	Proto-Semitic	ṯamāniy-	ṯamāniy-	NA
+2922	2921	Akkadian	samānat	𒐍	NA
+2923	2921	Egyptian Arabic	tamanya	تمانية	NA
+2924	2921	Maltese	tmanya	tmienja	NA
+2925	2921	Moroccan Arabic	tmanya	تمنية	NA
+2926	2921	South Levantine Arabic	tamanye	تمانية	NA
+2927	2921	Hebrew	sh'moná, šəmônâ	שְׁמוֹנָה	NA
+2928	2921	Hebrew	sh'moné, šəmônɛ̂	שְׁמוֹנֶה	NA
+2929	2921	Phoenician	šmn	𐤔𐤌𐤍	NA
+2930	2921	Ugaritic	ṯmnt	𐎘𐎎𐎐𐎚	NA
+2931	2921	Amharic	səmmənt	ስምንት	NA
+2932	2921	Ge'ez	sämantu	ሰማንቱ	NA
+2933	2921	Ge'ez	sämani	ሰማኒ	NA
+2934	2921	Tigrinya	šämmontä	ሸሞንተ	NA
+2935	2921	Tigre	samān	ሰማን	NA
+2936	2936	Proto-Semitic	ṯawr-	ṯawr-	NA
+2937	2936	Akkadian	šūrum	𒋗𒌑𒊒	NA
+2938	2936	Eblaite	GU4.TUR	𒄞𒌉	NA
+2939	2936	Egyptian Arabic	tōr	تور	NA
+2940	2936	Gulf Arabic	ṯōr	ثور	NA
+2941	2936	Hijazi Arabic	tōr, ṯōr	ثور	NA
+2942	2936	South Levantine Arabic	tōr	تور	NA
+2943	2936	Moroccan Arabic	tūr, tawr	تور	NA
+2944	2936	Azerbaijani	Sövr	sövr	NA
+2945	2936	Azerbaijani	savr	Sövr	NA
+2946	2936	Uzbek	Savr	savr	NA
+2947	2936	Uzbek	sowr	Savr	NA
+2948	2936	Persian	sowr	ثور	NA
+2949	2936	Persian	tâvel	تاول	NA
+2950	2936	Hebrew	shor, šôr	שׁוֹר	NA
+2951	2936	Punic	šr	𐤔𐤓	NA
+2952	2936	Ugaritic	ṯr	𐎘𐎗	NA
+2953	2936	Minaean	ṯwr		NA
+2954	2936	Minaean	ṯwr		NA
+2955	2936	Minaean	ṯwr		NA
+2956	2936	Minaean	ṯwr	𐩻𐩥𐩧	NA
+2957	2936	Qatabanian	ṯwr		NA
+2958	2936	Qatabanian	ṯwr		NA
+2959	2936	Qatabanian	ṯwr		NA
+2960	2936	Qatabanian	ṯwr	𐩻𐩥𐩧	NA
+2961	2936	Sabaean	ṯwr		NA
+2962	2936	Sabaean	ṯwr		NA
+2963	2936	Sabaean	ṯwr		NA
+2964	2936	Sabaean	ṯwr	𐩻𐩥𐩧	NA
+2965	2936	Sabaean	ṯr		NA
+2966	2936	Sabaean	ṯr		NA
+2967	2936	Sabaean	ṯr	𐩻𐩧	NA
+2968	2936	Ge'ez	sor	ሶር	NA
+2969	2936	Tigrinya	sor	ሶር	NA
+2970	2936	Tigre	sor	ሶር	NA
+2971	2971	Proto-Semitic	ṯaʕlab-	ṯaʕlab-	NA
+2972	2971	Akkadian	šēlebum	𒈜	NA
+2973	2971	Egyptian Arabic	táʕlab	تعلب	NA
+2974	2971	Gulf Arabic	ṯaʕlab	ثعلب	NA
+2975	2971	Hijazi Arabic	taʕlab, ṯaʕlab	ثعلب	NA
+2976	2971	South Levantine Arabic	táʕlab	تعلب	NA
+2977	2971	Yemeni Arabic	ṯaʕal	ثَعَلْ	NA
+2978	2971	Aramaic	taʿal	תַּעַל	NA
+2979	2971	Aramaic	taʿălāʾ	תַּעֲלָא	NA
+2980	2971	Aramaic	təʿel	ܬ݁ܥܶܠ	NA
+2981	2971	Aramaic	taʿlāʾ	ܬܱ݁ܥܠܳܐ	NA
+2982	2971	Hebrew	shu'ál, šûʿāl	שׁוּעָל	NA
+2983	2971	Ugaritic	ṯʿlb	𐎘𐎓𐎍𐎁	NA
+2984	2984	Proto-Semitic	ṯin-	ṯin-	NA
+2985	2984	Akkadian	šinā	𒈫	NA
+2986	2984	Arabic	iṯnāni	اِثْنَانِ	NA
+2987	2984	Aramaic	tərayin	תְּרַיִן	NA
+2988	2984	Aramaic	tərēn	תְּרֵין	NA
+2989	2984	Hebrew	sh'náyim, šənáyim	שְׁנַיִם	NA
+2990	2984	Phoenician	‎šnm	‎𐤔𐤍𐤌	NA
+2991	2984	Phoenician	ʾ‎šnm	𐤀‎𐤔𐤍𐤌	NA
+2992	2984	Ugaritic	ṯn	𐎘𐎐	NA
+2993	2984	Hadrami	s₃nym	𐩯𐩬𐩺𐩣	NA
+2994	2984	Bathari	ṯroh	ṯeroh	NA
+2995	2984	Mehri	ṯruh	ṯroh	NA
+2996	2984	Harsusi	iṯroh	ṯruh	NA
+2997	2984	Hobyót	*ṯin-ā ~ *(i)ṯn-ā	iṯroh	NA
+2998	2984	Aramaic	tərē	תְּרֵי	NA
+2999	2984	Hebrew	sh'né, šənê	שְׁנֵי	NA
+3000	2984	Akkadian	šittā	𒈫	NA
+3001	2984	Arabic	ṯintāni	ثِنْتَانِ	NA
+3002	2984	Arabic	iṯnatāni	اِثْنَتَانِ	NA
+3003	2984	Aramaic	tartayin	תַּרְתֵּיִן	NA
+3004	2984	Aramaic	tartēn	תַּרְתֵּין	NA
+3005	2984	Hebrew	shtáyim, štáyim	שְׁתַּיִם	NA
+3006	2984	Ugaritic	ṯt	𐎘𐎚	NA
+3007	2984	Bathari	ṯart	ṯerēt	NA
+3008	2984	Harsusi	iṯrīt	ṯart	NA
+3009	2984	Hobyót	ṯrayt	iṯrīt	NA
+3010	2984	Mehri	*ṯin-t-ā ~ *(i)ṯn-at-ā	ṯrayt	NA
+3011	2984	Arabic	ṯintā	ثِنْتَا	NA
+3012	2984	Arabic	iṯnatā	اِثْنَتَا	NA
+3013	2984	Hebrew	shté, štê	שְׁתֵּי	NA
+3014	2984	Old South Arabian	ṯny		NA
+3015	2984	Old South Arabian	ṯny		NA
+3016	2984	Old South Arabian	ṯny		NA
+3017	2984	Old South Arabian	ṯny	𐩻𐩬𐩺	NA
+3018	2984	Eblaite	N/A	šina	NA
+3019	3019	Proto-Semitic	ṯūm-	ṯūm-	NA
+3020	3019	Akkadian	šūmū	𒋧	NA
+3021	3019	Andalusian Arabic	ṯawm	ثَوْم	NA
+3022	3019	Egyptian Arabic	tōm	توم	NA
+3023	3019	Hijazi Arabic	tūm	ثوم	NA
+3024	3019	Maltese	tawm, tūm	tewm	NA
+3025	3019	Moroccan Arabic	tawm, tūm	توم	NA
+3026	3019	Sudanese Arabic	tōm	توم	NA
+3027	3019	Yemeni Arabic	ṯawm	ثَوْم	NA
+3028	3019	Swahili	tūmā	saumu	NA
+3029	3019	Jewish Babylonian Aramaic	tūmā	תּוּמָא	NA
+3030	3019	Classical Syriac	tūmā	ܬܘܽܡܳܐ	NA
+3031	3019	Hebrew	shum, šûm	שׁוּם	NA
+3032	3019	Ge'ez	sum	ሱም	NA
+3033	3033	Proto-Semitic	ṯ̣ill-	ṯ̣ill-	NA
+3034	3033	Akkadian	ṣillum	𒄑𒈪	NA
+3035	3033	Gulf Arabic	ḏ̣iḷ	ظل	NA
+3036	3033	Hijazi Arabic	ḍill, ẓill	ظل	NA
+3037	3033	Maltese	ṭullā/ṭillā	dell	NA
+3038	3033	Aramaic	ṭullā/ṭillā	טוּלָּא	NA
+3039	3033	Aramaic	ṭullā/ṭillā	טִלָּא	NA
+3040	3033	Aramaic	ṭillālā	טִלָּלָא	NA
+3041	3033	Aramaic	ṭellālā	ܛܶܠܴ݁ܠܳܐ	NA
+3042	3033	Hebrew	tsél, ṣēl	צֵל	NA
+3043	3033	Ugaritic	ẓll	𐎑𐎍𐎍	NA
+3044	3033	Amharic	ṭəla	ጥላ	NA
+3045	3033	Ge'ez	ṣəlalot	ጽላሎት	NA
+3046	3033	Tigrinya	ṣəlalot	ጽላሎት	NA
+3047	3047	Proto-Semitic	ṯ̣upr-	ṯ̣upr-	NA
+3048	3047	Akkadian	ṣuprum	𒌢	NA
+3049	3047	Egyptian Arabic	ḍufr	ضفر	NA
+3050	3047	Gulf Arabic	ḏ̣ifir	ظفر	NA
+3051	3047	Hijazi Arabic	ḍifir, ḏ̣ifir	ظفر	NA
+3052	3047	Maltese	ṭuprā	difer	NA
+3053	3047	Classical Syriac	ṭeprā	ܛܶܦ݂ܪܳܐ	NA
+3054	3047	Israeli Hebrew	tófer, ṭṓfer	טֹפֶר	NA
+3055	3047	Hebrew	tsippóren, ṣippṓren	צִפֹּרֶן	NA
+3056	3047	Amharic	ṭəfər	ጥፍር	NA
+3057	3047	Ge'ez	ṣəfr	ጽፍር	NA
+3058	3047	Sebat Bet Gurage	ṭəfər	ጥፍር	NA
+3059	3047	Tigrinya	ṣəfri	ጽፍሪ	NA
+3060	3047	Tigre	ṣəfər	ጽፍር	NA
+3061	3047	Mehri	śɛ́fər	ḏ̣éfɛ́r	NA
+3062	3047	Shehri	ɛśpɔ́r	śɛ́fər	NA
+3063	3047	Shehri	ṭifer	ɛśpɔ́r	NA
+3064	3064	Proto-Semitic	ṯ̣urr-	ṯ̣urr-	NA
+3065	3064	Akkadian	ṣurrum	𒎎𒅗	NA
+3066	3064	Arabic	ẓurar	ظُرَر	NA
+3067	3064	Arabic	ẓirr	ظِرّ	NA
+3068	3064	Classical Syriac	ṭarrānā	ܛܲܪܵܢܵܐ	NA
+3069	3064	Hebrew	tsor, ṣōr	צֹר	NA
