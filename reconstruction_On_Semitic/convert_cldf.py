@@ -8,17 +8,42 @@ class Dataset(BaseDataset):
     def cldf_specs(self):
         return CLDFSpec(module='Wordlist', dir=self.cldf_dir)
 
+    def sanitize_id(self, id_string):
+        sanitized = (id_string.replace(' ', '_')
+                         .replace(',', '_')
+                         .replace('\'', '')
+                         .replace('ä', 'a')
+                         .replace('č', 'c')
+                         .replace('ə', 'e')
+                         .replace('ö', 'o')
+                         .replace('ü', 'u')
+                         .replace('ō', 'o')
+                         .replace('é', 'e')
+                         .replace('í', 'i')
+                         .replace('ý', 'y')
+                         .replace('Č', 'C')
+                         .replace('Ž', 'Z')
+                         .replace('Ə', 'E')
+                         .replace('Á', 'A')
+                         .replace('Ó', 'O')
+                         .replace('Ú', 'U')
+                         .replace('ó', 'o')
+                         .replace('Ä', 'A')
+                         .replace('Ž', 'Z')
+                         .replace('ž', 'z')  # Replace lowercase ž
+                         .replace('Š', 'S')
+                         .replace('__', '_'))  # Replace double underscores if any
+        return sanitized.strip('_')
+
     def cmd_makecldf(self, args):
         if args is None:
             args = self.make_args()
 
-        # Ensure the directory exists
         self.cldf_dir.mkdir(exist_ok=True)
 
         with CLDFWriter(self.cldf_specs(), dataset=self) as writer:
             args.writer = writer
 
-            # Add components only if they do not exist already
             if not writer.cldf.get('LanguageTable'):
                 writer.cldf.add_component('LanguageTable')
             if not writer.cldf.get('ParameterTable'):
@@ -28,37 +53,47 @@ class Dataset(BaseDataset):
             if not writer.cldf.get('CognateTable'):
                 writer.cldf.add_component('CognateTable')
 
-            # Read the TSV data
-            print("Reading TSV file...")
             tsv_file_path = self.raw_dir / 'proto_semitic_words.tsv'
             rows = list(self.raw_dir.read_csv(tsv_file_path, delimiter='\t', dicts=True))
 
-            # Create dictionaries to store unique languages and concepts
-            languages = {row['DOCULECT'].replace(' ', '_'): row['DOCULECT'] for row in rows}
-            concepts = {row['CONCEPT'] for row in rows}
+            languages = {}
+            concepts = {}
 
             # Add languages
-            print(f"Found {len(languages)} languages.")
-            for key, value in languages.items():
-                print(f"Adding language: {key}, {value}")
-                writer.objects['LanguageTable'].append({"ID": key, "Name": value})
+            for row in rows:
+                lang_id = self.sanitize_id(row['DOCULECT'])
+                if not lang_id:
+                    continue  # Skip if ID is missing
+                if lang_id not in languages:
+                    languages[lang_id] = row['DOCULECT']
+                    writer.objects['LanguageTable'].append({"ID": lang_id, "Name": row['DOCULECT']})
 
             # Add concepts (parameters)
-            print(f"Adding {len(concepts)} concepts.")
-            for concept in concepts:
-                writer.objects['ParameterTable'].append({"ID": concept, "Name": concept})
+            for row in rows:
+                concept_id = self.sanitize_id(row['CONCEPT'])
+                if not concept_id:
+                    continue  # Skip if ID is missing
+                if concept_id not in concepts:
+                    concepts[concept_id] = row['CONCEPT']
+                    writer.objects['ParameterTable'].append({"ID": concept_id, "Name": row['CONCEPT']})
 
             # Add forms and cognates
-            print("Adding forms and cognates...")
+            cognate_counter = 1
+            form_counter = 1
             for row in rows:
-                form_id = row['form_id']
-                language_id = row['DOCULECT'].replace(' ', '_')
-                concept_id = row['CONCEPT']
-                value = row['VALUE']
-                form = row['FORM']
-                cognate_id = row['COGID']
+                # Generate form ID
+                form_id = f"form_{form_counter}"
+                form_counter += 1
+                language_id = self.sanitize_id(row['DOCULECT'])
+                concept_id = self.sanitize_id(row['CONCEPT'])
+                value = row.get('VALUE')
+                form = row.get('FORM')
+                cognate_id = row.get('COGID')
 
-                print(f"Adding form: {form_id}, {language_id}, {concept_id}, {value}, {form}")
+                # Ensure necessary fields are present
+                if not concept_id or not language_id or not form:
+                    continue
+
                 writer.objects['FormTable'].append({
                     "ID": form_id,
                     "Language_ID": language_id,
@@ -67,18 +102,20 @@ class Dataset(BaseDataset):
                     "Form": form
                 })
 
-                print(f"Adding cognate: {form_id}, {cognate_id}")
+                # Generate cognate ID
+                cognate_entry_id = f"cognate_{cognate_counter}"
+                cognate_counter += 1
+
                 writer.objects['CognateTable'].append({
+                    "ID": cognate_entry_id,
                     "Form_ID": form_id,
                     "Cognateset_ID": cognate_id
                 })
 
-            # Explicitly write files
             writer.write()
             print(f"Files written to {self.cldf_dir}")
 
     def make_args(self):
-        """Simulates the args object that would be provided by cldfbench."""
         class Args:
             def __init__(self, writer):
                 self.writer = writer
