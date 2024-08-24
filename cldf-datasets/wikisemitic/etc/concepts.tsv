@@ -1,0 +1,661 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
+1	-oth			
+2	supines			
+3	singulative			
+4	English			
+5	this	1214	THIS	other
+6	Unknown			
+7	to	2754	TOWARDS	other
+8	problematicmsg			
+9	-ness			
+10	feminine			
+11	rasm			
+12	lightning	1654	LIGHTNING	noun
+13	gleam			
+14	field	212	FIELD	noun
+15	door	1567	DOOR	noun
+16	create			
+17	outside	762	OUTSIDE	other
+18	virgin	2298	VIRGIN	noun
+19	given name			
+20	house	1252	HOUSE	noun
+21	roof	769	ROOF	noun
+22	1English			
+23	beth			
+24	Baal			
+25	lord	3153	LORD	noun
+26	husband	1200	HUSBAND	noun
+27	master	383	MASTER	noun
+28	owner	1036	OWNER	noun
+29	mistress			
+30	lady	2471	LADY	noun
+31	wife	1199	WIFE	noun
+32	idle	2756	IDLE	noun
+33	hero			
+34	cease	1928	CEASE	verb
+35	twist	430	TWIST	verb
+36	venomous			
+37	snake	730	SNAKE	noun
+38	serpent	730	SNAKE	noun
+39	son	1620	SON	noun
+40	Ben			
+41	daughter	1357	DAUGHTER	noun
+42	twenty	1710	TWENTY	numeral
+43	knee	1371	KNEE	noun
+44	lie down	215	LIE DOWN	verb
+45	benediction			
+46	kneel	66	KNEEL	verb
+47	anatomy			
+48	well	954	WELL	noun
+49	in	1460	IN	other
+50	exist	1579	BE	verb
+51	someone	2422	SOMEONE	other
+52	language code			
+53	come	1446	COME	verb
+54	Arabic			
+55	father	1217	FATHER	noun
+56	Ugaritic			
+57	sedge			
+58	reed	659	REED	noun
+59	byssus			
+60	fine	218	FINE (PENALTY)	noun
+61	twilled			
+62	cotton	1850	COTTON	noun
+63	blood	946	BLOOD	noun
+64	coat	603	COAT	noun
+65	damp	2998	DAMP	adjective
+66	regret	1875	REGRET	verb
+67	grass	606	GRASS	noun
+68	species			
+69	papery			
+70	genus			
+71	club	1763	CLUB	noun
+72	bear	1820	BEAR	noun
+73	creep	3215	CREEP	verb
+74	side	682	SIDE	noun
+75	turn	1588	TURN	verb
+76	collect			
+77	back	1291	BACK	noun
+78	fundament			
+79	throw down			
+80	strike	353	STRIKE	verb
+81	thunder	1150	THUNDER	noun
+82	storm	858	STORM	noun
+83	go	695	GO	verb
+84	to go; to go on; to go away	695	GO	verb
+85	proceed			
+86	liver	1224	LIVER	noun
+87	charge			
+88	angry	1826	ANGRY	adjective
+89	belly	1251	BELLY	noun
+90	star	1430	STAR	noun
+91	astronomy			
+92	asterisk			
+93	dog	2009	DOG	noun
+94	bring	692	BRING	verb
+95	wing	1257	WING	noun
+96	hand	1277	HAND	noun
+97	enclose			
+98	palm	1183	PALM OF HAND	noun
+99	palm, hand	1277	HAND	noun
+100	toslap			
+101	wooden			
+102	paunch			
+103	wrinkle	2294	WRINKLE	noun
+104	tripe			
+105	be	1579	BE	verb
+106	to be	1579	BE	verb
+107	copulative			
+108	beaker			
+109	cup, goblet	476	CUP	noun
+110	glass	604	GLASS	noun
+111	drinking			
+112	cup	476	CUP	noun
+113	lyre			
+114	harp	2597	HARP	noun
+115	Hinduism			
+116	music	642	MUSIC	noun
+117	krar			
+118	claw	72	CLAW	noun
+119	lion	1386	LION	noun
+120	poetic			
+121	lioness			
+122	Libya			
+123	turnip	3062	TURNIP	noun
+124	bend	2224	BEND (SOMETHING)	verb
+125	wind	960	WIND	noun
+126	Sumerogram			
+127	knead	274	KNEAD	verb
+128	night	1233	NIGHT	noun
+129	evening	1629	EVENING	noun
+130	nighttime			
+131	childish			
+132	heart	1223	HEART	noun
+133	pulp			
+134	tongue	1205	TONGUE	noun
+135	for			
+136	family	194	FAMILY	noun
+137	god	1944	GOD	noun
+138	detransitivizing			
+139	chemistry			
+140	with, owning	1340	WITH	other
+141	no	1269	NO	other
+142	don't	813	DO	verb
+143	king	1508	KING	noun
+144	melik			
+145	regional			
+146	sweet	717	SWEET	adjective
+147	sweetness	717	SWEET	adjective
+148	die	1494	DIE	verb
+149	dead	1625	DEAD	adjective
+150	Dead	1625	DEAD	adjective
+151	skin	763	SKIN	noun
+152	grab	855	SEIZE	verb
+153	sheepskin			
+154	blanket	806	BLANKET	noun
+155	even if			
+156	extent			
+157	from	693	FROM	other
+158	of			
+159	2English			
+160	mother	1216	MOTHER	noun
+161	what	1236	WHAT	other
+162	hundred	1634	HUNDRED	numeral
+163	I	1209	I	other
+164	water	948	WATER	noun
+165	table	1775	TABLE	noun
+166	head of the household personnel			
+167	inwards			
+168	gut	1334	GUTS	noun
+169	fountain	849	SPRING (OF WATER)	noun
+170	Maine			
+171	intestine	1991	INTESTINES	noun
+172	bowels	1991	INTESTINES	noun
+173	foal	1647	FOAL	noun
+174	settle			
+175	filly			
+176	camels			
+177	person	683	PERSON	noun
+178	men	1554	MAN	noun
+179	yesterday	1174	YESTERDAY	other
+180	last night			
+181	head	1256	HEAD	noun
+182	skull	1605	SKULL	noun
+183	head; brain; marrow	1256	HEAD	noun
+184	soon	703	SOON	other
+185	mind	1562	MIND	noun
+186	marrow	1835	MARROW	noun
+187	brain	1583	BRAIN	noun
+188	clod			
+189	bread	1368	BREAD	noun
+190	thick	1244	THICK	adjective
+191	winnow	2462	WINNOWING	verb
+192	earth	1228	EARTH (SOIL)	noun
+193	May	2848	MAY (MONTH)	noun
+194	without	1478	WITHOUT	other
+195	significance			
+196	call	1084	CALL	verb
+197	separate	1359	SEPARATE	verb
+198	collective labor (of men)			
+199	river	666	RIVER	noun
+200	leopard	1139	LEOPARD	noun
+201	tiger	846	TIGER	noun
+202	blemish			
+203	blow	175	BLOW (OF WIND)	verb
+204	life	210	LIFE	noun
+205	throat	1346	THROAT	noun
+206	breath	870	BREATH	noun
+207	priceless			
+208	chance			
+209	self	1993	SELF	other
+210	subject			
+211	soul	811	SOUL	noun
+212	whittle			
+213	carve	228	CARVE	verb
+214	reproach			
+215	cat	1208	CAT	noun
+216	dispel	30	DISPEL	verb
+217	divine			
+218	snort	1983	SNORE	verb
+219	snore	1983	SNORE	verb
+220	dolphin	1479	DOLPHIN	noun
+221	we	1212	WE	other
+222	We	1212	WE	other
+223	attached			
+224	light	630	LIGHT (RADIATION)	noun
+225	Rōmaji			
+226	they	817	THEY	other
+227	fire	221	FIRE	noun
+228	Candle	1273	CANDLE	noun
+229	open	1156	OPEN	verb
+230	to open	1156	OPEN	verb
+231	mouth	674	MOUTH	noun
+232	here	136	HERE	other
+233	Old South Arabian			
+234	mouse	1491	MOUSE	noun
+235	lascivious			
+236	stallion	936	STALLION	noun
+237	donkey	1862	DONKEY	noun
+238	fruit	1507	FRUIT	noun
+239	nose	1221	NOSE	noun
+240	forehead	123	FOREHEAD	noun
+241	group			
+242	wide	1243	WIDE	adjective
+243	wig			
+244	thence			
+245	face	1560	FACE	noun
+246	flea	232	FLEA	noun
+247	insect	620	INSECT	noun
+248	expand			
+249	to spread, stretch out	38	SPREAD OUT	verb
+250	throw	1456	THROW	verb
+251	hyrax			
+252	high	1265	HIGH	adjective
+253	highlands			
+254	lie	1411	LIE (REST)	verb
+255	aspire			
+256	Ram	1344	RAM	noun
+257	agriculture			
+258	beginning	1557	BEGINNING	noun
+259	first	728	FIRST	other
+260	herd	2885	HERD (SOMETHING)	verb
+261	graze	3058	GRAZE	verb
+262	bad	1292	BAD	adjective
+263	mathematics			
+264	rest	168	REST	verb
+265	cheek, cheekpiece	1730	CHEEK	noun
+266	leg	1297	LEG	noun
+267	foot	1301	FOOT	noun
+268	walk	1443	WALK	verb
+269	carpenter	1042	CARPENTER	noun
+270	hill	614	HILL	noun
+271	mound			
+272	heap	2984	HEAP	noun
+273	archaeology			
+274	sea	1474	SEA	noun
+275	nine	1483	NINE	numeral
+276	chalk			
+277	fig	322	FIG	noun
+278	and	1577	AND	other
+279	to cover oneself			
+280	you	1213	YOU	other
+281	real	1657	TRUE	adjective
+282	carry	700	CARRY	verb
+283	rain	658	RAIN (PRECIPITATION)	noun
+284	mourning	3673	MOURNING	noun
+285	know	3626	KNOW	verb
+286	lay down			
+287	toknow			
+288	give birth	1195	GIVE BIRTH	verb
+289	boy	1366	BOY	noun
+290	child	2099	CHILD	noun
+291	monitor lizard	3017	MONITOR LIZARD	noun
+292	lizard	632	LIZARD	noun
+293	catkin			
+294	green	1425	GREEN	adjective
+295	foliage, paper	648	PAPER	noun
+296	foliage			
+297	paper	648	PAPER	noun
+298	leaf	628	LEAF	noun
+299	sheet			
+300	letter	1612	LETTER	noun
+301	sheet of paper			
+302	motif			
+303	vegetable	924	VEGETABLES	noun
+304	yellow	1424	YELLOW	adjective
+305	gold	1369	GOLD	noun
+306	moon	1313	MOON	noun
+307	Moon	1313	MOON	noun
+308	month	1370	MONTH	noun
+309	date	3801	DATE (FRUIT)	noun
+310	day	1225	DAY (NOT NIGHT)	noun
+311	spread	38	SPREAD OUT	verb
+312	ibex			
+313	tower	1671	TOWER	noun
+314	antelope	3674	ANTELOPE	noun
+315	oribi			
+316	arm	1673	ARM	noun
+317	right	1019	RIGHT	adjective
+318	appendage			
+319	right hand/side	682	SIDE	noun
+320	right side; oath	1019	RIGHT	adjective
+321	suck	1421	SUCK	verb
+322	female	1551	FEMALE	adjective
+323	tosuckle			
+324	sunrise	2296	SUNRISE	noun
+325	days			
+326	Day	1225	DAY (NOT NIGHT)	noun
+327	today	1283	TODAY	other
+328	lime	2540	LIME (MATERIAL)	noun
+329	make music			
+330	to make music			
+331	play	1413	PLAY	verb
+332	sing	1261	SING	verb
+333	sun	1343	SUN	noun
+334	serve	3648	SERVE (SOMEONE)	verb
+335	lip	478	LIP	noun
+336	language	1307	LANGUAGE	noun
+337	hair	1040	HAIR	noun
+338	single			
+339	gateway			
+340	beat	1665	BEAT	verb
+341	cut	1432	CUT	verb
+342	February	2037	FEBRUARY	noun
+343	Shevat			
+344	seven	1704	SEVEN	numeral
+345	lank			
+346	rod			
+347	stick, staff	1295	STICK	noun
+348	hear	1408	HEAR	verb
+349	listen	1608	LISTEN	verb
+350	fat	323	FAT (ORGANIC SUBSTANCE)	noun
+351	ripen	179	RIPEN	verb
+352	sky	1732	SKY	noun
+353	heaven	1565	HEAVEN	noun
+354	sky, heaven	1732	SKY	noun
+355	year	1226	YEAR	noun
+356	dice games			
+357	just	84	JUST	other
+358	second	1384	SECOND	other
+359	dove	1853	DOVE	noun
+360	some	1241	SOME	other
+361	bath	138	BATHE	verb
+362	doves			
+363	dawn	729	DAWN	noun
+364	morning star	3340	MORNING STAR	noun
+365	last	1529	LAST (FINAL)	other
+366	six	1703	SIX	numeral
+367	alcoholic	3867	ALCOHOLIC (PERSON)	noun
+368	beer	1639	BEER	noun
+369	sugar	862	SUGAR	noun
+370	liquor	842	LIQUOR	noun
+371	cider			
+372	organize			
+373	secundine			
+374	entertain			
+375	Salé			
+376	descendant	490	DESCENDANTS	noun
+377	padding			
+378	woe			
+379	placenta	3388	PLACENTA	noun
+380	fetus			
+381	if	1459	IF	other
+382	name	1405	NAME	noun
+383	sheathed			
+384	behold			
+385	liquid measure			
+386	worship	257	WORSHIP	verb
+387	tooth	1380	TOOTH	noun
+388	sharpen	251	SHARPEN (SOMETHING)	verb
+389	there	1937	THERE	other
+390	she	1834	SHE	other
+391	heme			
+392	noise	1182	NOISE	noun
+393	ear	1247	EAR	noun
+394	root	670	ROOT	noun
+395	botany			
+396	base	831	BASE	noun
+397	beam	1132	BEAM	noun
+398	he	1211	HE	other
+399	desire	2960	LONGING (WISH)	noun
+400	reject			
+401	willing			
+402	refuse	49	REFUSE	verb
+403	stone	857	STONE	noun
+404	rock	668	ROCK	noun
+405	stones			
+406	tent	1316	TENT	noun
+407	tent camp			
+408	kin			
+409	intellectual			
+410	golden oriole			
+411	owl	735	OWL	noun
+412	eagle owl			
+413	eat	1336	EAT	verb
+414	both			
+415	keel			
+416	measure	1506	MEASURE	verb
+417	food	256	FOOD	noun
+418	thousand	1843	THOUSAND	numeral
+419	my	2090	MY	other
+420	alif			
+421	aleph			
+422	maid			
+423	community			
+424	maidservant			
+425	cubit			
+426	handmaid			
+427	exceed			
+428	also			
+429	thou	1215	THOU	other
+430	Genesis			
+431	ye	1213	YOU	other
+432	You	1215	THOU	other
+433	vertical	2375	VERTICAL	adjective
+434	zoology			
+435	four	1500	FOUR	numeral
+436	eight	1705	EIGHT	numeral
+437	beast	958	WILD ANIMAL	noun
+438	because	1157	BECAUSE	other
+439	cow	1007	COW	noun
+440	heifer			
+441	land	626	LAND	noun
+442	country	1300	COUNTRY	noun
+443	Retjenu			
+444	tie up	2891	TIE UP (TETHER)	verb
+445	to bind	1917	TIE	verb
+446	bind	1917	TIE	verb
+447	captive	1072	PRISONER	noun
+448	arrest			
+449	fetter			
+450	prisoner	1072	PRISONER	noun
+451	she-ass			
+452	jenny			
+453	or	1014	OR	other
+454	which	727	WHICH	other
+455	but	3843	BUT	other
+456	island	622	ISLAND	noun
+457	where	1237	WHERE	other
+458	What	1236	WHAT	other
+459	ephah			
+460	how	1239	HOW	other
+461	like	1117	LIKE	verb
+462	stag			
+463	porcupine	2510	PORCUPINE	noun
+464	God	1944	GOD	noun
+465	deer	1936	DEER	noun
+466	one	1493	ONE	numeral
+467	an			
+468	hold	1448	HOLD	verb
+469	take	1749	TAKE	verb
+470	cheek	1730	CHEEK	noun
+471	brother	1262	BROTHER	noun
+472	sister	1263	SISTER	noun
+473	egg	744	EGG	noun
+474	Portugal			
+475	footstep	318	FOOTPRINT	noun
+476	place	723	PLACE (POSITION)	noun
+477	trace, vestige; way; relic	2457	PATH OR ROAD	noun
+478	relativizer			
+479	shrine			
+480	deity	3231	DEITY	noun
+481	El			
+482	divinity			
+483	Elohim			
+484	goddess			
+485	man	1554	MAN	noun
+486	clergy			
+487	human	683	PERSON	noun
+488	mankind			
+489	people	789	PEOPLE	noun
+490	locust	810	LOCUST	noun
+491	caridean			
+492	crab	2348	CRAB	noun
+493	foundation			
+494	Fire	221	FIRE	noun
+495	woman	962	WOMAN	noun
+496	finger	1303	FINGER	noun
+497	dyer			
+498	road	667	ROAD	noun
+499	his right ear			
+500	piece	594	PIECE	noun
+501	on			
+502	soil	1228	EARTH (SOIL)	noun
+503	dust	2	DUST	noun
+504	dust, soil	2	DUST	noun
+505	clay	1399	CLAY	noun
+506	eye	1248	EYE	noun
+507	appoint			
+508	thing	738	THING	noun
+509	leave	1752	LEAVE	verb
+510	far	1406	FAR	adjective
+511	ten	1515	TEN	numeral
+512	rump			
+513	eleven	1706	ELEVEN	numeral
+514	Astarte			
+515	Ishtar			
+516	bone	1394	BONE	noun
+517	tree	906	TREE	noun
+518	stick	1295	STICK	noun
+519	staff	1296	WALKING STICK	noun
+520	bite	1403	BITE	verb
+521	wood	1803	WOOD	noun
+522	goat	1502	GOAT	noun
+523	she-goat	1502	GOAT	noun
+524	mighty	3188	MIGHTY OR POWERFUL OR STRONG	adjective
+525	(female) goat	1502	GOAT	noun
+526	bird	937	BIRD	noun
+527	tail	1220	TAIL	noun
+528	beard	678	BEARD	noun
+529	chin	1510	CHIN	noun
+530	age	1789	AGE	noun
+531	male	1553	MALE	adjective
+532	discourse			
+533	toremember			
+534	mention			
+535	man; male; phallus	1554	MAN	noun
+536	record			
+537	wolf	522	WOLF	noun
+538	hyena	1799	HYENA	noun
+539	that	78	THAT	other
+540	raven	2543	RAVEN	noun
+541	crow	913	CROW	noun
+542	rope	1218	ROPE	noun
+543	a rope	1218	ROPE	noun
+544	damage	2947	DAMAGE (INJURY)	noun
+545	milk	635	MILK	noun
+546	sour	1906	SOUR	adjective
+547	to ferment, go sour	3652	FERMENT	verb
+548	ferment	967	YEAST	noun
+549	father-in-law	1055	FATHER-IN-LAW	noun
+550	heat	612	HEAT	noun
+551	Hot	1286	HOT	adjective
+552	vinegar	985	VINEGAR	noun
+553	abdomen	1251	BELLY	noun
+554	lower			
+555	fractional number			
+556	five	493	FIVE	numeral
+557	vagina	1836	VAGINA	noun
+558	dig	1418	DIG	verb
+559	act			
+560	transitive			
+561	look	1819	LOOK	verb
+562	beetle	2242	BEETLE	noun
+563	digging			
+564	malodorous			
+565	shame	1776	SHAME	noun
+566	till	1882	BEFORE	other
+567	sow	748	SOW SEEDS	verb
+568	plough	2154	PLOUGH (INSTRUMENT)	noun
+569	plow	2154	PLOUGH (INSTRUMENT)	noun
+570	blade	869	BLADE	noun
+571	dart	2587	DARTS	noun
+572	enraged			
+573	war	935	WAR	noun
+574	patriot			
+575	ruin			
+576	desolate			
+577	sword	1535	SWORD	noun
+578	bird of prey			
+579	dagger			
+580	countryside	3200	COUNTRYSIDE	noun
+581	reap	190	MOW	verb
+582	cut off			
+583	reaper			
+584	short	1645	SHORT	adjective
+585	new	1231	NEW	adjective
+586	happen	248	HAPPEN	verb
+587	update			
+588	ass	1862	DONKEY	noun
+589	wine	1524	WINE	noun
+590	beyond			
+591	runner			
+592	succeed	1112	SUCCEED	verb
+593	different	2504	DIFFERENT	adjective
+594	change	1264	CHANGE	verb
+595	Classical Azerbaijani			
+596	quinary			
+597	five, 5	493	FIVE	numeral
+598	cover	761	COVER	verb
+599	watch	1650	WATCH	verb
+600	son-in-law	1056	SON-IN-LAW	noun
+601	circumcise			
+602	groom	3282	GROOM	noun
+603	bridegroom	3282	GROOM	noun
+604	invite	1611	INVITE	verb
+605	peragrate			
+606	black	163	BLACK	adjective
+607	read	724	READ	verb
+608	poke			
+609	pinch	378	PINCH	verb
+610	tocut			
+611	incise			
+612	gnaw	2706	GNAW	verb
+613	near	1942	NEAR	adjective
+614	close	1046	SHUT	verb
+615	horn	1393	HORN (ANATOMY)	noun
+616	ground	2159	GROUND	noun
+617	coo			
+618	holy	1702	HOLY	adjective
+619	to sanctify			
+620	small	1246	SMALL	adjective
+621	Young	1207	YOUNG	adjective
+622	co-wife	3636	CO-WIFE	noun
+623	tragedy	2434	TRAGEDY	noun
+624	cattle	1153	CATTLE	noun
+625	sheep	1331	SHEEP	noun
+626	flock	2939	FLOCK (OF ANIMALS)	noun
+627	answer	1275	ANSWER	verb
+628	small cattle			
+629	baby	1289	BABY	noun
+630	grind	1033	GRIND	verb
+631	mill	636	MILL	noun
+632	spleen	1744	SPLEEN	noun
+633	good	1035	GOOD	adjective
+634	good, pleasant	1035	GOOD	adjective
+635	lemongrass			
+636	mud	640	MUD	noun
+637	silt			
+638	biblical			
+639	break	680	BREAK (DESTROY OR GET DESTROYED)	verb
+640	destroy	681	DESTROY	verb
+641	to break	680	BREAK (DESTROY OR GET DESTROYED)	verb
+642	snow	784	SNOW	noun
+643	ice	617	ICE	noun
+644	three	492	THREE	numeral
+645	bull	1008	BULL	noun
+646	axe	677	AXE	noun
+647	jump	1829	JUMP	verb
+648	governor			
+649	ox	1169	OX	noun
+650	fox	1312	FOX	noun
+651	two	1498	TWO	numeral
+652	garlic	2368	GARLIC	noun
+653	fast	1631	FAST	adjective
+654	Jeremiah			
+655	shadow	1388	SHADE	noun
+656	shade	1388	SHADE	noun
+657	nail	1896	FINGERNAIL OR TOENAIL	noun
+658	finger, toe	1303	FINGER	noun
+659	flint			
+660	cliff	992	CLIFF	noun

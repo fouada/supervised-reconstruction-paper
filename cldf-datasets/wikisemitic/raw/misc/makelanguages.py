@@ -4,68 +4,78 @@ from pathlib import Path
 from pyglottolog import Glottolog
 from clldutils.misc import slug
 
-# Define paths for input and output files
+# Paths
 in_path = Path.cwd().parent / "proto_semitic_words.tsv"
 out_path = Path.cwd().parent.parent / "etc" / "languages.tsv"
-glotto_path = Path.cwd().parent.parent.parent.parent / "cldf" / "glottolog"
+glotto_path = Path.cwd() / "glottolog"
+json_path = Path.cwd() / "lang_to_glottocode.json"
 
 def main():
-    """
-    Read proto_semitic_words.tsv, link DOCULECTs to Glottolog, and write out languages.tsv.
-    """
-    # Read the DOCULECT column from the TSV file
+    # Read the proto_semitic_words.tsv file
     df = pd.read_csv(in_path, sep="\t", usecols=["DOCULECT"])
 
-    # Load the mapping from languages to Glottocodes
-    with open("lang_to_glottocode.json") as f:
+    # Load the corrected Glottocode mappings from lang_to_glottocode_corrected.json
+    with open(json_path, 'r', encoding='utf-8') as f:
         lang_to_glottocode = json.load(f)
 
-    # Initialize Glottolog object to access language metadata
+    # Load Glottolog data
     glottolog = Glottolog(glotto_path)
 
-    # Get unique DOCULECTs from the dataset
+    # Get unique DOCULECTs from the dataframe
     languages = df.DOCULECT.unique()
 
-    # Retrieve Glottocodes for these DOCULECTs
-    ids = [lang_to_glottocode[lang] if type(lang_to_glottocode[lang]) is not list else lang_to_glottocode[lang][0]
-           for lang in languages if lang in lang_to_glottocode]
+    # Retrieve Glottocodes using the mapping
+    ids = [lang_to_glottocode.get(lang, None) for lang in languages]
 
-    # Get language objects from Glottolog
+    # Retrieve language objects from Glottolog
     langs_obj = glottolog.languoids(ids)
     langs_obj_dict = {lang.glottocode: lang for lang in langs_obj}
 
     langs = []
     for lang_name in languages:
-        glottocode = lang_to_glottocode[lang_name]
-        if type(glottocode) is list:
-            glottocode = glottocode[0]
+        if isinstance(lang_name, float):
+            continue  # Skip NaN values
 
-        lang_obj = langs_obj_dict.get(glottocode, None)
+        lang_name_str = str(lang_name)  # Ensure lang_name is a string
+        glottocode = lang_to_glottocode.get(lang_name_str, None)
 
-        if lang_obj is None:
+        if glottocode is None:
             langs.append({
-                "ID": lang_name,
+                "ID": slug(lang_name_str),
                 "Name": None,
-                "NameInSource": lang_name,
-                "Glottocode": glottocode,
+                "NameInSource": lang_name_str,
+                "Glottocode": None,
                 "ISO639P3code": None,
                 "Latitude": None,
                 "Longitude": None,
                 "Family": None,
             })
         else:
-            langs.append({
-                "ID": slug(lang_name),
-                "Name": lang_obj.name,
-                "NameInSource": lang_name,
-                "Glottocode": lang_obj.glottocode,
-                "ISO639P3code": lang_obj.iso,
-                "Latitude": lang_obj.latitude,
-                "Longitude": lang_obj.longitude,
-                "Family": lang_obj.family.name if lang_obj.family else None,
-            })
+            lang_obj = langs_obj_dict.get(glottocode, None)
+            if lang_obj is None:
+                langs.append({
+                    "ID": slug(lang_name_str),
+                    "Name": None,
+                    "NameInSource": lang_name_str,
+                    "Glottocode": glottocode,
+                    "ISO639P3code": None,
+                    "Latitude": None,
+                    "Longitude": None,
+                    "Family": None,
+                })
+            else:
+                langs.append({
+                    "ID": slug(lang_name_str),
+                    "Name": lang_obj.name,
+                    "NameInSource": lang_name_str,
+                    "Glottocode": lang_obj.glottocode,
+                    "ISO639P3code": lang_obj.iso,
+                    "Latitude": lang_obj.latitude,
+                    "Longitude": lang_obj.longitude,
+                    "Family": lang_obj.family.name if lang_obj.family else None,
+                })
 
-    # Create a DataFrame from the language metadata
+    # Convert the list of language dictionaries to a DataFrame
     langs_df = pd.DataFrame(langs)
 
     # Save the DataFrame to a TSV file
