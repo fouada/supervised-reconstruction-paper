@@ -9,7 +9,6 @@ from sys import argv
 from pathlib import Path
 import json
 from functools import partial
-from concurrent.futures import ThreadPoolExecutor
 
 align_psf = partial(
         transform_alignment, align=True, position=True, prosody=True, startend=True)
@@ -90,11 +89,10 @@ def analyze_dataset_method(prop, ds, proto, i, meth_name, meth):
         print("Skipping existing analysis.")
 
 if __name__ == "__main__":
-    with ThreadPoolExecutor() as executor:
+    for ds, proto in datasets:
+        print("[i] analyzing {0}".format(ds))
         for prop in proportions:
             print("[i] analyzing {0} split".format(prop))
-            for ds, proto in datasets:
-                print("[i] analyzing {0}".format(ds))
-                for i in range(RUNS):
-                    for meth_name, meth in methods:
-                        executor.submit(analyze_dataset_method, prop, ds, proto, i, meth_name, meth)
+            for i in range(RUNS):
+                for meth_name, meth in methods:
+                    analyze_dataset_method(prop, ds, proto, i, meth_name, meth)

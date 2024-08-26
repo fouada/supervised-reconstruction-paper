@@ -1,0 +1,743 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	COGID
+182	akkadian	1006	sˤernettu	sˤ e r n e t t u	sˤ e r n e t t u	1006
+183	arabic	1006	sˤamɣat	sˤ a m ɣ a t	sˤ a m ɣ a t	1006
+184	geez	1006	sˤərnəʕt	sˤ ə r n ə ʕ t	sˤ ə r n ə ʕ t	1006
+185	hebrew	1006	sˤaːraʕat	sˤ aː r a ʕ a t	sˤ aː r a ʕ a t	1006
+186	ps	1006	sˤrnʕat	sˤ r n ʕ a t	sˤ r n ʕ a t	1006
+216	akkadian	1009	ibaːru	i b aː r u	i b aː r u	1009
+217	arabic	1009	ħibr	ħ i b r	ħ i b r	1009
+218	geez	1009	ħəbərbəre	ħ ə b ə r b ə r e	ħ ə b ə r b ə r e	1009
+219	hebrew	1009	ħăbarbuːroːt	ħ ă b a r b uː r oː t	ħ ă b a r b uː r oː t	1009
+220	syriac	1009	ħbaːrtaː	ħ b aː r t aː	ħ b aː r t aː	1009
+221	ps	1009	ħbr	ħ b r	ħ b r	1009
+479	akkadian	1012	ʃiːbtu	ʃ iː b t u	ʃ iː b t u	1012
+480	arabic	1012	ʃajb	ʃ a j b	ʃ a j b	1012
+481	geez	1012	ɬibat	ɬ i b a t	ɬ i b a t	1012
+482	hebrew	1012	ɬeːbaː	ɬ eː b aː	ɬ eː b aː	1012
+483	syriac	1012	sajbaːtaː	s a j b aː t aː	s a j b aː t aː	1012
+484	ugaritic	1012	ʃbt	ʃ b t	ʃ b t	1012
+485	ps	1012	ɬajbat	ɬ a j b a t	ɬ a j b a t	1012
+545	akkadian	1021	suʔaːlu	s u ʔ aː l u	s u ʔ aː l u	1021
+546	arabic	1021	suʕaːl	s u ʕ aː l	s u ʕ aː l	1021
+547	geez	1021	saʕaːl	s a ʕ aː l	s a ʕ aː l	1021
+548	hebrew	1021	ʃʕl	ʃ ʕ l	ʃ ʕ l	1021
+549	syriac	1021	ʃʕaːlaː	ʃ ʕ aː l aː	ʃ ʕ aː l aː	1021
+550	ps	1021	ʃʕl	ʃ ʕ l	ʃ ʕ l	1021
+108	akkadian	1046	saraːpu	s a r aː p u	s a r aː p u	1046
+109	arabic	1046	ʃrb	ʃ r b	ʃ r b	1046
+110	geez	1046	ɬrb	ɬ r b	ɬ r b	1046
+111	hebrew	1046	ɬrp	ɬ r p	ɬ r p	1046
+112	syriac	1046	srp	s r p	s r p	1046
+113	ps	1046	ɬrb	ɬ r b	ɬ r b	1046
+399	akkadian	1047	tˤeːmu	tˤ eː m u	tˤ eː m u	1047
+400	arabic	1047	tˤʕm	tˤ ʕ m	tˤ ʕ m	1047
+401	geez	1047	tˤʕm	tˤ ʕ m	tˤ ʕ m	1047
+402	hebrew	1047	tˤʕm	tˤ ʕ m	tˤ ʕ m	1047
+403	syriac	1047	tˤʕm	tˤ ʕ m	tˤ ʕ m	1047
+404	ps	1047	tˤʕm	tˤ ʕ m	tˤ ʕ m	1047
+204	akkadian	1058	ximeːtu	x i m eː t u	x i m eː t u	1058
+205	hebrew	1058	ħæmʔaː	ħ æ m ʔ aː	ħ æ m ʔ aː	1058
+206	syriac	1058	ħewtaː	ħ e w t aː	ħ e w t aː	1058
+207	ugaritic	1058	xmʔat	x m ʔ a t	x m ʔ a t	1058
+208	ps	1058	ximʔat	x i m ʔ a t	x i m ʔ a t	1058
+154	akkadian	1066	naxaːlu	n a x aː l u	n a x aː l u	1066
+155	arabic	1066	nxl	n x l	n x l	1066
+156	syriac	1066	nħl	n ħ l	n ħ l	1066
+157	ps	1066	nxl	n x l	n x l	1066
+567	akkadian	1067	qˤeːmu	qˤ eː m u	qˤ eː m u	1067
+568	arabic	1067	qamħ	q a m ħ	q a m ħ	1067
+569	geez	1067	qˤamħ	qˤ a m ħ	qˤ a m ħ	1067
+570	hebrew	1067	qˤæmaħ	qˤ æ m a ħ	qˤ æ m a ħ	1067
+571	syriac	1067	qˤamħaː	qˤ a m ħ aː	qˤ a m ħ aː	1067
+572	ugaritic	1067	qˤmħ	qˤ m ħ	qˤ m ħ	1067
+573	ps	1067	qˤamħ	qˤ a m ħ	qˤ a m ħ	1067
+248	akkadian	1068	lâʃu	l â ʃ u	l â ʃ u	1068
+249	arabic	1068	lwθ	l w θ	l w θ	1068
+250	geez	1068	losa	l o s a	l o s a	1068
+251	hebrew	1068	lwʃ	l w ʃ	l w ʃ	1068
+252	syriac	1068	lwʃ	l w ʃ	l w ʃ	1068
+253	ps	1068	lwʃ	l w ʃ	l w ʃ	1068
+722	akkadian	1077	kirru	k i r r u	k i r r u	1077
+723	hebrew	1077	kar	k a r	k a r	1077
+724	ugaritic	1077	kr	k r	k r	1077
+725	ps	1077	ka	k a	k a	1077
+472	akkadian	1078	muːnu	m uː n u	m uː n u	1078
+473	arabic	1078	minanat	m i n a n a t	m i n a n a t	1078
+474	syriac	1078	mniːnaː	m n iː n aː	m n iː n aː	1078
+475	ps	1078	mn	m n	m n	1078
+171	akkadian	1080	enʃupu	e n ʃ u p u	e n ʃ u p u	1080
+172	arabic	1080	nussaːf	n u s s aː f	n u s s aː f	1080
+173	hebrew	1080	janʃuːp	j a n ʃ uː p	j a n ʃ uː p	1080
+174	ps	1080	nʃp	n ʃ p	n ʃ p	1080
+538	akkadian	1095	gudgudaːtu	g u d g u d aː t u	g u d g u d aː t u	1095
+539	geez	1095	ʔagadaː	ʔ a g a d aː	ʔ a g a d aː	1095
+540	ps	1095	gdat	g d a t	g d a t	1095
+682	akkadian	1117	nasaːbu	n a s aː b u	n a s aː b u	1117
+683	arabic	1117	nsb	n s b	n s b	1117
+684	hebrew	1117	nʃb	n ʃ b	n ʃ b	1117
+685	syriac	1117	nʃb	n ʃ b	n ʃ b	1117
+686	ps	1117	nʃb	n ʃ b	n ʃ b	1117
+564	akkadian	1144	maxru	m a x r u	m a x r u	1144
+565	arabic	1144	mxr	m x r	m x r	1144
+566	ps	1144	mxr	m x r	m x r	1144
+517	akkadian	1312	bussuru	b u s s u r u	b u s s u r u	1312
+518	arabic	1312	bʃr	b ʃ r	b ʃ r	1312
+519	geez	1312	ʔabɬara	ʔ a b ɬ a r a	ʔ a b ɬ a r a	1312
+520	hebrew	1312	bʃr	b ʃ r	b ʃ r	1312
+521	ugaritic	1312	bʃr	b ʃ r	b ʃ r	1312
+522	ps	1312	bɬr	b ɬ r	b ɬ r	1312
+393	akkadian	1316	piriʃtu	p i r i ʃ t u	p i r i ʃ t u	1316
+394	arabic	1316	frs	f r s	f r s	1316
+395	geez	1316	ʔafrasa	ʔ a f r a s a	ʔ a f r a s a	1316
+396	hebrew	1316	prs	p r s	p r s	1316
+397	syriac	1316	priʃtaː	p r i ʃ t aː	p r i ʃ t aː	1316
+398	ps	1316	prs	p r s	p r s	1316
+486	akkadian	1329	pataːlu	p a t aː l u	p a t aː l u	1329
+487	arabic	1329	ftl	f t l	f t l	1329
+488	geez	1329	fatala	f a t a l a	f a t a l a	1329
+489	hebrew	1329	ptl	p t l	p t l	1329
+490	syriac	1329	ptl	p t l	p t l	1329
+491	ps	1329	ptl	p t l	p t l	1329
+365	akkadian	133	alaːku	a l aː k u	a l aː k u	133
+366	arabic	133	hlk	h l k	h l k	133
+367	hebrew	133	hlk	h l k	h l k	133
+368	syriac	133	hlk	h l k	h l k	133
+369	ugaritic	133	hlk	h l k	h l k	133
+370	ps	133	hlk	h l k	h l k	133
+560	akkadian	1379	baʔaːru	b a ʔ aː r u	b a ʔ aː r u	1379
+561	arabic	1379	bħr	b ħ r	b ħ r	1379
+562	hebrew	1379	bħr	b ħ r	b ħ r	1379
+563	ps	1379	bħr	b ħ r	b ħ r	1379
+76	akkadian	1385	itti	i t t i	i t t i	1385
+77	hebrew	1385	ʔeːt	ʔ eː t	ʔ eː t	1385
+78	ps	1385	ʔit	ʔ i t	ʔ i t	1385
+238	akkadian	1389	kiːma	k iː m a	k iː m a	1389
+239	arabic	1389	kamaː	k a m aː	k a m aː	1389
+240	geez	1389	kama	k a m a	k a m a	1389
+241	hebrew	1389	kəmoː	k ə m oː	k ə m oː	1389
+242	ugaritic	1389	km	k m	k m	1389
+243	ps	1389	kma	k m a	k m a	1389
+604	akkadian	1431	aʃʃum	a ʃ ʃ u m	a ʃ ʃ u m	1431
+605	geez	1431	ʔəsma	ʔ ə s m a	ʔ ə s m a	1431
+606	ps	1431	ʔm	ʔ m	ʔ m	1431
+371	akkadian	1501	ezeːbu	e z eː b u	e z eː b u	1501
+372	arabic	1501	ʕzb	ʕ z b	ʕ z b	1501
+373	hebrew	1501	ʕzb	ʕ z b	ʕ z b	1501
+374	ugaritic	1501	ʕdb	ʕ d b	ʕ d b	1501
+375	ps	1501	ʕðb	ʕ ð b	ʕ ð b	1501
+654	akkadian	1506	surummu	s u r u m m u	s u r u m m u	1506
+655	arabic	1506	surm	s u r m	s u r m	1506
+656	syriac	1506	ʃurmaː	ʃ u r m aː	ʃ u r m aː	1506
+657	ps	1506	surm	s u r m	s u r m	1506
+541	akkadian	1507	erimu	e r i m u	e r i m u	1507
+542	arabic	1507	waram	w a r a m	w a r a m	1507
+543	geez	1507	rəmjat	r ə m j a t	r ə m j a t	1507
+544	ps	1507	rm	r m	r m	1507
+737	arabic	1521	gurn	g u r n	g u r n	1521
+738	geez	1521	gʷərn	gʷ ə r n	gʷ ə r n	1521
+739	hebrew	1521	goren	g o r e n	g o r e n	1521
+740	syriac	1521	guːrnaː	g uː r n aː	g uː r n aː	1521
+741	ugaritic	1521	grn	g r n	g r n	1521
+742	ps	1521	gurn	g u r n	g u r n	1521
+411	akkadian	1557	ajjû	a j j û	a j j û	1557
+412	arabic	1557	ʔajj	ʔ a j j	ʔ a j j	1557
+413	hebrew	1557	ʔeː	ʔ eː	ʔ eː	1557
+414	ps	1557	ʔajj	ʔ a j j	ʔ a j j	1557
+140	akkadian	1566	ʃu	ʃ u	ʃ u	1566
+141	geez	1566	o	o	o	1566
+142	ps	1566	ʃu	ʃ u	ʃ u	1566
+642	akkadian	1573	sˤabaːtu	sˤ a b aː t u	sˤ a b aː t u	1573
+643	arabic	1573	dˤbtˤ	dˤ b tˤ	dˤ b tˤ	1573
+644	geez	1573	ɬˤabatˤa	ɬˤ a b a tˤ a	ɬˤ a b a tˤ a	1573
+645	hebrew	1573	sˤbtˤ	sˤ b tˤ	sˤ b tˤ	1573
+646	ugaritic	1573	msˤbtˤ	m sˤ b tˤ	m sˤ b tˤ	1573
+647	ps	1573	ɬˤbtˤ	ɬˤ b tˤ	ɬˤ b tˤ	1573
+632	akkadian	1583	aj	a j	a j	1583
+633	geez	1583	ʔi	ʔ i	ʔ i	1583
+634	hebrew	1583	ʔiː	ʔ iː	ʔ iː	1583
+635	ugaritic	1583	ʔi	ʔ i	ʔ i	1583
+636	ps	1583	ʔiː	ʔ iː	ʔ iː	1583
+590	akkadian	1590	emeːdu	e m eː d u	e m eː d u	1590
+591	arabic	1590	ʕmd	ʕ m d	ʕ m d	1590
+592	hebrew	1590	ʕmd	ʕ m d	ʕ m d	1590
+593	ugaritic	1590	ʕmd	ʕ m d	ʕ m d	1590
+594	ps	1590	ʕmd	ʕ m d	ʕ m d	1590
+104	akkadian	1598	edeːdu	e d eː d u	e d eː d u	1598
+105	arabic	1598	ħdd	ħ d d	ħ d d	1598
+106	hebrew	1598	ħdd	ħ d d	ħ d d	1598
+107	ps	1598	ħdd	ħ d d	ħ d d	1598
+509	akkadian	164	ʃaʔaːru	ʃ a ʔ aː r u	ʃ a ʔ aː r u	164
+510	arabic	164	θɣr	θ ɣ r	θ ɣ r	164
+511	geez	164	saʕara	s a ʕ a r a	s a ʕ a r a	164
+512	ps	164	θɣr	θ ɣ r	θ ɣ r	164
+29	arabic	1655	gulfat	g u l f a t	g u l f a t	1655
+30	syriac	1655	glaːptaː	g l aː p t aː	g l aː p t aː	1655
+31	ps	1655	glpat	g l p a t	g l p a t	1655
+734	akkadian	1659	dimiːtu	d i m iː t u	d i m iː t u	1659
+735	arabic	1659	dimmat	d i m m a t	d i m m a t	1659
+736	ps	1659	dim	d i m	d i m	1659
+123	arabic	1684	gaːbiʔ	g aː b i ʔ	g aː b i ʔ	1684
+124	hebrew	1684	goːbaj	g oː b a j	g oː b a j	1684
+125	ps	1684	gb	g b	g b	1684
+529	akkadian	1687	ʃammaːnu	ʃ a m m aː n u	ʃ a m m aː n u	1687
+530	arabic	1687	saːmm	s aː m m	s aː m m	1687
+531	hebrew	1687	ɬəmaːmiːt	ɬ ə m aː m iː t	ɬ ə m aː m iː t	1687
+532	ps	1687	ʃ	ʃ	ʃ	1687
+44	arabic	1703	ɣabɣab	ɣ a b ɣ a b	ɣ a b ɣ a b	1703
+45	syriac	1703	ʕubbaː	ʕ u b b aː	ʕ u b b aː	1703
+46	ps	1703	ɣa	ɣ a	ɣ a	1703
+209	akkadian	1709	suʃʃuru	s u ʃ ʃ u r u	s u ʃ ʃ u r u	1709
+210	arabic	1709	ʃarʃuːr	ʃ a r ʃ uː r	ʃ a r ʃ uː r	1709
+211	ps	1709	ɬrɬuːr	ɬ r ɬ uː r	ɬ r ɬ uː r	1709
+193	arabic	1721	waːbilat	w aː b i l a t	w aː b i l a t	1721
+194	hebrew	1721	joːbeːl	j oː b eː l	j oː b eː l	1721
+195	ps	1721	waːbil	w aː b i l	w aː b i l	1721
+358	akkadian	1741	burû	b u r û	b u r û	1741
+359	geez	1741	bərʕ	b ə r ʕ	b ə r ʕ	1741
+360	ps	1741	burʕ	b u r ʕ	b u r ʕ	1741
+260	akkadian	1746	paraːqˤu	p a r aː qˤ u	p a r aː qˤ u	1746
+261	arabic	1746	frq	f r q	f r q	1746
+262	hebrew	1746	prqˤ	p r qˤ	p r qˤ	1746
+263	syriac	1746	prqˤ	p r qˤ	p r qˤ	1746
+264	ugaritic	1746	prqˤ	p r qˤ	p r qˤ	1746
+265	ps	1746	prqˤ	p r qˤ	p r qˤ	1746
+287	akkadian	1750	xallu	x a l l u	x a l l u	1750
+288	arabic	1750	ħaːl	ħ aː l	ħ aː l	1750
+289	hebrew	1750	ħuljaː	ħ u l j aː	ħ u l j aː	1750
+290	ps	1750	ħa	ħ a	ħ a	1750
+229	akkadian	1754	parû	p a r û	p a r û	1754
+230	arabic	1754	frj	f r j	f r j	1754
+231	ps	1754	prj	p r j	p r j	1754
+476	akkadian	1762	xillu	x i l l u	x i l l u	1762
+477	arabic	1762	ħiwalaːʔ	ħ i w a l aː ʔ	ħ i w a l aː ʔ	1762
+478	ps	1762	ħil	ħ i l	ħ i l	1762
+212	arabic	1779	kumuddat	k u m u d d a t	k u m u d d a t	1779
+213	hebrew	1779	goːmæd	g oː m æ d	g oː m æ d	1779
+214	syriac	1779	garmiːdaː	g a r m iː d aː	g a r m iː d aː	1779
+215	ps	1779	kmd	k m d	k m d	1779
+433	akkadian	179	peːmu	p eː m u	p eː m u	179
+434	arabic	179	fʕm	f ʕ m	f ʕ m	179
+435	hebrew	179	paʕam	p a ʕ a m	p a ʕ a m	179
+436	ugaritic	179	pʕn	p ʕ n	p ʕ n	179
+437	ps	179	paʕm	p a ʕ m	p a ʕ m	179
+94	akkadian	1791	napiʃtu	n a p i ʃ t u	n a p i ʃ t u	1791
+95	arabic	1791	nafas	n a f a s	n a f a s	1791
+96	hebrew	1791	næpæʃ	n æ p æ ʃ	n æ p æ ʃ	1791
+97	ugaritic	1791	npʃ	n p ʃ	n p ʃ	1791
+98	ps	1791	napa	n a p a	n a p a	1791
+620	akkadian	1799	naʃû	n a ʃ û	n a ʃ û	1799
+621	arabic	1799	nʃʔ	n ʃ ʔ	n ʃ ʔ	1799
+622	geez	1799	tanɬəʔa	t a n ɬ ə ʔ a	t a n ɬ ə ʔ a	1799
+623	hebrew	1799	nɬʔ	n ɬ ʔ	n ɬ ʔ	1799
+624	ugaritic	1799	nʃʔ	n ʃ ʔ	n ʃ ʔ	1799
+625	ps	1799	nɬʔ	n ɬ ʔ	n ɬ ʔ	1799
+244	akkadian	1819	palaːʃu	p a l aː ʃ u	p a l aː ʃ u	1819
+245	hebrew	1819	plʃ	p l ʃ	p l ʃ	1819
+246	syriac	1819	plʃ	p l ʃ	p l ʃ	1819
+247	ps	1819	plʃ	p l ʃ	p l ʃ	1819
+120	akkadian	1825	paraːʔu	p a r aː ʔ u	p a r aː ʔ u	1825
+121	arabic	1825	frʕ	f r ʕ	f r ʕ	1825
+122	ps	1825	prʕ	p r ʕ	p r ʕ	1825
+158	akkadian	1831	batuːlu	b a t uː l u	b a t uː l u	1831
+159	arabic	1831	batuːl	b a t uː l	b a t uː l	1831
+160	hebrew	1831	bətuːlaː	b ə t uː l aː	b ə t uː l aː	1831
+161	syriac	1831	btulaː	b t u l aː	b t u l aː	1831
+162	ugaritic	1831	btlt	b t l t	b t l t	1831
+163	ps	1831	batuːl	b a t uː l	b a t uː l	1831
+415	akkadian	1834	basˤaːsˤu	b a sˤ aː sˤ u	b a sˤ aː sˤ u	1834
+416	arabic	1834	basˤsˤa	b a sˤ sˤ a	b a sˤ sˤ a	1834
+417	hebrew	1834	boːsˤ	b oː sˤ	b oː sˤ	1834
+418	ps	1834	bɬˤɬˤ	b ɬˤ ɬˤ	b ɬˤ ɬˤ	1834
+73	akkadian	1882	qˤallû	qˤ a l l û	qˤ a l l û	1882
+74	geez	1882	qʷˤəlħ	qʷˤ ə l ħ	qʷˤ ə l ħ	1882
+75	ps	1882	qˤlħ	qˤ l ħ	qˤ l ħ	1882
+453	akkadian	1909	ʃeʔû	ʃ e ʔ û	ʃ e ʔ û	1909
+454	hebrew	1909	ʃaːʕaː	ʃ aː ʕ aː	ʃ aː ʕ aː	1909
+455	ps	1909	θʕj	θ ʕ j	θ ʕ j	1909
+584	akkadian	1910	kimsˤu	k i m sˤ u	k i m sˤ u	1910
+585	arabic	1910	qasˤaːsˤ	q a sˤ aː sˤ	q a sˤ aː sˤ	1910
+586	geez	1910	qʷˤəjsˤ	qʷˤ ə j sˤ	qʷˤ ə j sˤ	1910
+587	hebrew	1910	qˤəmaːsˤiːm	qˤ ə m aː sˤ iː m	qˤ ə m aː sˤ iː m	1910
+588	ugaritic	1910	qˤmsˤ	qˤ m sˤ	qˤ m sˤ	1910
+589	ps	1910	qˤjsˤ	qˤ j sˤ	qˤ j sˤ	1910
+499	akkadian	1915	manaːnu	m a n aː n u	m a n aː n u	1915
+500	arabic	1915	maʔnat	m a ʔ n a t	m a ʔ n a t	1915
+501	syriac	1915	mentaː	m e n t aː	m e n t aː	1915
+502	ps	1915	mn	m n	m n	1915
+99	akkadian	192	muʃeːrittu	m u ʃ eː r i t t u	m u ʃ eː r i t t u	192
+100	arabic	192	wariːd	w a r iː d	w a r iː d	192
+101	hebrew	192	waːriːd	w aː r iː d	w aː r iː d	192
+102	syriac	192	warriːðaː	w a r r iː ð aː	w a r r iː ð aː	192
+103	ps	192	wariːd	w a r iː d	w a r iː d	192
+136	akkadian	1933	nabultu	n a b u l t u	n a b u l t u	1933
+137	arabic	1933	nabiːlat	n a b iː l a t	n a b iː l a t	1933
+138	hebrew	1933	nəbeːlaː	n ə b eː l aː	n ə b eː l aː	1933
+139	ps	1933	nabilat	n a b i l a t	n a b i l a t	1933
+665	arabic	1941	btˤħ	b tˤ ħ	b tˤ ħ	1941
+666	hebrew	1941	btˤħ	b tˤ ħ	b tˤ ħ	1941
+667	ps	1941	btˤħ	b tˤ ħ	b tˤ ħ	1941
+430	akkadian	1950	piʔaːqˤu	p i ʔ aː qˤ u	p i ʔ aː qˤ u	1950
+431	arabic	1950	fwq	f w q	f w q	1950
+432	ps	1950	pwqˤ	p w qˤ	p w qˤ	1950
+301	akkadian	1956	adaːmu	a d aː m u	a d aː m u	1956
+302	arabic	1956	ʔtm	ʔ t m	ʔ t m	1956
+303	ps	1956	ʔtm	ʔ t m	ʔ t m	1956
+126	akkadian	1981	taxaːxu	t a x aː x u	t a x aː x u	1981
+127	arabic	1981	txx	t x x	t x x	1981
+128	hebrew	1981	ʕăpar	ʕ ă p a r	ʕ ă p a r	1981
+129	syriac	1981	tħiħ	t ħ i ħ	t ħ i ħ	1981
+130	ps	1981	txx	t x x	t x x	1981
+282	akkadian	1987	daʔaːpu	d a ʔ aː p u	d a ʔ aː p u	1987
+283	arabic	1987	dhf	d h f	d h f	1987
+284	geez	1987	daħafa	d a ħ a f a	d a ħ a f a	1987
+285	hebrew	1987	dħp	d ħ p	d ħ p	1987
+286	ps	1987	dħp	d ħ p	d ħ p	1987
+601	akkadian	1988	damaːqˤu	d a m aː qˤ u	d a m aː qˤ u	1988
+602	geez	1988	ʔadmaqˤa	ʔ a d m a qˤ a	ʔ a d m a qˤ a	1988
+603	ps	1988	dmqˤ	d m qˤ	d m qˤ	1988
+607	akkadian	1991	diaːnu	d i aː n u	d i aː n u	1991
+608	arabic	1991	diːn	d iː n	d iː n	1991
+609	geez	1991	djna	d j n a	d j n a	1991
+610	hebrew	1991	djn	d j n	d j n	1991
+611	syriac	1991	daːn	d aː n	d aː n	1991
+612	ugaritic	1991	djn	d j n	d j n	1991
+613	ps	1991	djn	d j n	d j n	1991
+614	akkadian	20	malû	m a l û	m a l û	20
+615	geez	20	məluʔ	m ə l u ʔ	m ə l u ʔ	20
+616	hebrew	20	maːleː	m aː l eː	m aː l eː	20
+617	syriac	20	mle	m l e	m l e	20
+618	ugaritic	20	mlʔ	m l ʔ	m l ʔ	20
+619	ps	20	mlʔ	m l ʔ	m l ʔ	20
+296	akkadian	2000	dullu	d u l l u	d u l l u	2000
+297	hebrew	2000	dll	d l l	d l l	2000
+298	syriac	2000	dlilaː	d l i l aː	d l i l aː	2000
+299	ugaritic	2000	dll	d l l	d l l	2000
+300	ps	2000	dll	d l l	d l l	2000
+405	akkadian	2040	zakaːru	z a k aː r u	z a k aː r u	2040
+406	arabic	2040	ðkr	ð k r	ð k r	2040
+407	geez	2040	zakara	z a k a r a	z a k a r a	2040
+408	hebrew	2040	zkr	z k r	z k r	2040
+409	syriac	2040	dkr	d k r	d k r	2040
+410	ps	2040	ðkr	ð k r	ð k r	2040
+338	arabic	206	ħzw	ħ z w	ħ z w	206
+339	hebrew	206	ħzj	ħ z j	ħ z j	206
+340	syriac	206	ħzj	ħ z j	ħ z j	206
+341	ugaritic	206	ħdj	ħ d j	ħ d j	206
+342	ps	206	ħðj	ħ ð j	ħ ð j	206
+150	akkadian	2067	ruqqû	r u q q û	r u q q û	2067
+151	hebrew	2067	rqˤħ	r qˤ ħ	r qˤ ħ	2067
+152	ugaritic	2067	rqˤħ	r qˤ ħ	r qˤ ħ	2067
+153	ps	2067	rqˤħ	r qˤ ħ	r qˤ ħ	2067
+318	akkadian	2088	kalû	k a l û	k a l û	2088
+319	geez	2088	kalʔa	k a l ʔ a	k a l ʔ a	2088
+320	ps	2088	klʔ	k l ʔ	k l ʔ	2088
+445	akkadian	2095	ullu	u l l u	u l l u	2095
+446	arabic	2095	ɣull	ɣ u l l	ɣ u l l	2095
+447	hebrew	2095	ʕoːl	ʕ oː l	ʕ oː l	2095
+448	ps	2095	ɣull	ɣ u l l	ɣ u l l	2095
+551	geez	2128	ħafaɬa	ħ a f a ɬ a	ħ a f a ɬ a	2128
+552	hebrew	2128	ħpɬ	ħ p ɬ	ħ p ɬ	2128
+553	ugaritic	2128	ħpʃt	ħ p ʃ t	ħ p ʃ t	2128
+554	ps	2128	ħpɬ	ħ p ɬ	ħ p ɬ	2128
+222	arabic	2130	gibs	g i b s	g i b s	2130
+223	geez	2130	gabasa	g a b a s a	g a b a s a	2130
+224	ps	2130	gbʃ	g b ʃ	g b ʃ	2130
+678	akkadian	2132	kirbaːnu	k i r b aː n u	k i r b aː n u	2132
+679	arabic	2132	krb	k r b	k r b	2132
+680	syriac	2132	krb	k r b	k r b	2132
+681	ps	2132	krb	k r b	k r b	2132
+334	akkadian	2136	sanaːqˤu	s a n aː qˤ u	s a n aː qˤ u	2136
+335	arabic	2136	ʃnqˤ	ʃ n qˤ	ʃ n qˤ	2136
+336	syriac	2136	ʃnaːqˤaː	ʃ n aː qˤ aː	ʃ n aː qˤ aː	2136
+337	ps	2136	ɬnqˤ	ɬ n qˤ	ɬ n qˤ	2136
+349	akkadian	2140	parsˤu	p a r sˤ u	p a r sˤ u	2140
+350	arabic	2140	fardˤ	f a r dˤ	f a r dˤ	2140
+351	ps	2140	parɬˤ	p a r ɬˤ	p a r ɬˤ	2140
+1	akkadian	2141	ʃatˤaːru	ʃ a tˤ aː r u	ʃ a tˤ aː r u	2141
+2	arabic	2141	stˤr	s tˤ r	s tˤ r	2141
+3	hebrew	2141	ʃoːtˤeːr	ʃ oː tˤ eː r	ʃ oː tˤ eː r	2141
+4	syriac	2141	ʃtˤaːraː	ʃ tˤ aː r aː	ʃ tˤ aː r aː	2141
+5	ps	2141	ʃtˤr	ʃ tˤ r	ʃ tˤ r	2141
+513	akkadian	2156	rabaːku	r a b aː k u	r a b aː k u	2156
+514	arabic	2156	rbk	r b k	r b k	2156
+515	hebrew	2156	murbækæt	m u r b æ k æ t	m u r b æ k æ t	2156
+516	ps	2156	rbk	r b k	r b k	2156
+419	akkadian	26	ʃemû	ʃ e m û	ʃ e m û	26
+420	geez	26	samʕa	s a m ʕ a	s a m ʕ a	26
+421	hebrew	26	ʃmʕ	ʃ m ʕ	ʃ m ʕ	26
+422	syriac	26	ʃmʕ	ʃ m ʕ	ʃ m ʕ	26
+423	ugaritic	26	ʃmʕ	ʃ m ʕ	ʃ m ʕ	26
+424	ps	26	ʃmʕ	ʃ m ʕ	ʃ m ʕ	26
+254	akkadian	261	wasˤû	w a sˤ û	w a sˤ û	261
+255	arabic	261	dˤiʔdˤiʔ	dˤ i ʔ dˤ i ʔ	dˤ i ʔ dˤ i ʔ	261
+256	geez	261	ɬˤaːʔɬˤaːʔ	ɬˤ aː ʔ ɬˤ aː ʔ	ɬˤ aː ʔ ɬˤ aː ʔ	261
+257	hebrew	261	sˤæʔæsˤaːʔiːm	sˤ æ ʔ æ sˤ aː ʔ iː m	sˤ æ ʔ æ sˤ aː ʔ iː m	261
+258	syriac	261	jʕj	j ʕ j	j ʕ j	261
+259	ps	261	wɬʔ̣	w ɬ ʔ̣	w ɬ ʔ̣	261
+47	akkadian	27	libbu	l i b b u	l i b b u	27
+48	arabic	27	lubb	l u b b	l u b b	27
+49	geez	27	ləbb	l ə b b	l ə b b	27
+50	hebrew	27	leːb	l eː b	l eː b	27
+51	syriac	27	lebbaː	l e b b aː	l e b b aː	27
+52	ugaritic	27	lb	l b	l b	27
+53	ps	27	libb	l i b b	l i b b	27
+438	akkadian	30	anaːku	a n aː k u	a n aː k u	30
+439	arabic	30	ʔana	ʔ a n a	ʔ a n a	30
+440	geez	30	ʔana	ʔ a n a	ʔ a n a	30
+441	hebrew	30	ʔăniː	ʔ ă n iː	ʔ ă n iː	30
+442	syriac	30	ʔenaː	ʔ e n aː	ʔ e n aː	30
+443	ugaritic	30	ʔan	ʔ a n	ʔ a n	30
+444	ps	30	ʔanaːku	ʔ a n aː k u	ʔ a n aː k u	30
+580	arabic	320	sqtˤ	s q tˤ	s q tˤ	320
+581	hebrew	320	ʃqˤtˤ	ʃ qˤ tˤ	ʃ qˤ tˤ	320
+582	syriac	320	ʃkaːtˤaː	ʃ k aː tˤ aː	ʃ k aː tˤ aː	320
+583	ps	320	ʃqˤtˤ	ʃ qˤ tˤ	ʃ qˤ tˤ	320
+321	akkadian	347	panu	p a n u	p a n u	347
+322	arabic	347	fnj	f n j	f n j	347
+323	geez	347	fannawa	f a n n a w a	f a n n a w a	347
+324	hebrew	347	paːniːm	p aː n iː m	p aː n iː m	347
+325	syriac	347	pnitaː	p n i t aː	p n i t aː	347
+326	ugaritic	347	pnm	p n m	p n m	347
+327	ps	347	pan	p a n	p a n	347
+266	akkadian	365	anpatu	a n p a t u	a n p a t u	365
+267	hebrew	365	ʔănaːpaː	ʔ ă n aː p aː	ʔ ă n aː p aː	365
+268	syriac	365	ʔanpaː	ʔ a n p aː	ʔ a n p aː	365
+269	ps	365	ʔanapat	ʔ a n a p a t	ʔ a n a p a t	365
+54	akkadian	377	ibreːtu	i b r eː t u	i b r eː t u	377
+55	hebrew	377	ʔeːbær	ʔ eː b æ r	ʔ eː b æ r	377
+56	ps	377	ʔibrat	ʔ i b r a t	ʔ i b r a t	377
+465	akkadian	394	eqˤbu	e qˤ b u	e qˤ b u	394
+466	arabic	394	ʕaqib	ʕ a q i b	ʕ a q i b	394
+467	geez	394	ʕaqˤaba	ʕ a qˤ a b a	ʕ a qˤ a b a	394
+468	hebrew	394	ʕaːqˤeːb	ʕ aː qˤ eː b	ʕ aː qˤ eː b	394
+469	syriac	394	ʕeqˤbaː	ʕ e qˤ b aː	ʕ e qˤ b aː	394
+470	ugaritic	394	ʕqˤb	ʕ qˤ b	ʕ qˤ b	394
+471	ps	394	ʕaqˤib	ʕ a qˤ i b	ʕ a qˤ i b	394
+693	akkadian	4	naʃaːku	n a ʃ aː k u	n a ʃ aː k u	4
+694	arabic	4	nkθ	n k θ	n k θ	4
+695	geez	4	nasaka	n a s a k a	n a s a k a	4
+696	hebrew	4	nʃk	n ʃ k	n ʃ k	4
+697	syriac	4	nkt	n k t	n k t	4
+698	ugaritic	4	nθk	n θ k	n θ k	4
+699	ps	4	nθk	n θ k	n θ k	4
+381	akkadian	409	etˤtˤettu	e tˤ tˤ e t t u	e tˤ tˤ e t t u	409
+382	arabic	409	ʔatˤad	ʔ a tˤ a d	ʔ a tˤ a d	409
+383	hebrew	409	ʔaːtˤaːd	ʔ aː tˤ aː d	ʔ aː tˤ aː d	409
+384	syriac	409	ʔatˤaːdaː	ʔ a tˤ aː d aː	ʔ a tˤ aː d aː	409
+385	ps	409	ʔatˤad	ʔ a tˤ a d	ʔ a tˤ a d	409
+270	akkadian	42	liːlâtu	l iː l â t u	l iː l â t u	42
+271	arabic	42	lajl	l a j l	l a j l	42
+272	geez	42	lelit	l e l i t	l e l i t	42
+273	hebrew	42	lajil	l a j i l	l a j i l	42
+274	syriac	42	leljaː	l e l j aː	l e l j aː	42
+275	ugaritic	42	ll	l l	l l	42
+276	ps	42	lajlij	l a j l i j	l a j l i j	42
+143	akkadian	44	esˤemtu	e sˤ e m t u	e sˤ e m t u	44
+144	arabic	44	ʕaðˤm	ʕ a ðˤ m	ʕ a ðˤ m	44
+145	geez	44	ʕaɬˤm	ʕ a ɬˤ m	ʕ a ɬˤ m	44
+146	hebrew	44	ʕæsˤæm	ʕ æ sˤ æ m	ʕ æ sˤ æ m	44
+147	syriac	44	tˤm	tˤ m	tˤ m	44
+148	ugaritic	44	ʕθˤm	ʕ θˤ m	ʕ θˤ m	44
+149	ps	44	ʕaθˤm	ʕ a θˤ m	ʕ a θˤ m	44
+492	akkadian	472	xalaːʃu	x a l aː ʃ u	x a l aː ʃ u	472
+493	arabic	472	xls	x l s	x l s	472
+494	hebrew	472	ħlʃ	ħ l ʃ	ħ l ʃ	472
+495	ps	472	xlʃ	x l ʃ	x l ʃ	472
+648	akkadian	475	ʃuːmuː	ʃ uː m uː	ʃ uː m uː	475
+649	arabic	475	θuːm	θ uː m	θ uː m	475
+650	geez	475	som	s o m	s o m	475
+651	hebrew	475	ʃuːm	ʃ uː m	ʃ uː m	475
+652	syriac	475	tuːmaː	t uː m aː	t uː m aː	475
+653	ps	475	θuːm	θ uː m	θ uː m	475
+456	akkadian	479	ʃiqˤdu	ʃ i qˤ d u	ʃ i qˤ d u	479
+457	hebrew	479	ʃaːqˤeːd	ʃ aː qˤ eː d	ʃ aː qˤ eː d	479
+458	syriac	479	ʃegdtaː	ʃ e g d t aː	ʃ e g d t aː	479
+459	ugaritic	479	θqˤd	θ qˤ d	θ qˤ d	479
+460	ps	479	θaqˤid	θ a qˤ i d	θ a qˤ i d	479
+671	akkadian	48	eperu	e p e r u	e p e r u	48
+672	arabic	48	ʕafar	ʕ a f a r	ʕ a f a r	48
+673	geez	48	ʔafar	ʔ a f a r	ʔ a f a r	48
+674	hebrew	48	ʕaːpaːr	ʕ aː p aː r	ʕ aː p aː r	48
+675	syriac	48	ʕapraː	ʕ a p r aː	ʕ a p r aː	48
+676	ugaritic	48	ʕpr	ʕ p r	ʕ p r	48
+677	ps	48	ʕapar	ʕ a p a r	ʕ a p a r	48
+730	arabic	483	tamr	t a m r	t a m r	483
+731	geez	483	tamr	t a m r	t a m r	483
+732	hebrew	483	taːmaːr	t aː m aː r	t aː m aː r	483
+733	ps	483	tamar	t a m a r	t a m a r	483
+131	arabic	487	ʔiθkaːl	ʔ i θ k aː l	ʔ i θ k aː l	487
+132	geez	487	ʔaskaːl	ʔ a s k aː l	ʔ a s k aː l	487
+133	hebrew	487	ʔæʃkoːl	ʔ æ ʃ k oː l	ʔ æ ʃ k oː l	487
+134	ugaritic	487	ʔuθkl	ʔ u θ k l	ʔ u θ k l	487
+135	ps	487	ʔθkaːl	ʔ θ k aː l	ʔ θ k aː l	487
+626	akkadian	493	uːsu	uː s u	uː s u	493
+627	arabic	493	ʔiwazz	ʔ i w a z z	ʔ i w a z z	493
+628	geez	493	zəj	z ə j	z ə j	493
+629	syriac	493	wazzaː	w a z z aː	w a z z aː	493
+630	ugaritic	493	ʔuz	ʔ u z	ʔ u z	493
+631	ps	493	ʔa	ʔ a	ʔ a	493
+705	akkadian	497	ajaːsˤu	a j aː sˤ u	a j aː sˤ u	497
+706	geez	497	ʔansˤawaː	ʔ a n sˤ a w aː	ʔ a n sˤ a w aː	497
+707	ps	497	ʔajasˤ	ʔ a j a sˤ	ʔ a j a sˤ	497
+555	akkadian	500	binu	b i n u	b i n u	500
+556	arabic	500	ʔibn	ʔ i b n	ʔ i b n	500
+557	hebrew	500	beːn	b eː n	b eː n	500
+558	ugaritic	500	bn	b n	b n	500
+559	ps	500	bin	b i n	b i n	500
+232	akkadian	529	naːru	n aː r u	n aː r u	529
+233	arabic	529	nahr	n a h r	n a h r	529
+234	hebrew	529	naːhaːr	n aː h aː r	n aː h aː r	529
+235	syriac	529	nahraː	n a h r aː	n a h r aː	529
+236	ugaritic	529	nhr	n h r	n h r	529
+237	ps	529	nahr	n a h r	n a h r	529
+164	akkadian	534	buːru	b uː r u	b uː r u	534
+165	arabic	534	burat	b u r a t	b u r a t	534
+166	geez	534	barbir	b a r b i r	b a r b i r	534
+167	hebrew	534	boːr	b oː r	b oː r	534
+168	syriac	534	beːraː	b eː r aː	b eː r aː	534
+169	ugaritic	534	biʔr	b i ʔ r	b i ʔ r	534
+170	ps	534	biʔr	b i ʔ r	b i ʔ r	534
+37	akkadian	543	birqˤu	b i r qˤ u	b i r qˤ u	543
+38	arabic	543	barq	b a r q	b a r q	543
+39	geez	543	mabraqˤ	m a b r a qˤ	m a b r a qˤ	543
+40	hebrew	543	baːraːqˤ	b aː r aː qˤ	b aː r aː qˤ	543
+41	syriac	543	barqˤaː	b a r qˤ aː	b a r qˤ aː	543
+42	ugaritic	543	brqˤ	b r qˤ	b r qˤ	543
+43	ps	543	baraqˤ	b a r a qˤ	b a r a qˤ	543
+175	akkadian	552	peːmtu	p eː m t u	p eː m t u	552
+176	arabic	552	faħm	f a ħ m	f a ħ m	552
+177	geez	552	fəħm	f ə ħ m	f ə ħ m	552
+178	hebrew	552	pæħaːm	p æ ħ aː m	p æ ħ aː m	552
+179	syriac	552	paħmaː	p a ħ m aː	p a ħ m aː	552
+180	ugaritic	552	pħm	p ħ m	p ħ m	552
+181	ps	552	pħm	p ħ m	p ħ m	552
+700	akkadian	553	emmu	e m m u	e m m u	553
+701	arabic	553	ħmm	ħ m m	ħ m m	553
+702	hebrew	553	ħaːm	ħ aː m	ħ aː m	553
+703	syriac	553	ħammimā	ħ a m m i m ā	ħ a m m i m ā	553
+704	ps	553	ħmm	ħ m m	ħ m m	553
+496	akkadian	558	daʔaːmu	d a ʔ aː m u	d a ʔ aː m u	558
+497	arabic	558	ʔadham	ʔ a d h a m	ʔ a d h a m	558
+498	ps	558	dhm	d h m	d h m	558
+68	akkadian	559	ʃeːru	ʃ eː r u	ʃ eː r u	559
+69	arabic	559	saħar	s a ħ a r	s a ħ a r	559
+70	hebrew	559	ʃaħar	ʃ a ħ a r	ʃ a ħ a r	559
+71	ugaritic	559	ʃħr	ʃ ħ r	ʃ ħ r	559
+72	ps	559	ʃaħr	ʃ a ħ r	ʃ a ħ r	559
+658	akkadian	56	kakkabu	k a k k a b u	k a k k a b u	56
+659	arabic	56	kawkab	k a w k a b	k a w k a b	56
+660	geez	56	kokab	k o k a b	k o k a b	56
+661	hebrew	56	koːkaːb	k oː k aː b	k oː k aː b	56
+662	syriac	56	kawkbaː	k a w k b aː	k a w k b aː	56
+663	ugaritic	56	kbkb	k b k b	k b k b	56
+664	ps	56	kabkab	k a b k a b	k a b k a b	56
+687	akkadian	570	emeːtu	e m eː t u	e m eː t u	570
+688	arabic	570	ħamaːt	ħ a m aː t	ħ a m aː t	570
+689	geez	570	ħamot	ħ a m o t	ħ a m o t	570
+690	hebrew	570	ħaːmoːt	ħ aː m oː t	ħ aː m oː t	570
+691	syriac	570	ħmaːtaː	ħ m aː t aː	ħ m aː t aː	570
+692	ps	570	ħamaːt	ħ a m aː t	ħ a m aː t	570
+711	akkadian	572	ʃuttu	ʃ u t t u	ʃ u t t u	572
+712	arabic	572	sinat	s i n a t	s i n a t	572
+713	hebrew	572	ʃeːnaː	ʃ eː n aː	ʃ eː n aː	572
+714	syriac	572	ʃentaː	ʃ e n t aː	ʃ e n t aː	572
+715	ugaritic	572	ʃnt	ʃ n t	ʃ n t	572
+716	ps	572	ʃinat	ʃ i n a t	ʃ i n a t	572
+352	akkadian	596	sˤeːnu	sˤ eː n u	sˤ eː n u	596
+353	arabic	596	dˤaʔn	dˤ a ʔ n	dˤ a ʔ n	596
+354	hebrew	596	sˤoːn	sˤ oː n	sˤ oː n	596
+355	syriac	596	ʕaːnaː	ʕ aː n aː	ʕ aː n aː	596
+356	ugaritic	596	sˤʔin	sˤ ʔ i n	sˤ ʔ i n	596
+357	ps	596	ɬˤaʔn	ɬˤ a ʔ n	ɬˤ a ʔ n	596
+425	akkadian	603	xuraːpu	x u r aː p u	x u r aː p u	603
+426	arabic	603	xaruːf	x a r uː f	x a r uː f	603
+427	syriac	603	ħurpaː	ħ u r p aː	ħ u r p aː	603
+428	ugaritic	603	xprt	x p r t	x p r t	603
+429	ps	603	xrp	x r p	x r p	603
+114	akkadian	619	nimru	n i m r u	n i m r u	619
+115	arabic	619	nimr	n i m r	n i m r	619
+116	geez	619	namr	n a m r	n a m r	619
+117	hebrew	619	naːmeːr	n aː m eː r	n aː m eː r	619
+118	syriac	619	nemraː	n e m r aː	n e m r aː	619
+119	ps	619	namir	n a m i r	n a m i r	619
+10	akkadian	628	xuzaːlu	x u z aː l u	x u z aː l u	628
+11	arabic	628	ɣazaːl	ɣ a z aː l	ɣ a z aː l	628
+12	syriac	628	ʕuːzajlaː	ʕ uː z a j l aː	ʕ uː z a j l aː	628
+13	ps	628	ɣzaːl	ɣ z aː l	ɣ z aː l	628
+18	akkadian	639	piːru	p iː r u	p iː r u	639
+19	arabic	639	fiːl	f iː l	f iː l	639
+20	geez	639	falfal	f a l f a l	f a l f a l	639
+21	hebrew	639	piːl	p iː l	p iː l	639
+22	syriac	639	piːlaː	p iː l aː	p iː l aː	639
+23	ps	639	piːl	p iː l	p iː l	639
+503	akkadian	647	sinuntu	s i n u n t u	s i n u n t u	647
+504	arabic	647	sunuːnuw	s u n uː n u w	s u n uː n u w	647
+505	hebrew	647	sənuːniːt	s ə n uː n iː t	s ə n uː n iː t	647
+506	syriac	647	snuːniːtaː	s n uː n iː t aː	s n uː n iː t aː	647
+507	ugaritic	647	snnt	s n n t	s n n t	647
+508	ps	647	snuːnat	s n uː n a t	s n uː n a t	647
+315	akkadian	674	naːbu	n aː b u	n aː b u	674
+316	syriac	674	naːbaː	n aː b aː	n aː b aː	674
+317	ps	674	naːb	n aː b	n aː b	674
+196	akkadian	678	sˤarsˤaru	sˤ a r sˤ a r u	sˤ a r sˤ a r u	678
+197	arabic	678	sˤarsˤar	sˤ a r sˤ a r	sˤ a r sˤ a r	678
+198	hebrew	678	sˤarsˤuːr	sˤ a r sˤ uː r	sˤ a r sˤ uː r	678
+199	syriac	678	sˤarsˤuːraː	sˤ a r sˤ uː r aː	sˤ a r sˤ uː r aː	678
+200	ps	678	sˤarsˤar	sˤ a r sˤ a r	sˤ a r sˤ a r	678
+361	akkadian	682	tuːltu	t uː l t u	t uː l t u	682
+362	hebrew	682	toːleːʕaː	t oː l eː ʕ aː	t oː l eː ʕ aː	682
+363	syriac	682	tawlʕaː	t a w l ʕ aː	t a w l ʕ aː	682
+364	ps	682	tawliʕat	t a w l i ʕ a t	t a w l i ʕ a t	682
+79	akkadian	697	kimkimmu	k i m k i m m u	k i m k i m m u	697
+80	arabic	697	kumm	k u m m	k u m m	697
+81	ps	697	km	k m	k m	697
+88	akkadian	7	ʃatû	ʃ a t û	ʃ a t û	7
+89	geez	7	satja	s a t j a	s a t j a	7
+90	hebrew	7	ʃtj	ʃ t j	ʃ t j	7
+91	syriac	7	ʃtj	ʃ t j	ʃ t j	7
+92	ugaritic	7	ʃtj	ʃ t j	ʃ t j	7
+93	ps	7	ʃtj	ʃ t j	ʃ t j	7
+291	akkadian	721	dadaːnu	d a d aː n u	d a d aː n u	721
+292	arabic	721	dajd	d a j d	d a j d	721
+293	hebrew	721	dad	d a d	d a d	721
+294	ugaritic	721	dd	d d	d d	721
+295	ps	721	dd	d d	d d	721
+533	akkadian	722	ziːzu	z iː z u	z iː z u	722
+534	arabic	722	ziːza	z iː z a	z iː z a	722
+535	hebrew	722	ziːz	z iː z	z iː z	722
+536	ugaritic	722	ðd	ð d	ð d	722
+537	ps	722	ziːð	z iː ð	z iː ð	722
+637	arabic	734	sath	s a t h	s a t h	734
+638	hebrew	734	ʃeːt	ʃ eː t	ʃ eː t	734
+639	syriac	734	ʔeʃtaː	ʔ e ʃ t aː	ʔ e ʃ t aː	734
+640	ugaritic	734	ʃt	ʃ t	ʃ t	734
+641	ps	734	ʃit	ʃ i t	ʃ i t	734
+376	akkadian	741	martu	m a r t u	m a r t u	741
+377	arabic	741	mirrat	m i r r a t	m i r r a t	741
+378	hebrew	741	məroːraː	m ə r oː r aː	m ə r oː r aː	741
+379	syriac	741	mraːraːta	m r aː r aː t a	m r aː r aː t a	741
+380	ps	741	mrrat	m r r a t	m r r a t	741
+24	arabic	747	tˤiħaːl	tˤ i ħ aː l	tˤ i ħ aː l	747
+25	hebrew	747	tˤəħoːl	tˤ ə ħ oː l	tˤ ə ħ oː l	747
+26	syriac	747	tˤħaːlaː	tˤ ħ aː l aː	tˤ ħ aː l aː	747
+27	ugaritic	747	tˤħl	tˤ ħ l	tˤ ħ l	747
+28	ps	747	tˤiħaːl	tˤ i ħ aː l	tˤ i ħ aː l	747
+201	akkadian	749	bisˤsˤuːru	b i sˤ sˤ uː r u	b i sˤ sˤ uː r u	749
+202	arabic	749	bunðˤur	b u n ðˤ u r	b u n ðˤ u r	749
+203	ps	749	bnθˤur	b n θˤ u r	b n θˤ u r	749
+708	akkadian	750	ʃapru	ʃ a p r u	ʃ a p r u	750
+709	arabic	750	θafr	θ a f r	θ a f r	750
+710	ps	750	θapr	θ a p r	θ a p r	750
+717	akkadian	751	urullu	u r u l l u	u r u l l u	751
+718	arabic	751	ɣurlat	ɣ u r l a t	ɣ u r l a t	751
+719	hebrew	751	ʕorlaː	ʕ o r l aː	ʕ o r l aː	751
+720	syriac	751	ʕurluːtaː	ʕ u r l uː t aː	ʕ u r l uː t aː	751
+721	ps	751	ɣurl	ɣ u r l	ɣ u r l	751
+304	akkadian	754	gulgullatu	g u l g u l l a t u	g u l g u l l a t u	754
+305	arabic	754	galagat	g a l a g a t	g a l a g a t	754
+306	hebrew	754	gulgoːlæt	g u l g oː l æ t	g u l g oː l æ t	754
+307	ps	754	glglat	g l g l a t	g l g l a t	754
+668	akkadian	789	niʃuː	n i ʃ uː	n i ʃ uː	789
+669	ugaritic	789	nʃm	n ʃ m	n ʃ m	789
+670	ps	789	nʃ	n ʃ	n ʃ	789
+32	akkadian	796	zabaːlu	z a b aː l u	z a b aː l u	796
+33	arabic	796	zbl	z b l	z b l	796
+34	hebrew	796	zəbuːl	z ə b uː l	z ə b uː l	796
+35	ugaritic	796	zbl	z b l	z b l	796
+36	ps	796	zbl	z b l	z b l	796
+449	akkadian	803	aruːpu	a r uː p u	a r uː p u	803
+450	arabic	803	ʕurf	ʕ u r f	ʕ u r f	803
+451	hebrew	803	ʕoːræp	ʕ oː r æ p	ʕ oː r æ p	803
+452	ps	803	ɣarp	ɣ a r p	ɣ a r p	803
+277	akkadian	820	naxiːru	n a x iː r u	n a x iː r u	820
+278	arabic	820	nuxrat	n u x r a t	n u x r a t	820
+279	hebrew	820	nəħiːrajim	n ə ħ iː r a j i m	n ə ħ iː r a j i m	820
+280	syriac	820	nħiːreː	n ħ iː r eː	n ħ iː r eː	820
+281	ps	820	naxiːr	n a x iː r	n a x iː r	820
+574	akkadian	824	leːtu	l eː t u	l eː t u	824
+575	arabic	824	liħjat	l i ħ j a t	l i ħ j a t	824
+576	geez	824	maltaːħt	m a l t aː ħ t	m a l t aː ħ t	824
+577	hebrew	824	ləħiː	l ə ħ iː	l ə ħ iː	824
+578	ugaritic	824	lħm	l ħ m	l ħ m	824
+579	ps	824	lħjat	l ħ j a t	l ħ j a t	824
+386	akkadian	841	katappaːtu	k a t a p p aː t u	k a t a p p aː t u	841
+387	arabic	841	katif	k a t i f	k a t i f	841
+388	geez	841	matkaf	m a t k a f	m a t k a f	841
+389	hebrew	841	kaːteːp	k aː t eː p	k aː t eː p	841
+390	syriac	841	katpaː	k a t p aː	k a t p aː	841
+391	ugaritic	841	ktp	k t p	k t p	841
+392	ps	841	katip	k a t i p	k a t i p	841
+14	akkadian	845	kursinnu	k u r s i n n u	k u r s i n n u	845
+15	arabic	845	kursuːʕ	k u r s uː ʕ	k u r s uː ʕ	845
+16	syriac	845	karsuːʕaː	k a r s uː ʕ aː	k a r s uː ʕ aː	845
+17	ps	845	kursʕ	k u r s ʕ	k u r s ʕ	845
+225	akkadian	846	kisˤallu	k i sˤ a l l u	k i sˤ a l l u	846
+226	hebrew	846	qˤarsˤullajim	qˤ a r sˤ u l l a j i m	qˤ a r sˤ u l l a j i m	846
+227	syriac	846	qˤursˤlaː	qˤ u r sˤ l aː	qˤ u r sˤ l aː	846
+228	ps	846	qˤrs	qˤ r s	qˤ r s	846
+63	akkadian	85	iʃaːtu	i ʃ aː t u	i ʃ aː t u	85
+64	geez	85	ʔəsaːt	ʔ ə s aː t	ʔ ə s aː t	85
+65	hebrew	85	ʔeːʃ	ʔ eː ʃ	ʔ eː ʃ	85
+66	ugaritic	85	ʔiʃt	ʔ i ʃ t	ʔ i ʃ t	85
+67	ps	85	ʔiʃ	ʔ i ʃ	ʔ i ʃ	85
+6	akkadian	850	qˤuqˤqˤubaːtu	qˤ u qˤ qˤ u b aː t u	qˤ u qˤ qˤ u b aː t u	850
+7	arabic	850	qibat	q i b a t	q i b a t	850
+8	hebrew	850	qˤeːbaː	qˤ eː b aː	qˤ eː b aː	850
+9	ps	850	qˤbat	qˤ b a t	qˤ b a t	850
+595	akkadian	891	ruʔu	r u ʔ u	r u ʔ u	891
+596	arabic	891	ʔurʕuwwat	ʔ u r ʕ u w w a t	ʔ u r ʕ u w w a t	891
+597	geez	891	ʔarʕut	ʔ a r ʕ u t	ʔ a r ʕ u t	891
+598	hebrew	891	reːaʕ	r eː a ʕ	r eː a ʕ	891
+599	ugaritic	891	rʕ	r ʕ	r ʕ	891
+600	ps	891	rʕw	r ʕ w	r ʕ w	891
+187	akkadian	894	maraːsˤu	m a r aː sˤ u	m a r aː sˤ u	894
+188	arabic	894	mrdˤ	m r dˤ	m r dˤ	894
+189	hebrew	894	mrsˤ	m r sˤ	m r sˤ	894
+190	syriac	894	məraʕ	m ə r a ʕ	m ə r a ʕ	894
+191	ugaritic	894	mrsˤ	m r sˤ	m r sˤ	894
+192	ps	894	mrɬˤ	m r ɬˤ	m r ɬˤ	894
+82	akkadian	897	rakaːbu	r a k aː b u	r a k aː b u	897
+83	arabic	897	rkb	r k b	r k b	897
+84	geez	897	taraːkaba	t a r aː k a b a	t a r aː k a b a	897
+85	syriac	897	rkb	r k b	r k b	897
+86	ugaritic	897	mrkbt	m r k b t	m r k b t	897
+87	ps	897	rkb	r k b	r k b	897
+523	akkadian	900	eneːqˤu	e n eː qˤ u	e n eː qˤ u	900
+524	arabic	900	nqw	n q w	n q w	900
+525	hebrew	900	jnqˤ	j n qˤ	j n qˤ	900
+526	syriac	900	jnqˤ	j n qˤ	j n qˤ	900
+527	ugaritic	900	jnqˤ	j n qˤ	j n qˤ	900
+528	ps	900	jnqˤ	j n qˤ	j n qˤ	900
+461	geez	911	rəħɬˤa	r ə ħ ɬˤ a	r ə ħ ɬˤ a	911
+462	hebrew	911	rħsˤ	r ħ sˤ	r ħ sˤ	911
+463	ugaritic	911	rħsˤ	r ħ sˤ	r ħ sˤ	911
+464	ps	911	rħɬˤ	r ħ ɬˤ	r ħ ɬˤ	911
+328	akkadian	94	warxu	w a r x u	w a r x u	94
+329	geez	94	warx	w a r x	w a r x	94
+330	hebrew	94	jaːreːaħ	j aː r eː a ħ	j aː r eː a ħ	94
+331	syriac	94	jarħaː	j a r ħ aː	j a r ħ aː	94
+332	ugaritic	94	jrx	j r x	j r x	94
+333	ps	94	warx	w a r x	w a r x	94
+57	akkadian	945	geʃû	g e ʃ û	g e ʃ û	945
+58	arabic	945	gʃʔ	g ʃ ʔ	g ʃ ʔ	945
+59	geez	945	gʷæɬʕa	gʷ æ ɬ ʕ a	gʷ æ ɬ ʕ a	945
+60	hebrew	945	gʕʃ	g ʕ ʃ	g ʕ ʃ	945
+61	syriac	945	gsj	g s j	g s j	945
+62	ps	945	gɬʕ	g ɬ ʕ	g ɬ ʕ	945
+726	akkadian	960	xaraːʃu	x a r aː ʃ u	x a r aː ʃ u	960
+727	arabic	960	xrs	x r s	x r s	960
+728	geez	960	xarasa	x a r a s a	x a r a s a	960
+729	ps	960	xrʃ	x r ʃ	x r ʃ	960
+308	akkadian	98	ʃurʃu	ʃ u r ʃ u	ʃ u r ʃ u	98
+309	arabic	98	ʃarx	ʃ a r x	ʃ a r x	98
+310	geez	98	ɬərw	ɬ ə r w	ɬ ə r w	98
+311	hebrew	98	ʃoːræʃ	ʃ oː r æ ʃ	ʃ oː r æ ʃ	98
+312	syriac	98	ʃerʃaː	ʃ e r ʃ aː	ʃ e r ʃ aː	98
+313	ugaritic	98	ʃrʃ	ʃ r ʃ	ʃ r ʃ	98
+314	ps	98	ɬrʃ	ɬ r ʃ	ɬ r ʃ	98
+343	akkadian	987	ziblu	z i b l u	z i b l u	987
+344	arabic	987	zibl	z i b l	z i b l	987
+345	geez	987	zəbl	z ə b l	z ə b l	987
+346	hebrew	987	zæbæl	z æ b æ l	z æ b æ l	987
+347	syriac	987	zeblaː	z e b l aː	z e b l aː	987
+348	ps	987	zibl	z i b l	z i b l	987

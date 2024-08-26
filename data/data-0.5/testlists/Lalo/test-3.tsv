@@ -1,0 +1,3925 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	COGID
+484	Diaocao	10053	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	10053
+485	Mangdi	10053	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	10053
+486	Qingyun	10053	ʈʂʅ⁵⁵	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	10053
+487	Shuizhuping	10053	ʈʂʅ⁵⁵	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	10053
+488	Xuzhang	10053	ʈʂʅ³³	ʈʂ ʅ ³³	ʈʂ ʅ ³³	10053
+489	Yangliu	10053	tɕʰi³³	tɕʰ i ³³	tɕʰ i ³³	10053
+490	Yijiacun	10053	tsʰa³³	tsʰ a ³³	tsʰ a ³³	10053
+491	ProtoLalo	10053	tʃu¹	tʃ u ¹	tʃ u ¹	10053
+3574	Diaocao	10071	sei³¹	s ei ³¹	s ei ³¹	10071
+3575	Qingyun	10071	dzɿ³³	dz ɿ ³³	dz ɿ ³³	10071
+3576	Shuizhuping	10071	dzɿ³³	dz ɿ ³³	dz ɿ ³³	10071
+3577	Yijiacun	10071	tɛ²¹	t ɛ ²¹	t ɛ ²¹	10071
+3578	ProtoLalo	10071	dzi²	dz i ²	dz i ²	10071
+3106	Diaocao	10099	ma²¹	m a ²¹	m a ²¹	10099
+3107	Mangdi	10099	mɑ²¹	m ɑ ²¹	m ɑ ²¹	10099
+3108	Qingyun	10099	mṳ²¹	m ṳ ²¹	m ṳ ²¹	10099
+3109	Shuizhuping	10099	mu²¹	m u ²¹	m u ²¹	10099
+3110	Xuzhang	10099	ma²¹	m a ²¹	m a ²¹	10099
+3111	Yangliu	10099	mu²¹	m u ²¹	m u ²¹	10099
+3112	Yijiacun	10099	ma²¹	m a ²¹	m a ²¹	10099
+3113	ProtoLalo	10099	maŋ²	m a ŋ ²	m a ŋ ²	10099
+1590	Diaocao	10100	li⁵⁵	l i ⁵⁵	l i ⁵⁵	10100
+1591	Mangdi	10100	lɨ⁵⁵	l ɨ ⁵⁵	l ɨ ⁵⁵	10100
+1592	Shuizhuping	10100	li²⁴	l i ²⁴	l i ²⁴	10100
+1593	Yijiacun	10100	lɨ²⁴	l ɨ ²⁴	l ɨ ²⁴	10100
+1594	ProtoLalo	10100	ˀli¹	ˀl i ¹	ˀl i ¹	10100
+3045	Diaocao	10160	tɕi³³	tɕ i ³³	tɕ i ³³	10160
+3046	Mangdi	10160	tɕi³³	tɕ i ³³	tɕ i ³³	10160
+3047	Qingyun	10160	tsi̤²¹	ts i̤ ²¹	ts i̤ ²¹	10160
+3048	Shuizhuping	10160	tse²¹	ts e ²¹	ts e ²¹	10160
+3049	Xuzhang	10160	tse²¹	ts e ²¹	ts e ²¹	10160
+3050	Yangliu	10160	tɕjɛ²¹	tɕ j ɛ ²¹	tɕ j ɛ ²¹	10160
+3051	Yijiacun	10160	tɕi²¹	tɕ i ²¹	tɕ i ²¹	10160
+3052	ProtoLalo	10160	tse²	ts e ²	ts e ²	10160
+932	Diaocao	10176	pʰi²¹	pʰ i ²¹	pʰ i ²¹	10176
+933	Mangdi	10176	pʰi²¹	pʰ i ²¹	pʰ i ²¹	10176
+934	Qingyun	10176	fi²¹	f i ²¹	f i ²¹	10176
+935	Yijiacun	10176	pʰi³³	pʰ i ³³	pʰ i ³³	10176
+936	ProtoLalo	10176	pʰi²	pʰ i ²	pʰ i ²	10176
+3534	Diaocao	102	tsɔ³³	ts ɔ ³³	ts ɔ ³³	102
+3535	Mangdi	102	xɨ³³	x ɨ ³³	x ɨ ³³	102
+3536	Qingyun	102	tsa³³	ts a ³³	ts a ³³	102
+3537	Shuizhuping	102	tsa³³	ts a ³³	ts a ³³	102
+3538	Yijiacun	102	so³³	s o ³³	s o ³³	102
+3539	ProtoLalo	102	tsa³	ts a ³	ts a ³	102
+3277	Diaocao	10240	swe²¹	s w e ²¹	s w e ²¹	10240
+3278	Shuizhuping	10240	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	10240
+3279	Xuzhang	10240	ɕy²¹	ɕ y ²¹	ɕ y ²¹	10240
+3280	Yangliu	10240	swei³³	s w ei ³³	s w ei ³³	10240
+3281	Yijiacun	10240	gi³³	g i ³³	g i ³³	10240
+3282	ProtoLalo	10240	ʃy¹	ʃ y ¹	ʃ y ¹	10240
+779	Diaocao	10276	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	10276
+780	Qingyun	10276	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	10276
+781	Shuizhuping	10276	ti²⁴	t i ²⁴	t i ²⁴	10276
+782	Xuzhang	10276	ti⁴⁵³	t i ⁴⁵³	t i ⁴⁵³	10276
+783	Yijiacun	10276	tɨ²⁴	t ɨ ²⁴	t ɨ ²⁴	10276
+784	ProtoLalo	10276	ti¹	t i ¹	t i ¹	10276
+1769	Diaocao	10307	lə²¹	l ə ²¹	l ə ²¹	10307
+1770	Mangdi	10307	lo²¹	l o ²¹	l o ²¹	10307
+1771	Qingyun	10307	ly²¹	l y ²¹	l y ²¹	10307
+1772	ProtoLalo	10307	ly²	l y ²	l y ²	10307
+1475	Diaocao	1040	kɤ⁵⁵	k ɤ ⁵⁵	k ɤ ⁵⁵	1040
+1476	Qingyun	1040	kə⁵⁵	k ə ⁵⁵	k ə ⁵⁵	1040
+1477	Xuzhang	1040	kɤ⁴⁴	k ɤ ⁴⁴	k ɤ ⁴⁴	1040
+1478	Yangliu	1040	kɤ²¹	k ɤ ²¹	k ɤ ²¹	1040
+1479	ProtoLalo	1040	ku²	k u ²	k u ²	1040
+701	Diaocao	10426	lɔ²¹	l ɔ ²¹	l ɔ ²¹	10426
+702	Mangdi	10426	lo²¹	l o ²¹	l o ²¹	10426
+703	Qingyun	10426	ˀla̤²¹	ˀl a̤ ²¹	ˀl a̤ ²¹	10426
+704	Shuizhuping	10426	la²¹	l a ²¹	l a ²¹	10426
+705	Xuzhang	10426	lo²¹	l o ²¹	l o ²¹	10426
+706	Yangliu	10426	la²¹	l a ²¹	l a ²¹	10426
+707	Yijiacun	10426	lo̠ʔ²¹	l o̠ ʔ ²¹	l o̠ ʔ ²¹	10426
+708	ProtoLalo	10426	ˀla²	ˀl a ²	ˀl a ²	10426
+1010	Shuizhuping	10438	ve²¹	v e ²¹	v e ²¹	10438
+1011	Xuzhang	10438	wu²¹	w u ²¹	w u ²¹	10438
+1012	Yijiacun	10438	pʰɛ²¹	pʰ ɛ ²¹	pʰ ɛ ²¹	10438
+1013	ProtoLalo	10438	vy²	v y ²	v y ²	10438
+946	Diaocao	10524	m̩²¹	m̩ ²¹	m̩ ²¹	10524
+947	Qingyun	10524	m̩²¹	m̩ ²¹	m̩ ²¹	10524
+948	Shuizhuping	10524	m̩²¹	m̩ ²¹	m̩ ²¹	10524
+949	Yangliu	10524	m̩²¹	m̩ ²¹	m̩ ²¹	10524
+950	ProtoLalo	10524	mu²	m u ²	m u ²	10524
+2238	Diaocao	10525	bɛ²⁴	b ɛ ²⁴	b ɛ ²⁴	10525
+2239	Qingyun	10525	bɛ⁵⁵	b ɛ ⁵⁵	b ɛ ⁵⁵	10525
+2240	Shuizhuping	10525	bɛ²⁴	b ɛ ²⁴	b ɛ ²⁴	10525
+2241	Xuzhang	10525	bɛ²⁴	b ɛ ²⁴	b ɛ ²⁴	10525
+2242	Yangliu	10525	bɛ³³	b ɛ ³³	b ɛ ³³	10525
+2243	Yijiacun	10525	pʰi²¹	pʰ i ²¹	pʰ i ²¹	10525
+2244	ProtoLalo	10525	bɛ¹	b ɛ ¹	b ɛ ¹	10525
+1540	Diaocao	10643	tʰa³³	tʰ a ³³	tʰ a ³³	10643
+1541	Mangdi	10643	tɛ̠⁵⁵	t ɛ̠ ⁵⁵	t ɛ̠ ⁵⁵	10643
+1542	Qingyun	10643	tsʰa³³	tsʰ a ³³	tsʰ a ³³	10643
+1543	Shuizhuping	10643	tsʰɛ⁴⁴	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	10643
+1544	ProtoLalo	10643	tsʰɛ̠¹	tsʰ ɛ̠ ¹	tsʰ ɛ̠ ¹	10643
+2702	Diaocao	10663	vei⁴²	v ei ⁴²	v ei ⁴²	10663
+2703	Mangdi	10663	vɛ̠²¹	v ɛ̠ ²¹	v ɛ̠ ²¹	10663
+2704	Qingyun	10663	vɛ̠²¹	v ɛ̠ ²¹	v ɛ̠ ²¹	10663
+2705	Shuizhuping	10663	veʔ⁵³	v e ʔ ⁵³	v e ʔ ⁵³	10663
+2706	Xuzhang	10663	vɛ̠i³²	v ɛ̠i ³²	v ɛ̠i ³²	10663
+2707	Yangliu	10663	vei⁵³	v ei ⁵³	v ei ⁵³	10663
+2708	Yijiacun	10663	vi̠ʔ³¹	v i̠ ʔ ³¹	v i̠ ʔ ³¹	10663
+2709	ProtoLalo	10663	ve̠³	v e̠ ³	v e̠ ³	10663
+1116	Mangdi	10664	a⁵⁵	a ⁵⁵	a ⁵⁵	10664
+1117	Qingyun	10664	a⁵⁵	a ⁵⁵	a ⁵⁵	10664
+1118	Shuizhuping	10664	a³³	a ³³	a ³³	10664
+1119	Xuzhang	10664	a³³	a ³³	a ³³	10664
+1120	Yangliu	10664	a⁴⁴	a ⁴⁴	a ⁴⁴	10664
+1121	Yijiacun	10664	a²⁴	a ²⁴	a ²⁴	10664
+1122	ProtoLalo	10664	a¹	a ¹	a ¹	10664
+2258	Diaocao	10713	ka²¹	k a ²¹	k a ²¹	10713
+2259	Mangdi	10713	kʰa²¹	kʰ a ²¹	kʰ a ²¹	10713
+2260	Qingyun	10713	ka̠²¹	k a̠ ²¹	k a̠ ²¹	10713
+2261	Shuizhuping	10713	ka⁵⁵	k a ⁵⁵	k a ⁵⁵	10713
+2262	Xuzhang	10713	ka³³	k a ³³	k a ³³	10713
+2263	Yangliu	10713	ka⁵⁵	k a ⁵⁵	k a ⁵⁵	10713
+2264	Yijiacun	10713	kʰa̠²¹	kʰ a̠ ²¹	kʰ a̠ ²¹	10713
+2265	ProtoLalo	10713	ka̠³	k a̠ ³	k a̠ ³	10713
+1004	Diaocao	10714	dɤ²⁴	d ɤ ²⁴	d ɤ ²⁴	10714
+1005	Mangdi	10714	du⁵⁵	d u ⁵⁵	d u ⁵⁵	10714
+1006	Qingyun	10714	də⁵⁵	d ə ⁵⁵	d ə ⁵⁵	10714
+1007	Yangliu	10714	dɤ³³	d ɤ ³³	d ɤ ³³	10714
+1008	Yijiacun	10714	du³³	d u ³³	d u ³³	10714
+1009	ProtoLalo	10714	du¹	d u ¹	d u ¹	10714
+1879	Qingyun	10716	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	10716
+1880	Shuizhuping	10716	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	10716
+1881	Xuzhang	10716	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	10716
+1882	Yijiacun	10716	na³³	n a ³³	n a ³³	10716
+1883	ProtoLalo	10716	nu²	n u ²	n u ²	10716
+2710	Diaocao	10763	tsu³³	ts u ³³	ts u ³³	10763
+2711	Mangdi	10763	tsu³³	ts u ³³	ts u ³³	10763
+2712	Qingyun	10763	tso̠³³	ts o̠ ³³	ts o̠ ³³	10763
+2713	Shuizhuping	10763	tsʰɿ⁵³	tsʰ ɿ ⁵³	tsʰ ɿ ⁵³	10763
+2714	Xuzhang	10763	tsu̠³³	ts u̠ ³³	ts u̠ ³³	10763
+2715	Yijiacun	10763	tsu³³	ts u ³³	ts u ³³	10763
+2716	ProtoLalo	10763	tso̠¹	ts o̠ ¹	ts o̠ ¹	10763
+689	Mangdi	10862	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	10862
+690	Qingyun	10862	ˀlo̠³³	ˀl o̠ ³³	ˀl o̠ ³³	10862
+691	Shuizhuping	10862	lu⁴⁴	l u ⁴⁴	l u ⁴⁴	10862
+692	Yangliu	10862	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	10862
+693	Yijiacun	10862	lu̠³³	l u̠ ³³	l u̠ ³³	10862
+694	ProtoLalo	10862	ˀlo̠¹	ˀl o̠ ¹	ˀl o̠ ¹	10862
+1555	Diaocao	10874	pʰei²¹	pʰ ei ²¹	pʰ ei ²¹	10874
+1556	Qingyun	10874	pʰi̥²¹	pʰ i̥ ²¹	pʰ i̥ ²¹	10874
+1557	Shuizhuping	10874	pʰɛ²¹	pʰ ɛ ²¹	pʰ ɛ ²¹	10874
+1558	Xuzhang	10874	pʰɛi²¹	pʰ ɛi ²¹	pʰ ɛi ²¹	10874
+1559	Yangliu	10874	pʰai²¹	pʰ ai ²¹	pʰ ai ²¹	10874
+1560	ProtoLalo	10874	pʰe²	pʰ e ²	pʰ e ²	10874
+3524	Diaocao	1089	ta³³	t a ³³	t a ³³	1089
+3525	Qingyun	1089	ta³³	t a ³³	t a ³³	1089
+3526	Shuizhuping	1089	tɛ³³	t ɛ ³³	t ɛ ³³	1089
+3527	Xuzhang	1089	tɛi³³	t ɛi ³³	t ɛi ³³	1089
+3528	ProtoLalo	1089	ta³	t a ³	t a ³	1089
+763	Diaocao	1090	sə⁵⁵	s ə ⁵⁵	s ə ⁵⁵	1090
+764	Shuizhuping	1090	sɛ³³	s ɛ ³³	s ɛ ³³	1090
+765	Yangliu	1090	zu⁵⁵	z u ⁵⁵	z u ⁵⁵	1090
+766	ProtoLalo	1090	si³	s i ³	s i ³	1090
+1290	Diaocao	10923	a⁵⁵	a ⁵⁵	a ⁵⁵	10923
+1291	Mangdi	10923	a⁵⁵	a ⁵⁵	a ⁵⁵	10923
+1292	Qingyun	10923	a⁵⁵	a ⁵⁵	a ⁵⁵	10923
+1293	Shuizhuping	10923	a⁵⁵	a ⁵⁵	a ⁵⁵	10923
+1294	Xuzhang	10923	a³⁵	a ³⁵	a ³⁵	10923
+1295	Yangliu	10923	a⁵⁵	a ⁵⁵	a ⁵⁵	10923
+1296	Yijiacun	10923	a²⁴	a ²⁴	a ²⁴	10923
+1297	ProtoLalo	10923	a¹	a ¹	a ¹	10923
+2167	Diaocao	10924	tʰɔ²¹	tʰ ɔ ²¹	tʰ ɔ ²¹	10924
+2168	Mangdi	10924	tʰɛ²¹	tʰ ɛ ²¹	tʰ ɛ ²¹	10924
+2169	Qingyun	10924	tʰa̤²¹	tʰ a̤ ²¹	tʰ a̤ ²¹	10924
+2170	Shuizhuping	10924	tʰa²¹	tʰ a ²¹	tʰ a ²¹	10924
+2171	Xuzhang	10924	tʰo²¹	tʰ o ²¹	tʰ o ²¹	10924
+2172	Yangliu	10924	tʰa²¹	tʰ a ²¹	tʰ a ²¹	10924
+2173	Yijiacun	10924	tʰo³³	tʰ o ³³	tʰ o ³³	10924
+2174	ProtoLalo	10924	tʰa²	tʰ a ²	tʰ a ²	10924
+3600	Diaocao	10952	tu⁴²	t u ⁴²	t u ⁴²	10952
+3601	Mangdi	10952	tu²¹	t u ²¹	t u ²¹	10952
+3602	Qingyun	10952	to̠²¹	t o̠ ²¹	t o̠ ²¹	10952
+3603	Shuizhuping	10952	tu⁵⁵	t u ⁵⁵	t u ⁵⁵	10952
+3604	Xuzhang	10952	du³³	d u ³³	d u ³³	10952
+3605	Yangliu	10952	tu⁵⁵	t u ⁵⁵	t u ⁵⁵	10952
+3606	Yijiacun	10952	tu̠ʔ³¹	t u̠ ʔ ³¹	t u̠ ʔ ³¹	10952
+3607	ProtoLalo	10952	do̠³	d o̠ ³	d o̠ ³	10952
+2985	Diaocao	10989	su⁴²	s u ⁴²	s u ⁴²	10989
+2986	Mangdi	10989	sɑ̠²¹	s ɑ̠ ²¹	s ɑ̠ ²¹	10989
+2987	Qingyun	10989	ʂa̠²¹	ʂ a̠ ²¹	ʂ a̠ ²¹	10989
+2988	Shuizhuping	10989	ʂa⁵³	ʂ a ⁵³	ʂ a ⁵³	10989
+2989	Xuzhang	10989	ʂo⁴²	ʂ o ⁴²	ʂ o ⁴²	10989
+2990	Yangliu	10989	sai⁵⁵	s ai ⁵⁵	s ai ⁵⁵	10989
+2991	ProtoLalo	10989	ʃa̠³	ʃ a̠ ³	ʃ a̠ ³	10989
+2450	Mangdi	11000	pu⁵⁵	p u ⁵⁵	p u ⁵⁵	11000
+2451	Shuizhuping	11000	ve⁵³	v e ⁵³	v e ⁵³	11000
+2452	Yijiacun	11000	pu²⁴	p u ²⁴	p u ²⁴	11000
+2453	ProtoLalo	11000	pu¹	p u ¹	p u ¹	11000
+2398	Diaocao	11045	a⁵⁵	a ⁵⁵	a ⁵⁵	11045
+2399	Mangdi	11045	a⁵⁵	a ⁵⁵	a ⁵⁵	11045
+2400	Qingyun	11045	a⁵⁵	a ⁵⁵	a ⁵⁵	11045
+2401	Shuizhuping	11045	a⁴⁴	a ⁴⁴	a ⁴⁴	11045
+2402	Xuzhang	11045	a³³	a ³³	a ³³	11045
+2403	Yangliu	11045	a²¹	a ²¹	a ²¹	11045
+2404	Yijiacun	11045	a²⁴	a ²⁴	a ²⁴	11045
+2405	ProtoLalo	11045	a²	a ²	a ²	11045
+2944	Diaocao	11046	tsʰɛ⁵⁵	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	11046
+2945	Mangdi	11046	tsʰa⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵	11046
+2946	Qingyun	11046	tɕʰɛ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵	11046
+2947	Shuizhuping	11046	ʈʂʰɛ⁴⁴	ʈʂʰ ɛ ⁴⁴	ʈʂʰ ɛ ⁴⁴	11046
+2948	Xuzhang	11046	ʈʂʰɛ⁴⁵³	ʈʂʰ ɛ ⁴⁵³	ʈʂʰ ɛ ⁴⁵³	11046
+2949	Yangliu	11046	tsʰɛ³³	tsʰ ɛ ³³	tsʰ ɛ ³³	11046
+2950	Yijiacun	11046	tɕʰɛ²⁴	tɕʰ ɛ ²⁴	tɕʰ ɛ ²⁴	11046
+2951	ProtoLalo	11046	tʃʰɛ¹	tʃʰ ɛ ¹	tʃʰ ɛ ¹	11046
+3592	Diaocao	11063	tei²¹	t ei ²¹	t ei ²¹	11063
+3593	Mangdi	11063	tɛ²¹	t ɛ ²¹	t ɛ ²¹	11063
+3594	Qingyun	11063	ti²¹	t i ²¹	t i ²¹	11063
+3595	Shuizhuping	11063	tɛ²¹	t ɛ ²¹	t ɛ ²¹	11063
+3596	Xuzhang	11063	tɛi²¹	t ɛi ²¹	t ɛi ²¹	11063
+3597	Yangliu	11063	dzɿ²¹	dz ɿ ²¹	dz ɿ ²¹	11063
+3598	Yijiacun	11063	tɛ²¹	t ɛ ²¹	t ɛ ²¹	11063
+3599	ProtoLalo	11063	te²	t e ²	t e ²	11063
+1549	Diaocao	11081	pʰə²¹	pʰ ə ²¹	pʰ ə ²¹	11081
+1550	Mangdi	11081	pʰi²¹	pʰ i ²¹	pʰ i ²¹	11081
+1551	Qingyun	11081	fi²¹	f i ²¹	f i ²¹	11081
+1552	Yangliu	11081	pʰu²¹	pʰ u ²¹	pʰ u ²¹	11081
+1553	Yijiacun	11081	pʰɨ²¹	pʰ ɨ ²¹	pʰ ɨ ²¹	11081
+1554	ProtoLalo	11081	pʰo²	pʰ o ²	pʰ o ²	11081
+1987	Diaocao	11106	bə³³	b ə ³³	b ə ³³	11106
+1988	Shuizhuping	11106	by³³	b y ³³	b y ³³	11106
+1989	Yangliu	11106	bə³³	b ə ³³	b ə ³³	11106
+1990	Yijiacun	11106	bo²²	b o ²²	b o ²²	11106
+1991	ProtoLalo	11106	by³	b y ³	b y ³	11106
+2571	Diaocao	11107	zɔ²¹	z ɔ ²¹	z ɔ ²¹	11107
+2572	Shuizhuping	11107	za²¹	z a ²¹	z a ²¹	11107
+2573	Xuzhang	11107	zo²¹	z o ²¹	z o ²¹	11107
+2574	Yangliu	11107	za²¹	z a ²¹	z a ²¹	11107
+2575	ProtoLalo	11107	za²	z a ²	z a ²	11107
+3486	Mangdi	11108	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	11108
+3487	Shuizhuping	11108	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	11108
+3488	Xuzhang	11108	ɣɨ³⁵	ɣ ɨ ³⁵	ɣ ɨ ³⁵	11108
+3489	Yijiacun	11108	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	11108
+3490	ProtoLalo	11108	ɣi¹	ɣ i ¹	ɣ i ¹	11108
+179	Diaocao	11129	tɕɛ³³	tɕ ɛ ³³	tɕ ɛ ³³	11129
+180	Mangdi	11129	ga⁵⁵	g a ⁵⁵	g a ⁵⁵	11129
+181	Qingyun	11129	tɕi³³	tɕ i ³³	tɕ i ³³	11129
+182	Shuizhuping	11129	ɣo²⁴	ɣ o ²⁴	ɣ o ²⁴	11129
+183	Xuzhang	11129	ɕi³³	ɕ i ³³	ɕ i ³³	11129
+184	Yangliu	11129	gu³³	g u ³³	g u ³³	11129
+185	Yijiacun	11129	ga²⁴	g a ²⁴	g a ²⁴	11129
+186	ProtoLalo	11129	xi³	x i ³	x i ³	11129
+785	Yangliu	11143	pu⁵³	p u ⁵³	p u ⁵³	11143
+786	Yijiacun	11143	pɨ³³	p ɨ ³³	p ɨ ³³	11143
+787	ProtoLalo	11143	pɨ̠¹	p ɨ̠ ¹	p ɨ̠ ¹	11143
+617	Mangdi	11171	to³³	t o ³³	t o ³³	11171
+618	Qingyun	11171	ta̠²¹	t a̠ ²¹	t a̠ ²¹	11171
+619	Shuizhuping	11171	ta⁵³	t a ⁵³	t a ⁵³	11171
+620	Xuzhang	11171	to̠⁴⁴	t o̠ ⁴⁴	t o̠ ⁴⁴	11171
+621	Yijiacun	11171	to̠ʔ²¹	t o̠ ʔ ²¹	t o̠ ʔ ²¹	11171
+622	ProtoLalo	11171	ta̠³	t a̠ ³	t a̠ ³	11171
+1342	Diaocao	11181	zɿ⁴²	z ɿ ⁴²	z ɿ ⁴²	11181
+1343	Mangdi	11181	ɕiʔ²¹	ɕ i ʔ ²¹	ɕ i ʔ ²¹	11181
+1344	Xuzhang	11181	ʐʅ³³	ʐ ʅ ³³	ʐ ʅ ³³	11181
+1345	Yangliu	11181	zɿ⁵³	z ɿ ⁵³	z ɿ ⁵³	11181
+1346	Yijiacun	11181	xjɛ⁵⁵	x j ɛ ⁵⁵	x j ɛ ⁵⁵	11181
+1347	ProtoLalo	11181	xi̠³	x i̠ ³	x i̠ ³	11181
+2594	Mangdi	11200	mɛ⁵⁵	m ɛ ⁵⁵	m ɛ ⁵⁵	11200
+2595	Shuizhuping	11200	my⁴⁴	m y ⁴⁴	m y ⁴⁴	11200
+2596	Yangliu	11200	tjɛ³³	t j ɛ ³³	t j ɛ ³³	11200
+2597	ProtoLalo	11200	ˀmjy̠¹	ˀm j y̠ ¹	ˀm j y̠ ¹	11200
+86	Diaocao	11216	lɔ³³	l ɔ ³³	l ɔ ³³	11216
+87	Qingyun	11216	lo̠³³	l o̠ ³³	l o̠ ³³	11216
+88	Shuizhuping	11216	lo³³	l o ³³	l o ³³	11216
+89	Xuzhang	11216	lo³³	l o ³³	l o ³³	11216
+90	Yangliu	11216	la³³	l a ³³	l a ³³	11216
+91	Yijiacun	11216	lɛo³¹	l ɛo ³¹	l ɛo ³¹	11216
+92	ProtoLalo	11216	la³	l a ³	l a ³	11216
+1661	Qingyun	11218	ha̠³³	h a̠ ³³	h a̠ ³³	11218
+1662	Shuizhuping	11218	hɛ̃⁴⁴	h ɛ̃ ⁴⁴	h ɛ̃ ⁴⁴	11218
+1663	Xuzhang	11218	hɛ̃³³	h ɛ̃ ³³	h ɛ̃ ³³	11218
+1664	Yangliu	11218	hɛ⁵⁵	h ɛ ⁵⁵	h ɛ ⁵⁵	11218
+1665	ProtoLalo	11218	hɛ̠¹	h ɛ̠ ¹	h ɛ̠ ¹	11218
+1565	Diaocao	11344	a⁵⁵	a ⁵⁵	a ⁵⁵	11344
+1566	Mangdi	11344	a⁵⁵	a ⁵⁵	a ⁵⁵	11344
+1567	Qingyun	11344	a⁵⁵	a ⁵⁵	a ⁵⁵	11344
+1568	Xuzhang	11344	a³⁵	a ³⁵	a ³⁵	11344
+1569	Yijiacun	11344	a²⁴	a ²⁴	a ²⁴	11344
+1570	ProtoLalo	11344	a¹	a ¹	a ¹	11344
+2175	Mangdi	11349	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	11349
+2176	Xuzhang	11349	ɣɨ⁴⁴	ɣ ɨ ⁴⁴	ɣ ɨ ⁴⁴	11349
+2177	Yangliu	11349	ɣɨ⁴⁵	ɣ ɨ ⁴⁵	ɣ ɨ ⁴⁵	11349
+2178	Yijiacun	11349	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	11349
+2179	ProtoLalo	11349	ɣi¹	ɣ i ¹	ɣ i ¹	11349
+3058	Diaocao	11393	a⁵⁵	a ⁵⁵	a ⁵⁵	11393
+3059	Mangdi	11393	a⁵⁵	a ⁵⁵	a ⁵⁵	11393
+3060	Qingyun	11393	a⁵⁵	a ⁵⁵	a ⁵⁵	11393
+3061	Shuizhuping	11393	a³³	a ³³	a ³³	11393
+3062	Xuzhang	11393	a³³	a ³³	a ³³	11393
+3063	Yangliu	11393	a⁴⁴	a ⁴⁴	a ⁴⁴	11393
+3064	Yijiacun	11393	a²⁴	a ²⁴	a ²⁴	11393
+3065	ProtoLalo	11393	a¹	a ¹	a ¹	11393
+1545	Diaocao	1146	twe⁴²	t w e ⁴²	t w e ⁴²	1146
+1546	Xuzhang	1146	hwe⁴⁵³	h w e ⁴⁵³	h w e ⁴⁵³	1146
+1547	Yangliu	1146	du³³	d u ³³	d u ³³	1146
+1548	ProtoLalo	1146	du¹	d u ¹	d u ¹	1146
+1532	Diaocao	11461	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	11461
+1533	Mangdi	11461	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	11461
+1534	Qingyun	11461	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	11461
+1535	Shuizhuping	11461	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	11461
+1536	Xuzhang	11461	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	11461
+1537	Yangliu	11461	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	11461
+1538	Yijiacun	11461	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	11461
+1539	ProtoLalo	11461	tʃʰi²	tʃʰ i ²	tʃʰ i ²	11461
+2180	Qingyun	11463	by²¹	b y ²¹	b y ²¹	11463
+2181	Shuizhuping	11463	by²¹	b y ²¹	b y ²¹	11463
+2182	Xuzhang	11463	by²¹	b y ²¹	b y ²¹	11463
+2183	Yangliu	11463	bə̃²¹	b ə̃ ²¹	b ə̃ ²¹	11463
+2184	ProtoLalo	11463	by²	b y ²	b y ²	11463
+3718	Diaocao	11504	sə⁵⁵	s ə ⁵⁵	s ə ⁵⁵	11504
+3719	Mangdi	11504	sə⁵⁵	s ə ⁵⁵	s ə ⁵⁵	11504
+3720	Qingyun	11504	ɕy⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	11504
+3721	Shuizhuping	11504	ɕy²⁴	ɕ y ²⁴	ɕ y ²⁴	11504
+3722	Xuzhang	11504	ɕy⁴⁵³	ɕ y ⁴⁵³	ɕ y ⁴⁵³	11504
+3723	Yangliu	11504	sə³³	s ə ³³	s ə ³³	11504
+3724	ProtoLalo	11504	sy¹	s y ¹	s y ¹	11504
+832	Diaocao	11540	pʰei²¹	pʰ ei ²¹	pʰ ei ²¹	11540
+833	Mangdi	11540	pʰɨ²¹	pʰ ɨ ²¹	pʰ ɨ ²¹	11540
+834	Qingyun	11540	pʰu̥²¹	pʰ u̥ ²¹	pʰ u̥ ²¹	11540
+835	Shuizhuping	11540	pʰy²¹	pʰ y ²¹	pʰ y ²¹	11540
+836	Xuzhang	11540	pʰy²¹	pʰ y ²¹	pʰ y ²¹	11540
+837	Yangliu	11540	pʰɨ²¹	pʰ ɨ ²¹	pʰ ɨ ²¹	11540
+838	Yijiacun	11540	pʰə²¹	pʰ ə ²¹	pʰ ə ²¹	11540
+839	ProtoLalo	11540	pʰjy²	pʰ j y ²	pʰ j y ²	11540
+1298	Diaocao	11586	tə⁵⁵	t ə ⁵⁵	t ə ⁵⁵	11586
+1299	Mangdi	11586	tə⁵⁵	t ə ⁵⁵	t ə ⁵⁵	11586
+1300	Qingyun	11586	ty⁵⁵	t y ⁵⁵	t y ⁵⁵	11586
+1301	Shuizhuping	11586	ty³³	t y ³³	t y ³³	11586
+1302	Xuzhang	11586	ty⁴⁵³	t y ⁴⁵³	t y ⁴⁵³	11586
+1303	Yangliu	11586	tə³³	t ə ³³	t ə ³³	11586
+1304	Yijiacun	11586	tə²⁴	t ə ²⁴	t ə ²⁴	11586
+1305	ProtoLalo	11586	ty¹	t y ¹	t y ¹	11586
+565	Mangdi	11623	kʰo⁵⁵	kʰ o ⁵⁵	kʰ o ⁵⁵	11623
+566	Qingyun	11623	kʰa⁵⁵	kʰ a ⁵⁵	kʰ a ⁵⁵	11623
+567	Shuizhuping	11623	kʰa⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	11623
+568	Yijiacun	11623	kʰo²⁴	kʰ o ²⁴	kʰ o ²⁴	11623
+569	ProtoLalo	11623	kʰa¹	kʰ a ¹	kʰ a ¹	11623
+2963	Diaocao	11654	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	11654
+2964	Mangdi	11654	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	11654
+2965	Qingyun	11654	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	11654
+2966	Shuizhuping	11654	tɕʰi⁴⁴	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	11654
+2967	Xuzhang	11654	tɕʰi³⁵²	tɕʰ i ³⁵²	tɕʰ i ³⁵²	11654
+2968	Yangliu	11654	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	11654
+2969	Yijiacun	11654	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	11654
+2970	ProtoLalo	11654	tʃʰe¹	tʃʰ e ¹	tʃʰ e ¹	11654
+1690	Diaocao	11710	li²¹	l i ²¹	l i ²¹	11710
+1691	Mangdi	11710	lɨ²¹	l ɨ ²¹	l ɨ ²¹	11710
+1692	Yijiacun	11710	lɨ²¹	l ɨ ²¹	l ɨ ²¹	11710
+1693	ProtoLalo	11710	ˀli²	ˀl i ²	ˀl i ²	11710
+1942	Diaocao	11731	dzɛ²¹	dz ɛ ²¹	dz ɛ ²¹	11731
+1943	Mangdi	11731	dʑɛ²¹	dʑ ɛ ²¹	dʑ ɛ ²¹	11731
+1944	Qingyun	11731	dzɛ̤²¹	dz ɛ̤ ²¹	dz ɛ̤ ²¹	11731
+1945	Shuizhuping	11731	dzɛ²¹	dz ɛ ²¹	dz ɛ ²¹	11731
+1946	Xuzhang	11731	dzɛ̃²¹	dz ɛ̃ ²¹	dz ɛ̃ ²¹	11731
+1947	Yangliu	11731	dzɛ²¹	dz ɛ ²¹	dz ɛ ²¹	11731
+1948	Yijiacun	11731	dʑɛ²¹	dʑ ɛ ²¹	dʑ ɛ ²¹	11731
+1949	ProtoLalo	11731	dzɛ²	dz ɛ ²	dz ɛ ²	11731
+3283	Qingyun	11762	ʈʂʅ²¹	ʈʂ ʅ ²¹	ʈʂ ʅ ²¹	11762
+3284	Yangliu	11762	kai⁵⁵	k ai ⁵⁵	k ai ⁵⁵	11762
+3285	ProtoLalo	11762	ku³	k u ³	k u ³	11762
+1607	Diaocao	11781	tsɿ³³	ts ɿ ³³	ts ɿ ³³	11781
+1608	Mangdi	11781	ɕi³³	ɕ i ³³	ɕ i ³³	11781
+1609	Qingyun	11781	tɕʰɛ̠²¹	tɕʰ ɛ̠ ²¹	tɕʰ ɛ̠ ²¹	11781
+1610	Shuizhuping	11781	tɕʰi⁵³	tɕʰ i ⁵³	tɕʰ i ⁵³	11781
+1611	Xuzhang	11781	tɕʰjɛ³³	tɕʰ j ɛ ³³	tɕʰ j ɛ ³³	11781
+1612	Yangliu	11781	tɕʰi⁵³	tɕʰ i ⁵³	tɕʰ i ⁵³	11781
+1613	ProtoLalo	11781	tʃʰe̠³	tʃʰ e̠ ³	tʃʰ e̠ ³	11781
+2062	Diaocao	11842	gɔ²⁴	g ɔ ²⁴	g ɔ ²⁴	11842
+2063	Mangdi	11842	go⁵⁵	g o ⁵⁵	g o ⁵⁵	11842
+2064	Qingyun	11842	ga⁵⁵	g a ⁵⁵	g a ⁵⁵	11842
+2065	Shuizhuping	11842	ga²⁴	g a ²⁴	g a ²⁴	11842
+2066	Xuzhang	11842	gu²⁴	g u ²⁴	g u ²⁴	11842
+2067	Yangliu	11842	ka³³	k a ³³	k a ³³	11842
+2068	Yijiacun	11842	go²⁴	g o ²⁴	g o ²⁴	11842
+2069	ProtoLalo	11842	gja¹	g j a ¹	g j a ¹	11842
+1884	Mangdi	11895	lə³³	l ə ³³	l ə ³³	11895
+1885	Shuizhuping	11895	ly³³	l y ³³	l y ³³	11895
+1886	Yijiacun	11895	lə³³	l ə ³³	l ə ³³	11895
+1887	ProtoLalo	11895	ˀly³	ˀl y ³	ˀl y ³	11895
+1817	Diaocao	11904	lə³³	l ə ³³	l ə ³³	11904
+1818	Mangdi	11904	lɨ³³	l ɨ ³³	l ɨ ³³	11904
+1819	Qingyun	11904	ˀly³³	ˀl y ³³	ˀl y ³³	11904
+1820	Xuzhang	11904	ly³³	l y ³³	l y ³³	11904
+1821	Yijiacun	11904	li³³	l i ³³	l i ³³	11904
+1822	ProtoLalo	11904	ˀly³	ˀl y ³	ˀl y ³	11904
+3424	Shuizhuping	11917	hẽ²⁴	h ẽ ²⁴	h ẽ ²⁴	11917
+3425	Xuzhang	11917	hĩ³⁵	h ĩ ³⁵	h ĩ ³⁵	11917
+3426	Yangliu	11917	hei⁴⁴	h ei ⁴⁴	h ei ⁴⁴	11917
+3427	ProtoLalo	11917	he¹	h e ¹	h e ¹	11917
+2526	Diaocao	1193	mɔ²⁴	m ɔ ²⁴	m ɔ ²⁴	1193
+2527	Mangdi	1193	mon⁵⁵	m o n ⁵⁵	m o n ⁵⁵	1193
+2528	Qingyun	1193	ma⁵⁵	m a ⁵⁵	m a ⁵⁵	1193
+2529	Shuizhuping	1193	ma³³	m a ³³	m a ³³	1193
+2530	Xuzhang	1193	mo²⁴	m o ²⁴	m o ²⁴	1193
+2531	Yangliu	1193	ma³³	m a ³³	m a ³³	1193
+2532	ProtoLalo	1193	ma¹	m a ¹	m a ¹	1193
+3263	Diaocao	11933	kɛ³³	k ɛ ³³	k ɛ ³³	11933
+3264	Mangdi	11933	xɛ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	11933
+3265	Qingyun	11933	ka³³	k a ³³	k a ³³	11933
+3266	Shuizhuping	11933	kɛ⁴⁴	k ɛ ⁴⁴	k ɛ ⁴⁴	11933
+3267	Yijiacun	11933	ku³³	k u ³³	k u ³³	11933
+3268	ProtoLalo	11933	kɛ³	k ɛ ³	k ɛ ³	11933
+2856	Mangdi	1195	wan²¹	w a n ²¹	w a n ²¹	1195
+2857	Qingyun	1195	va̤²¹	v a̤ ²¹	v a̤ ²¹	1195
+2858	Shuizhuping	1195	va²¹	v a ²¹	v a ²¹	1195
+2859	Yijiacun	1195	vu²¹	v u ²¹	v u ²¹	1195
+2860	ProtoLalo	1195	va²	v a ²	v a ²	1195
+3259	Shuizhuping	11952	ʝi⁴⁴	ʝ i ⁴⁴	ʝ i ⁴⁴	11952
+3260	Xuzhang	11952	ʝi̠⁴⁴	ʝ i̠ ⁴⁴	ʝ i̠ ⁴⁴	11952
+3261	Yijiacun	11952	ko²¹	k o ²¹	k o ²¹	11952
+3262	ProtoLalo	11952	ɣe̠¹	ɣ e̠ ¹	ɣ e̠ ¹	11952
+3334	Diaocao	11980	ja³³	j a ³³	j a ³³	11980
+3335	Mangdi	11980	jɛ²¹	j ɛ ²¹	j ɛ ²¹	11980
+3336	ProtoLalo	11980	kji³	k j i ³	k j i ³	11980
+3421	Qingyun	12010	pʰʉ̤²¹	pʰ ʉ̤ ²¹	pʰ ʉ̤ ²¹	12010
+3422	Shuizhuping	12010	pʰɨ²¹	pʰ ɨ ²¹	pʰ ɨ ²¹	12010
+3423	ProtoLalo	12010	pʰɨ²	pʰ ɨ ²	pʰ ɨ ²	12010
+3742	Qingyun	12011	hə⁵⁵	h ə ⁵⁵	h ə ⁵⁵	12011
+3743	Shuizhuping	12011	hõ²¹	h õ ²¹	h õ ²¹	12011
+3744	Xuzhang	12011	haŋ²¹	h a ŋ ²¹	h a ŋ ²¹	12011
+3745	ProtoLalo	12011	haŋ²	h a ŋ ²	h a ŋ ²	12011
+225	Diaocao	12037	va³³	v a ³³	v a ³³	12037
+226	Qingyun	12037	va³³	v a ³³	v a ³³	12037
+227	Shuizhuping	12037	va³³	v a ³³	v a ³³	12037
+228	Yangliu	12037	bə³³	b ə ³³	b ə ³³	12037
+229	Yijiacun	12037	va²¹	v a ²¹	v a ²¹	12037
+230	ProtoLalo	12037	va³	v a ³	v a ³	12037
+2070	Mangdi	12055	va̠²¹	v a̠ ²¹	v a̠ ²¹	12055
+2071	Qingyun	12055	va̠²¹	v a̠ ²¹	v a̠ ²¹	12055
+2072	Shuizhuping	12055	vɛ⁵³	v ɛ ⁵³	v ɛ ⁵³	12055
+2073	Yangliu	12055	vɛ⁵³	v ɛ ⁵³	v ɛ ⁵³	12055
+2074	Yijiacun	12055	va̠ʔ²¹	v a̠ ʔ ²¹	v a̠ ʔ ²¹	12055
+2075	ProtoLalo	12055	vɛ̠³	v ɛ̠ ³	v ɛ̠ ³	12055
+709	Diaocao	12063	tsə³³	ts ə ³³	ts ə ³³	12063
+710	Mangdi	12063	gɛ²¹	g ɛ ²¹	g ɛ ²¹	12063
+711	Qingyun	12063	gɨ̤²¹	g ɨ̤ ²¹	g ɨ̤ ²¹	12063
+712	Shuizhuping	12063	gɛ²¹	g ɛ ²¹	g ɛ ²¹	12063
+713	Yangliu	12063	gɛ²¹	g ɛ ²¹	g ɛ ²¹	12063
+714	Yijiacun	12063	gu²¹	g u ²¹	g u ²¹	12063
+715	ProtoLalo	12063	gjɛ²	g j ɛ ²	g j ɛ ²	12063
+1485	Diaocao	12111	tsʰɔ²¹	tsʰ ɔ ²¹	tsʰ ɔ ²¹	12111
+1486	Mangdi	12111	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	12111
+1487	Qingyun	12111	tsʰa²¹	tsʰ a ²¹	tsʰ a ²¹	12111
+1488	Shuizhuping	12111	tsʰa²¹	tsʰ a ²¹	tsʰ a ²¹	12111
+1489	Xuzhang	12111	tsʰo²¹	tsʰ o ²¹	tsʰ o ²¹	12111
+1490	Yangliu	12111	tsʰa²¹	tsʰ a ²¹	tsʰ a ²¹	12111
+1491	Yijiacun	12111	tsʰa²¹	tsʰ a ²¹	tsʰ a ²¹	12111
+1492	ProtoLalo	12111	tsʰa²	tsʰ a ²	tsʰ a ²	12111
+1027	Diaocao	12112	bu³³	b u ³³	b u ³³	12112
+1028	Mangdi	12112	ba²¹	b a ²¹	b a ²¹	12112
+1029	Qingyun	12112	bo̠³³	b o̠ ³³	b o̠ ³³	12112
+1030	Shuizhuping	12112	bu²⁴	b u ²⁴	b u ²⁴	12112
+1031	Yijiacun	12112	bu³³	b u ³³	b u ³³	12112
+1032	ProtoLalo	12112	bo̠¹	b o̠ ¹	b o̠ ¹	12112
+243	Mangdi	12151	tɕʰɛ̠³³	tɕʰ ɛ̠ ³³	tɕʰ ɛ̠ ³³	12151
+244	Shuizhuping	12151	tsʰɛ⁴⁴	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	12151
+245	Xuzhang	12151	tsʰai³³	tsʰ ai ³³	tsʰ ai ³³	12151
+246	Yangliu	12151	tsʰai⁵⁵	tsʰ ai ⁵⁵	tsʰ ai ⁵⁵	12151
+247	Yijiacun	12151	tɕʰi³³	tɕʰ i ³³	tɕʰ i ³³	12151
+248	ProtoLalo	12151	tsʰe̠³	tsʰ e̠ ³	tsʰ e̠ ³	12151
+3128	Diaocao	12159	sə²¹	s ə ²¹	s ə ²¹	12159
+3129	Mangdi	12159	sə²¹	s ə ²¹	s ə ²¹	12159
+3130	Qingyun	12159	sy²¹	s y ²¹	s y ²¹	12159
+3131	Shuizhuping	12159	ɕy²¹	ɕ y ²¹	ɕ y ²¹	12159
+3132	Xuzhang	12159	sy²¹	s y ²¹	s y ²¹	12159
+3133	Yangliu	12159	sə²¹	s ə ²¹	s ə ²¹	12159
+3134	Yijiacun	12159	sə²¹	s ə ²¹	s ə ²¹	12159
+3135	ProtoLalo	12159	ʃy²	ʃ y ²	ʃ y ²	12159
+1727	Diaocao	12168	sɔ³³	s ɔ ³³	s ɔ ³³	12168
+1728	Mangdi	12168	sei³³	s ei ³³	s ei ³³	12168
+1729	Qingyun	12168	ʂa³³	ʂ a ³³	ʂ a ³³	12168
+1730	Shuizhuping	12168	tsʰɿ⁴⁴	tsʰ ɿ ⁴⁴	tsʰ ɿ ⁴⁴	12168
+1731	Xuzhang	12168	ʂa³³	ʂ a ³³	ʂ a ³³	12168
+1732	Yangliu	12168	ɕa³³	ɕ a ³³	ɕ a ³³	12168
+1733	Yijiacun	12168	sa⁵⁵	s a ⁵⁵	s a ⁵⁵	12168
+1734	ProtoLalo	12168	ʃa³	ʃ a ³	ʃ a ³	12168
+647	Diaocao	12195	ʝi⁴²	ʝ i ⁴²	ʝ i ⁴²	12195
+648	Mangdi	12195	ɣɨ²¹	ɣ ɨ ²¹	ɣ ɨ ²¹	12195
+649	Qingyun	12195	ɣɨ̠²¹	ɣ ɨ̠ ²¹	ɣ ɨ̠ ²¹	12195
+650	Shuizhuping	12195	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	12195
+651	Xuzhang	12195	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	12195
+652	Yangliu	12195	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	12195
+653	ProtoLalo	12195	ɣi̠³	ɣ i̠ ³	ɣ i̠ ³	12195
+1354	Diaocao	12196	tsə³³	ts ə ³³	ts ə ³³	12196
+1355	Mangdi	12196	tsə³³	ts ə ³³	ts ə ³³	12196
+1356	Qingyun	12196	tsy³³	ts y ³³	ts y ³³	12196
+1357	Shuizhuping	12196	tɕy³³	tɕ y ³³	tɕ y ³³	12196
+1358	Xuzhang	12196	tɕy³³	tɕ y ³³	tɕ y ³³	12196
+1359	Yangliu	12196	tsɿ³³	ts ɿ ³³	ts ɿ ³³	12196
+1360	ProtoLalo	12196	tsy³	ts y ³	ts y ³	12196
+2497	Diaocao	12226	bei³³	b ei ³³	b ei ³³	12226
+2498	Mangdi	12226	bɛ̠³³	b ɛ̠ ³³	b ɛ̠ ³³	12226
+2499	Qingyun	12226	bɛ̠³³	b ɛ̠ ³³	b ɛ̠ ³³	12226
+2500	Shuizhuping	12226	bɛ⁴⁴	b ɛ ⁴⁴	b ɛ ⁴⁴	12226
+2501	Xuzhang	12226	bi³³	b i ³³	b i ³³	12226
+2502	Yangliu	12226	bei⁵³	b ei ⁵³	b ei ⁵³	12226
+2503	ProtoLalo	12226	be̠¹	b e̠ ¹	b e̠ ¹	12226
+3326	Diaocao	12267	mja²⁴	m j a ²⁴	m j a ²⁴	12267
+3327	Mangdi	12267	ma⁵⁵	m a ⁵⁵	m a ⁵⁵	12267
+3328	Qingyun	12267	mu⁵⁵	m u ⁵⁵	m u ⁵⁵	12267
+3329	Shuizhuping	12267	mu²⁴	m u ²⁴	m u ²⁴	12267
+3330	Xuzhang	12267	ma²⁴	m a ²⁴	m a ²⁴	12267
+3331	Yangliu	12267	m̩³³	m̩ ³³	m̩ ³³	12267
+3332	Yijiacun	12267	ma²⁴	m a ²⁴	m a ²⁴	12267
+3333	ProtoLalo	12267	mjaŋ¹	m j a ŋ ¹	m j a ŋ ¹	12267
+1	Diaocao	12339	tɕʰɛ³³	tɕʰ ɛ ³³	tɕʰ ɛ ³³	12339
+2	Mangdi	12339	tʰə⁵⁵	tʰ ə ⁵⁵	tʰ ə ⁵⁵	12339
+3	Qingyun	12339	tsʰɛ³³	tsʰ ɛ ³³	tsʰ ɛ ³³	12339
+4	Shuizhuping	12339	tsʰɛ³³	tsʰ ɛ ³³	tsʰ ɛ ³³	12339
+5	Xuzhang	12339	ʈʂʰɛ³³	ʈʂʰ ɛ ³³	ʈʂʰ ɛ ³³	12339
+6	Yangliu	12339	ʈʂʰɛ³³	ʈʂʰ ɛ ³³	ʈʂʰ ɛ ³³	12339
+7	Yijiacun	12339	tɕʰiŋ⁵³	tɕʰ i ŋ ⁵³	tɕʰ i ŋ ⁵³	12339
+8	ProtoLalo	12339	tsʰɛ³	tsʰ ɛ ³	tsʰ ɛ ³	12339
+2866	Diaocao	12349	gə²¹	g ə ²¹	g ə ²¹	12349
+2867	Mangdi	12349	xɛ²¹	x ɛ ²¹	x ɛ ²¹	12349
+2868	Qingyun	12349	xɨ²¹	x ɨ ²¹	x ɨ ²¹	12349
+2869	Shuizhuping	12349	xɛ²¹	x ɛ ²¹	x ɛ ²¹	12349
+2870	Xuzhang	12349	xo⁴⁵³	x o ⁴⁵³	x o ⁴⁵³	12349
+2871	Yangliu	12349	xa³³	x a ³³	x a ³³	12349
+2872	Yijiacun	12349	xɛ³³	x ɛ ³³	x ɛ ³³	12349
+2873	ProtoLalo	12349	xɛ²	x ɛ ²	x ɛ ²	12349
+2297	Diaocao	12375	gə⁴²	g ə ⁴²	g ə ⁴²	12375
+2298	Mangdi	12375	gɨ̠²¹	g ɨ̠ ²¹	g ɨ̠ ²¹	12375
+2299	Qingyun	12375	gə̠²¹	g ə̠ ²¹	g ə̠ ²¹	12375
+2300	Xuzhang	12375	gɤ³³	g ɤ ³³	g ɤ ³³	12375
+2301	Yangliu	12375	gɤ⁵³	g ɤ ⁵³	g ɤ ⁵³	12375
+2302	Yijiacun	12375	gɨ̠²¹	g ɨ̠ ²¹	g ɨ̠ ²¹	12375
+2303	ProtoLalo	12375	gu̠³	g u̠ ³	g u̠ ³	12375
+2227	Diaocao	12403	li³³	l i ³³	l i ³³	12403
+2228	Xuzhang	12403	li³³	l i ³³	l i ³³	12403
+2229	Yangliu	12403	lo⁵⁵	l o ⁵⁵	l o ⁵⁵	12403
+2230	ProtoLalo	12403	ˀlu̠¹	ˀl u̠ ¹	ˀl u̠ ¹	12403
+31	Diaocao	12436	sɛ²¹	s ɛ ²¹	s ɛ ²¹	12436
+32	Mangdi	12436	sɛ²¹	s ɛ ²¹	s ɛ ²¹	12436
+33	Qingyun	12436	sɛ̤²¹	s ɛ̤ ²¹	s ɛ̤ ²¹	12436
+34	Shuizhuping	12436	sɛ̃³¹	s ɛ̃ ³¹	s ɛ̃ ³¹	12436
+35	Xuzhang	12436	sɛ²¹	s ɛ ²¹	s ɛ ²¹	12436
+36	Yangliu	12436	sɛ²¹	s ɛ ²¹	s ɛ ²¹	12436
+37	Yijiacun	12436	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	12436
+38	ProtoLalo	12436	sɛ²	s ɛ ²	s ɛ ²	12436
+1979	Diaocao	12486	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	12486
+1980	Mangdi	12486	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	12486
+1981	Qingyun	12486	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	12486
+1982	Shuizhuping	12486	kʰɨ⁴⁴	kʰ ɨ ⁴⁴	kʰ ɨ ⁴⁴	12486
+1983	Xuzhang	12486	kʰɨ³⁵	kʰ ɨ ³⁵	kʰ ɨ ³⁵	12486
+1984	Yangliu	12486	kʰei⁵⁵	kʰ ei ⁵⁵	kʰ ei ⁵⁵	12486
+1985	Yijiacun	12486	kʰi⁵⁵	kʰ i ⁵⁵	kʰ i ⁵⁵	12486
+1986	ProtoLalo	12486	kʰi¹	kʰ i ¹	kʰ i ¹	12486
+2375	Diaocao	12487	nə³³	n ə ³³	n ə ³³	12487
+2376	Mangdi	12487	nɛ³³	n ɛ ³³	n ɛ ³³	12487
+2377	Qingyun	12487	nɛ̠³³	n ɛ̠ ³³	n ɛ̠ ³³	12487
+2378	Shuizhuping	12487	ne⁴⁴	n e ⁴⁴	n e ⁴⁴	12487
+2379	Xuzhang	12487	nɛi⁵³	n ɛi ⁵³	n ɛi ⁵³	12487
+2380	Yangliu	12487	ni⁵³	n i ⁵³	n i ⁵³	12487
+2381	Yijiacun	12487	ni³³	n i ³³	n i ³³	12487
+2382	ProtoLalo	12487	ne̠¹	n e̠ ¹	n e̠ ¹	12487
+1950	Diaocao	1250	ku⁵⁵	k u ⁵⁵	k u ⁵⁵	1250
+1951	Mangdi	1250	ki⁵⁵	k i ⁵⁵	k i ⁵⁵	1250
+1952	Qingyun	1250	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	1250
+1953	Shuizhuping	1250	kɨ⁴⁴	k ɨ ⁴⁴	k ɨ ⁴⁴	1250
+1954	Xuzhang	1250	ku⁵⁵	k u ⁵⁵	k u ⁵⁵	1250
+1955	Yangliu	1250	kɨ³³	k ɨ ³³	k ɨ ³³	1250
+1956	Yijiacun	1250	ki²⁴	k i ²⁴	k i ²⁴	1250
+1957	ProtoLalo	1250	kɨ¹	k ɨ ¹	k ɨ ¹	1250
+1650	Diaocao	12513	kɛ²¹	k ɛ ²¹	k ɛ ²¹	12513
+1651	Qingyun	12513	kʰɛ̤²¹	kʰ ɛ̤ ²¹	kʰ ɛ̤ ²¹	12513
+1652	Shuizhuping	12513	kʰɛ³³	kʰ ɛ ³³	kʰ ɛ ³³	12513
+1653	Xuzhang	12513	kʰɛ³³	kʰ ɛ ³³	kʰ ɛ ³³	12513
+1654	ProtoLalo	12513	kʰɛ²	kʰ ɛ ²	kʰ ɛ ²	12513
+845	Diaocao	12514	dzɿ³³	dz ɿ ³³	dz ɿ ³³	12514
+846	Mangdi	12514	dʒu³³	dʒ u ³³	dʒ u ³³	12514
+847	Qingyun	12514	dzɿ³³	dz ɿ ³³	dz ɿ ³³	12514
+848	Shuizhuping	12514	dzɿ³³	dz ɿ ³³	dz ɿ ³³	12514
+849	Xuzhang	12514	dzɿ³³	dz ɿ ³³	dz ɿ ³³	12514
+850	Yijiacun	12514	dzu³³	dz u ³³	dz u ³³	12514
+851	ProtoLalo	12514	dzɿ³	dz ɿ ³	dz ɿ ³	12514
+2346	Qingyun	1252	ˀva⁵⁵	ˀv a ⁵⁵	ˀv a ⁵⁵	1252
+2347	Shuizhuping	1252	va⁴⁴	v a ⁴⁴	v a ⁴⁴	1252
+2348	ProtoLalo	1252	ˀva¹	ˀv a ¹	ˀv a ¹	1252
+639	Diaocao	12537	tɔ²¹	t ɔ ²¹	t ɔ ²¹	12537
+640	Mangdi	12537	ta²¹	t a ²¹	t a ²¹	12537
+641	Qingyun	12537	tɛ̤²¹	t ɛ̤ ²¹	t ɛ̤ ²¹	12537
+642	Shuizhuping	12537	ta²¹	t a ²¹	t a ²¹	12537
+643	Xuzhang	12537	to²¹	t o ²¹	t o ²¹	12537
+644	Yangliu	12537	ta²¹	t a ²¹	t a ²¹	12537
+645	Yijiacun	12537	tso²¹	ts o ²¹	ts o ²¹	12537
+646	ProtoLalo	12537	ta²	t a ²	t a ²	12537
+1809	Diaocao	12538	pə⁵⁵	p ə ⁵⁵	p ə ⁵⁵	12538
+1810	Mangdi	12538	pə³³	p ə ³³	p ə ³³	12538
+1811	Qingyun	12538	py³³	p y ³³	p y ³³	12538
+1812	Shuizhuping	12538	py³³	p y ³³	p y ³³	12538
+1813	Xuzhang	12538	py³³	p y ³³	p y ³³	12538
+1814	Yangliu	12538	pɨ³³	p ɨ ³³	p ɨ ³³	12538
+1815	Yijiacun	12538	bɛ³³	b ɛ ³³	b ɛ ³³	12538
+1816	ProtoLalo	12538	py³	p y ³	p y ³	12538
+2211	Qingyun	12540	lɛ̠²¹	l ɛ̠ ²¹	l ɛ̠ ²¹	12540
+2212	Shuizhuping	12540	la²¹	l a ²¹	l a ²¹	12540
+2213	ProtoLalo	12540	la²	l a ²	l a ²	12540
+3508	Qingyun	12580	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	12580
+3509	Shuizhuping	12580	nɛ²¹	n ɛ ²¹	n ɛ ²¹	12580
+3510	Xuzhang	12580	nɛi²¹	n ɛi ²¹	n ɛi ²¹	12580
+3511	Yangliu	12580	nai²¹	n ai ²¹	n ai ²¹	12580
+3512	ProtoLalo	12580	ne²	n e ²	n e ²	12580
+2677	Qingyun	12581	hi⁵⁵	h i ⁵⁵	h i ⁵⁵	12581
+2678	Shuizhuping	12581	hẽ²⁴	h ẽ ²⁴	h ẽ ²⁴	12581
+2679	Xuzhang	12581	hĩ⁵⁵	h ĩ ⁵⁵	h ĩ ⁵⁵	12581
+2680	Yangliu	12581	hei³³	h ei ³³	h ei ³³	12581
+2681	ProtoLalo	12581	he¹	h e ¹	h e ¹	12581
+3516	Diaocao	12632	nɔ²⁴	n ɔ ²⁴	n ɔ ²⁴	12632
+3517	Mangdi	12632	no⁵⁵	n o ⁵⁵	n o ⁵⁵	12632
+3518	Qingyun	12632	na⁵⁵	n a ⁵⁵	n a ⁵⁵	12632
+3519	Shuizhuping	12632	na²⁴	n a ²⁴	n a ²⁴	12632
+3520	Xuzhang	12632	no²⁴	n o ²⁴	n o ²⁴	12632
+3521	Yangliu	12632	na³³	n a ³³	n a ³³	12632
+3522	Yijiacun	12632	no²⁴	n o ²⁴	n o ²⁴	12632
+3523	ProtoLalo	12632	na¹	n a ¹	n a ¹	12632
+3552	Diaocao	12642	n̩²¹	n̩ ²¹	n̩ ²¹	12642
+3553	Mangdi	12642	n̩²¹	n̩ ²¹	n̩ ²¹	12642
+3554	Yangliu	12642	n̩²¹	n̩ ²¹	n̩ ²¹	12642
+3555	ProtoLalo	12642	n̩²	n̩ ²	n̩ ²	12642
+3635	Diaocao	12643	tsʰu³³	tsʰ u ³³	tsʰ u ³³	12643
+3636	Mangdi	12643	tʃʰu³³	tʃʰ u ³³	tʃʰ u ³³	12643
+3637	Qingyun	12643	tao³³	t ao ³³	t ao ³³	12643
+3638	Yangliu	12643	tsʰu⁵³	tsʰ u ⁵³	tsʰ u ⁵³	12643
+3639	Yijiacun	12643	kʰi⁵⁵	kʰ i ⁵⁵	kʰ i ⁵⁵	12643
+3640	ProtoLalo	12643	tsʰo̠¹	tsʰ o̠ ¹	tsʰ o̠ ¹	12643
+469	Diaocao	1268	ɲja³³	ɲ j a ³³	ɲ j a ³³	1268
+470	Mangdi	1268	dʑi²¹	dʑ i ²¹	dʑ i ²¹	1268
+471	Qingyun	1268	tɕjao³³	tɕ j ao ³³	tɕ j ao ³³	1268
+472	Shuizhuping	1268	ɲi⁴⁴	ɲ i ⁴⁴	ɲ i ⁴⁴	1268
+473	Xuzhang	1268	ɲa³³	ɲ a ³³	ɲ a ³³	1268
+474	Yangliu	1268	tɕjao³³	tɕ j ao ³³	tɕ j ao ³³	1268
+475	ProtoLalo	1268	ˀŋja̠¹	ˀŋ j a̠ ¹	ˀŋ j a̠ ¹	1268
+2033	Diaocao	12682	gɔ³³	g ɔ ³³	g ɔ ³³	12682
+2034	Mangdi	12682	go³³	g o ³³	g o ³³	12682
+2035	Xuzhang	12682	go³³	g o ³³	g o ³³	12682
+2036	Yangliu	12682	ga³³	g a ³³	g a ³³	12682
+2037	Yijiacun	12682	gi²¹	g i ²¹	g i ²¹	12682
+2038	ProtoLalo	12682	ga³	g a ³	g a ³	12682
+2207	Diaocao	12708	ni²⁴	n i ²⁴	n i ²⁴	12708
+2208	Qingyun	12708	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	12708
+2209	Xuzhang	12708	ɲi²⁴	ɲ i ²⁴	ɲ i ²⁴	12708
+2210	ProtoLalo	12708	ni¹	n i ¹	n i ¹	12708
+1740	Mangdi	12709	di⁵⁵	d i ⁵⁵	d i ⁵⁵	12709
+1741	Shuizhuping	12709	di²⁴	d i ²⁴	d i ²⁴	12709
+1742	Yangliu	12709	tsʰo⁵³	tsʰ o ⁵³	tsʰ o ⁵³	12709
+1743	Yijiacun	12709	di²⁴	d i ²⁴	d i ²⁴	12709
+1744	ProtoLalo	12709	di¹	d i ¹	d i ¹	12709
+457	Shuizhuping	1272	be⁴⁴	b e ⁴⁴	b e ⁴⁴	1272
+458	Xuzhang	1272	bɛi³³	b ɛi ³³	b ɛi ³³	1272
+459	Yangliu	1272	pa³³	p a ³³	p a ³³	1272
+460	ProtoLalo	1272	be³	b e ³	b e ³	1272
+557	Diaocao	12737	kʰu⁴²	kʰ u ⁴²	kʰ u ⁴²	12737
+558	Mangdi	12737	kʰu̠²¹	kʰ u̠ ²¹	kʰ u̠ ²¹	12737
+559	Qingyun	12737	kʰo̠²¹	kʰ o̠ ²¹	kʰ o̠ ²¹	12737
+560	Shuizhuping	12737	kʰu⁵³	kʰ u ⁵³	kʰ u ⁵³	12737
+561	Xuzhang	12737	kʰu³³	kʰ u ³³	kʰ u ³³	12737
+562	Yangliu	12737	kʰo⁵³	kʰ o ⁵³	kʰ o ⁵³	12737
+563	Yijiacun	12737	kʰu̠²¹	kʰ u̠ ²¹	kʰ u̠ ²¹	12737
+564	ProtoLalo	12737	kʰo̠³	kʰ o̠ ³	kʰ o̠ ³	12737
+2792	Mangdi	12892	mɑ³³	m ɑ ³³	m ɑ ³³	12892
+2793	Qingyun	12892	mu³³	m u ³³	m u ³³	12892
+2794	Shuizhuping	12892	mu³³	m u ³³	m u ³³	12892
+2795	Xuzhang	12892	mɛi²⁴	m ɛi ²⁴	m ɛi ²⁴	12892
+2796	ProtoLalo	12892	maŋ³	m a ŋ ³	m a ŋ ³	12892
+3436	Qingyun	12903	ga⁵⁵	g a ⁵⁵	g a ⁵⁵	12903
+3437	Shuizhuping	12903	ga²⁴	g a ²⁴	g a ²⁴	12903
+3438	ProtoLalo	12903	gja¹	g j a ¹	g j a ¹	12903
+3819	Diaocao	12910	tɕɛ²¹	tɕ ɛ ²¹	tɕ ɛ ²¹	12910
+3820	Qingyun	12910	di³³	d i ³³	d i ³³	12910
+3821	Shuizhuping	12910	de³³	d e ³³	d e ³³	12910
+3822	Xuzhang	12910	di³³	d i ³³	d i ³³	12910
+3823	Yangliu	12910	di³³	d i ³³	d i ³³	12910
+3824	ProtoLalo	12910	de³	d e ³	d e ³	12910
+3746	Qingyun	12912	di³³	d i ³³	d i ³³	12912
+3747	Shuizhuping	12912	de³³	d e ³³	d e ³³	12912
+3748	Xuzhang	12912	di³³	d i ³³	d i ³³	12912
+3749	Yangliu	12912	di³³	d i ³³	d i ³³	12912
+3750	ProtoLalo	12912	de³	d e ³	d e ³	12912
+2221	Mangdi	12934	i⁵⁵	i ⁵⁵	i ⁵⁵	12934
+2222	Qingyun	12934	a⁵⁵	a ⁵⁵	a ⁵⁵	12934
+2223	Shuizhuping	12934	a⁵⁵	a ⁵⁵	a ⁵⁵	12934
+2224	Xuzhang	12934	a⁵⁵	a ⁵⁵	a ⁵⁵	12934
+2225	Yangliu	12934	a⁵⁵	a ⁵⁵	a ⁵⁵	12934
+2226	ProtoLalo	12934	a¹	a ¹	a ¹	12934
+3269	Diaocao	12956	nə²¹	n ə ²¹	n ə ²¹	12956
+3270	Mangdi	12956	nə⁵⁵	n ə ⁵⁵	n ə ⁵⁵	12956
+3271	Qingyun	12956	ny̤²¹	n y̤ ²¹	n y̤ ²¹	12956
+3272	Shuizhuping	12956	ny²¹	n y ²¹	n y ²¹	12956
+3273	Xuzhang	12956	ny²¹	n y ²¹	n y ²¹	12956
+3274	Yangliu	12956	nəŋ²¹	n ə ŋ ²¹	n ə ŋ ²¹	12956
+3275	Yijiacun	12956	nə²¹	n ə ²¹	n ə ²¹	12956
+3276	ProtoLalo	12956	ny²	n y ²	n y ²	12956
+1927	Diaocao	12968	kʰɤ²¹	kʰ ɤ ²¹	kʰ ɤ ²¹	12968
+1928	Mangdi	12968	kɨ²¹	k ɨ ²¹	k ɨ ²¹	12968
+1929	Qingyun	12968	kʰə²¹	kʰ ə ²¹	kʰ ə ²¹	12968
+1930	Shuizhuping	12968	kʰu²¹	kʰ u ²¹	kʰ u ²¹	12968
+1931	Yangliu	12968	kʰo²¹	kʰ o ²¹	kʰ o ²¹	12968
+1932	Yijiacun	12968	xə³³	x ə ³³	x ə ³³	12968
+1933	ProtoLalo	12968	kʰo²	kʰ o ²	kʰ o ²	12968
+257	Diaocao	13023	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	13023
+258	Mangdi	13023	ɕɛ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵	13023
+259	Qingyun	13023	ɕɛ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵	13023
+260	Shuizhuping	13023	ʂɛ⁴⁴	ʂ ɛ ⁴⁴	ʂ ɛ ⁴⁴	13023
+261	Xuzhang	13023	ʂɛ⁴⁴	ʂ ɛ ⁴⁴	ʂ ɛ ⁴⁴	13023
+262	Yangliu	13023	sɛ³³	s ɛ ³³	s ɛ ³³	13023
+263	Yijiacun	13023	ɕɛ²⁴	ɕ ɛ ²⁴	ɕ ɛ ²⁴	13023
+264	ProtoLalo	13023	ʃɛ¹	ʃ ɛ ¹	ʃ ɛ ¹	13023
+3232	Mangdi	1305	lu³³	l u ³³	l u ³³	1305
+3233	Qingyun	1305	ˀlə³³	ˀl ə ³³	ˀl ə ³³	1305
+3234	Xuzhang	1305	lɤ³³	l ɤ ³³	l ɤ ³³	1305
+3235	Yangliu	1305	lɤ³³	l ɤ ³³	l ɤ ³³	1305
+3236	ProtoLalo	1305	lu³	l u ³	l u ³	1305
+3673	Diaocao	13054	tsʰei³³	tsʰ ei ³³	tsʰ ei ³³	13054
+3674	Mangdi	13054	tɕʰɛ³³	tɕʰ ɛ ³³	tɕʰ ɛ ³³	13054
+3675	Qingyun	13054	tsʰɛ̠³³	tsʰ ɛ̠ ³³	tsʰ ɛ̠ ³³	13054
+3676	Shuizhuping	13054	tsʰɛ⁴⁴	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	13054
+3677	Xuzhang	13054	tsʰai³³	tsʰ ai ³³	tsʰ ai ³³	13054
+3678	Yangliu	13054	tsʰei⁵³	tsʰ ei ⁵³	tsʰ ei ⁵³	13054
+3679	Yijiacun	13054	tɕʰi³³	tɕʰ i ³³	tɕʰ i ³³	13054
+3680	ProtoLalo	13054	tsʰe̠¹	tsʰ e̠ ¹	tsʰ e̠ ¹	13054
+3114	Diaocao	13122	ei²¹	ei ²¹	ei ²¹	13122
+3115	Qingyun	13122	i²¹	i ²¹	i ²¹	13122
+3116	Shuizhuping	13122	i²¹	i ²¹	i ²¹	13122
+3117	Xuzhang	13122	ai²¹	ai ²¹	ai ²¹	13122
+3118	Yijiacun	13122	i²⁴	i ²⁴	i ²⁴	13122
+3119	ProtoLalo	13122	e²	e ²	e ²	13122
+1674	Diaocao	13155	mei⁴²	m ei ⁴²	m ei ⁴²	13155
+1675	Qingyun	13155	mɛ̠²¹	m ɛ̠ ²¹	m ɛ̠ ²¹	13155
+1676	Shuizhuping	13155	me⁴⁴	m e ⁴⁴	m e ⁴⁴	13155
+1677	Yangliu	13155	mai⁵³	m ai ⁵³	m ai ⁵³	13155
+1678	ProtoLalo	13155	me̠³	m e̠ ³	m e̠ ³	13155
+881	Diaocao	13197	li²¹	l i ²¹	l i ²¹	13197
+882	Mangdi	13197	lu²¹	l u ²¹	l u ²¹	13197
+883	Shuizhuping	13197	li⁴⁴	l i ⁴⁴	l i ⁴⁴	13197
+884	Yijiacun	13197	li²¹	l i ²¹	l i ²¹	13197
+885	ProtoLalo	13197	ˀli²	ˀl i ²	ˀl i ²	13197
+355	Diaocao	13215	li²¹	l i ²¹	l i ²¹	13215
+356	Mangdi	13215	lu²¹	l u ²¹	l u ²¹	13215
+357	Shuizhuping	13215	li²¹	l i ²¹	l i ²¹	13215
+358	Yijiacun	13215	li³³	l i ³³	l i ³³	13215
+359	ProtoLalo	13215	ˀli²	ˀl i ²	ˀl i ²	13215
+982	Diaocao	13216	pu⁴²	p u ⁴²	p u ⁴²	13216
+983	Mangdi	13216	pɑ̠²¹	p ɑ̠ ²¹	p ɑ̠ ²¹	13216
+984	Qingyun	13216	pa̠²¹	p a̠ ²¹	p a̠ ²¹	13216
+985	Shuizhuping	13216	pa⁵³	p a ⁵³	p a ⁵³	13216
+986	Xuzhang	13216	po³³	p o ³³	p o ³³	13216
+987	Yijiacun	13216	poi⁴²	p oi ⁴²	p oi ⁴²	13216
+988	ProtoLalo	13216	pa̠³	p a̠ ³	p a̠ ³	13216
+675	Diaocao	13268	gɛ²¹	g ɛ ²¹	g ɛ ²¹	13268
+676	Shuizhuping	13268	ɣɛ²¹	ɣ ɛ ²¹	ɣ ɛ ²¹	13268
+677	Xuzhang	13268	gɛ³³	g ɛ ³³	g ɛ ³³	13268
+678	ProtoLalo	13268	gɛ²	g ɛ ²	g ɛ ²	13268
+3652	Qingyun	13281	ˀlə²¹	ˀl ə ²¹	ˀl ə ²¹	13281
+3653	Xuzhang	13281	ljaŋ⁵⁵	l j a ŋ ⁵⁵	l j a ŋ ⁵⁵	13281
+3654	Yangliu	13281	ljaŋ³³	l j a ŋ ³³	l j a ŋ ³³	13281
+3655	Yijiacun	13281	lɛŋ²¹	l ɛ ŋ ²¹	l ɛ ŋ ²¹	13281
+3656	ProtoLalo	13281	ˀlu²	ˀl u ²	ˀl u ²	13281
+963	Diaocao	13292	xɔ⁵⁵	x ɔ ⁵⁵	x ɔ ⁵⁵	13292
+964	Mangdi	13292	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	13292
+965	Yangliu	13292	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	13292
+966	Yijiacun	13292	xo²⁴	x o ²⁴	x o ²⁴	13292
+967	ProtoLalo	13292	ˀxa¹	ˀx a ¹	ˀx a ¹	13292
+3222	Diaocao	13305	tʰei³³	tʰ ei ³³	tʰ ei ³³	13305
+3223	Mangdi	13305	tʰə⁵⁵	tʰ ə ⁵⁵	tʰ ə ⁵⁵	13305
+3224	Yangliu	13305	tʰə³³	tʰ ə ³³	tʰ ə ³³	13305
+3225	Yijiacun	13305	tʰə²⁴	tʰ ə ²⁴	tʰ ə ²⁴	13305
+3226	ProtoLalo	13305	tʰy¹	tʰ y ¹	tʰ y ¹	13305
+3730	Mangdi	13306	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	13306
+3731	Qingyun	13306	sɛ̠²¹	s ɛ̠ ²¹	s ɛ̠ ²¹	13306
+3732	Shuizhuping	13306	se⁵⁵	s e ⁵⁵	s e ⁵⁵	13306
+3733	Xuzhang	13306	sɛi³³	s ɛi ³³	s ɛi ³³	13306
+3734	ProtoLalo	13306	se̠³	s e̠ ³	s e̠ ³	13306
+2367	Diaocao	13342	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	13342
+2368	Mangdi	13342	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	13342
+2369	Qingyun	13342	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	13342
+2370	Shuizhuping	13342	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	13342
+2371	Xuzhang	13342	tɕi⁴⁵³	tɕ i ⁴⁵³	tɕ i ⁴⁵³	13342
+2372	Yangliu	13342	tsei³³	ts ei ³³	ts ei ³³	13342
+2373	Yijiacun	13342	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	13342
+2374	ProtoLalo	13342	tʃe¹	tʃ e ¹	tʃ e ¹	13342
+59	Mangdi	13354	a⁵⁵	a ⁵⁵	a ⁵⁵	13354
+60	Qingyun	13354	a⁵⁵	a ⁵⁵	a ⁵⁵	13354
+61	Shuizhuping	13354	a³³	a ³³	a ³³	13354
+62	Xuzhang	13354	a³³	a ³³	a ³³	13354
+63	Yangliu	13354	a⁴⁴	a ⁴⁴	a ⁴⁴	13354
+64	Yijiacun	13354	a²⁴	a ²⁴	a ²⁴	13354
+65	ProtoLalo	13354	a¹	a ¹	a ¹	13354
+2097	Diaocao	13390	dza²⁴	dz a ²⁴	dz a ²⁴	13390
+2098	Mangdi	13390	ka³³	k a ³³	k a ³³	13390
+2099	Qingyun	13390	dʑɛ⁵⁵	dʑ ɛ ⁵⁵	dʑ ɛ ⁵⁵	13390
+2100	Shuizhuping	13390	ɖʐa²⁴	ɖʐ a ²⁴	ɖʐ a ²⁴	13390
+2101	Xuzhang	13390	ɖʐa²⁴	ɖʐ a ²⁴	ɖʐ a ²⁴	13390
+2102	Yangliu	13390	kə³³	k ə ³³	k ə ³³	13390
+2103	Yijiacun	13390	ka⁵⁵	k a ⁵⁵	k a ⁵⁵	13390
+2104	ProtoLalo	13390	dʒa¹	dʒ a ¹	dʒ a ¹	13390
+3120	Diaocao	13522	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	13522
+3121	Mangdi	13522	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	13522
+3122	Qingyun	13522	kʰɛ̤²¹	kʰ ɛ̤ ²¹	kʰ ɛ̤ ²¹	13522
+3123	Shuizhuping	13522	kʰe²¹	kʰ e ²¹	kʰ e ²¹	13522
+3124	Xuzhang	13522	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	13522
+3125	Yangliu	13522	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	13522
+3126	Yijiacun	13522	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	13522
+3127	ProtoLalo	13522	kʰjɛ²	kʰ j ɛ ²	kʰ j ɛ ²	13522
+3847	Diaocao	13546	ni⁴²	n i ⁴²	n i ⁴²	13546
+3848	Mangdi	13546	ɲɛ³³	ɲ ɛ ³³	ɲ ɛ ³³	13546
+3849	Yangliu	13546	naŋ⁵³	n a ŋ ⁵³	n a ŋ ⁵³	13546
+3850	Yijiacun	13546	nɛ̠²¹	n ɛ̠ ²¹	n ɛ̠ ²¹	13546
+3851	ProtoLalo	13546	ni̠³	n i̠ ³	n i̠ ³	13546
+2304	Diaocao	13573	dzɿ⁴²	dz ɿ ⁴²	dz ɿ ⁴²	13573
+2305	Mangdi	13573	tɛ²¹	t ɛ ²¹	t ɛ ²¹	13573
+2306	Qingyun	13573	gə̠²¹	g ə̠ ²¹	g ə̠ ²¹	13573
+2307	Shuizhuping	13573	tʰe⁵³	tʰ e ⁵³	tʰ e ⁵³	13573
+2308	Xuzhang	13573	gɤ³³	g ɤ ³³	g ɤ ³³	13573
+2309	Yijiacun	13573	dʑi̠²¹	dʑ i̠ ²¹	dʑ i̠ ²¹	13573
+2310	ProtoLalo	13573	tʰe̠³	tʰ e̠ ³	tʰ e̠ ³	13573
+1123	Diaocao	13600	kʰə²¹	kʰ ə ²¹	kʰ ə ²¹	13600
+1124	Mangdi	13600	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	13600
+1125	Qingyun	13600	kʰə̤²¹	kʰ ə̤ ²¹	kʰ ə̤ ²¹	13600
+1126	Xuzhang	13600	kʰɤ²¹	kʰ ɤ ²¹	kʰ ɤ ²¹	13600
+1127	Yangliu	13600	kʰɔ²¹	kʰ ɔ ²¹	kʰ ɔ ²¹	13600
+1128	Yijiacun	13600	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	13600
+1129	ProtoLalo	13600	kʰo²	kʰ o ²	kʰ o ²	13600
+727	Mangdi	13610	pu²¹	p u ²¹	p u ²¹	13610
+728	Qingyun	13610	pʉ²¹	p ʉ ²¹	p ʉ ²¹	13610
+729	Yangliu	13610	pu²¹	p u ²¹	p u ²¹	13610
+730	ProtoLalo	13610	pu²	p u ²	p u ²	13610
+3546	Diaocao	13628	dzei²⁴	dz ei ²⁴	dz ei ²⁴	13628
+3547	Mangdi	13628	to⁵⁵	t o ⁵⁵	t o ⁵⁵	13628
+3548	Shuizhuping	13628	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	13628
+3549	Xuzhang	13628	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	13628
+3550	Yangliu	13628	dzɿ³³	dz ɿ ³³	dz ɿ ³³	13628
+3551	ProtoLalo	13628	dze¹	dz e ¹	dz e ¹	13628
+684	Diaocao	13650	mɛ⁵⁵	m ɛ ⁵⁵	m ɛ ⁵⁵	13650
+685	Qingyun	13650	ˀmɛ⁵⁵	ˀm ɛ ⁵⁵	ˀm ɛ ⁵⁵	13650
+686	Shuizhuping	13650	mɛ⁴⁴	m ɛ ⁴⁴	m ɛ ⁴⁴	13650
+687	Xuzhang	13650	mɛ⁴⁴	m ɛ ⁴⁴	m ɛ ⁴⁴	13650
+688	ProtoLalo	13650	ˀmɛ¹	ˀm ɛ ¹	ˀm ɛ ¹	13650
+52	Diaocao	13696	ɣɛ³³	ɣ ɛ ³³	ɣ ɛ ³³	13696
+53	Mangdi	13696	ɣa³³	ɣ a ³³	ɣ a ³³	13696
+54	Qingyun	13696	ga̠³³	g a̠ ³³	g a̠ ³³	13696
+55	Shuizhuping	13696	gɛ⁴⁴	g ɛ ⁴⁴	g ɛ ⁴⁴	13696
+56	Xuzhang	13696	gɛ³³	g ɛ ³³	g ɛ ³³	13696
+57	Yijiacun	13696	ga̠³³	g a̠ ³³	g a̠ ³³	13696
+58	ProtoLalo	13696	gɛ̠¹	g ɛ̠ ¹	g ɛ̠ ¹	13696
+550	Diaocao	13728	lu³³	l u ³³	l u ³³	13728
+551	Mangdi	13728	lo³³	l o ³³	l o ³³	13728
+552	Qingyun	13728	lə̠³³	l ə̠ ³³	l ə̠ ³³	13728
+553	Shuizhuping	13728	lu⁴⁴	l u ⁴⁴	l u ⁴⁴	13728
+554	Yangliu	13728	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	13728
+555	Yijiacun	13728	lu³³	l u ³³	l u ³³	13728
+556	ProtoLalo	13728	lu̠¹	l u̠ ¹	l u̠ ¹	13728
+2383	Diaocao	13803	dʑi³³	dʑ i ³³	dʑ i ³³	13803
+2384	Mangdi	13803	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	13803
+2385	Qingyun	13803	dʑi³³	dʑ i ³³	dʑ i ³³	13803
+2386	Shuizhuping	13803	dʑi²¹	dʑ i ²¹	dʑ i ²¹	13803
+2387	Xuzhang	13803	ɖʐʅ²¹	ɖʐ ʅ ²¹	ɖʐ ʅ ²¹	13803
+2388	Yangliu	13803	dzai²¹	dz ai ²¹	dz ai ²¹	13803
+2389	Yijiacun	13803	dʑɛ³³	dʑ ɛ ³³	dʑ ɛ ³³	13803
+2390	ProtoLalo	13803	dʒe³	dʒ e ³	dʒ e ³	13803
+2576	Diaocao	13824	dza²⁴	dz a ²⁴	dz a ²⁴	13824
+2577	Mangdi	13824	dza⁵⁵	dz a ⁵⁵	dz a ⁵⁵	13824
+2578	Qingyun	13824	dzu⁵⁵	dz u ⁵⁵	dz u ⁵⁵	13824
+2579	Shuizhuping	13824	dzu²⁴	dz u ²⁴	dz u ²⁴	13824
+2580	Xuzhang	13824	dza²⁴	dz a ²⁴	dz a ²⁴	13824
+2581	ProtoLalo	13824	dzaŋ¹	dz a ŋ ¹	dz a ŋ ¹	13824
+1040	Diaocao	13854	sɔ⁵⁵	s ɔ ⁵⁵	s ɔ ⁵⁵	13854
+1041	Qingyun	13854	ʂa⁵⁵	ʂ a ⁵⁵	ʂ a ⁵⁵	13854
+1042	Shuizhuping	13854	ʂa⁵⁵	ʂ a ⁵⁵	ʂ a ⁵⁵	13854
+1043	Xuzhang	13854	ʈʂʰʅ³⁵	ʈʂʰ ʅ ³⁵	ʈʂʰ ʅ ³⁵	13854
+1044	Yijiacun	13854	tsʰɿ²⁴	tsʰ ɿ ²⁴	tsʰ ɿ ²⁴	13854
+1045	ProtoLalo	13854	ʃa¹	ʃ a ¹	ʃ a ¹	13854
+2822	Diaocao	13855	ta²¹	t a ²¹	t a ²¹	13855
+2823	Mangdi	13855	tʃʰɿ⁵⁵	tʃʰ ɿ ⁵⁵	tʃʰ ɿ ⁵⁵	13855
+2824	Shuizhuping	13855	da²¹	d a ²¹	d a ²¹	13855
+2825	ProtoLalo	13855	da²	d a ²	d a ²	13855
+3705	Diaocao	13874	mɔ³³	m ɔ ³³	m ɔ ³³	13874
+3706	Mangdi	13874	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	13874
+3707	Qingyun	13874	ma³³	m a ³³	m a ³³	13874
+3708	Xuzhang	13874	mo³³	m o ³³	m o ³³	13874
+3709	Yangliu	13874	m̩²¹	m̩ ²¹	m̩ ²¹	13874
+3710	Yijiacun	13874	mi²⁴	m i ²⁴	m i ²⁴	13874
+3711	ProtoLalo	13874	mo²	m o ²	m o ²	13874
+3155	Diaocao	13939	na³³	n a ³³	n a ³³	13939
+3156	Mangdi	13939	ŋa³³	ŋ a ³³	ŋ a ³³	13939
+3157	Shuizhuping	13939	nv̩³³	n v̩ ³³	n v̩ ³³	13939
+3158	Xuzhang	13939	naŋ³³	n a ŋ ³³	n a ŋ ³³	13939
+3159	Yangliu	13939	jan⁵⁵	j a n ⁵⁵	j a n ⁵⁵	13939
+3160	Yijiacun	13939	nɛ⁵⁵	n ɛ ⁵⁵	n ɛ ⁵⁵	13939
+3161	ProtoLalo	13939	naŋ³	n a ŋ ³	n a ŋ ³	13939
+1686	Diaocao	13981	sɿ³³	s ɿ ³³	s ɿ ³³	13981
+1687	Shuizhuping	13981	sɿ⁴⁴	s ɿ ⁴⁴	s ɿ ⁴⁴	13981
+1688	Yangliu	13981	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	13981
+1689	ProtoLalo	13981	si̠¹	s i̠ ¹	s i̠ ¹	13981
+492	Diaocao	13999	pʰə⁴²	pʰ ə ⁴²	pʰ ə ⁴²	13999
+493	Mangdi	13999	pʰɑ̠²¹	pʰ ɑ̠ ²¹	pʰ ɑ̠ ²¹	13999
+494	Qingyun	13999	pʰø̠²¹	pʰ ø̠ ²¹	pʰ ø̠ ²¹	13999
+495	Shuizhuping	13999	pʰy⁵³	pʰ y ⁵³	pʰ y ⁵³	13999
+496	Xuzhang	13999	pʰɨ³³	pʰ ɨ ³³	pʰ ɨ ³³	13999
+497	Yangliu	13999	pʰɨ⁵³	pʰ ɨ ⁵³	pʰ ɨ ⁵³	13999
+498	Yijiacun	13999	pʰə²¹	pʰ ə ²¹	pʰ ə ²¹	13999
+499	ProtoLalo	13999	pʰy̠³	pʰ y̠ ³	pʰ y̠ ³	13999
+2192	Diaocao	140	la⁴²	l a ⁴²	l a ⁴²	140
+2193	Mangdi	140	lo²¹	l o ²¹	l o ²¹	140
+2194	Qingyun	140	la̠²¹	l a̠ ²¹	l a̠ ²¹	140
+2195	Shuizhuping	140	la²¹	l a ²¹	l a ²¹	140
+2196	Xuzhang	140	la²¹	l a ²¹	l a ²¹	140
+2197	Yangliu	140	la²¹	l a ²¹	l a ²¹	140
+2198	ProtoLalo	140	la²	l a ²	l a ²	140
+99	Mangdi	14010	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	14010
+100	Qingyun	14010	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	14010
+101	Shuizhuping	14010	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	14010
+102	Xuzhang	14010	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	14010
+103	ProtoLalo	14010	ɣi¹	ɣ i ¹	ɣ i ¹	14010
+1046	Shuizhuping	14012	ɣa³³	ɣ a ³³	ɣ a ³³	14012
+1047	Xuzhang	14012	ka³³	k a ³³	k a ³³	14012
+1048	ProtoLalo	14012	ga³	g a ³	g a ³	14012
+111	Qingyun	1402	hø̠²¹	h ø̠ ²¹	h ø̠ ²¹	1402
+112	Xuzhang	1402	hø̃⁴⁵³	h ø̃ ⁴⁵³	h ø̃ ⁴⁵³	1402
+113	ProtoLalo	1402	hy̠³	h y̠ ³	h y̠ ³	1402
+3776	Diaocao	14027	mɛ²¹	m ɛ ²¹	m ɛ ²¹	14027
+3777	Mangdi	14027	mɛ²¹	m ɛ ²¹	m ɛ ²¹	14027
+3778	Qingyun	14027	ˀmɛ̤²¹	ˀm ɛ̤ ²¹	ˀm ɛ̤ ²¹	14027
+3779	Shuizhuping	14027	mɛʔ⁵³	m ɛ ʔ ⁵³	m ɛ ʔ ⁵³	14027
+3780	Xuzhang	14027	mɛ²¹	m ɛ ²¹	m ɛ ²¹	14027
+3781	Yangliu	14027	mɛ²¹	m ɛ ²¹	m ɛ ²¹	14027
+3782	Yijiacun	14027	mɛ̠²¹	m ɛ̠ ²¹	m ɛ̠ ²¹	14027
+3783	ProtoLalo	14027	ˀmɛ²	ˀm ɛ ²	ˀm ɛ ²	14027
+3305	Diaocao	14053	li⁴²	l i ⁴²	l i ⁴²	14053
+3306	Mangdi	14053	lɨ²¹	l ɨ ²¹	l ɨ ²¹	14053
+3307	Shuizhuping	14053	li⁵³	l i ⁵³	l i ⁵³	14053
+3308	Xuzhang	14053	la³³	l a ³³	l a ³³	14053
+3309	Yangliu	14053	li⁵³	l i ⁵³	l i ⁵³	14053
+3310	Yijiacun	14053	lɨ̠ʔ²¹	l ɨ̠ ʔ ²¹	l ɨ̠ ʔ ²¹	14053
+3311	ProtoLalo	14053	ˀli̠³	ˀl i̠ ³	ˀl i̠ ³	14053
+538	Diaocao	14062	v̩²⁴	v̩ ²⁴	v̩ ²⁴	14062
+539	Mangdi	14062	vu⁵⁵	v u ⁵⁵	v u ⁵⁵	14062
+540	Qingyun	14062	v̩⁵⁵	v̩ ⁵⁵	v̩ ⁵⁵	14062
+541	Shuizhuping	14062	vv̩²⁴	v v̩ ²⁴	v v̩ ²⁴	14062
+542	Xuzhang	14062	vv̩²⁴	v v̩ ²⁴	v v̩ ²⁴	14062
+543	Yangliu	14062	vv̩³³	v v̩ ³³	v v̩ ³³	14062
+544	Yijiacun	14062	vu²⁴	v u ²⁴	v u ²⁴	14062
+545	ProtoLalo	14062	vu¹	v u ¹	v u ¹	14062
+2359	Diaocao	14063	tʰi³³	tʰ i ³³	tʰ i ³³	14063
+2360	Mangdi	14063	to³³	t o ³³	t o ³³	14063
+2361	Qingyun	14063	tʰɛ̠²¹	tʰ ɛ̠ ²¹	tʰ ɛ̠ ²¹	14063
+2362	Shuizhuping	14063	tʰe⁵³	tʰ e ⁵³	tʰ e ⁵³	14063
+2363	Xuzhang	14063	tʰjɛ³³	tʰ j ɛ ³³	tʰ j ɛ ³³	14063
+2364	Yangliu	14063	tu³³	t u ³³	t u ³³	14063
+2365	Yijiacun	14063	twa²⁴	t w a ²⁴	t w a ²⁴	14063
+2366	ProtoLalo	14063	tʰe̠³	tʰ e̠ ³	tʰ e̠ ³	14063
+2339	Diaocao	14080	tsʰo³³	tsʰ o ³³	tsʰ o ³³	14080
+2340	Qingyun	14080	ʈʂʰo̠³³	ʈʂʰ o̠ ³³	ʈʂʰ o̠ ³³	14080
+2341	Shuizhuping	14080	ʈʂʰu⁴⁴	ʈʂʰ u ⁴⁴	ʈʂʰ u ⁴⁴	14080
+2342	Xuzhang	14080	tɕʰi³³	tɕʰ i ³³	tɕʰ i ³³	14080
+2343	Yangliu	14080	tʰo³³	tʰ o ³³	tʰ o ³³	14080
+2344	Yijiacun	14080	za²⁴	z a ²⁴	z a ²⁴	14080
+2345	ProtoLalo	14080	tʃʰo̠¹	tʃʰ o̠ ¹	tʃʰ o̠ ¹	14080
+3177	Mangdi	14081	bɨ²¹	b ɨ ²¹	b ɨ ²¹	14081
+3178	Yangliu	14081	bi²¹	b i ²¹	b i ²¹	14081
+3179	Yijiacun	14081	bi²¹	b i ²¹	b i ²¹	14081
+3180	ProtoLalo	14081	bi²	b i ²	b i ²	14081
+2886	Qingyun	14082	a⁵⁵	a ⁵⁵	a ⁵⁵	14082
+2887	Shuizhuping	14082	a⁴⁴	a ⁴⁴	a ⁴⁴	14082
+2888	ProtoLalo	14082	a¹	a ¹	a ¹	14082
+187	Diaocao	14096	lɔ²¹	l ɔ ²¹	l ɔ ²¹	14096
+188	Mangdi	14096	la²¹	l a ²¹	l a ²¹	14096
+189	Qingyun	14096	la̤²¹	l a̤ ²¹	l a̤ ²¹	14096
+190	Shuizhuping	14096	la²¹	l a ²¹	l a ²¹	14096
+191	Yangliu	14096	la²¹	l a ²¹	l a ²¹	14096
+192	Yijiacun	14096	la²¹	l a ²¹	l a ²¹	14096
+193	ProtoLalo	14096	la²	l a ²	l a ²	14096
+2785	Diaocao	141	lu³³	l u ³³	l u ³³	141
+2786	Mangdi	141	lo³³	l o ³³	l o ³³	141
+2787	Qingyun	141	ˀlo̠³³	ˀl o̠ ³³	ˀl o̠ ³³	141
+2788	Shuizhuping	141	lu³³	l u ³³	l u ³³	141
+2789	Xuzhang	141	lu⁴⁴	l u ⁴⁴	l u ⁴⁴	141
+2790	Yangliu	141	lu⁴⁵³	l u ⁴⁵³	l u ⁴⁵³	141
+2791	ProtoLalo	141	lo̠¹	l o̠ ¹	l o̠ ¹	141
+2266	Diaocao	14111	mɔ²¹	m ɔ ²¹	m ɔ ²¹	14111
+2267	Mangdi	14111	mo²¹	m o ²¹	m o ²¹	14111
+2268	Qingyun	14111	ˀma̤²¹	ˀm a̤ ²¹	ˀm a̤ ²¹	14111
+2269	Shuizhuping	14111	ma⁵³	m a ⁵³	m a ⁵³	14111
+2270	Xuzhang	14111	mo²¹	m o ²¹	m o ²¹	14111
+2271	Yijiacun	14111	mo³³	m o ³³	m o ³³	14111
+2272	ProtoLalo	14111	ˀma²	ˀm a ²	ˀm a ²	14111
+2637	Shuizhuping	14113	tsu³³	ts u ³³	ts u ³³	14113
+2638	Yangliu	14113	tu⁵³	t u ⁵³	t u ⁵³	14113
+2639	ProtoLalo	14113	tsaŋ³	ts a ŋ ³	ts a ŋ ³	14113
+2245	Qingyun	14128	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	14128
+2246	Shuizhuping	14128	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	14128
+2247	Xuzhang	14128	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	14128
+2248	Yangliu	14128	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	14128
+2249	ProtoLalo	14128	ɣi¹	ɣ i ¹	ɣ i ¹	14128
+3084	Diaocao	14144	sə²¹	s ə ²¹	s ə ²¹	14144
+3085	Mangdi	14144	so²¹	s o ²¹	s o ²¹	14144
+3086	Qingyun	14144	sy²¹	s y ²¹	s y ²¹	14144
+3087	Shuizhuping	14144	sɛ²¹	s ɛ ²¹	s ɛ ²¹	14144
+3088	Xuzhang	14144	sy²¹	s y ²¹	s y ²¹	14144
+3089	Yangliu	14144	sə²¹	s ə ²¹	s ə ²¹	14144
+3090	Yijiacun	14144	ɕi²¹	ɕ i ²¹	ɕ i ²¹	14144
+3091	ProtoLalo	14144	sy²	s y ²	s y ²	14144
+3202	Diaocao	14156	bei³³	b ei ³³	b ei ³³	14156
+3203	Mangdi	14156	bɛ̠³³	b ɛ̠ ³³	b ɛ̠ ³³	14156
+3204	Qingyun	14156	bɛ̠³³	b ɛ̠ ³³	b ɛ̠ ³³	14156
+3205	Shuizhuping	14156	bɛ⁴⁴	b ɛ ⁴⁴	b ɛ ⁴⁴	14156
+3206	Xuzhang	14156	bi³⁴	b i ³⁴	b i ³⁴	14156
+3207	Yangliu	14156	bei⁵⁵	b ei ⁵⁵	b ei ⁵⁵	14156
+3208	ProtoLalo	14156	be̠¹	b e̠ ¹	b e̠ ¹	14156
+2478	Diaocao	14157	ɣə²¹	ɣ ə ²¹	ɣ ə ²¹	14157
+2479	Mangdi	14157	gɨ²¹	g ɨ ²¹	g ɨ ²¹	14157
+2480	Qingyun	14157	gṳ²¹	g ṳ ²¹	g ṳ ²¹	14157
+2481	Xuzhang	14157	gɨ²¹	g ɨ ²¹	g ɨ ²¹	14157
+2482	Yangliu	14157	gɨ³³	g ɨ ³³	g ɨ ³³	14157
+2483	ProtoLalo	14157	gu²	g u ²	g u ²	14157
+1407	Diaocao	14172	tsʰei⁵⁵	tsʰ ei ⁵⁵	tsʰ ei ⁵⁵	14172
+1408	Mangdi	14172	tɕʰɛ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵	14172
+1409	Qingyun	14172	tsʰi⁵⁵	tsʰ i ⁵⁵	tsʰ i ⁵⁵	14172
+1410	Shuizhuping	14172	tsʰe²⁴	tsʰ e ²⁴	tsʰ e ²⁴	14172
+1411	Xuzhang	14172	tɕʰi⁴⁵³	tɕʰ i ⁴⁵³	tɕʰ i ⁴⁵³	14172
+1412	Yangliu	14172	tsʰei³³	tsʰ ei ³³	tsʰ ei ³³	14172
+1413	Yijiacun	14172	tɕʰɛ²⁴	tɕʰ ɛ ²⁴	tɕʰ ɛ ²⁴	14172
+1414	ProtoLalo	14172	tsʰe¹	tsʰ e ¹	tsʰ e ¹	14172
+2564	Diaocao	14182	tsa³³	ts a ³³	ts a ³³	14182
+2565	Mangdi	14182	tso³³	ts o ³³	ts o ³³	14182
+2566	Qingyun	14182	ʈʂa³³	ʈʂ a ³³	ʈʂ a ³³	14182
+2567	Shuizhuping	14182	ʈʂa³³	ʈʂ a ³³	ʈʂ a ³³	14182
+2568	Xuzhang	14182	ʈʂo³³	ʈʂ o ³³	ʈʂ o ³³	14182
+2569	Yijiacun	14182	tso³³	ts o ³³	ts o ³³	14182
+2570	ProtoLalo	14182	tʃa³	tʃ a ³	tʃ a ³	14182
+670	Diaocao	142	pu⁴²	p u ⁴²	p u ⁴²	142
+671	Mangdi	142	pɑ̠²¹	p ɑ̠ ²¹	p ɑ̠ ²¹	142
+672	Qingyun	142	pa̠²¹	p a̠ ²¹	p a̠ ²¹	142
+673	Shuizhuping	142	pa⁵³	p a ⁵³	p a ⁵³	142
+674	ProtoLalo	142	pa̠³	p a̠ ³	p a̠ ³	142
+1723	Diaocao	14200	a³³	a ³³	a ³³	14200
+1724	Shuizhuping	14200	a³³	a ³³	a ³³	14200
+1725	Xuzhang	14200	a²¹	a ²¹	a ²¹	14200
+1726	ProtoLalo	14200	a²	a ²	a ²	14200
+1423	Diaocao	14202	fɤ⁵⁵	f ɤ ⁵⁵	f ɤ ⁵⁵	14202
+1424	Mangdi	14202	bi²¹	b i ²¹	b i ²¹	14202
+1425	Qingyun	14202	bʉ²¹	b ʉ ²¹	b ʉ ²¹	14202
+1426	Yangliu	14202	bi²¹	b i ²¹	b i ²¹	14202
+1427	Yijiacun	14202	bɨ²¹	b ɨ ²¹	b ɨ ²¹	14202
+1428	ProtoLalo	14202	pʰu¹	pʰ u ¹	pʰ u ¹	14202
+21	Mangdi	14203	ɕi³³	ɕ i ³³	ɕ i ³³	14203
+22	Shuizhuping	14203	ʐu⁴⁴	ʐ u ⁴⁴	ʐ u ⁴⁴	14203
+23	Xuzhang	14203	ʐu³³	ʐ u ³³	ʐ u ³³	14203
+24	ProtoLalo	14203	ʒo̠¹	ʒ o̠ ¹	ʒ o̠ ¹	14203
+71	Diaocao	14243	nu⁵⁵	n u ⁵⁵	n u ⁵⁵	14243
+72	Mangdi	14243	nə⁵⁵	n ə ⁵⁵	n ə ⁵⁵	14243
+73	Qingyun	14243	nao⁵⁵	n ao ⁵⁵	n ao ⁵⁵	14243
+74	Shuizhuping	14243	na⁴⁴	n a ⁴⁴	n a ⁴⁴	14243
+75	Xuzhang	14243	na⁴⁵³	n a ⁴⁵³	n a ⁴⁵³	14243
+76	Yangliu	14243	nə³³	n ə ³³	n ə ³³	14243
+77	Yijiacun	14243	no³³	n o ³³	n o ³³	14243
+78	ProtoLalo	14243	na¹	n a ¹	n a ¹	14243
+840	Qingyun	1427	hi⁵⁵	h i ⁵⁵	h i ⁵⁵	1427
+841	Shuizhuping	1427	hẽ²⁴	h ẽ ²⁴	h ẽ ²⁴	1427
+842	Xuzhang	1427	hĩ³⁵	h ĩ ³⁵	h ĩ ³⁵	1427
+843	Yangliu	1427	hein⁴⁴	h ei n ⁴⁴	h ei n ⁴⁴	1427
+844	ProtoLalo	1427	he¹	h e ¹	h e ¹	1427
+695	Diaocao	14355	tsɛ³³	ts ɛ ³³	ts ɛ ³³	14355
+696	Shuizhuping	14355	dʑi²¹	dʑ i ²¹	dʑ i ²¹	14355
+697	Xuzhang	14355	tɕʰĩ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	14355
+698	Yangliu	14355	dzɛ⁵⁵	dz ɛ ⁵⁵	dz ɛ ⁵⁵	14355
+699	Yijiacun	14355	kʰə²¹	kʰ ə ²¹	kʰ ə ²¹	14355
+700	ProtoLalo	14355	dʒe¹	dʒ e ¹	dʒ e ¹	14355
+1694	Diaocao	14356	kɤ⁵⁵	k ɤ ⁵⁵	k ɤ ⁵⁵	14356
+1695	Mangdi	14356	kʰo⁵⁵	kʰ o ⁵⁵	kʰ o ⁵⁵	14356
+1696	Qingyun	14356	xa⁵⁵	x a ⁵⁵	x a ⁵⁵	14356
+1697	Xuzhang	14356	tɕʰĩ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	14356
+1698	Yangliu	14356	ko³³	k o ³³	k o ³³	14356
+1699	Yijiacun	14356	kʰõ³³	kʰ õ ³³	kʰ õ ³³	14356
+1700	ProtoLalo	14356	ku¹	k u ¹	k u ¹	14356
+1888	Mangdi	14374	dɨ²¹	d ɨ ²¹	d ɨ ²¹	14374
+1889	Qingyun	14374	di̤²¹	d i̤ ²¹	d i̤ ²¹	14374
+1890	Shuizhuping	14374	di²¹	d i ²¹	d i ²¹	14374
+1891	Xuzhang	14374	di²¹	d i ²¹	d i ²¹	14374
+1892	Yijiacun	14374	dɨ²¹	d ɨ ²¹	d ɨ ²¹	14374
+1893	ProtoLalo	14374	di²	d i ²	d i ²	14374
+2533	Diaocao	14396	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	14396
+2534	Mangdi	14396	tsʰa⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵	14396
+2535	Qingyun	14396	ʈʂʅ⁵⁵	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	14396
+2536	Shuizhuping	14396	ʈʂa²⁴	ʈʂ a ²⁴	ʈʂ a ²⁴	14396
+2537	Xuzhang	14396	ʈʂʅ⁴⁵³	ʈʂ ʅ ⁴⁵³	ʈʂ ʅ ⁴⁵³	14396
+2538	Yangliu	14396	tsɿ⁵³	ts ɿ ⁵³	ts ɿ ⁵³	14396
+2539	Yijiacun	14396	tʰo²⁴	tʰ o ²⁴	tʰ o ²⁴	14396
+2540	ProtoLalo	14396	tʃu¹	tʃ u ¹	tʃ u ¹	14396
+628	Diaocao	14406	i²¹	i ²¹	i ²¹	14406
+629	Mangdi	14406	ɪ²¹	ɪ ²¹	ɪ ²¹	14406
+630	Qingyun	14406	i²¹	i ²¹	i ²¹	14406
+631	Shuizhuping	14406	i²¹	i ²¹	i ²¹	14406
+632	Xuzhang	14406	y²¹	y ²¹	y ²¹	14406
+633	Yijiacun	14406	i²¹	i ²¹	i ²¹	14406
+634	ProtoLalo	14406	i²	i ²	i ²	14406
+2471	Diaocao	14407	mi²⁴	m i ²⁴	m i ²⁴	14407
+2472	Mangdi	14407	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	14407
+2473	Qingyun	14407	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	14407
+2474	Shuizhuping	14407	mi²⁴	m i ²⁴	m i ²⁴	14407
+2475	Xuzhang	14407	my²⁴	m y ²⁴	m y ²⁴	14407
+2476	Yijiacun	14407	mi²⁴	m i ²⁴	m i ²⁴	14407
+2477	ProtoLalo	14407	mi¹	m i ¹	m i ¹	14407
+1306	Diaocao	14461	nə⁵⁵	n ə ⁵⁵	n ə ⁵⁵	14461
+1307	Mangdi	14461	nə⁵⁵	n ə ⁵⁵	n ə ⁵⁵	14461
+1308	Qingyun	14461	ny⁵⁵	n y ⁵⁵	n y ⁵⁵	14461
+1309	Shuizhuping	14461	ny⁴⁴	n y ⁴⁴	n y ⁴⁴	14461
+1310	Xuzhang	14461	ny⁴⁴	n y ⁴⁴	n y ⁴⁴	14461
+1311	Yangliu	14461	nə³³	n ə ³³	n ə ³³	14461
+1312	Yijiacun	14461	ni²⁴	n i ²⁴	n i ²⁴	14461
+1313	ProtoLalo	14461	ny¹	n y ¹	n y ¹	14461
+2896	Mangdi	1454	a⁵⁵	a ⁵⁵	a ⁵⁵	1454
+2897	Qingyun	1454	a̤²¹	a̤ ²¹	a̤ ²¹	1454
+2898	Shuizhuping	1454	a²¹	a ²¹	a ²¹	1454
+2899	Yijiacun	1454	a²⁴	a ²⁴	a ²⁴	1454
+2900	ProtoLalo	1454	a²	a ²	a ²	1454
+2142	Mangdi	1455	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	1455
+2143	Yangliu	1455	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	1455
+2144	Yijiacun	1455	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	1455
+2145	ProtoLalo	1455	ɣy¹	ɣ y ¹	ɣ y ¹	1455
+2717	Diaocao	14551	tɤ⁵⁵	t ɤ ⁵⁵	t ɤ ⁵⁵	14551
+2718	Qingyun	14551	tə⁵⁵	t ə ⁵⁵	t ə ⁵⁵	14551
+2719	Xuzhang	14551	kɨ⁴⁵³	k ɨ ⁴⁵³	k ɨ ⁴⁵³	14551
+2720	Yangliu	14551	tɕʰĩ³³	tɕʰ ĩ ³³	tɕʰ ĩ ³³	14551
+2721	ProtoLalo	14551	tu¹	t u ¹	t u ¹	14551
+1246	Diaocao	14582	sɿ³³	s ɿ ³³	s ɿ ³³	14582
+1247	Mangdi	14582	ɕi³³	ɕ i ³³	ɕ i ³³	14582
+1248	Qingyun	14582	ʂʅ³³	ʂ ʅ ³³	ʂ ʅ ³³	14582
+1249	Shuizhuping	14582	ʂʅ³³	ʂ ʅ ³³	ʂ ʅ ³³	14582
+1250	Xuzhang	14582	ʂʅ³³	ʂ ʅ ³³	ʂ ʅ ³³	14582
+1251	Yangliu	14582	sɿ³³	s ɿ ³³	s ɿ ³³	14582
+1252	Yijiacun	14582	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	14582
+1253	ProtoLalo	14582	ʃi̠¹	ʃ i̠ ¹	ʃ i̠ ¹	14582
+2146	Diaocao	14585	nɛ³³	n ɛ ³³	n ɛ ³³	14585
+2147	Mangdi	14585	ni³³	n i ³³	n i ³³	14585
+2148	Xuzhang	14585	ɲi³³	ɲ i ³³	ɲ i ³³	14585
+2149	Yangliu	14585	ni³³	n i ³³	n i ³³	14585
+2150	ProtoLalo	14585	ˀni³	ˀn i ³	ˀn i ³	14585
+2814	Diaocao	14607	pʰe³³	pʰ e ³³	pʰ e ³³	14607
+2815	Mangdi	14607	pʰin³³	pʰ i n ³³	pʰ i n ³³	14607
+2816	Qingyun	14607	pʰɛm³³	pʰ ɛ m ³³	pʰ ɛ m ³³	14607
+2817	Shuizhuping	14607	pʰe⁴⁴	pʰ e ⁴⁴	pʰ e ⁴⁴	14607
+2818	Xuzhang	14607	pʰi³³	pʰ i ³³	pʰ i ³³	14607
+2819	Yangliu	14607	pʰe⁵⁵	pʰ e ⁵⁵	pʰ e ⁵⁵	14607
+2820	Yijiacun	14607	pʰɛ²¹	pʰ ɛ ²¹	pʰ ɛ ²¹	14607
+2821	ProtoLalo	14607	pʰe̠¹	pʰ e̠ ¹	pʰ e̠ ¹	14607
+827	Diaocao	14608	nɛ³³	n ɛ ³³	n ɛ ³³	14608
+828	Xuzhang	14608	ɲi³³	ɲ i ³³	ɲ i ³³	14608
+829	Yangliu	14608	ni³³	n i ³³	n i ³³	14608
+830	Yijiacun	14608	ni²⁴	n i ²⁴	n i ²⁴	14608
+831	ProtoLalo	14608	ˀni³	ˀn i ³	ˀn i ³	14608
+2118	Diaocao	14628	sɿ³³	s ɿ ³³	s ɿ ³³	14628
+2119	Mangdi	14628	ɕi³³	ɕ i ³³	ɕ i ³³	14628
+2120	Qingyun	14628	ʂʅ³³	ʂ ʅ ³³	ʂ ʅ ³³	14628
+2121	Shuizhuping	14628	ʂʅ⁴⁴	ʂ ʅ ⁴⁴	ʂ ʅ ⁴⁴	14628
+2122	Xuzhang	14628	ʂʅ³³	ʂ ʅ ³³	ʂ ʅ ³³	14628
+2123	Yangliu	14628	sɿ³³	s ɿ ³³	s ɿ ³³	14628
+2124	Yijiacun	14628	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	14628
+2125	ProtoLalo	14628	ʃi̠¹	ʃ i̠ ¹	ʃ i̠ ¹	14628
+2438	Diaocao	14657	nei³³	n ei ³³	n ei ³³	14657
+2439	Mangdi	14657	niʔ³³	n i ʔ ³³	n i ʔ ³³	14657
+2440	Qingyun	14657	ɲɛ̠³³	ɲ ɛ̠ ³³	ɲ ɛ̠ ³³	14657
+2441	Xuzhang	14657	ɲi̠³³	ɲ i̠ ³³	ɲ i̠ ³³	14657
+2442	ProtoLalo	14657	ni̠¹	n i̠ ¹	n i̠ ¹	14657
+1781	Diaocao	14721	mɔ³³	m ɔ ³³	m ɔ ³³	14721
+1782	Mangdi	14721	mo³³	m o ³³	m o ³³	14721
+1783	Qingyun	14721	ma³³	m a ³³	m a ³³	14721
+1784	Shuizhuping	14721	ma³³	m a ³³	m a ³³	14721
+1785	Xuzhang	14721	mo³³	m o ³³	m o ³³	14721
+1786	Yangliu	14721	ma³³	m a ³³	m a ³³	14721
+1787	Yijiacun	14721	mo³³	m o ³³	m o ³³	14721
+1788	ProtoLalo	14721	ma³	m a ³	m a ³	14721
+336	Diaocao	14746	gə²¹	g ə ²¹	g ə ²¹	14746
+337	Mangdi	14746	gu²¹	g u ²¹	g u ²¹	14746
+338	Qingyun	14746	ɣə²¹	ɣ ə ²¹	ɣ ə ²¹	14746
+339	Shuizhuping	14746	ɣo²¹	ɣ o ²¹	ɣ o ²¹	14746
+340	Xuzhang	14746	gõ²¹	g õ ²¹	g õ ²¹	14746
+341	Yangliu	14746	go²¹	g o ²¹	g o ²¹	14746
+342	ProtoLalo	14746	go²	g o ²	g o ²	14746
+2484	Diaocao	14776	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	14776
+2485	Qingyun	14776	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	14776
+2486	Shuizhuping	14776	pʰɛ⁴⁴	pʰ ɛ ⁴⁴	pʰ ɛ ⁴⁴	14776
+2487	Yangliu	14776	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	14776
+2488	ProtoLalo	14776	pʰɛ³	pʰ ɛ ³	pʰ ɛ ³	14776
+3355	Mangdi	14788	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	14788
+3356	Shuizhuping	14788	pa²¹	p a ²¹	p a ²¹	14788
+3357	Xuzhang	14788	pʰɛŋ³⁴	pʰ ɛ ŋ ³⁴	pʰ ɛ ŋ ³⁴	14788
+3358	Yangliu	14788	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	14788
+3359	Yijiacun	14788	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	14788
+3360	ProtoLalo	14788	pʰɛ³	pʰ ɛ ³	pʰ ɛ ³	14788
+1361	Diaocao	14796	lɔ²¹	l ɔ ²¹	l ɔ ²¹	14796
+1362	Mangdi	14796	lo²¹	l o ²¹	l o ²¹	14796
+1363	Qingyun	14796	la̤²¹	l a̤ ²¹	l a̤ ²¹	14796
+1364	Shuizhuping	14796	la²¹	l a ²¹	l a ²¹	14796
+1365	Xuzhang	14796	lo²¹	l o ²¹	l o ²¹	14796
+1366	Yangliu	14796	la²¹	l a ²¹	l a ²¹	14796
+1367	Yijiacun	14796	lo²¹	l o ²¹	l o ²¹	14796
+1368	ProtoLalo	14796	la²	l a ²	l a ²	14796
+1836	Diaocao	14823	tʃə²¹	tʃ ə ²¹	tʃ ə ²¹	14823
+1837	Mangdi	14823	tʰa²¹	tʰ a ²¹	tʰ a ²¹	14823
+1838	Qingyun	14823	kʰɨ̠³³	kʰ ɨ̠ ³³	kʰ ɨ̠ ³³	14823
+1839	Shuizhuping	14823	tɕĩ²¹	tɕ ĩ ²¹	tɕ ĩ ²¹	14823
+1840	Xuzhang	14823	kʰɨ³³	kʰ ɨ ³³	kʰ ɨ ³³	14823
+1841	Yangliu	14823	tɕin²¹	tɕ i n ²¹	tɕ i n ²¹	14823
+1842	Yijiacun	14823	kĩŋ⁵³	k ĩ ŋ ⁵³	k ĩ ŋ ⁵³	14823
+1843	ProtoLalo	14823	kʰɨ̠¹	kʰ ɨ̠ ¹	kʰ ɨ̠ ¹	14823
+2291	Mangdi	14835	pʰɛ²¹	pʰ ɛ ²¹	pʰ ɛ ²¹	14835
+2292	Qingyun	14835	vɛ̤²¹	v ɛ̤ ²¹	v ɛ̤ ²¹	14835
+2293	Shuizhuping	14835	vɛ²¹	v ɛ ²¹	v ɛ ²¹	14835
+2294	Xuzhang	14835	pɛ³³	p ɛ ³³	p ɛ ³³	14835
+2295	Yijiacun	14835	bəŋ²¹	b ə ŋ ²¹	b ə ŋ ²¹	14835
+2296	ProtoLalo	14835	pʰe²	pʰ e ²	pʰ e ²	14835
+1501	Diaocao	14889	pu⁴²	p u ⁴²	p u ⁴²	14889
+1502	Mangdi	14889	pɑ̠²¹	p ɑ̠ ²¹	p ɑ̠ ²¹	14889
+1503	Qingyun	14889	pa̠²¹	p a̠ ²¹	p a̠ ²¹	14889
+1504	Shuizhuping	14889	pa⁵³	p a ⁵³	p a ⁵³	14889
+1505	Xuzhang	14889	po³³	p o ³³	p o ³³	14889
+1506	Yijiacun	14889	poʔ²¹	p o ʔ ²¹	p o ʔ ²¹	14889
+1507	ProtoLalo	14889	pa̠³	p a̠ ³	p a̠ ³	14889
+1855	Diaocao	14930	i²¹	i ²¹	i ²¹	14930
+1856	Mangdi	14930	i²¹	i ²¹	i ²¹	14930
+1857	Shuizhuping	14930	i̠⁴³	i̠ ⁴³	i̠ ⁴³	14930
+1858	Xuzhang	14930	ĩ³³	ĩ ³³	ĩ ³³	14930
+1859	Yangliu	14930	ĩ³³	ĩ ³³	ĩ ³³	14930
+1860	Yijiacun	14930	i²¹	i ²¹	i ²¹	14930
+1861	ProtoLalo	14930	i²	i ²	i ²	14930
+3904	Diaocao	14931	nɛ³³	n ɛ ³³	n ɛ ³³	14931
+3905	Mangdi	14931	ni³³	n i ³³	n i ³³	14931
+3906	Qingyun	14931	ˀɲiŋ³³	ˀɲ i ŋ ³³	ˀɲ i ŋ ³³	14931
+3907	Shuizhuping	14931	na³³	n a ³³	n a ³³	14931
+3908	Xuzhang	14931	ɲĩ³³	ɲ ĩ ³³	ɲ ĩ ³³	14931
+3909	Yangliu	14931	n̩²¹	n̩ ²¹	n̩ ²¹	14931
+3910	ProtoLalo	14931	ˀni³	ˀn i ³	ˀn i ³	14931
+2808	Diaocao	14966	mu⁴²	m u ⁴²	m u ⁴²	14966
+2809	Qingyun	14966	mo̠²¹	m o̠ ²¹	m o̠ ²¹	14966
+2810	Shuizhuping	14966	mv̩⁴⁴	m v̩ ⁴⁴	m v̩ ⁴⁴	14966
+2811	Xuzhang	14966	mo²⁴	m o ²⁴	m o ²⁴	14966
+2812	Yangliu	14966	m̩⁵⁵	m̩ ⁵⁵	m̩ ⁵⁵	14966
+2813	ProtoLalo	14966	mo̠¹	m o̠ ¹	m o̠ ¹	14966
+1571	Diaocao	14982	a²¹	a ²¹	a ²¹	14982
+1572	Mangdi	14982	a²¹	a ²¹	a ²¹	14982
+1573	Qingyun	14982	a²¹	a ²¹	a ²¹	14982
+1574	Shuizhuping	14982	ɛ²¹	ɛ ²¹	ɛ ²¹	14982
+1575	Xuzhang	14982	ɛ²¹	ɛ ²¹	ɛ ²¹	14982
+1576	Yangliu	14982	ɛ²¹	ɛ ²¹	ɛ ²¹	14982
+1577	Yijiacun	14982	a²¹	a ²¹	a ²¹	14982
+1578	ProtoLalo	14982	a²	a ²	a ²	14982
+1666	Diaocao	14983	gə²⁴	g ə ²⁴	g ə ²⁴	14983
+1667	Mangdi	14983	gɨŋ⁵⁵	g ɨ ŋ ⁵⁵	g ɨ ŋ ⁵⁵	14983
+1668	Qingyun	14983	gy⁵⁵	g y ⁵⁵	g y ⁵⁵	14983
+1669	Shuizhuping	14983	goŋ⁴³	g o ŋ ⁴³	g o ŋ ⁴³	14983
+1670	Xuzhang	14983	gu²⁴	g u ²⁴	g u ²⁴	14983
+1671	Yangliu	14983	gɨ³³	g ɨ ³³	g ɨ ³³	14983
+1672	Yijiacun	14983	gi²¹	g i ²¹	g i ²¹	14983
+1673	ProtoLalo	14983	gy¹	g y ¹	g y ¹	14983
+2199	Diaocao	15005	lɔ⁵⁵	l ɔ ⁵⁵	l ɔ ⁵⁵	15005
+2200	Mangdi	15005	lɛ⁵⁵	l ɛ ⁵⁵	l ɛ ⁵⁵	15005
+2201	Qingyun	15005	ˀla⁵⁵	ˀl a ⁵⁵	ˀl a ⁵⁵	15005
+2202	Shuizhuping	15005	la⁴⁴	l a ⁴⁴	l a ⁴⁴	15005
+2203	Xuzhang	15005	lo⁴⁵³	l o ⁴⁵³	l o ⁴⁵³	15005
+2204	Yangliu	15005	la³³	l a ³³	l a ³³	15005
+2205	Yijiacun	15005	lo²⁴	l o ²⁴	l o ²⁴	15005
+2206	ProtoLalo	15005	ˀla¹	ˀl a ¹	ˀl a ¹	15005
+1219	Mangdi	15050	voŋ³³	v o ŋ ³³	v o ŋ ³³	15050
+1220	Qingyun	15050	va³³	v a ³³	v a ³³	15050
+1221	Shuizhuping	15050	va³³	v a ³³	v a ³³	15050
+1222	Yangliu	15050	va³³	v a ³³	v a ³³	15050
+1223	Yijiacun	15050	vo³³	v o ³³	v o ³³	15050
+1224	ProtoLalo	15050	va³	v a ³	v a ³	15050
+531	Diaocao	15060	ɕi³³	ɕ i ³³	ɕ i ³³	15060
+532	Mangdi	15060	ɕi³³	ɕ i ³³	ɕ i ³³	15060
+533	Shuizhuping	15060	sɿ⁴⁴	s ɿ ⁴⁴	s ɿ ⁴⁴	15060
+534	Xuzhang	15060	sɿ⁴⁵³	s ɿ ⁴⁵³	s ɿ ⁴⁵³	15060
+535	Yangliu	15060	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	15060
+536	Yijiacun	15060	ɕi³³	ɕ i ³³	ɕ i ³³	15060
+537	ProtoLalo	15060	si̠¹	s i̠ ¹	s i̠ ¹	15060
+3170	Diaocao	15061	dzei²⁴	dz ei ²⁴	dz ei ²⁴	15061
+3171	Mangdi	15061	dʑɛ⁵⁵	dʑ ɛ ⁵⁵	dʑ ɛ ⁵⁵	15061
+3172	Qingyun	15061	dzɿ⁵⁵	dz ɿ ⁵⁵	dz ɿ ⁵⁵	15061
+3173	Shuizhuping	15061	dzɿ³⁴	dz ɿ ³⁴	dz ɿ ³⁴	15061
+3174	Xuzhang	15061	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	15061
+3175	Yijiacun	15061	dʑi²⁴	dʑ i ²⁴	dʑ i ²⁴	15061
+3176	ProtoLalo	15061	dze¹	dz e ¹	dz e ¹	15061
+2663	Diaocao	15093	gə⁴²	g ə ⁴²	g ə ⁴²	15093
+2664	Mangdi	15093	gi⁵⁵	g i ⁵⁵	g i ⁵⁵	15093
+2665	Qingyun	15093	gɨ⁵⁵	g ɨ ⁵⁵	g ɨ ⁵⁵	15093
+2666	Shuizhuping	15093	gɨ²⁴	g ɨ ²⁴	g ɨ ²⁴	15093
+2667	Xuzhang	15093	gɨ²⁴	g ɨ ²⁴	g ɨ ²⁴	15093
+2668	Yangliu	15093	gɨ³³	g ɨ ³³	g ɨ ³³	15093
+2669	Yijiacun	15093	ka̠²¹	k a̠ ²¹	k a̠ ²¹	15093
+2670	ProtoLalo	15093	gi¹	g i ¹	g i ¹	15093
+3290	Mangdi	1510	go²¹	g o ²¹	g o ²¹	1510
+3291	Qingyun	1510	gyn²¹	g y n ²¹	g y n ²¹	1510
+3292	Shuizhuping	1510	gu²¹	g u ²¹	g u ²¹	1510
+3293	Xuzhang	1510	kʰɨ⁵³	kʰ ɨ ⁵³	kʰ ɨ ⁵³	1510
+3294	Yangliu	1510	gɨ²¹	g ɨ ²¹	g ɨ ²¹	1510
+3295	Yijiacun	1510	kʰi²⁴	kʰ i ²⁴	kʰ i ²⁴	1510
+3296	ProtoLalo	1510	gy²	g y ²	g y ²	1510
+278	Diaocao	15138	tʰɤ²¹	tʰ ɤ ²¹	tʰ ɤ ²¹	15138
+279	Mangdi	15138	tʰoŋ²¹	tʰ o ŋ ²¹	tʰ o ŋ ²¹	15138
+280	Qingyun	15138	tʰə̤²¹	tʰ ə̤ ²¹	tʰ ə̤ ²¹	15138
+281	Yangliu	15138	tʰɤ²¹	tʰ ɤ ²¹	tʰ ɤ ²¹	15138
+282	Yijiacun	15138	tʰuŋ⁵³	tʰ u ŋ ⁵³	tʰ u ŋ ⁵³	15138
+283	ProtoLalo	15138	tʰu²	tʰ u ²	tʰ u ²	15138
+3784	Diaocao	15167	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	15167
+3785	Mangdi	15167	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	15167
+3786	Shuizhuping	15167	n̩²¹	n̩ ²¹	n̩ ²¹	15167
+3787	Xuzhang	15167	n̩²¹	n̩ ²¹	n̩ ²¹	15167
+3788	Yangliu	15167	ni²¹	n i ²¹	n i ²¹	15167
+3789	Yijiacun	15167	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	15167
+3790	ProtoLalo	15167	ni²	n i ²	n i ²	15167
+719	Diaocao	15182	n̩²¹	n̩ ²¹	n̩ ²¹	15182
+720	Mangdi	15182	n̩²¹	n̩ ²¹	n̩ ²¹	15182
+721	Qingyun	15182	n̩²¹	n̩ ²¹	n̩ ²¹	15182
+722	Shuizhuping	15182	n̩²¹	n̩ ²¹	n̩ ²¹	15182
+723	Xuzhang	15182	n̩²¹	n̩ ²¹	n̩ ²¹	15182
+724	Yangliu	15182	n̩²¹	n̩ ²¹	n̩ ²¹	15182
+725	Yijiacun	15182	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	15182
+726	ProtoLalo	15182	ni²	n i ²	n i ²	15182
+1208	Mangdi	15222	sɿ³³	s ɿ ³³	s ɿ ³³	15222
+1209	Shuizhuping	15222	ʂʅ²¹	ʂ ʅ ²¹	ʂ ʅ ²¹	15222
+1210	ProtoLalo	15222	ʃɨ̠³	ʃ ɨ̠ ³	ʃ ɨ̠ ³	15222
+2764	Diaocao	15231	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	15231
+2765	Mangdi	15231	n̩²¹	n̩ ²¹	n̩ ²¹	15231
+2766	Qingyun	15231	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	15231
+2767	Shuizhuping	15231	n̩²¹	n̩ ²¹	n̩ ²¹	15231
+2768	Xuzhang	15231	n̩²¹	n̩ ²¹	n̩ ²¹	15231
+2769	Yangliu	15231	ni²¹	n i ²¹	n i ²¹	15231
+2770	Yijiacun	15231	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	15231
+2771	ProtoLalo	15231	ni²	n i ²	n i ²	15231
+658	Diaocao	15241	su⁴²	s u ⁴²	s u ⁴²	15241
+659	Qingyun	15241	hi⁵⁵	h i ⁵⁵	h i ⁵⁵	15241
+660	Shuizhuping	15241	hẽ²⁴	h ẽ ²⁴	h ẽ ²⁴	15241
+661	Yijiacun	15241	so̠²¹	s o̠ ²¹	s o̠ ²¹	15241
+662	ProtoLalo	15241	he¹	h e ¹	h e ¹	15241
+3428	Diaocao	15256	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	15256
+3429	Mangdi	15256	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	15256
+3430	Qingyun	15256	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	15256
+3431	Shuizhuping	15256	tɕʰi⁴⁴	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	15256
+3432	Xuzhang	15256	tɕʰi³⁵²	tɕʰ i ³⁵²	tɕʰ i ³⁵²	15256
+3433	Yangliu	15256	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	15256
+3434	Yijiacun	15256	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	15256
+3435	ProtoLalo	15256	tʃʰe¹	tʃʰ e ¹	tʃʰ e ¹	15256
+1757	Diaocao	15257	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15257
+1758	Mangdi	15257	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15257
+1759	Shuizhuping	15257	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15257
+1760	Xuzhang	15257	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15257
+1761	Yangliu	15257	sɛ⁴¹	s ɛ ⁴¹	s ɛ ⁴¹	15257
+1762	Yijiacun	15257	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	15257
+1763	ProtoLalo	15257	se²	s e ²	s e ²	15257
+1314	Diaocao	15272	pʰə⁵⁵	pʰ ə ⁵⁵	pʰ ə ⁵⁵	15272
+1315	Mangdi	15272	pʰɨ⁵⁵	pʰ ɨ ⁵⁵	pʰ ɨ ⁵⁵	15272
+1316	Qingyun	15272	pʰʉ⁵⁵	pʰ ʉ ⁵⁵	pʰ ʉ ⁵⁵	15272
+1317	Shuizhuping	15272	pʰɨ²⁴	pʰ ɨ ²⁴	pʰ ɨ ²⁴	15272
+1318	Xuzhang	15272	pʰɨŋ⁴⁵³	pʰ ɨ ŋ ⁴⁵³	pʰ ɨ ŋ ⁴⁵³	15272
+1319	Yangliu	15272	pʰu³³	pʰ u ³³	pʰ u ³³	15272
+1320	Yijiacun	15272	pʰɨ²⁴	pʰ ɨ ²⁴	pʰ ɨ ²⁴	15272
+1321	ProtoLalo	15272	pʰɨ¹	pʰ ɨ ¹	pʰ ɨ ¹	15272
+2510	Diaocao	15313	zɿ²¹	z ɿ ²¹	z ɿ ²¹	15313
+2511	Mangdi	15313	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	15313
+2512	Qingyun	15313	zɿ²¹	z ɿ ²¹	z ɿ ²¹	15313
+2513	Shuizhuping	15313	zɿ²¹	z ɿ ²¹	z ɿ ²¹	15313
+2514	Xuzhang	15313	zɿ³³	z ɿ ³³	z ɿ ³³	15313
+2515	Yangliu	15313	zɿ²¹	z ɿ ²¹	z ɿ ²¹	15313
+2516	Yijiacun	15313	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	15313
+2517	ProtoLalo	15313	zi²	z i ²	z i ²	15313
+3451	Shuizhuping	15372	tɕi⁵³	tɕ i ⁵³	tɕ i ⁵³	15372
+3452	Xuzhang	15372	tɕi̠³³	tɕ i̠ ³³	tɕ i̠ ³³	15372
+3453	Yangliu	15372	tsʰai³³	tsʰ ai ³³	tsʰ ai ³³	15372
+3454	ProtoLalo	15372	tʃe̠³	tʃ e̠ ³	tʃ e̠ ³	15372
+2730	Diaocao	15463	gɛ²¹	g ɛ ²¹	g ɛ ²¹	15463
+2731	Qingyun	15463	sy̤²¹	s y̤ ²¹	s y̤ ²¹	15463
+2732	Shuizhuping	15463	ɕy²¹	ɕ y ²¹	ɕ y ²¹	15463
+2733	Xuzhang	15463	gɛ²¹	g ɛ ²¹	g ɛ ²¹	15463
+2734	Yijiacun	15463	xa²⁴	x a ²⁴	x a ²⁴	15463
+2735	ProtoLalo	15463	sy²	s y ²	s y ²	15463
+1084	Diaocao	15471	lu²⁴	l u ²⁴	l u ²⁴	15471
+1085	Mangdi	15471	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	15471
+1086	Qingyun	15471	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	15471
+1087	Shuizhuping	15471	lu²⁴	l u ²⁴	l u ²⁴	15471
+1088	ProtoLalo	15471	lu¹	l u ¹	l u ¹	15471
+159	Diaocao	15472	ti³³	t i ³³	t i ³³	15472
+160	Mangdi	15472	tɛ²¹	t ɛ ²¹	t ɛ ²¹	15472
+161	Qingyun	15472	di³³	d i ³³	d i ³³	15472
+162	Shuizhuping	15472	di³³	d i ³³	d i ³³	15472
+163	ProtoLalo	15472	di³	d i ³	d i ³	15472
+2006	Diaocao	15488	sa²¹	s a ²¹	s a ²¹	15488
+2007	Qingyun	15488	sɛ̤²¹	s ɛ̤ ²¹	s ɛ̤ ²¹	15488
+2008	Shuizhuping	15488	sa²¹	s a ²¹	s a ²¹	15488
+2009	Xuzhang	15488	sa²¹	s a ²¹	s a ²¹	15488
+2010	Yangliu	15488	sa²¹	s a ²¹	s a ²¹	15488
+2011	ProtoLalo	15488	sa²	s a ²	s a ²	15488
+3297	Diaocao	15489	mei²⁴	m ei ²⁴	m ei ²⁴	15489
+3298	Mangdi	15489	ma⁵⁵	m a ⁵⁵	m a ⁵⁵	15489
+3299	Qingyun	15489	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	15489
+3300	Shuizhuping	15489	me²⁴	m e ²⁴	m e ²⁴	15489
+3301	Xuzhang	15489	my²⁴	m y ²⁴	m y ²⁴	15489
+3302	Yangliu	15489	mi³³	m i ³³	m i ³³	15489
+3303	Yijiacun	15489	ma³³	m a ³³	m a ³³	15489
+3304	ProtoLalo	15489	me¹	m e ¹	m e ¹	15489
+2354	Diaocao	15550	la²¹	l a ²¹	l a ²¹	15550
+2355	Shuizhuping	15550	lu²¹	l u ²¹	l u ²¹	15550
+2356	Xuzhang	15550	la²¹	l a ²¹	l a ²¹	15550
+2357	Yangliu	15550	lo²¹	l o ²¹	l o ²¹	15550
+2358	ProtoLalo	15550	laŋ²	l a ŋ ²	l a ŋ ²	15550
+1655	Diaocao	15570	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	15570
+1656	Mangdi	15570	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	15570
+1657	Xuzhang	15570	ʂɛ⁴⁵³	ʂ ɛ ⁴⁵³	ʂ ɛ ⁴⁵³	15570
+1658	Yangliu	15570	sɛ³³	s ɛ ³³	s ɛ ³³	15570
+1659	Yijiacun	15570	dʑi³³	dʑ i ³³	dʑ i ³³	15570
+1660	ProtoLalo	15570	ʃɛ¹	ʃ ɛ ¹	ʃ ɛ ¹	15570
+3209	Mangdi	15571	bo²¹	b o ²¹	b o ²¹	15571
+3210	Qingyun	15571	ba̤²¹	b a̤ ²¹	b a̤ ²¹	15571
+3211	Shuizhuping	15571	bɑ²¹	b ɑ ²¹	b ɑ ²¹	15571
+3212	Xuzhang	15571	ba²¹	b a ²¹	b a ²¹	15571
+3213	Yangliu	15571	ba²²	b a ²²	b a ²²	15571
+3214	Yijiacun	15571	bo²¹	b o ²¹	b o ²¹	15571
+3215	ProtoLalo	15571	bja²	b j a ²	b j a ²	15571
+3501	Mangdi	15599	gɛ̠³³	g ɛ̠ ³³	g ɛ̠ ³³	15599
+3502	Qingyun	15599	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	15599
+3503	Shuizhuping	15599	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	15599
+3504	Xuzhang	15599	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	15599
+3505	Yangliu	15599	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	15599
+3506	Yijiacun	15599	ɡi³³	ɡ i ³³	ɡ i ³³	15599
+3507	ProtoLalo	15599	ɣi¹	ɣ i ¹	ɣ i ¹	15599
+937	Diaocao	15632	vei⁴²	v ei ⁴²	v ei ⁴²	15632
+938	Mangdi	15632	vɛ̠²¹	v ɛ̠ ²¹	v ɛ̠ ²¹	15632
+939	Yangliu	15632	vai⁵³	v ai ⁵³	v ai ⁵³	15632
+940	Yijiacun	15632	vi̠ʔ²¹	v i̠ ʔ ²¹	v i̠ ʔ ²¹	15632
+941	ProtoLalo	15632	vi̠³	v i̠ ³	v i̠ ³	15632
+3439	Diaocao	15640	vei⁴²	v ei ⁴²	v ei ⁴²	15640
+3440	Mangdi	15640	vɛ̠²¹	v ɛ̠ ²¹	v ɛ̠ ²¹	15640
+3441	Yangliu	15640	vai⁵³	v ai ⁵³	v ai ⁵³	15640
+3442	Yijiacun	15640	vi̠ʔ²¹	v i̠ ʔ ²¹	v i̠ ʔ ²¹	15640
+3443	ProtoLalo	15640	vi̠³	v i̠ ³	v i̠ ³	15640
+3712	Diaocao	15649	xa³³	x a ³³	x a ³³	15649
+3713	Qingyun	15649	ɕɛ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵	15649
+3714	Shuizhuping	15649	hɛ̃⁴⁴	h ɛ̃ ⁴⁴	h ɛ̃ ⁴⁴	15649
+3715	Xuzhang	15649	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	15649
+3716	Yangliu	15649	za²¹	z a ²¹	z a ²¹	15649
+3717	ProtoLalo	15649	hɛ̠¹	h ɛ̠ ¹	h ɛ̠ ¹	15649
+3072	Diaocao	15650	lɔ²¹	l ɔ ²¹	l ɔ ²¹	15650
+3073	Qingyun	15650	la̤²¹	l a̤ ²¹	l a̤ ²¹	15650
+3074	Shuizhuping	15650	la²¹	l a ²¹	l a ²¹	15650
+3075	Xuzhang	15650	lo²¹	l o ²¹	l o ²¹	15650
+3076	Yijiacun	15650	lo²¹	l o ²¹	l o ²¹	15650
+3077	ProtoLalo	15650	la²	l a ²	l a ²	15650
+868	Mangdi	15678	mo²¹	m o ²¹	m o ²¹	15678
+869	Qingyun	15678	mo̠²¹	m o̠ ²¹	m o̠ ²¹	15678
+870	Shuizhuping	15678	mu⁵³	m u ⁵³	m u ⁵³	15678
+871	Xuzhang	15678	mo³³	m o ³³	m o ³³	15678
+872	Yangliu	15678	mo⁵³	m o ⁵³	m o ⁵³	15678
+873	Yijiacun	15678	mu⁵⁵	m u ⁵⁵	m u ⁵⁵	15678
+874	ProtoLalo	15678	mo̠³	m o̠ ³	m o̠ ³	15678
+1275	Diaocao	15691	tɕʰwe⁵⁵	tɕʰ w e ⁵⁵	tɕʰ w e ⁵⁵	15691
+1276	Mangdi	15691	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	15691
+1277	Qingyun	15691	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	15691
+1278	Shuizhuping	15691	tsʰɿ²⁴	tsʰ ɿ ²⁴	tsʰ ɿ ²⁴	15691
+1279	Xuzhang	15691	tsʰɿ⁴⁵³	tsʰ ɿ ⁴⁵³	tsʰ ɿ ⁴⁵³	15691
+1280	Yangliu	15691	twei³³	t w ei ³³	t w ei ³³	15691
+1281	Yijiacun	15691	tɕʰi²⁴	tɕʰ i ²⁴	tɕʰ i ²⁴	15691
+1282	ProtoLalo	15691	ki¹	k i ¹	k i ¹	15691
+3460	Mangdi	15703	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	15703
+3461	Qingyun	15703	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	15703
+3462	Shuizhuping	15703	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	15703
+3463	Xuzhang	15703	ɣɨ³⁵	ɣ ɨ ³⁵	ɣ ɨ ³⁵	15703
+3464	Yangliu	15703	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	15703
+3465	ProtoLalo	15703	ɣi¹	ɣ i ¹	ɣ i ¹	15703
+314	Diaocao	1571	kɔ²¹	k ɔ ²¹	k ɔ ²¹	1571
+315	Mangdi	1571	kɛ⁵⁵	k ɛ ⁵⁵	k ɛ ⁵⁵	1571
+316	Shuizhuping	1571	ɣa²⁴	ɣ a ²⁴	ɣ a ²⁴	1571
+317	Xuzhang	1571	ɣɛ²⁴	ɣ ɛ ²⁴	ɣ ɛ ²⁴	1571
+318	ProtoLalo	1571	se¹	s e ¹	s e ¹	1571
+3188	Diaocao	15724	dʑi²¹	dʑ i ²¹	dʑ i ²¹	15724
+3189	Mangdi	15724	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15724
+3190	Qingyun	15724	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	15724
+3191	Shuizhuping	15724	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	15724
+3192	Xuzhang	15724	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	15724
+3193	Yangliu	15724	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15724
+3194	Yijiacun	15724	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15724
+3195	ProtoLalo	15724	tʃʰɨ²	tʃʰ ɨ ²	tʃʰ ɨ ²	15724
+2629	Diaocao	15738	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	15738
+2630	Mangdi	15738	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	15738
+2631	Qingyun	15738	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	15738
+2632	Shuizhuping	15738	tsa⁴⁴	ts a ⁴⁴	ts a ⁴⁴	15738
+2633	Xuzhang	15738	tso⁴⁴	ts o ⁴⁴	ts o ⁴⁴	15738
+2634	Yangliu	15738	tsa⁵³	ts a ⁵³	ts a ⁵³	15738
+2635	Yijiacun	15738	tʰa⁵⁵	tʰ a ⁵⁵	tʰ a ⁵⁵	15738
+2636	ProtoLalo	15738	tsa¹	ts a ¹	ts a ¹	15738
+1850	Mangdi	15766	ta²¹	t a ²¹	t a ²¹	15766
+1851	Qingyun	15766	di⁵⁵	d i ⁵⁵	d i ⁵⁵	15766
+1852	Shuizhuping	15766	di²⁴	d i ²⁴	d i ²⁴	15766
+1853	Yangliu	15766	di⁵⁵	d i ⁵⁵	d i ⁵⁵	15766
+1854	ProtoLalo	15766	di¹	d i ¹	d i ¹	15766
+1902	Diaocao	15784	tʰɔ²¹	tʰ ɔ ²¹	tʰ ɔ ²¹	15784
+1903	Mangdi	15784	tʰo²¹	tʰ o ²¹	tʰ o ²¹	15784
+1904	Qingyun	15784	tʰa̤²¹	tʰ a̤ ²¹	tʰ a̤ ²¹	15784
+1905	Yijiacun	15784	tʰo³³	tʰ o ³³	tʰ o ³³	15784
+1906	ProtoLalo	15784	tʰa²	tʰ a ²	tʰ a ²	15784
+3798	Diaocao	15785	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15785
+3799	Mangdi	15785	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15785
+3800	Qingyun	15785	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15785
+3801	Shuizhuping	15785	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15785
+3802	Xuzhang	15785	sa²¹	s a ²¹	s a ²¹	15785
+3803	Yangliu	15785	sɛ²¹	s ɛ ²¹	s ɛ ²¹	15785
+3804	Yijiacun	15785	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	15785
+3805	ProtoLalo	15785	sɛ²	s ɛ ²	s ɛ ²	15785
+2979	Diaocao	15786	ku⁵⁵	k u ⁵⁵	k u ⁵⁵	15786
+2980	Mangdi	15786	ko⁵⁵	k o ⁵⁵	k o ⁵⁵	15786
+2981	Qingyun	15786	ka⁵⁵	k a ⁵⁵	k a ⁵⁵	15786
+2982	Yangliu	15786	xɨ³³	x ɨ ³³	x ɨ ³³	15786
+2983	Yijiacun	15786	kʰɛ³³	kʰ ɛ ³³	kʰ ɛ ³³	15786
+2984	ProtoLalo	15786	ka¹	k a ¹	k a ¹	15786
+2112	Diaocao	15840	lɔ²¹	l ɔ ²¹	l ɔ ²¹	15840
+2113	Qingyun	15840	lei⁴⁵	l ei ⁴⁵	l ei ⁴⁵	15840
+2114	Shuizhuping	15840	la²¹	l a ²¹	l a ²¹	15840
+2115	Xuzhang	15840	lo²¹	l o ²¹	l o ²¹	15840
+2116	Yangliu	15840	la²¹	l a ²¹	l a ²¹	15840
+2117	ProtoLalo	15840	la²	l a ²	l a ²	15840
+3414	Diaocao	15841	də²⁴	d ə ²⁴	d ə ²⁴	15841
+3415	Mangdi	15841	tso⁵⁵	ts o ⁵⁵	ts o ⁵⁵	15841
+3416	Shuizhuping	15841	kʰu⁴⁴	kʰ u ⁴⁴	kʰ u ⁴⁴	15841
+3417	Xuzhang	15841	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	15841
+3418	Yangliu	15841	ti³³	t i ³³	t i ³³	15841
+3419	Yijiacun	15841	tsoŋ³³	ts o ŋ ³³	ts o ŋ ³³	15841
+3420	ProtoLalo	15841	kʰo̠¹	kʰ o̠ ¹	kʰ o̠ ¹	15841
+1186	Diaocao	15860	fɤ⁵⁵	f ɤ ⁵⁵	f ɤ ⁵⁵	15860
+1187	Mangdi	15860	pʰu⁵⁵	pʰ u ⁵⁵	pʰ u ⁵⁵	15860
+1188	Qingyun	15860	ˀvɛ̠³³	ˀv ɛ̠ ³³	ˀv ɛ̠ ³³	15860
+1189	Shuizhuping	15860	vɛ⁴⁴	v ɛ ⁴⁴	v ɛ ⁴⁴	15860
+1190	Xuzhang	15860	pfʰɤ⁴⁵³	pfʰ ɤ ⁴⁵³	pfʰ ɤ ⁴⁵³	15860
+1191	ProtoLalo	15860	pʰu¹	pʰ u ¹	pʰ u ¹	15860
+2391	Diaocao	15872	ɕu³³	ɕ u ³³	ɕ u ³³	15872
+2392	Qingyun	15872	ʈʂʰo̠³³	ʈʂʰ o̠ ³³	ʈʂʰ o̠ ³³	15872
+2393	Shuizhuping	15872	ʈʂʰu⁴⁴	ʈʂʰ u ⁴⁴	ʈʂʰ u ⁴⁴	15872
+2394	Xuzhang	15872	ʈʂʰu³³	ʈʂʰ u ³³	ʈʂʰ u ³³	15872
+2395	Yangliu	15872	ɕu⁵³	ɕ u ⁵³	ɕ u ⁵³	15872
+2396	Yijiacun	15872	tsʰu³³	tsʰ u ³³	tsʰ u ³³	15872
+2397	ProtoLalo	15872	tʃʰo̠¹	tʃʰ o̠ ¹	tʃʰ o̠ ¹	15872
+2273	Diaocao	15881	a²¹	a ²¹	a ²¹	15881
+2274	Mangdi	15881	a²¹	a ²¹	a ²¹	15881
+2275	Qingyun	15881	a̤²¹	a̤ ²¹	a̤ ²¹	15881
+2276	Shuizhuping	15881	a²¹	a ²¹	a ²¹	15881
+2277	Xuzhang	15881	a²¹	a ²¹	a ²¹	15881
+2278	Yangliu	15881	a²¹	a ²¹	a ²¹	15881
+2279	Yijiacun	15881	a²⁴	a ²⁴	a ²⁴	15881
+2280	ProtoLalo	15881	a²	a ²	a ²	15881
+3870	Diaocao	15900	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	15900
+3871	Mangdi	15900	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	15900
+3872	Qingyun	15900	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	15900
+3873	Shuizhuping	15900	tsa⁴⁴	ts a ⁴⁴	ts a ⁴⁴	15900
+3874	Xuzhang	15900	dɛ²⁴	d ɛ ²⁴	d ɛ ²⁴	15900
+3875	Yangliu	15900	di⁵⁵	d i ⁵⁵	d i ⁵⁵	15900
+3876	Yijiacun	15900	tʰa⁵⁵	tʰ a ⁵⁵	tʰ a ⁵⁵	15900
+3877	ProtoLalo	15900	tsa¹	ts a ¹	ts a ¹	15900
+2901	Diaocao	15925	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15925
+2902	Mangdi	15925	tʃʰu²¹	tʃʰ u ²¹	tʃʰ u ²¹	15925
+2903	Shuizhuping	15925	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	15925
+2904	Xuzhang	15925	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	15925
+2905	Yangliu	15925	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15925
+2906	Yijiacun	15925	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15925
+2907	ProtoLalo	15925	tʃʰu²	tʃʰ u ²	tʃʰ u ²	15925
+1907	Diaocao	15926	mɔ³³	m ɔ ³³	m ɔ ³³	15926
+1908	Mangdi	15926	mo³³	m o ³³	m o ³³	15926
+1909	Qingyun	15926	ma³³	m a ³³	m a ³³	15926
+1910	Shuizhuping	15926	ma³³	m a ³³	m a ³³	15926
+1911	Yangliu	15926	ma³³	m a ³³	m a ³³	15926
+1912	Yijiacun	15926	mo³³	m o ³³	m o ³³	15926
+1913	ProtoLalo	15926	ma³	m a ³	m a ³	15926
+432	Diaocao	15948	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15948
+433	Mangdi	15948	tʃʰu²¹	tʃʰ u ²¹	tʃʰ u ²¹	15948
+434	Shuizhuping	15948	te²¹	t e ²¹	t e ²¹	15948
+435	Xuzhang	15948	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	15948
+436	Yangliu	15948	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	15948
+437	Yijiacun	15948	tsʰɿ³³	tsʰ ɿ ³³	tsʰ ɿ ³³	15948
+438	ProtoLalo	15948	tʃʰu²	tʃʰ u ²	tʃʰ u ²	15948
+3882	Diaocao	16000	pʰɔ²¹	pʰ ɔ ²¹	pʰ ɔ ²¹	16000
+3883	Mangdi	16000	vi⁵⁵	v i ⁵⁵	v i ⁵⁵	16000
+3884	Qingyun	16000	pʰa²¹	pʰ a ²¹	pʰ a ²¹	16000
+3885	Shuizhuping	16000	pʰa²¹	pʰ a ²¹	pʰ a ²¹	16000
+3886	Xuzhang	16000	pʰo²¹	pʰ o ²¹	pʰ o ²¹	16000
+3887	Yangliu	16000	pa⁵³	p a ⁵³	p a ⁵³	16000
+3888	ProtoLalo	16000	pʰa²	pʰ a ²	pʰ a ²	16000
+126	Qingyun	16002	ʐo̠²¹	ʐ o̠ ²¹	ʐ o̠ ²¹	16002
+127	Shuizhuping	16002	ʐu⁵⁵	ʐ u ⁵⁵	ʐ u ⁵⁵	16002
+128	Xuzhang	16002	ʐu³³	ʐ u ³³	ʐ u ³³	16002
+129	Yangliu	16002	zu⁵⁵	z u ⁵⁵	z u ⁵⁵	16002
+130	ProtoLalo	16002	ʒo̠³	ʒ o̠ ³	ʒ o̠ ³	16002
+2285	Diaocao	16066	dzei²⁴	dz ei ²⁴	dz ei ²⁴	16066
+2286	Qingyun	16066	dzɿ⁵⁵	dz ɿ ⁵⁵	dz ɿ ⁵⁵	16066
+2287	Shuizhuping	16066	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	16066
+2288	Xuzhang	16066	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	16066
+2289	Yijiacun	16066	dʑi²⁴	dʑ i ²⁴	dʑ i ²⁴	16066
+2290	ProtoLalo	16066	dze¹	dz e ¹	dz e ¹	16066
+1330	Qingyun	16067	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	16067
+1331	Shuizhuping	16067	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	16067
+1332	Yangliu	16067	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	16067
+1333	ProtoLalo	16067	ɣi¹	ɣ i ¹	ɣ i ¹	16067
+2521	Mangdi	16143	a⁵⁵	a ⁵⁵	a ⁵⁵	16143
+2522	Qingyun	16143	a⁵⁵	a ⁵⁵	a ⁵⁵	16143
+2523	Xuzhang	16143	a³⁵	a ³⁵	a ³⁵	16143
+2524	Yijiacun	16143	a²⁴	a ²⁴	a ²⁴	16143
+2525	ProtoLalo	16143	a¹	a ¹	a ¹	16143
+210	Qingyun	16196	ˀva⁵⁵	ˀv a ⁵⁵	ˀv a ⁵⁵	16196
+211	Shuizhuping	16196	va⁴⁴	v a ⁴⁴	v a ⁴⁴	16196
+212	ProtoLalo	16196	ˀva¹	ˀv a ¹	ˀv a ¹	16196
+974	Diaocao	16219	gɤ³³	g ɤ ³³	g ɤ ³³	16219
+975	Mangdi	16219	gu⁵⁵	g u ⁵⁵	g u ⁵⁵	16219
+976	Qingyun	16219	gə³³	g ə ³³	g ə ³³	16219
+977	Xuzhang	16219	gɤ³³	g ɤ ³³	g ɤ ³³	16219
+978	ProtoLalo	16219	gu³	g u ³	g u ³	16219
+788	Mangdi	16249	ɕiʔ³³	ɕ i ʔ ³³	ɕ i ʔ ³³	16249
+789	Qingyun	16249	sʐ̩³³	s ʐ̩ ³³	s ʐ̩ ³³	16249
+790	Shuizhuping	16249	sɿ⁴⁴	s ɿ ⁴⁴	s ɿ ⁴⁴	16249
+791	Xuzhang	16249	sɿ³⁵³	s ɿ ³⁵³	s ɿ ³⁵³	16249
+792	Yangliu	16249	sɿ⁵⁵	s ɿ ⁵⁵	s ɿ ⁵⁵	16249
+793	Yijiacun	16249	ɕi³³	ɕ i ³³	ɕ i ³³	16249
+794	ProtoLalo	16249	si̠¹	s i̠ ¹	s i̠ ¹	16249
+2930	Diaocao	16277	bə²¹	b ə ²¹	b ə ²¹	16277
+2931	Mangdi	16277	bi²¹	b i ²¹	b i ²¹	16277
+2932	Qingyun	16277	bʉ̤²¹	b ʉ̤ ²¹	b ʉ̤ ²¹	16277
+2933	Yangliu	16277	bi²¹	b i ²¹	b i ²¹	16277
+2934	Yijiacun	16277	bɨ²¹	b ɨ ²¹	b ɨ ²¹	16277
+2935	ProtoLalo	16277	bo²	b o ²	b o ²	16277
+164	Mangdi	16278	di⁵⁵	d i ⁵⁵	d i ⁵⁵	16278
+165	Qingyun	16278	di⁵⁵	d i ⁵⁵	d i ⁵⁵	16278
+166	Shuizhuping	16278	di²⁴	d i ²⁴	d i ²⁴	16278
+167	Xuzhang	16278	dy²⁴	d y ²⁴	d y ²⁴	16278
+168	Yijiacun	16278	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	16278
+169	ProtoLalo	16278	di¹	d i ¹	d i ¹	16278
+2504	Diaocao	16298	tɕi⁴²	tɕ i ⁴²	tɕ i ⁴²	16298
+2505	Mangdi	16298	tɕi²¹	tɕ i ²¹	tɕ i ²¹	16298
+2506	Xuzhang	16298	tsɿ³³	ts ɿ ³³	ts ɿ ³³	16298
+2507	Yangliu	16298	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	16298
+2508	Yijiacun	16298	tɕiŋ²¹	tɕ i ŋ ²¹	tɕ i ŋ ²¹	16298
+2509	ProtoLalo	16298	tsi̠³	ts i̠ ³	ts i̠ ³	16298
+1202	Diaocao	16329	sɛ³³	s ɛ ³³	s ɛ ³³	16329
+1203	Qingyun	16329	ha⁵⁵	h a ⁵⁵	h a ⁵⁵	16329
+1204	Shuizhuping	16329	ʐɿ̃n⁵³	ʐ ɿ̃ n ⁵³	ʐ ɿ̃ n ⁵³	16329
+1205	Yangliu	16329	xu³³	x u ³³	x u ³³	16329
+1206	Yijiacun	16329	su²¹	s u ²¹	s u ²¹	16329
+1207	ProtoLalo	16329	se³	s e ³	s e ³	16329
+1150	Qingyun	1633	də⁵⁵	d ə ⁵⁵	d ə ⁵⁵	1633
+1151	Shuizhuping	1633	dzɿ³³	dz ɿ ³³	dz ɿ ³³	1633
+1152	Xuzhang	1633	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	1633
+1153	ProtoLalo	1633	dzɿ³	dz ɿ ³	dz ɿ ³	1633
+924	Diaocao	16358	nɔ²⁴	n ɔ ²⁴	n ɔ ²⁴	16358
+925	Mangdi	16358	no⁵⁵	n o ⁵⁵	n o ⁵⁵	16358
+926	Qingyun	16358	nə⁵⁵	n ə ⁵⁵	n ə ⁵⁵	16358
+927	Shuizhuping	16358	nu⁴⁴	n u ⁴⁴	n u ⁴⁴	16358
+928	Xuzhang	16358	no²⁴	n o ²⁴	n o ²⁴	16358
+929	Yangliu	16358	nu⁵⁵	n u ⁵⁵	n u ⁵⁵	16358
+930	Yijiacun	16358	na⁵⁵	n a ⁵⁵	n a ⁵⁵	16358
+931	ProtoLalo	16358	na¹	n a ¹	n a ¹	16358
+2640	Diaocao	16359	nei³³	n ei ³³	n ei ³³	16359
+2641	Mangdi	16359	niʔ³³	n i ʔ ³³	n i ʔ ³³	16359
+2642	Qingyun	16359	ɲɛ̠³³	ɲ ɛ̠ ³³	ɲ ɛ̠ ³³	16359
+2643	Shuizhuping	16359	ni⁴⁴	n i ⁴⁴	n i ⁴⁴	16359
+2644	Xuzhang	16359	ɲi̠³³	ɲ i̠ ³³	ɲ i̠ ³³	16359
+2645	Yijiacun	16359	nɨ³³	n ɨ ³³	n ɨ ³³	16359
+2646	ProtoLalo	16359	ni̠¹	n i̠ ¹	n i̠ ¹	16359
+3444	Diaocao	16394	nei³³	n ei ³³	n ei ³³	16394
+3445	Mangdi	16394	ni̠³³	n i̠ ³³	n i̠ ³³	16394
+3446	Qingyun	16394	ɲjɛ̠³³	ɲ j ɛ̠ ³³	ɲ j ɛ̠ ³³	16394
+3447	Shuizhuping	16394	ni⁴⁴	n i ⁴⁴	n i ⁴⁴	16394
+3448	Xuzhang	16394	nɛ̠i³³	n ɛ̠i ³³	n ɛ̠i ³³	16394
+3449	Yijiacun	16394	nɨ̠³³	n ɨ̠ ³³	n ɨ̠ ³³	16394
+3450	ProtoLalo	16394	ni̠¹	n i̠ ¹	n i̠ ¹	16394
+2551	Diaocao	16432	də²¹	d ə ²¹	d ə ²¹	16432
+2552	Mangdi	16432	də²¹	d ə ²¹	d ə ²¹	16432
+2553	Qingyun	16432	dy²¹	d y ²¹	d y ²¹	16432
+2554	Shuizhuping	16432	dy²¹	d y ²¹	d y ²¹	16432
+2555	Xuzhang	16432	dy²¹	d y ²¹	d y ²¹	16432
+2556	Yangliu	16432	də²¹	d ə ²¹	d ə ²¹	16432
+2557	Yijiacun	16432	dɨ²¹	d ɨ ²¹	d ɨ ²¹	16432
+2558	ProtoLalo	16432	dy²	d y ²	d y ²	16432
+3216	Diaocao	16451	a²¹	a ²¹	a ²¹	16451
+3217	Mangdi	16451	a²¹	a ²¹	a ²¹	16451
+3218	Xuzhang	16451	a²¹	a ²¹	a ²¹	16451
+3219	Yangliu	16451	a²¹	a ²¹	a ²¹	16451
+3220	Yijiacun	16451	a²¹	a ²¹	a ²¹	16451
+3221	ProtoLalo	16451	a²	a ²	a ²	16451
+1735	Diaocao	16466	lɔ²¹	l ɔ ²¹	l ɔ ²¹	16466
+1736	Qingyun	16466	la̤²¹	l a̤ ²¹	l a̤ ²¹	16466
+1737	Shuizhuping	16466	la²¹	l a ²¹	l a ²¹	16466
+1738	Xuzhang	16466	lo²¹	l o ²¹	l o ²¹	16466
+1739	ProtoLalo	16466	la²	l a ²	l a ²	16466
+1070	Qingyun	16490	lɛ̠²¹	l ɛ̠ ²¹	l ɛ̠ ²¹	16490
+1071	Shuizhuping	16490	lɛʔ⁵³	l ɛ ʔ ⁵³	l ɛ ʔ ⁵³	16490
+1072	ProtoLalo	16490	le̠³	l e̠ ³	l e̠ ³	16490
+679	Diaocao	17	kʰə⁵⁵	kʰ ə ⁵⁵	kʰ ə ⁵⁵	17
+680	Qingyun	17	kʰy⁵⁵	kʰ y ⁵⁵	kʰ y ⁵⁵	17
+681	Shuizhuping	17	kʰu³³	kʰ u ³³	kʰ u ³³	17
+682	Yangliu	17	kʰɨ³³	kʰ ɨ ³³	kʰ ɨ ³³	17
+683	ProtoLalo	17	kʰy¹	kʰ y ¹	kʰ y ¹	17
+1679	Diaocao	1709	tɛ³³	t ɛ ³³	t ɛ ³³	1709
+1680	Mangdi	1709	dʒə⁵⁵	dʒ ə ⁵⁵	dʒ ə ⁵⁵	1709
+1681	Qingyun	1709	tai⁵³	t ai ⁵³	t ai ⁵³	1709
+1682	Shuizhuping	1709	tɛ³³	t ɛ ³³	t ɛ ³³	1709
+1683	Xuzhang	1709	dzi²⁴	dz i ²⁴	dz i ²⁴	1709
+1684	Yangliu	1709	dzə³³	dz ə ³³	dz ə ³³	1709
+1685	ProtoLalo	1709	ta³	t a ³	t a ³	1709
+1146	Mangdi	1728	dʒɿ³³	dʒ ɿ ³³	dʒ ɿ ³³	1728
+1147	Qingyun	1728	kə⁵⁵	k ə ⁵⁵	k ə ⁵⁵	1728
+1148	Yijiacun	1728	taŋ³³	t a ŋ ³³	t a ŋ ³³	1728
+1149	ProtoLalo	1728	kaŋ¹	k a ŋ ¹	k a ŋ ¹	1728
+968	Diaocao	1808	dza²⁴	dz a ²⁴	dz a ²⁴	1808
+969	Mangdi	1808	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	1808
+970	Qingyun	1808	tsʰy²¹	tsʰ y ²¹	tsʰ y ²¹	1808
+971	Shuizhuping	1808	ka²¹	k a ²¹	k a ²¹	1808
+972	Xuzhang	1808	kʰɨ⁴⁵³	kʰ ɨ ⁴⁵³	kʰ ɨ ⁴⁵³	1808
+973	ProtoLalo	1808	dza¹	dz a ¹	dz a ¹	1808
+2430	Diaocao	1821	kʰu⁴²	kʰ u ⁴²	kʰ u ⁴²	1821
+2431	Mangdi	1821	kʰu²¹	kʰ u ²¹	kʰ u ²¹	1821
+2432	Qingyun	1821	kʰo̠²¹	kʰ o̠ ²¹	kʰ o̠ ²¹	1821
+2433	Shuizhuping	1821	kʰo⁵³	kʰ o ⁵³	kʰ o ⁵³	1821
+2434	Xuzhang	1821	kʰo³³	kʰ o ³³	kʰ o ³³	1821
+2435	Yangliu	1821	kʰo⁵³	kʰ o ⁵³	kʰ o ⁵³	1821
+2436	Yijiacun	1821	kʰu̠²¹	kʰ u̠ ²¹	kʰ u̠ ²¹	1821
+2437	ProtoLalo	1821	kʰo̠³	kʰ o̠ ³	kʰ o̠ ³	1821
+2047	Diaocao	1830	kʰa̤²¹	kʰ a̤ ²¹	kʰ a̤ ²¹	1830
+2048	Mangdi	1830	kʰɑ²¹	kʰ ɑ ²¹	kʰ ɑ ²¹	1830
+2049	Qingyun	1830	kʰa̤²¹	kʰ a̤ ²¹	kʰ a̤ ²¹	1830
+2050	Shuizhuping	1830	kʰa²¹	kʰ a ²¹	kʰ a ²¹	1830
+2051	Xuzhang	1830	kʰa²¹	kʰ a ²¹	kʰ a ²¹	1830
+2052	Yijiacun	1830	kʰa²¹	kʰ a ²¹	kʰ a ²¹	1830
+2053	ProtoLalo	1830	kʰa²	kʰ a ²	kʰ a ²	1830
+3455	Mangdi	1871	pʰu²¹	pʰ u ²¹	pʰ u ²¹	1871
+3456	Qingyun	1871	pi²¹	p i ²¹	p i ²¹	1871
+3457	Xuzhang	1871	pʰu²¹	pʰ u ²¹	pʰ u ²¹	1871
+3458	Yangliu	1871	pʰo²¹	pʰ o ²¹	pʰ o ²¹	1871
+3459	ProtoLalo	1871	pʰu²	pʰ u ²	pʰ u ²	1871
+611	Diaocao	1889	lɔ²¹	l ɔ ²¹	l ɔ ²¹	1889
+612	Mangdi	1889	la²¹	l a ²¹	l a ²¹	1889
+613	Qingyun	1889	ˀla²¹	ˀl a ²¹	ˀl a ²¹	1889
+614	Yangliu	1889	la²¹	l a ²¹	l a ²¹	1889
+615	Yijiacun	1889	la³³	l a ³³	l a ³³	1889
+616	ProtoLalo	1889	ˀla²	ˀl a ²	ˀl a ²	1889
+3759	Shuizhuping	1891	mɛ⁴⁴	m ɛ ⁴⁴	m ɛ ⁴⁴	1891
+3760	Xuzhang	1891	mɛ⁴⁵³	m ɛ ⁴⁵³	m ɛ ⁴⁵³	1891
+3761	ProtoLalo	1891	ˀmɛ¹	ˀm ɛ ¹	ˀm ɛ ¹	1891
+1182	Mangdi	1946	tɛ⁵⁵	t ɛ ⁵⁵	t ɛ ⁵⁵	1946
+1183	Yangliu	1946	tɛ³³	t ɛ ³³	t ɛ ³³	1946
+1184	Yijiacun	1946	tja⁵³	t j a ⁵³	t j a ⁵³	1946
+1185	ProtoLalo	1946	tɛ¹	t ɛ ¹	t ɛ ¹	1946
+383	Diaocao	1969	sɿ²¹	s ɿ ²¹	s ɿ ²¹	1969
+384	Mangdi	1969	ɕiŋ²¹	ɕ i ŋ ²¹	ɕ i ŋ ²¹	1969
+385	Qingyun	1969	sɿ²¹	s ɿ ²¹	s ɿ ²¹	1969
+386	Shuizhuping	1969	sɿʔ²¹	s ɿ ʔ ²¹	s ɿ ʔ ²¹	1969
+387	Xuzhang	1969	sɿ²¹	s ɿ ²¹	s ɿ ²¹	1969
+388	Yangliu	1969	sɿ²¹	s ɿ ²¹	s ɿ ²¹	1969
+389	Yijiacun	1969	ɕi²¹	ɕ i ²¹	ɕ i ²¹	1969
+390	ProtoLalo	1969	si²	s i ²	s i ²	1969
+407	Diaocao	1989	mə³³	m ə ³³	m ə ³³	1989
+408	Mangdi	1989	mi³³	m i ³³	m i ³³	1989
+409	Qingyun	1989	ˀmʉ̠³³	ˀm ʉ̠ ³³	ˀm ʉ̠ ³³	1989
+410	Xuzhang	1989	mø³³	m ø ³³	m ø ³³	1989
+411	Yangliu	1989	mi⁵³	m i ⁵³	m i ⁵³	1989
+412	Yijiacun	1989	mɨ̠³³	m ɨ̠ ³³	m ɨ̠ ³³	1989
+413	ProtoLalo	1989	ˀmy̠¹	ˀm y̠ ¹	ˀm y̠ ¹	1989
+3312	Diaocao	2	kə⁵⁵	k ə ⁵⁵	k ə ⁵⁵	2
+3313	Mangdi	2	ko⁵⁵	k o ⁵⁵	k o ⁵⁵	2
+3314	Qingyun	2	kø⁵⁵	k ø ⁵⁵	k ø ⁵⁵	2
+3315	Shuizhuping	2	kwɛ²⁴	k w ɛ ²⁴	k w ɛ ²⁴	2
+3316	Xuzhang	2	kwe⁵⁵	k w e ⁵⁵	k w e ⁵⁵	2
+3317	Yangliu	2	kei³³	k ei ³³	k ei ³³	2
+3318	Yijiacun	2	ka̠²¹	k a̠ ²¹	k a̠ ²¹	2
+3319	ProtoLalo	2	kjo¹	k j o ¹	k j o ¹	2
+2727	Qingyun	2000	ˀɲi⁵⁵	ˀɲ i ⁵⁵	ˀɲ i ⁵⁵	2000
+2728	Yijiacun	2000	nɨ²⁴	n ɨ ²⁴	n ɨ ²⁴	2000
+2729	ProtoLalo	2000	ˀni¹	ˀn i ¹	ˀn i ¹	2000
+2414	Diaocao	2031	e²¹	e ²¹	e ²¹	2031
+2415	Mangdi	2031	a⁵⁵	a ⁵⁵	a ⁵⁵	2031
+2416	Qingyun	2031	i̤²¹	i̤ ²¹	i̤ ²¹	2031
+2417	Shuizhuping	2031	a³³	a ³³	a ³³	2031
+2418	Xuzhang	2031	a⁴⁴	a ⁴⁴	a ⁴⁴	2031
+2419	Yangliu	2031	ai²¹	ai ²¹	ai ²¹	2031
+2420	Yijiacun	2031	a²⁴	a ²⁴	a ²⁴	2031
+2421	ProtoLalo	2031	a¹	a ¹	a ¹	2031
+1437	Diaocao	2032	vei⁴²	v ei ⁴²	v ei ⁴²	2032
+1438	Mangdi	2032	vɛ̠²¹	v ɛ̠ ²¹	v ɛ̠ ²¹	2032
+1439	Qingyun	2032	vɛ̠²¹	v ɛ̠ ²¹	v ɛ̠ ²¹	2032
+1440	Shuizhuping	2032	ve⁵⁵	v e ⁵⁵	v e ⁵⁵	2032
+1441	Xuzhang	2032	vɛ̠i³³	v ɛ̠i ³³	v ɛ̠i ³³	2032
+1442	Yangliu	2032	vei⁵³	v ei ⁵³	v ei ⁵³	2032
+1443	Yijiacun	2032	vi̠ʔ³³	v i̠ ʔ ³³	v i̠ ʔ ³³	2032
+1444	ProtoLalo	2032	ve̠³	v e̠ ³	v e̠ ³	2032
+1254	Shuizhuping	2034	ko²¹	k o ²¹	k o ²¹	2034
+1255	Xuzhang	2034	ka̠²¹	k a̠ ²¹	k a̠ ²¹	2034
+1256	Yijiacun	2034	ka̠ʔ²¹	k a̠ ʔ ²¹	k a̠ ʔ ²¹	2034
+1257	ProtoLalo	2034	kaŋ²	k a ŋ ²	k a ŋ ²	2034
+516	Diaocao	2089	tsʰə⁵⁵	tsʰ ə ⁵⁵	tsʰ ə ⁵⁵	2089
+517	Mangdi	2089	tʃʰɿ⁵⁵	tʃʰ ɿ ⁵⁵	tʃʰ ɿ ⁵⁵	2089
+518	Qingyun	2089	tsʰy⁵⁵	tsʰ y ⁵⁵	tsʰ y ⁵⁵	2089
+519	Shuizhuping	2089	tɕʰy²⁴	tɕʰ y ²⁴	tɕʰ y ²⁴	2089
+520	Xuzhang	2089	tsʰy⁴⁵³	tsʰ y ⁴⁵³	tsʰ y ⁴⁵³	2089
+521	Yijiacun	2089	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	2089
+522	ProtoLalo	2089	tsʰy¹	tsʰ y ¹	tsʰ y ¹	2089
+2992	Diaocao	2101	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	2101
+2993	Mangdi	2101	tsu⁵⁵	ts u ⁵⁵	ts u ⁵⁵	2101
+2994	Qingyun	2101	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	2101
+2995	Shuizhuping	2101	tsɿ²⁴	ts ɿ ²⁴	ts ɿ ²⁴	2101
+2996	Xuzhang	2101	tsɿ⁴⁵³	ts ɿ ⁴⁵³	ts ɿ ⁴⁵³	2101
+2997	Yangliu	2101	tsɤ³³	ts ɤ ³³	ts ɤ ³³	2101
+2998	ProtoLalo	2101	tsu¹	ts u ¹	ts u ¹	2101
+1429	Diaocao	2111	ka³³	k a ³³	k a ³³	2111
+1430	Mangdi	2111	xo²¹	x o ²¹	x o ²¹	2111
+1431	Qingyun	2111	dzɿ³³	dz ɿ ³³	dz ɿ ³³	2111
+1432	Shuizhuping	2111	dzɿ³³	dz ɿ ³³	dz ɿ ³³	2111
+1433	Xuzhang	2111	ka²¹	k a ²¹	k a ²¹	2111
+1434	Yangliu	2111	kɨ³³	k ɨ ³³	k ɨ ³³	2111
+1435	Yijiacun	2111	ga²¹	g a ²¹	g a ²¹	2111
+1436	ProtoLalo	2111	ɣo²	ɣ o ²	ɣ o ²	2111
+3227	Diaocao	2129	tʰa²¹	tʰ a ²¹	tʰ a ²¹	2129
+3228	Qingyun	2129	tʰjau²¹	tʰ j au ²¹	tʰ j au ²¹	2129
+3229	Shuizhuping	2129	tʰju²¹	tʰ j u ²¹	tʰ j u ²¹	2129
+3230	Xuzhang	2129	tʰa²¹	tʰ a ²¹	tʰ a ²¹	2129
+3231	ProtoLalo	2129	tʰo²	tʰ o ²	tʰ o ²	2129
+330	Diaocao	2142	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	2142
+331	Mangdi	2142	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	2142
+332	Qingyun	2142	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	2142
+333	Xuzhang	2142	ʈʂʰʅ²¹	ʈʂʰ ʅ ²¹	ʈʂʰ ʅ ²¹	2142
+334	Yijiacun	2142	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	2142
+335	ProtoLalo	2142	tʃʰi²	tʃʰ i ²	tʃʰ i ²	2142
+1376	Diaocao	2175	tɛ⁴²	t ɛ ⁴²	t ɛ ⁴²	2175
+1377	Mangdi	2175	ta²¹	t a ²¹	t a ²¹	2175
+1378	Qingyun	2175	ta²¹	t a ²¹	t a ²¹	2175
+1379	Shuizhuping	2175	ta²¹	t a ²¹	t a ²¹	2175
+1380	Xuzhang	2175	tɛ³³	t ɛ ³³	t ɛ ³³	2175
+1381	Yangliu	2175	tɛ⁵⁵	t ɛ ⁵⁵	t ɛ ⁵⁵	2175
+1382	Yijiacun	2175	tsa̠²¹	ts a̠ ²¹	ts a̠ ²¹	2175
+1383	ProtoLalo	2175	ta̠³	t a̠ ³	t a̠ ³	2175
+3399	Diaocao	2233	sɿ⁵⁵	s ɿ ⁵⁵	s ɿ ⁵⁵	2233
+3400	Mangdi	2233	su⁵⁵	s u ⁵⁵	s u ⁵⁵	2233
+3401	Qingyun	2233	sɿ⁵⁵	s ɿ ⁵⁵	s ɿ ⁵⁵	2233
+3402	Shuizhuping	2233	za²¹	z a ²¹	z a ²¹	2233
+3403	Xuzhang	2233	zo²¹	z o ²¹	z o ²¹	2233
+3404	Yangliu	2233	sɛ³³	s ɛ ³³	s ɛ ³³	2233
+3405	Yijiacun	2233	tsʰa³³	tsʰ a ³³	tsʰ a ³³	2233
+3406	ProtoLalo	2233	su¹	s u ¹	s u ¹	2233
+1874	Diaocao	2235	pu⁴²	p u ⁴²	p u ⁴²	2235
+1875	Mangdi	2235	pɑ²¹	p ɑ ²¹	p ɑ ²¹	2235
+1876	Qingyun	2235	pa̠²¹	p a̠ ²¹	p a̠ ²¹	2235
+1877	Yijiacun	2235	bui⁵⁵	b ui ⁵⁵	b ui ⁵⁵	2235
+1878	ProtoLalo	2235	pa̠³	p a̠ ³	p a̠ ³	2235
+504	Diaocao	2258	gɤ²⁴	g ɤ ²⁴	g ɤ ²⁴	2258
+505	Mangdi	2258	gu⁵⁵	g u ⁵⁵	g u ⁵⁵	2258
+506	Yangliu	2258	go³³	g o ³³	g o ³³	2258
+507	Yijiacun	2258	gu²⁴	g u ²⁴	g u ²⁴	2258
+508	ProtoLalo	2258	goŋ¹	g o ŋ ¹	g o ŋ ¹	2258
+1014	Diaocao	2276	tsʰə⁵⁵	tsʰ ə ⁵⁵	tsʰ ə ⁵⁵	2276
+1015	Mangdi	2276	tsʰə⁵⁵	tsʰ ə ⁵⁵	tsʰ ə ⁵⁵	2276
+1016	Qingyun	2276	tsʰy⁵⁵	tsʰ y ⁵⁵	tsʰ y ⁵⁵	2276
+1017	Shuizhuping	2276	tɕʰy²⁴	tɕʰ y ²⁴	tɕʰ y ²⁴	2276
+1018	Xuzhang	2276	tsʰy⁴⁵³	tsʰ y ⁴⁵³	tsʰ y ⁴⁵³	2276
+1019	Yangliu	2276	tsʰə³³	tsʰ ə ³³	tsʰ ə ³³	2276
+1020	Yijiacun	2276	tsʰə²⁴	tsʰ ə ²⁴	tsʰ ə ²⁴	2276
+1021	ProtoLalo	2276	tsʰy¹	tsʰ y ¹	tsʰ y ¹	2276
+3392	Diaocao	2277	pi³³	p i ³³	p i ³³	2277
+3393	Qingyun	2277	pʰi²¹	pʰ i ²¹	pʰ i ²¹	2277
+3394	Shuizhuping	2277	pʰɛ²¹	pʰ ɛ ²¹	pʰ ɛ ²¹	2277
+3395	Xuzhang	2277	pʰɛi²¹	pʰ ɛi ²¹	pʰ ɛi ²¹	2277
+3396	Yangliu	2277	pʰai³¹	pʰ ai ³¹	pʰ ai ³¹	2277
+3397	Yijiacun	2277	pɨ³³	p ɨ ³³	p ɨ ³³	2277
+3398	ProtoLalo	2277	pʰe²	pʰ e ²	pʰ e ²	2277
+1583	Diaocao	229	dza²⁴	dz a ²⁴	dz a ²⁴	229
+1584	Mangdi	229	dza³³	dz a ³³	dz a ³³	229
+1585	Qingyun	229	dʑɛ̠³³	dʑ ɛ̠ ³³	dʑ ɛ̠ ³³	229
+1586	Shuizhuping	229	ɖʐɛ⁴⁴	ɖʐ ɛ ⁴⁴	ɖʐ ɛ ⁴⁴	229
+1587	Yangliu	229	dzɿ⁵⁵	dz ɿ ⁵⁵	dz ɿ ⁵⁵	229
+1588	Yijiacun	229	dzaŋ³⁵³	dz a ŋ ³⁵³	dz a ŋ ³⁵³	229
+1589	ProtoLalo	229	dʒe̠¹	dʒ e̠ ¹	dʒ e̠ ¹	229
+399	Diaocao	2302	nu⁴²	n u ⁴²	n u ⁴²	2302
+400	Mangdi	2302	nu²¹	n u ²¹	n u ²¹	2302
+401	Qingyun	2302	ˀnə̠²¹	ˀn ə̠ ²¹	ˀn ə̠ ²¹	2302
+402	Shuizhuping	2302	nu⁵³	n u ⁵³	n u ⁵³	2302
+403	Xuzhang	2302	no³³	n o ³³	n o ³³	2302
+404	Yangliu	2302	no⁴⁵³	n o ⁴⁵³	n o ⁴⁵³	2302
+405	Yijiacun	2302	nu̠²¹	n u̠ ²¹	n u̠ ²¹	2302
+406	ProtoLalo	2302	ˀnu̠³	ˀn u̠ ³	ˀn u̠ ³	2302
+750	Diaocao	2318	lei⁴²	l ei ⁴²	l ei ⁴²	2318
+751	Mangdi	2318	la²¹	l a ²¹	l a ²¹	2318
+752	Xuzhang	2318	lɛi³³	l ɛi ³³	l ɛi ³³	2318
+753	Yangliu	2318	lə²¹	l ə ²¹	l ə ²¹	2318
+754	Yijiacun	2318	la̠²¹	l a̠ ²¹	l a̠ ²¹	2318
+755	ProtoLalo	2318	le̠³	l e̠ ³	l e̠ ³	2318
+1167	Diaocao	2362	tsɿ³³	ts ɿ ³³	ts ɿ ³³	2362
+1168	Mangdi	2362	tʃɿ³³	tʃ ɿ ³³	tʃ ɿ ³³	2362
+1169	Shuizhuping	2362	ʈʂʅ⁴⁴	ʈʂ ʅ ⁴⁴	ʈʂ ʅ ⁴⁴	2362
+1170	Xuzhang	2362	ʈʂʅ³³	ʈʂ ʅ ³³	ʈʂ ʅ ³³	2362
+1171	Yangliu	2362	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	2362
+1172	Yijiacun	2362	tɕi³³	tɕ i ³³	tɕ i ³³	2362
+1173	ProtoLalo	2362	tʃɨ̠¹	tʃ ɨ̠ ¹	tʃ ɨ̠ ¹	2362
+1633	Diaocao	2363	bei³³	b ei ³³	b ei ³³	2363
+1634	Qingyun	2363	bɛ̠³³	b ɛ̠ ³³	b ɛ̠ ³³	2363
+1635	Shuizhuping	2363	bɛ⁴⁴	b ɛ ⁴⁴	b ɛ ⁴⁴	2363
+1636	Xuzhang	2363	bɛi³³	b ɛi ³³	b ɛi ³³	2363
+1637	Yangliu	2363	bi⁴⁵³	b i ⁴⁵³	b i ⁴⁵³	2363
+1638	ProtoLalo	2363	be̠¹	b e̠ ¹	b e̠ ¹	2363
+427	Diaocao	238	vei²¹	v ei ²¹	v ei ²¹	238
+428	Mangdi	238	və²¹	v ə ²¹	v ə ²¹	238
+429	Yangliu	238	vai²¹	v ai ²¹	v ai ²¹	238
+430	Yijiacun	238	vu²¹	v u ²¹	v u ²¹	238
+431	ProtoLalo	238	vi²	v i ²	v i ²	238
+1392	Diaocao	2406	sei⁴²	s ei ⁴²	s ei ⁴²	2406
+1393	Mangdi	2406	sɛ²¹	s ɛ ²¹	s ɛ ²¹	2406
+1394	Qingyun	2406	sɛ̠²¹	s ɛ̠ ²¹	s ɛ̠ ²¹	2406
+1395	Shuizhuping	2406	se⁵⁵	s e ⁵⁵	s e ⁵⁵	2406
+1396	Xuzhang	2406	sɛi³³	s ɛi ³³	s ɛi ³³	2406
+1397	Yijiacun	2406	ɕi³³	ɕ i ³³	ɕ i ³³	2406
+1398	ProtoLalo	2406	se̠³	s e̠ ³	s e̠ ³	2406
+1469	Diaocao	2407	xa⁵⁵	x a ⁵⁵	x a ⁵⁵	2407
+1470	Mangdi	2407	xo⁵⁵	x o ⁵⁵	x o ⁵⁵	2407
+1471	Qingyun	2407	xa⁵⁵	x a ⁵⁵	x a ⁵⁵	2407
+1472	Shuizhuping	2407	xa³³	x a ³³	x a ³³	2407
+1473	Xuzhang	2407	xo⁴⁵³	x o ⁴⁵³	x o ⁴⁵³	2407
+1474	ProtoLalo	2407	xa¹	x a ¹	x a ¹	2407
+1384	Diaocao	2459	dzə²⁴	dz ə ²⁴	dz ə ²⁴	2459
+1385	Mangdi	2459	dʑɛ⁵⁵	dʑ ɛ ⁵⁵	dʑ ɛ ⁵⁵	2459
+1386	Qingyun	2459	dzy⁵⁵	dz y ⁵⁵	dz y ⁵⁵	2459
+1387	Shuizhuping	2459	dʑy²⁴	dʑ y ²⁴	dʑ y ²⁴	2459
+1388	Xuzhang	2459	dʑy²⁴	dʑ y ²⁴	dʑ y ²⁴	2459
+1389	Yangliu	2459	dzə²¹	dz ə ²¹	dz ə ²¹	2459
+1390	Yijiacun	2459	gɨ̠²¹	g ɨ̠ ²¹	g ɨ̠ ²¹	2459
+1391	ProtoLalo	2459	dzy¹	dz y ¹	dz y ¹	2459
+2694	Diaocao	2481	mə²¹	m ə ²¹	m ə ²¹	2481
+2695	Mangdi	2481	mɨ²¹	m ɨ ²¹	m ɨ ²¹	2481
+2696	Qingyun	2481	ˀmṳ²¹	ˀm ṳ ²¹	ˀm ṳ ²¹	2481
+2697	Shuizhuping	2481	my	m y	m y	2481
+2698	Xuzhang	2481	mø²¹	m ø ²¹	m ø ²¹	2481
+2699	Yangliu	2481	məŋ⁵³	m ə ŋ ⁵³	m ə ŋ ⁵³	2481
+2700	Yijiacun	2481	mɨ²¹	m ɨ ²¹	m ɨ ²¹	2481
+2701	ProtoLalo	2481	ˀmy²	ˀm y ²	ˀm y ²	2481
+736	Diaocao	2491	sɿ³³	s ɿ ³³	s ɿ ³³	2491
+737	Mangdi	2491	sɿ³³	s ɿ ³³	s ɿ ³³	2491
+738	Shuizhuping	2491	sɿ⁴⁴	s ɿ ⁴⁴	s ɿ ⁴⁴	2491
+739	Xuzhang	2491	sɿ³³	s ɿ ³³	s ɿ ³³	2491
+740	Yangliu	2491	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	2491
+741	ProtoLalo	2491	si̠¹	s i̠ ¹	s i̠ ¹	2491
+1233	Mangdi	2492	gɨ⁵⁵	g ɨ ⁵⁵	g ɨ ⁵⁵	2492
+1234	Qingyun	2492	gɨ⁵⁵	g ɨ ⁵⁵	g ɨ ⁵⁵	2492
+1235	Shuizhuping	2492	gɨ²⁴	g ɨ ²⁴	g ɨ ²⁴	2492
+1236	Xuzhang	2492	gɛ²⁴	g ɛ ²⁴	g ɛ ²⁴	2492
+1237	Yangliu	2492	gɛ³³	g ɛ ³³	g ɛ ³³	2492
+1238	Yijiacun	2492	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	2492
+1239	ProtoLalo	2492	gɨ¹	g ɨ ¹	g ɨ ¹	2492
+875	Diaocao	2529	su⁴²	s u ⁴²	s u ⁴²	2529
+876	Qingyun	2529	za̤²¹	z a̤ ²¹	z a̤ ²¹	2529
+877	Shuizhuping	2529	za²¹	z a ²¹	z a ²¹	2529
+878	Xuzhang	2529	zo²¹	z o ²¹	z o ²¹	2529
+879	Yangliu	2529	za²¹	z a ²¹	z a ²¹	2529
+880	ProtoLalo	2529	za²	z a ²	z a ²	2529
+1844	Diaocao	2530	dɤ²⁴	d ɤ ²⁴	d ɤ ²⁴	2530
+1845	Mangdi	2530	da⁵⁵	d a ⁵⁵	d a ⁵⁵	2530
+1846	Qingyun	2530	də⁴⁵	d ə ⁴⁵	d ə ⁴⁵	2530
+1847	Yangliu	2530	do³³	d o ³³	d o ³³	2530
+1848	Yijiacun	2530	dui³⁵	d ui ³⁵	d ui ³⁵	2530
+1849	ProtoLalo	2530	du¹	d u ¹	d u ¹	2530
+2231	Diaocao	2558	dzɛ²⁴	dz ɛ ²⁴	dz ɛ ²⁴	2558
+2232	Qingyun	2558	tsa̠²¹	ts a̠ ²¹	ts a̠ ²¹	2558
+2233	Shuizhuping	2558	tsɛ̃⁵³	ts ɛ̃ ⁵³	ts ɛ̃ ⁵³	2558
+2234	Xuzhang	2558	ɖʐɛ³³	ɖʐ ɛ ³³	ɖʐ ɛ ³³	2558
+2235	Yangliu	2558	du⁵⁵	d u ⁵⁵	d u ⁵⁵	2558
+2236	Yijiacun	2558	tɕɛ²¹	tɕ ɛ ²¹	tɕ ɛ ²¹	2558
+2237	ProtoLalo	2558	tsɛ̠³	ts ɛ̠ ³	ts ɛ̠ ³	2558
+93	Diaocao	2559	bə³³	b ə ³³	b ə ³³	2559
+94	Mangdi	2559	bɨ̠⁴⁴	b ɨ̠ ⁴⁴	b ɨ̠ ⁴⁴	2559
+95	Qingyun	2559	bʉ̠³³	b ʉ̠ ³³	b ʉ̠ ³³	2559
+96	Shuizhuping	2559	bɨ⁴⁴	b ɨ ⁴⁴	b ɨ ⁴⁴	2559
+97	Yangliu	2559	fɛ⁵³	f ɛ ⁵³	f ɛ ⁵³	2559
+98	ProtoLalo	2559	bɨ̠¹	b ɨ̠ ¹	b ɨ̠ ¹	2559
+801	Diaocao	2574	ɣə²⁴	ɣ ə ²⁴	ɣ ə ²⁴	2574
+802	Mangdi	2574	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	2574
+803	Yijiacun	2574	xɨ²⁴	x ɨ ²⁴	x ɨ ²⁴	2574
+804	ProtoLalo	2574	ɣo¹	ɣ o ¹	ɣ o ¹	2574
+1707	Diaocao	2624	tə²¹	t ə ²¹	t ə ²¹	2624
+1708	Mangdi	2624	tə²¹	t ə ²¹	t ə ²¹	2624
+1709	Qingyun	2624	ty²¹	t y ²¹	t y ²¹	2624
+1710	Shuizhuping	2624	ty²¹	t y ²¹	t y ²¹	2624
+1711	Xuzhang	2624	ty²¹	t y ²¹	t y ²¹	2624
+1712	Yangliu	2624	tə²¹	t ə ²¹	t ə ²¹	2624
+1713	Yijiacun	2624	tɨ²¹	t ɨ ²¹	t ɨ ²¹	2624
+1714	ProtoLalo	2624	ty²	t y ²	t y ²	2624
+3497	Qingyun	264	ku³³	k u ³³	k u ³³	264
+3498	Shuizhuping	264	tsu²¹	ts u ²¹	ts u ²¹	264
+3499	Yangliu	264	tsu²¹	ts u ²¹	ts u ²¹	264
+3500	ProtoLalo	264	tsu²	ts u ²	ts u ²	264
+3245	Diaocao	2643	twɛ³³	t w ɛ ³³	t w ɛ ³³	2643
+3246	Mangdi	2643	tɛ²¹	t ɛ ²¹	t ɛ ²¹	2643
+3247	Qingyun	2643	tʰu³³	tʰ u ³³	tʰ u ³³	2643
+3248	Shuizhuping	2643	tʰv̩³³	tʰ v̩ ³³	tʰ v̩ ³³	2643
+3249	Yijiacun	2643	tʰɨ⁵⁵	tʰ ɨ ⁵⁵	tʰ ɨ ⁵⁵	2643
+3250	ProtoLalo	2643	tʰu³	tʰ u ³	tʰ u ³	2643
+1480	Diaocao	2657	lei³³	l ei ³³	l ei ³³	2657
+1481	Qingyun	2657	ˀlə³³	ˀl ə ³³	ˀl ə ³³	2657
+1482	Yangliu	2657	lɛ⁵⁵	l ɛ ⁵⁵	l ɛ ⁵⁵	2657
+1483	Yijiacun	2657	lo²⁴	l o ²⁴	l o ²⁴	2657
+1484	ProtoLalo	2657	ˀlu³	ˀl u ³	ˀl u ³	2657
+3563	Mangdi	2659	bɛ²¹	b ɛ ²¹	b ɛ ²¹	2659
+3564	Qingyun	2659	vi̤²¹	v i̤ ²¹	v i̤ ²¹	2659
+3565	Yangliu	2659	pu²¹	p u ²¹	p u ²¹	2659
+3566	ProtoLalo	2659	bo²	b o ²	b o ²	2659
+3864	Diaocao	2695	ta⁵⁵	t a ⁵⁵	t a ⁵⁵	2695
+3865	Mangdi	2695	dɛ²¹	d ɛ ²¹	d ɛ ²¹	2695
+3866	Qingyun	2695	tə³³	t ə ³³	t ə ³³	2695
+3867	Shuizhuping	2695	du²⁴	d u ²⁴	d u ²⁴	2695
+3868	Xuzhang	2695	da⁴⁴	d a ⁴⁴	d a ⁴⁴	2695
+3869	ProtoLalo	2695	daŋ¹	d a ŋ ¹	d a ŋ ¹	2695
+3491	Mangdi	2716	sɛ²¹	s ɛ ²¹	s ɛ ²¹	2716
+3492	Shuizhuping	2716	sɛ²¹	s ɛ ²¹	s ɛ ²¹	2716
+3493	Xuzhang	2716	sɛ²¹	s ɛ ²¹	s ɛ ²¹	2716
+3494	Yangliu	2716	sɛ²¹	s ɛ ²¹	s ɛ ²¹	2716
+3495	Yijiacun	2716	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	2716
+3496	ProtoLalo	2716	sɛ²	s ɛ ²	s ɛ ²	2716
+1595	Diaocao	2733	vɛ²⁴	v ɛ ²⁴	v ɛ ²⁴	2733
+1596	Mangdi	2733	vɛ⁵⁵	v ɛ ⁵⁵	v ɛ ⁵⁵	2733
+1597	Qingyun	2733	vɛ⁵⁵	v ɛ ⁵⁵	v ɛ ⁵⁵	2733
+1598	Shuizhuping	2733	vɛ²⁴	v ɛ ²⁴	v ɛ ²⁴	2733
+1599	Yangliu	2733	vɛ³³	v ɛ ³³	v ɛ ³³	2733
+1600	Yijiacun	2733	vɛ²⁴	v ɛ ²⁴	v ɛ ²⁴	2733
+1601	ProtoLalo	2733	vɛ¹	v ɛ ¹	v ɛ ¹	2733
+951	Diaocao	280	a²¹	a ²¹	a ²¹	280
+952	Mangdi	280	a²¹	a ²¹	a ²¹	280
+953	Qingyun	280	a⁵⁵	a ⁵⁵	a ⁵⁵	280
+954	Shuizhuping	280	a⁴⁴	a ⁴⁴	a ⁴⁴	280
+955	Xuzhang	280	a³⁵	a ³⁵	a ³⁵	280
+956	Yangliu	280	a⁵⁵	a ⁵⁵	a ⁵⁵	280
+957	Yijiacun	280	a²⁴	a ²⁴	a ²⁴	280
+958	ProtoLalo	280	a¹	a ¹	a ¹	280
+197	Diaocao	2800	kɤ⁵⁵	k ɤ ⁵⁵	k ɤ ⁵⁵	2800
+198	Mangdi	2800	ku⁵⁵	k u ⁵⁵	k u ⁵⁵	2800
+199	Qingyun	2800	kə⁵⁵	k ə ⁵⁵	k ə ⁵⁵	2800
+200	Xuzhang	2800	kɤ⁵⁵	k ɤ ⁵⁵	k ɤ ⁵⁵	2800
+201	Yangliu	2800	kɤ³³	k ɤ ³³	k ɤ ³³	2800
+202	ProtoLalo	2800	ku¹	k u ¹	k u ¹	2800
+570	Diaocao	2809	bə²⁴	b ə ²⁴	b ə ²⁴	2809
+571	Mangdi	2809	bi⁵⁵	b i ⁵⁵	b i ⁵⁵	2809
+572	Qingyun	2809	vi⁵⁵	v i ⁵⁵	v i ⁵⁵	2809
+573	Yangliu	2809	bi³³	b i ³³	b i ³³	2809
+574	Yijiacun	2809	bɨ²⁴	b ɨ ²⁴	b ɨ ²⁴	2809
+575	ProtoLalo	2809	bo¹	b o ¹	b o ¹	2809
+3841	Mangdi	283	liŋ⁵⁵	l i ŋ ⁵⁵	l i ŋ ⁵⁵	283
+3842	Qingyun	283	mu²¹	m u ²¹	m u ²¹	283
+3843	Xuzhang	283	ma²¹	m a ²¹	m a ²¹	283
+3844	Yangliu	283	ma³³	m a ³³	m a ³³	283
+3845	Yijiacun	283	leŋ⁵³	l e ŋ ⁵³	l e ŋ ⁵³	283
+3846	ProtoLalo	283	maŋ²	m a ŋ ²	m a ŋ ²	283
+3092	Diaocao	2842	tei³³	t ei ³³	t ei ³³	2842
+3093	Mangdi	2842	tɛ̠⁵⁵	t ɛ̠ ⁵⁵	t ɛ̠ ⁵⁵	2842
+3094	Qingyun	2842	tɛ̠³³	t ɛ̠ ³³	t ɛ̠ ³³	2842
+3095	Shuizhuping	2842	tɛ⁴⁴	t ɛ ⁴⁴	t ɛ ⁴⁴	2842
+3096	Xuzhang	2842	tɛi³³	t ɛi ³³	t ɛi ³³	2842
+3097	Yangliu	2842	ti⁵³	t i ⁵³	t i ⁵³	2842
+3098	Yijiacun	2842	ti̠³³	t i̠ ³³	t i̠ ³³	2842
+3099	ProtoLalo	2842	te̠¹	t e̠ ¹	t e̠ ¹	2842
+2406	Diaocao	2851	tʰi⁵⁵	tʰ i ⁵⁵	tʰ i ⁵⁵	2851
+2407	Mangdi	2851	tɕʰɛ²¹	tɕʰ ɛ ²¹	tɕʰ ɛ ²¹	2851
+2408	Qingyun	2851	tʰi̤²¹	tʰ i̤ ²¹	tʰ i̤ ²¹	2851
+2409	Shuizhuping	2851	ʈʂʰɛ²¹	ʈʂʰ ɛ ²¹	ʈʂʰ ɛ ²¹	2851
+2410	Xuzhang	2851	ʈʂʰɛ²¹	ʈʂʰ ɛ ²¹	ʈʂʰ ɛ ²¹	2851
+2411	Yangliu	2851	tʰi²¹	tʰ i ²¹	tʰ i ²¹	2851
+2412	Yijiacun	2851	tɕʰɛ²¹	tɕʰ ɛ ²¹	tɕʰ ɛ ²¹	2851
+2413	ProtoLalo	2851	tʃʰɛ²	tʃʰ ɛ ²	tʃʰ ɛ ²	2851
+3144	Diaocao	2860	pi²¹	p i ²¹	p i ²¹	2860
+3145	Mangdi	2860	pə²¹	p ə ²¹	p ə ²¹	2860
+3146	Qingyun	2860	py²¹	p y ²¹	p y ²¹	2860
+3147	Xuzhang	2860	py²¹	p y ²¹	p y ²¹	2860
+3148	Yangliu	2860	pɨ²¹	p ɨ ²¹	p ɨ ²¹	2860
+3149	Yijiacun	2860	pə²¹	p ə ²¹	p ə ²¹	2860
+3150	ProtoLalo	2860	py²	p y ²	p y ²	2860
+2889	Diaocao	2879	a²¹	a ²¹	a ²¹	2879
+2890	Mangdi	2879	a²¹	a ²¹	a ²¹	2879
+2891	Qingyun	2879	a̤²¹	a̤ ²¹	a̤ ²¹	2879
+2892	Shuizhuping	2879	a²¹	a ²¹	a ²¹	2879
+2893	Xuzhang	2879	a²¹	a ²¹	a ²¹	2879
+2894	Yangliu	2879	a²¹	a ²¹	a ²¹	2879
+2895	ProtoLalo	2879	a¹	a ¹	a ¹	2879
+2460	Qingyun	2882	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	2882
+2461	Shuizhuping	2882	ni⁴⁴	n i ⁴⁴	n i ⁴⁴	2882
+2462	Xuzhang	2882	ɲi²⁴	ɲ i ²⁴	ɲ i ²⁴	2882
+2463	Yangliu	2882	ni³³	n i ³³	n i ³³	2882
+2464	Yijiacun	2882	nɛ²⁴	n ɛ ²⁴	n ɛ ²⁴	2882
+2465	ProtoLalo	2882	ne¹	n e ¹	n e ¹	2882
+3351	Diaocao	2949	dɤ²¹	d ɤ ²¹	d ɤ ²¹	2949
+3352	Mangdi	2949	dʒa²¹	dʒ a ²¹	dʒ a ²¹	2949
+3353	Yangliu	2949	tu⁵³	t u ⁵³	t u ⁵³	2949
+3354	ProtoLalo	2949	du¹	d u ¹	d u ¹	2949
+2559	Mangdi	2993	xɛn⁵⁵	x ɛ n ⁵⁵	x ɛ n ⁵⁵	2993
+2560	Qingyun	2993	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	2993
+2561	Shuizhuping	2993	ɕi²⁴	ɕ i ²⁴	ɕ i ²⁴	2993
+2562	Yijiacun	2993	xa²⁴	x a ²⁴	x a ²⁴	2993
+2563	ProtoLalo	2993	xe¹	x e ¹	x e ¹	2993
+1445	Diaocao	3027	kʰɔ⁵⁵	kʰ ɔ ⁵⁵	kʰ ɔ ⁵⁵	3027
+1446	Qingyun	3027	kø̤²¹	k ø̤ ²¹	k ø̤ ²¹	3027
+1447	ProtoLalo	3027	kjo²	k j o ²	k j o ²	3027
+2105	Diaocao	3038	su³³	s u ³³	s u ³³	3038
+2106	Mangdi	3038	tɕɛ⁵⁵	tɕ ɛ ⁵⁵	tɕ ɛ ⁵⁵	3038
+2107	Shuizhuping	3038	ʂu⁴⁴	ʂ u ⁴⁴	ʂ u ⁴⁴	3038
+2108	Xuzhang	3038	ʂu³³	ʂ u ³³	ʂ u ³³	3038
+2109	Yangliu	3038	so⁵³	s o ⁵³	s o ⁵³	3038
+2110	Yijiacun	3038	tɕɛ²¹	tɕ ɛ ²¹	tɕ ɛ ²¹	3038
+2111	ProtoLalo	3038	ʃo̠¹	ʃ o̠ ¹	ʃ o̠ ¹	3038
+1448	Diaocao	3058	sa²¹	s a ²¹	s a ²¹	3058
+1449	Mangdi	3058	sɛŋ²¹	s ɛ ŋ ²¹	s ɛ ŋ ²¹	3058
+1450	Qingyun	3058	sɛ²¹	s ɛ ²¹	s ɛ ²¹	3058
+1451	Shuizhuping	3058	sa²¹	s a ²¹	s a ²¹	3058
+1452	Xuzhang	3058	sa²¹	s a ²¹	s a ²¹	3058
+1453	Yangliu	3058	sa²¹	s a ²¹	s a ²¹	3058
+1454	Yijiacun	3058	ɕi²¹	ɕ i ²¹	ɕ i ²¹	3058
+1455	ProtoLalo	3058	sa²	s a ²	s a ²	3058
+2722	Diaocao	3059	ŋɛ²¹	ŋ ɛ ²¹	ŋ ɛ ²¹	3059
+2723	Qingyun	3059	n̩²¹	n̩ ²¹	n̩ ²¹	3059
+2724	Shuizhuping	3059	n̩²¹	n̩ ²¹	n̩ ²¹	3059
+2725	Xuzhang	3059	ɲi²¹	ɲ i ²¹	ɲ i ²¹	3059
+2726	ProtoLalo	3059	ŋi²	ŋ i ²	ŋ i ²	3059
+1348	Qingyun	3125	ba̤²¹	b a̤ ²¹	b a̤ ²¹	3125
+1349	Shuizhuping	3125	ba²¹	b a ²¹	b a ²¹	3125
+1350	Xuzhang	3125	bo²¹	b o ²¹	b o ²¹	3125
+1351	Yangliu	3125	ba²¹	b a ²¹	b a ²¹	3125
+1352	Yijiacun	3125	pʰa̠ʔ²¹	pʰ a̠ ʔ ²¹	pʰ a̠ ʔ ²¹	3125
+1353	ProtoLalo	3125	ba²	b a ²	b a ²	3125
+3196	Mangdi	313	sɛ³³	s ɛ ³³	s ɛ ³³	313
+3197	Qingyun	313	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	313
+3198	Shuizhuping	313	sa³⁴	s a ³⁴	s a ³⁴	313
+3199	Yangliu	313	sɛ³³	s ɛ ³³	s ɛ ³³	313
+3200	Yijiacun	313	so²⁴	s o ²⁴	s o ²⁴	313
+3201	ProtoLalo	313	sa¹	s a ¹	s a ¹	313
+1561	Shuizhuping	316	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	316
+1562	Yangliu	316	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	316
+1563	Yijiacun	316	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	316
+1564	ProtoLalo	316	ɣi¹	ɣ i ¹	ɣ i ¹	316
+2039	Diaocao	3185	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	3185
+2040	Mangdi	3185	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	3185
+2041	Qingyun	3185	ɲi⁵⁵	ɲ i ⁵⁵	ɲ i ⁵⁵	3185
+2042	Shuizhuping	3185	nɛ⁴⁴	n ɛ ⁴⁴	n ɛ ⁴⁴	3185
+2043	Xuzhang	3185	nɛ⁴⁴	n ɛ ⁴⁴	n ɛ ⁴⁴	3185
+2044	Yangliu	3185	ɲɛ³³	ɲ ɛ ³³	ɲ ɛ ³³	3185
+2045	Yijiacun	3185	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	3185
+2046	ProtoLalo	3185	ne¹	n e ¹	n e ¹	3185
+1022	Diaocao	3186	zɔ²¹	z ɔ ²¹	z ɔ ²¹	3186
+1023	Qingyun	3186	za̤²¹	z a̤ ²¹	z a̤ ²¹	3186
+1024	Shuizhuping	3186	za²¹	z a ²¹	z a ²¹	3186
+1025	Xuzhang	3186	zo²¹	z o ²¹	z o ²¹	3186
+1026	ProtoLalo	3186	za²	z a ²	z a ²	3186
+901	Mangdi	3212	pʰi²¹	pʰ i ²¹	pʰ i ²¹	3212
+902	Yijiacun	3212	pʰi²⁴	pʰ i ²⁴	pʰ i ²⁴	3212
+903	ProtoLalo	3212	pʰe¹	pʰ e ¹	pʰ e ¹	3212
+1830	Diaocao	3272	kʰei³³	kʰ ei ³³	kʰ ei ³³	3272
+1831	Qingyun	3272	kʰɛ̠³³	kʰ ɛ̠ ³³	kʰ ɛ̠ ³³	3272
+1832	Shuizhuping	3272	kʰai⁴⁴	kʰ ai ⁴⁴	kʰ ai ⁴⁴	3272
+1833	Xuzhang	3272	kʰai³³	kʰ ai ³³	kʰ ai ³³	3272
+1834	Yangliu	3272	kʰɛi⁵³	kʰ ɛi ⁵³	kʰ ɛi ⁵³	3272
+1835	ProtoLalo	3272	kʰe̠¹	kʰ e̠ ¹	kʰ e̠ ¹	3272
+3286	Qingyun	3298	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	3298
+3287	Shuizhuping	3298	kʰɨ⁴⁴	kʰ ɨ ⁴⁴	kʰ ɨ ⁴⁴	3298
+3288	Xuzhang	3298	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	3298
+3289	ProtoLalo	3298	kʰi¹	kʰ i ¹	kʰ i ¹	3298
+1764	Diaocao	3425	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	3425
+1765	Qingyun	3425	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	3425
+1766	Shuizhuping	3425	ti²⁴	t i ²⁴	t i ²⁴	3425
+1767	Xuzhang	3425	di⁵⁵	d i ⁵⁵	d i ⁵⁵	3425
+1768	ProtoLalo	3425	ti¹	t i ¹	t i ¹	3425
+423	Mangdi	3427	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	3427
+424	Yangliu	3427	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	3427
+425	Yijiacun	3427	mə²⁴	m ə ²⁴	m ə ²⁴	3427
+426	ProtoLalo	3427	mo²	m o ²	m o ²	3427
+3567	Diaocao	345	li²¹	l i ²¹	l i ²¹	345
+3568	Mangdi	345	lu²¹	l u ²¹	l u ²¹	345
+3569	Yijiacun	345	lɨ²¹	l ɨ ²¹	l ɨ ²¹	345
+3570	ProtoLalo	345	li²	l i ²	l i ²	345
+1211	Diaocao	3452	kɤ³³	k ɤ ³³	k ɤ ³³	3452
+1212	Mangdi	3452	gɛ̠³³	g ɛ̠ ³³	g ɛ̠ ³³	3452
+1213	Qingyun	3452	gu⁵⁵	g u ⁵⁵	g u ⁵⁵	3452
+1214	Shuizhuping	3452	dʑi⁴⁴	dʑ i ⁴⁴	dʑ i ⁴⁴	3452
+1215	Xuzhang	3452	dʑi⁴⁴	dʑ i ⁴⁴	dʑ i ⁴⁴	3452
+1216	Yangliu	3452	dʑi⁵³	dʑ i ⁵³	dʑ i ⁵³	3452
+1217	Yijiacun	3452	gi̠³³	g i̠ ³³	g i̠ ³³	3452
+1218	ProtoLalo	3452	gje̠¹	g j e̠ ¹	g j e̠ ¹	3452
+3015	Diaocao	3466	bə²¹	b ə ²¹	b ə ²¹	3466
+3016	Mangdi	3466	bəɪŋ²⁴	b əɪ ŋ ²⁴	b əɪ ŋ ²⁴	3466
+3017	Qingyun	3466	by²¹	b y ²¹	b y ²¹	3466
+3018	Shuizhuping	3466	by²¹	b y ²¹	b y ²¹	3466
+3019	Xuzhang	3466	by²¹	b y ²¹	b y ²¹	3466
+3020	Yangliu	3466	bə²¹	b ə ²¹	b ə ²¹	3466
+3021	Yijiacun	3466	bə²¹	b ə ²¹	b ə ²¹	3466
+3022	ProtoLalo	3466	by²	b y ²	b y ²	3466
+523	Diaocao	3477	pʰja⁵⁵	pʰ j a ⁵⁵	pʰ j a ⁵⁵	3477
+524	Mangdi	3477	pʰa⁵⁵	pʰ a ⁵⁵	pʰ a ⁵⁵	3477
+525	Qingyun	3477	pʰu⁵⁵	pʰ u ⁵⁵	pʰ u ⁵⁵	3477
+526	Shuizhuping	3477	pʰu²⁴	pʰ u ²⁴	pʰ u ²⁴	3477
+527	Xuzhang	3477	pʰa³⁵	pʰ a ³⁵	pʰ a ³⁵	3477
+528	Yangliu	3477	pʰa³³	pʰ a ³³	pʰ a ³³	3477
+529	Yijiacun	3477	pʰa²⁴	pʰ a ²⁴	pʰ a ²⁴	3477
+530	ProtoLalo	3477	pʰja¹	pʰ j a ¹	pʰ j a ¹	3477
+14	Mangdi	3500	pɨ²¹	p ɨ ²¹	p ɨ ²¹	3500
+15	Qingyun	3500	pʉ²¹	p ʉ ²¹	p ʉ ²¹	3500
+16	Shuizhuping	3500	pɨ²¹	p ɨ ²¹	p ɨ ²¹	3500
+17	Xuzhang	3500	pɨ²¹	p ɨ ²¹	p ɨ ²¹	3500
+18	Yangliu	3500	pai²¹	p ai ²¹	p ai ²¹	3500
+19	Yijiacun	3500	pɨ²¹	p ɨ ²¹	p ɨ ²¹	3500
+20	ProtoLalo	3500	pjɨ²	p j ɨ ²	p j ɨ ²	3500
+3343	Diaocao	3509	pə²¹	p ə ²¹	p ə ²¹	3509
+3344	Mangdi	3509	pɨ²¹	p ɨ ²¹	p ɨ ²¹	3509
+3345	Qingyun	3509	pʉ²¹	p ʉ ²¹	p ʉ ²¹	3509
+3346	Shuizhuping	3509	pə	p ə	p ə	3509
+3347	Xuzhang	3509	pɨ²¹	p ɨ ²¹	p ɨ ²¹	3509
+3348	Yangliu	3509	pai²¹	p ai ²¹	p ai ²¹	3509
+3349	Yijiacun	3509	pɨ²¹	p ɨ ²¹	p ɨ ²¹	3509
+3350	ProtoLalo	3509	pjɨ²	p j ɨ ²	p j ɨ ²	3509
+3646	Diaocao	3536	zei⁴²	z ei ⁴²	z ei ⁴²	3536
+3647	Qingyun	3536	zɛ̠²¹	z ɛ̠ ²¹	z ɛ̠ ²¹	3536
+3648	Shuizhuping	3536	ze⁵⁵	z e ⁵⁵	z e ⁵⁵	3536
+3649	Xuzhang	3536	zɛi³³	z ɛi ³³	z ɛi ³³	3536
+3650	Yangliu	3536	zai⁵⁵	z ai ⁵⁵	z ai ⁵⁵	3536
+3651	ProtoLalo	3536	ze̠³	z e̠ ³	z e̠ ³	3536
+3481	Mangdi	3539	lɛ⁵⁵	l ɛ ⁵⁵	l ɛ ⁵⁵	3539
+3482	Shuizhuping	3539	la³³	l a ³³	l a ³³	3539
+3483	Xuzhang	3539	la³⁴	l a ³⁴	l a ³⁴	3539
+3484	Yangliu	3539	la³³	l a ³³	l a ³³	3539
+3485	ProtoLalo	3539	la¹	l a ¹	l a ¹	3539
+2454	Mangdi	3555	lɛ⁵⁵	l ɛ ⁵⁵	l ɛ ⁵⁵	3555
+2455	Qingyun	3555	la⁵⁵	l a ⁵⁵	l a ⁵⁵	3555
+2456	Shuizhuping	3555	la³³	l a ³³	l a ³³	3555
+2457	Xuzhang	3555	la³⁴	l a ³⁴	l a ³⁴	3555
+2458	Yangliu	3555	la³³	l a ³³	l a ³³	3555
+2459	ProtoLalo	3555	la¹	l a ¹	l a ¹	3555
+1159	Mangdi	356	mu⁵⁵	m u ⁵⁵	m u ⁵⁵	356
+1160	Yijiacun	356	mu²⁴	m u ²⁴	m u ²⁴	356
+1161	ProtoLalo	356	ˀmu¹	ˀm u ¹	ˀm u ¹	356
+795	Diaocao	3570	dei³⁵	d ei ³⁵	d ei ³⁵	3570
+796	Qingyun	3570	di⁵⁵	d i ⁵⁵	d i ⁵⁵	3570
+797	Shuizhuping	3570	de²⁴	d e ²⁴	d e ²⁴	3570
+798	Xuzhang	3570	di²⁴	d i ²⁴	d i ²⁴	3570
+799	Yangliu	3570	di³³	d i ³³	d i ³³	3570
+800	ProtoLalo	3570	de¹	d e ¹	d e ¹	3570
+1618	Diaocao	3582	tɕi⁴²	tɕ i ⁴²	tɕ i ⁴²	3582
+1619	Mangdi	3582	tɕɛ̠²¹	tɕ ɛ̠ ²¹	tɕ ɛ̠ ²¹	3582
+1620	Qingyun	3582	tɕɛ̠²¹	tɕ ɛ̠ ²¹	tɕ ɛ̠ ²¹	3582
+1621	Shuizhuping	3582	tɕi⁵³	tɕ i ⁵³	tɕ i ⁵³	3582
+1622	Xuzhang	3582	tɕjɛ̠³³	tɕ j ɛ̠ ³³	tɕ j ɛ̠ ³³	3582
+1623	Yangliu	3582	tsai⁵³	ts ai ⁵³	ts ai ⁵³	3582
+1624	Yijiacun	3582	gɛ³³	g ɛ ³³	g ɛ ³³	3582
+1625	ProtoLalo	3582	tse̠³	ts e̠ ³	ts e̠ ³	3582
+860	Diaocao	3591	dzɔ²⁴	dz ɔ ²⁴	dz ɔ ²⁴	3591
+861	Mangdi	3591	dzo⁵⁵	dz o ⁵⁵	dz o ⁵⁵	3591
+862	Qingyun	3591	dza⁵⁵	dz a ⁵⁵	dz a ⁵⁵	3591
+863	Shuizhuping	3591	dza²⁴	dz a ²⁴	dz a ²⁴	3591
+864	Xuzhang	3591	dzo²⁴	dz o ²⁴	dz o ²⁴	3591
+865	Yangliu	3591	dza³³	dz a ³³	dz a ³³	3591
+866	Yijiacun	3591	dzo²⁴	dz o ²⁴	dz o ²⁴	3591
+867	ProtoLalo	3591	dza¹	dz a ¹	dz a ¹	3591
+2772	Diaocao	3623	mɛ⁵⁵	m ɛ ⁵⁵	m ɛ ⁵⁵	3623
+2773	Qingyun	3623	mʉ̤²¹	m ʉ̤ ²¹	m ʉ̤ ²¹	3623
+2774	Shuizhuping	3623	mɨ²¹	m ɨ ²¹	m ɨ ²¹	3623
+2775	Xuzhang	3623	mu³³	m u ³³	m u ³³	3623
+2776	Yangliu	3623	mɨ³³	m ɨ ³³	m ɨ ³³	3623
+2777	ProtoLalo	3623	mɨ²	m ɨ ²	m ɨ ²	3623
+756	Mangdi	3624	sə⁵⁵	s ə ⁵⁵	s ə ⁵⁵	3624
+757	Qingyun	3624	ʂa⁵⁵	ʂ a ⁵⁵	ʂ a ⁵⁵	3624
+758	Shuizhuping	3624	ʂʅ⁴⁴	ʂ ʅ ⁴⁴	ʂ ʅ ⁴⁴	3624
+759	Xuzhang	3624	ʂu⁴⁵	ʂ u ⁴⁵	ʂ u ⁴⁵	3624
+760	Yangliu	3624	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	3624
+761	Yijiacun	3624	sa²¹	s a ²¹	s a ²¹	3624
+762	ProtoLalo	3624	ʃa¹	ʃ a ¹	ʃ a ¹	3624
+1062	Diaocao	3662	xɔ⁵⁵	x ɔ ⁵⁵	x ɔ ⁵⁵	3662
+1063	Mangdi	3662	so⁵⁵	s o ⁵⁵	s o ⁵⁵	3662
+1064	Qingyun	3662	sa⁵⁵	s a ⁵⁵	s a ⁵⁵	3662
+1065	Shuizhuping	3662	sa⁴⁴	s a ⁴⁴	s a ⁴⁴	3662
+1066	Xuzhang	3662	so⁴⁵	s o ⁴⁵	s o ⁴⁵	3662
+1067	Yangliu	3662	sa³³	s a ³³	s a ³³	3662
+1068	Yijiacun	3662	so⁵⁵	s o ⁵⁵	s o ⁵⁵	3662
+1069	ProtoLalo	3662	sa¹	s a ¹	s a ¹	3662
+3697	Diaocao	3695	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	3695
+3698	Mangdi	3695	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	3695
+3699	Qingyun	3695	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	3695
+3700	Shuizhuping	3695	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	3695
+3701	Xuzhang	3695	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	3695
+3702	Yangliu	3695	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	3695
+3703	Yijiacun	3695	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	3695
+3704	ProtoLalo	3695	tsi²	ts i ²	ts i ²	3695
+1240	Mangdi	3719	a⁵⁵	a ⁵⁵	a ⁵⁵	3719
+1241	Qingyun	3719	a⁵⁵	a ⁵⁵	a ⁵⁵	3719
+1242	Xuzhang	3719	a³⁵	a ³⁵	a ³⁵	3719
+1243	Yangliu	3719	a⁴⁵	a ⁴⁵	a ⁴⁵	3719
+1244	Yijiacun	3719	a²⁴	a ²⁴	a ²⁴	3719
+1245	ProtoLalo	3719	a¹	a ¹	a ¹	3719
+2422	Diaocao	3747	bei⁴²	b ei ⁴²	b ei ⁴²	3747
+2423	Mangdi	3747	bɛ̠²¹	b ɛ̠ ²¹	b ɛ̠ ²¹	3747
+2424	Qingyun	3747	bɛ̠²¹	b ɛ̠ ²¹	b ɛ̠ ²¹	3747
+2425	Shuizhuping	3747	bɛ⁵³	b ɛ ⁵³	b ɛ ⁵³	3747
+2426	Xuzhang	3747	bɛi³³	b ɛi ³³	b ɛi ³³	3747
+2427	Yangliu	3747	bai⁵⁵	b ai ⁵⁵	b ai ⁵⁵	3747
+2428	Yijiacun	3747	bi²¹	b i ²¹	b i ²¹	3747
+2429	ProtoLalo	3747	be̠³	b e̠ ³	b e̠ ³	3747
+131	Diaocao	3771	bə³³	b ə ³³	b ə ³³	3771
+132	Qingyun	3771	bɤ̤²¹	b ɤ̤ ²¹	b ɤ̤ ²¹	3771
+133	Shuizhuping	3771	bɨ²⁴	b ɨ ²⁴	b ɨ ²⁴	3771
+134	Xuzhang	3771	bɨ²¹	b ɨ ²¹	b ɨ ²¹	3771
+135	Yangliu	3771	pɛ³³	p ɛ ³³	p ɛ ³³	3771
+136	Yijiacun	3771	pɨ³⁵	p ɨ ³⁵	p ɨ ³⁵	3771
+137	ProtoLalo	3771	bɨ¹	b ɨ ¹	b ɨ ¹	3771
+2012	Diaocao	3772	tsɿ⁴²	ts ɿ ⁴²	ts ɿ ⁴²	3772
+2013	Mangdi	3772	toŋ³³	t o ŋ ³³	t o ŋ ³³	3772
+2014	Shuizhuping	3772	ʈʂɛ⁵³	ʈʂ ɛ ⁵³	ʈʂ ɛ ⁵³	3772
+2015	Xuzhang	3772	tsɿ³³	ts ɿ ³³	ts ɿ ³³	3772
+2016	Yangliu	3772	tsa²¹	ts a ²¹	ts a ²¹	3772
+2017	Yijiacun	3772	tɕɛ²¹	tɕ ɛ ²¹	tɕ ɛ ²¹	3772
+2018	ProtoLalo	3772	tʃɛ̠³	tʃ ɛ̠ ³	tʃ ɛ̠ ³	3772
+2349	Diaocao	3814	gu⁴²	g u ⁴²	g u ⁴²	3814
+2350	Mangdi	3814	go²¹	g o ²¹	g o ²¹	3814
+2351	Yangliu	3814	go⁵³	g o ⁵³	g o ⁵³	3814
+2352	Yijiacun	3814	gu²¹	g u ²¹	g u ²¹	3814
+2353	ProtoLalo	3814	go̠³	g o̠ ³	g o̠ ³	3814
+2877	Diaocao	3835	bɛ³³	b ɛ ³³	b ɛ ³³	3835
+2878	Qingyun	3835	ba̠³³	b a̠ ³³	b a̠ ³³	3835
+2879	Shuizhuping	3835	bɛ⁴⁴	b ɛ ⁴⁴	b ɛ ⁴⁴	3835
+2880	Xuzhang	3835	bɛ³³	b ɛ ³³	b ɛ ³³	3835
+2881	ProtoLalo	3835	bɛ̠¹	b ɛ̠ ¹	b ɛ̠ ¹	3835
+2333	Diaocao	3875	ŋə²⁴	ŋ ə ²⁴	ŋ ə ²⁴	3875
+2334	Mangdi	3875	ŋɨ⁵⁵	ŋ ɨ ⁵⁵	ŋ ɨ ⁵⁵	3875
+2335	Qingyun	3875	ŋə⁵⁵	ŋ ə ⁵⁵	ŋ ə ⁵⁵	3875
+2336	Yangliu	3875	ŋo³³	ŋ o ³³	ŋ o ³³	3875
+2337	Yijiacun	3875	ŋɨ²⁴	ŋ ɨ ²⁴	ŋ ɨ ²⁴	3875
+2338	ProtoLalo	3875	ŋo¹	ŋ o ¹	ŋ o ¹	3875
+114	Diaocao	39	ŋɔ³³	ŋ ɔ ³³	ŋ ɔ ³³	39
+115	Qingyun	39	ŋa³³	ŋ a ³³	ŋ a ³³	39
+116	Xuzhang	39	nu⁴⁵³	n u ⁴⁵³	n u ⁴⁵³	39
+117	Yangliu	39	ŋa⁵³	ŋ a ⁵³	ŋ a ⁵³	39
+118	Yijiacun	39	ŋo⁵⁵	ŋ o ⁵⁵	ŋ o ⁵⁵	39
+119	ProtoLalo	39	ŋa¹	ŋ a ¹	ŋ a ¹	39
+2682	Mangdi	3946	go³³	g o ³³	g o ³³	3946
+2683	Qingyun	3946	kʰɛ³³	kʰ ɛ ³³	kʰ ɛ ³³	3946
+2684	Shuizhuping	3946	kʰai³³	kʰ ai ³³	kʰ ai ³³	3946
+2685	Xuzhang	3946	tsai²¹	ts ai ²¹	ts ai ²¹	3946
+2686	Yijiacun	3946	go³³	g o ³³	g o ³³	3946
+2687	ProtoLalo	3946	ga³	g a ³	g a ³	3946
+3918	Diaocao	3971	zɔ²¹	z ɔ ²¹	z ɔ ²¹	3971
+3919	Qingyun	3971	zɛ̤²¹	z ɛ̤ ²¹	z ɛ̤ ²¹	3971
+3920	Shuizhuping	3971	za²¹	z a ²¹	z a ²¹	3971
+3921	Xuzhang	3971	za²¹	z a ²¹	z a ²¹	3971
+3922	Yangliu	3971	za²¹	z a ²¹	z a ²¹	3971
+3923	Yijiacun	3971	zo³³	z o ³³	z o ³³	3971
+3924	ProtoLalo	3971	za²	z a ²	z a ²	3971
+2999	Diaocao	3989	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	3989
+3000	Mangdi	3989	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	3989
+3001	Qingyun	3989	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	3989
+3002	Shuizhuping	3989	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	3989
+3003	Xuzhang	3989	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	3989
+3004	Yangliu	3989	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	3989
+3005	Yijiacun	3989	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	3989
+3006	ProtoLalo	3989	kʰɨ²	kʰ ɨ ²	kʰ ɨ ²	3989
+3751	Diaocao	3990	mɔ³³	m ɔ ³³	m ɔ ³³	3990
+3752	Mangdi	3990	mo³³	m o ³³	m o ³³	3990
+3753	Qingyun	3990	ma³³	m a ³³	m a ³³	3990
+3754	Shuizhuping	3990	ma³³	m a ³³	m a ³³	3990
+3755	Xuzhang	3990	mo³³	m o ³³	m o ³³	3990
+3756	Yangliu	3990	ma³³	m a ³³	m a ³³	3990
+3757	Yijiacun	3990	mo³³	m o ³³	m o ³³	3990
+3758	ProtoLalo	3990	ma³	m a ³	m a ³	3990
+2736	Diaocao	4044	pe³³	p e ³³	p e ³³	4044
+2737	Mangdi	4044	pʰin³³	pʰ i n ³³	pʰ i n ³³	4044
+2738	Qingyun	4044	pʰɛm³³	pʰ ɛ m ³³	pʰ ɛ m ³³	4044
+2739	Shuizhuping	4044	pʰɛ⁴⁴	pʰ ɛ ⁴⁴	pʰ ɛ ⁴⁴	4044
+2740	Xuzhang	4044	pʰi³³	pʰ i ³³	pʰ i ³³	4044
+2741	Yangliu	4044	pe⁵⁵	p e ⁵⁵	p e ⁵⁵	4044
+2742	Yijiacun	4044	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	4044
+2743	ProtoLalo	4044	pʰe̠¹	pʰ e̠ ¹	pʰ e̠ ¹	4044
+1639	Diaocao	4086	sɿ³³	s ɿ ³³	s ɿ ³³	4086
+1640	Mangdi	4086	ɕi³³	ɕ i ³³	ɕ i ³³	4086
+1641	Qingyun	4086	ʂəŋ³³	ʂ ə ŋ ³³	ʂ ə ŋ ³³	4086
+1642	Shuizhuping	4086	ʂɛ̃n³³	ʂ ɛ̃ n ³³	ʂ ɛ̃ n ³³	4086
+1643	Xuzhang	4086	ʂʅ³³	ʂ ʅ ³³	ʂ ʅ ³³	4086
+1644	Yangliu	4086	sɿ³³	s ɿ ³³	s ɿ ³³	4086
+1645	Yijiacun	4086	sɿ⁵⁵	s ɿ ⁵⁵	s ɿ ⁵⁵	4086
+1646	ProtoLalo	4086	ʃi̠¹	ʃ i̠ ¹	ʃ i̠ ¹	4086
+1154	Diaocao	4087	nɛ³³	n ɛ ³³	n ɛ ³³	4087
+1155	Mangdi	4087	ni³³	n i ³³	n i ³³	4087
+1156	Xuzhang	4087	ɲi³³	ɲ i ³³	ɲ i ³³	4087
+1157	Yangliu	4087	ni³³	n i ³³	n i ³³	4087
+1158	ProtoLalo	4087	ˀni³	ˀn i ³	ˀn i ³	4087
+450	Mangdi	4139	ɛ²¹	ɛ ²¹	ɛ ²¹	4139
+451	Qingyun	4139	ɛ̤²¹	ɛ̤ ²¹	ɛ̤ ²¹	4139
+452	Shuizhuping	4139	ɛ̃˞²¹	ɛ̃˞ ²¹	ɛ̃˞ ²¹	4139
+453	Xuzhang	4139	ɛ̃˞²¹	ɛ̃˞ ²¹	ɛ̃˞ ²¹	4139
+454	Yangliu	4139	ɛ²¹	ɛ ²¹	ɛ ²¹	4139
+455	Yijiacun	4139	ɛ²⁴	ɛ ²⁴	ɛ ²⁴	4139
+456	ProtoLalo	4139	ɛ²	ɛ ²	ɛ ²	4139
+1283	Diaocao	4191	zei⁴²	z ei ⁴²	z ei ⁴²	4191
+1284	Qingyun	4191	zɛ̠²¹	z ɛ̠ ²¹	z ɛ̠ ²¹	4191
+1285	Shuizhuping	4191	ze⁵³	z e ⁵³	z e ⁵³	4191
+1286	Xuzhang	4191	zɛi³³	z ɛi ³³	z ɛi ³³	4191
+1287	Yangliu	4191	zai⁵⁵	z ai ⁵⁵	z ai ⁵⁵	4191
+1288	Yijiacun	4191	ʝi²⁴	ʝ i ²⁴	ʝ i ²⁴	4191
+1289	ProtoLalo	4191	ze̠³	z e̠ ³	z e̠ ³	4191
+1192	Diaocao	4200	vɤ²⁴	v ɤ ²⁴	v ɤ ²⁴	4200
+1193	Mangdi	4200	pɛ⁵⁵	p ɛ ⁵⁵	p ɛ ⁵⁵	4200
+1194	Qingyun	4200	pʰɛ̠³³	pʰ ɛ̠ ³³	pʰ ɛ̠ ³³	4200
+1195	Xuzhang	4200	pi⁴⁴	p i ⁴⁴	p i ⁴⁴	4200
+1196	ProtoLalo	4200	pʰe̠¹	pʰ e̠ ¹	pʰ e̠ ¹	4200
+3579	Diaocao	4228	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	4228
+3580	Mangdi	4228	xɨ⁵⁵	x ɨ ⁵⁵	x ɨ ⁵⁵	4228
+3581	Qingyun	4228	xɨ⁵⁵	x ɨ ⁵⁵	x ɨ ⁵⁵	4228
+3582	Shuizhuping	4228	xɨ²⁴	x ɨ ²⁴	x ɨ ²⁴	4228
+3583	Xuzhang	4228	xɨ⁴⁵³	x ɨ ⁴⁵³	x ɨ ⁴⁵³	4228
+3584	Yangliu	4228	xɨ³³	x ɨ ³³	x ɨ ³³	4228
+3585	Yijiacun	4228	xɨ²⁴	x ɨ ²⁴	x ɨ ²⁴	4228
+3586	ProtoLalo	4228	xɨ¹	x ɨ ¹	x ɨ ¹	4228
+2081	Diaocao	4254	sɔ⁴²	s ɔ ⁴²	s ɔ ⁴²	4254
+2082	Mangdi	4254	sɑ̠²¹	s ɑ̠ ²¹	s ɑ̠ ²¹	4254
+2083	Qingyun	4254	ʂa̠²¹	ʂ a̠ ²¹	ʂ a̠ ²¹	4254
+2084	Shuizhuping	4254	ʂaʔ⁵³	ʂ a ʔ ⁵³	ʂ a ʔ ⁵³	4254
+2085	Xuzhang	4254	ʂo⁴²	ʂ o ⁴²	ʂ o ⁴²	4254
+2086	Yangliu	4254	saʔ⁵³	s a ʔ ⁵³	s a ʔ ⁵³	4254
+2087	Yijiacun	4254	so̠²¹	s o̠ ²¹	s o̠ ²¹	4254
+2088	ProtoLalo	4254	ʃa̠³	ʃ a̠ ³	ʃ a̠ ³	4254
+1715	Diaocao	4345	bə²⁴	b ə ²⁴	b ə ²⁴	4345
+1716	Mangdi	4345	bɨ⁵⁵	b ɨ ⁵⁵	b ɨ ⁵⁵	4345
+1717	Qingyun	4345	by⁵⁵	b y ⁵⁵	b y ⁵⁵	4345
+1718	Shuizhuping	4345	by²⁴	b y ²⁴	b y ²⁴	4345
+1719	Xuzhang	4345	by²⁴	b y ²⁴	b y ²⁴	4345
+1720	Yangliu	4345	bɨ³³	b ɨ ³³	b ɨ ³³	4345
+1721	Yijiacun	4345	bɨ²⁴	b ɨ ²⁴	b ɨ ²⁴	4345
+1722	ProtoLalo	4345	by¹	b y ¹	b y ¹	4345
+2647	Qingyun	4356	pi⁵⁵	p i ⁵⁵	p i ⁵⁵	4356
+2648	Shuizhuping	4356	pɛ²⁴	p ɛ ²⁴	p ɛ ²⁴	4356
+2649	Yangliu	4356	pai³³	p ai ³³	p ai ³³	4356
+2650	ProtoLalo	4356	pe¹	p e ¹	p e ¹	4356
+979	Mangdi	4387	no²¹	n o ²¹	n o ²¹	4387
+980	Yijiacun	4387	no̠ʔ²¹	n o̠ ʔ ²¹	n o̠ ʔ ²¹	4387
+981	ProtoLalo	4387	na²	n a ²	n a ²	4387
+3007	Diaocao	4403	tʰa²¹	tʰ a ²¹	tʰ a ²¹	4403
+3008	Mangdi	4403	ta²¹	t a ²¹	t a ²¹	4403
+3009	Qingyun	4403	tʃʰa̤²¹	tʃʰ a̤ ²¹	tʃʰ a̤ ²¹	4403
+3010	Shuizhuping	4403	tʰa²¹	tʰ a ²¹	tʰ a ²¹	4403
+3011	Xuzhang	4403	tʰa²¹	tʰ a ²¹	tʰ a ²¹	4403
+3012	Yangliu	4403	tʰa²¹	tʰ a ²¹	tʰ a ²¹	4403
+3013	Yijiacun	4403	tʰa²¹	tʰ a ²¹	tʰ a ²¹	4403
+3014	ProtoLalo	4403	tʰa²	tʰ a ²	tʰ a ²	4403
+306	Diaocao	4412	a⁵⁵	a ⁵⁵	a ⁵⁵	4412
+307	Mangdi	4412	a⁵⁵	a ⁵⁵	a ⁵⁵	4412
+308	Qingyun	4412	a⁵⁵	a ⁵⁵	a ⁵⁵	4412
+309	Shuizhuping	4412	a⁵⁵	a ⁵⁵	a ⁵⁵	4412
+310	Xuzhang	4412	a³⁵	a ³⁵	a ³⁵	4412
+311	Yangliu	4412	a⁵⁵	a ⁵⁵	a ⁵⁵	4412
+312	Yijiacun	4412	a³³	a ³³	a ³³	4412
+313	ProtoLalo	4412	a¹	a ¹	a ¹	4412
+3136	Diaocao	4413	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	4413
+3137	Mangdi	4413	kʰi²¹	kʰ i ²¹	kʰ i ²¹	4413
+3138	Qingyun	4413	kʰa̠i²¹	kʰ a̠i ²¹	kʰ a̠i ²¹	4413
+3139	Shuizhuping	4413	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	4413
+3140	Xuzhang	4413	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	4413
+3141	Yangliu	4413	kʰɛ²¹	kʰ ɛ ²¹	kʰ ɛ ²¹	4413
+3142	Yijiacun	4413	kʰi³¹	kʰ i ³¹	kʰ i ³¹	4413
+3143	ProtoLalo	4413	kʰjɛ²	kʰ j ɛ ²	kʰ j ɛ ²	4413
+1369	Diaocao	4431	a²¹	a ²¹	a ²¹	4431
+1370	Mangdi	4431	a²¹	a ²¹	a ²¹	4431
+1371	Qingyun	4431	a̤²¹	a̤ ²¹	a̤ ²¹	4431
+1372	Shuizhuping	4431	a²¹	a ²¹	a ²¹	4431
+1373	Xuzhang	4431	a²¹	a ²¹	a ²¹	4431
+1374	Yangliu	4431	a²¹	a ²¹	a ²¹	4431
+1375	ProtoLalo	4431	a²	a ²	a ²	4431
+3556	Diaocao	4432	pə⁵⁵	p ə ⁵⁵	p ə ⁵⁵	4432
+3557	Mangdi	4432	pɨ⁵⁵	p ɨ ⁵⁵	p ɨ ⁵⁵	4432
+3558	Qingyun	4432	pʉ⁵⁵	p ʉ ⁵⁵	p ʉ ⁵⁵	4432
+3559	Shuizhuping	4432	pɨ²⁴	p ɨ ²⁴	p ɨ ²⁴	4432
+3560	Xuzhang	4432	pɨ̃ŋ⁴⁵²	p ɨ̃ ŋ ⁴⁵²	p ɨ̃ ŋ ⁴⁵²	4432
+3561	Yijiacun	4432	pɨ²⁴	p ɨ ²⁴	p ɨ ²⁴	4432
+3562	ProtoLalo	4432	pɨ¹	p ɨ ¹	p ɨ ¹	4432
+2874	Diaocao	4433	mə²¹	m ə ²¹	m ə ²¹	4433
+2875	Yijiacun	4433	mwɛ³³	m w ɛ ³³	m w ɛ ³³	4433
+2876	ProtoLalo	4433	mu²	m u ²	m u ²	4433
+66	Diaocao	4452	lɤ²¹	l ɤ ²¹	l ɤ ²¹	4452
+67	Qingyun	4452	ləŋ²¹	l ə ŋ ²¹	l ə ŋ ²¹	4452
+68	Xuzhang	4452	lɤ³¹	l ɤ ³¹	l ɤ ³¹	4452
+69	Yangliu	4452	lɤ²¹	l ɤ ²¹	l ɤ ²¹	4452
+70	ProtoLalo	4452	lu²	l u ²	l u ²	4452
+2607	Diaocao	4463	dɔn²¹	d ɔ n ²¹	d ɔ n ²¹	4463
+2608	Mangdi	4463	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	4463
+2609	Qingyun	4463	dʑɛ̤ŋ²¹	dʑ ɛ̤ ŋ ²¹	dʑ ɛ̤ ŋ ²¹	4463
+2610	Shuizhuping	4463	dʑɛ²¹	dʑ ɛ ²¹	dʑ ɛ ²¹	4463
+2611	Xuzhang	4463	tʰɤ²¹	tʰ ɤ ²¹	tʰ ɤ ²¹	4463
+2612	Yangliu	4463	tɕʰiŋ³³	tɕʰ i ŋ ³³	tɕʰ i ŋ ³³	4463
+2613	Yijiacun	4463	tɕi³³	tɕ i ³³	tɕ i ³³	4463
+2614	ProtoLalo	4463	dʒɛ²	dʒ ɛ ²	dʒ ɛ ²	4463
+767	Diaocao	4465	kʰɛ³³	kʰ ɛ ³³	kʰ ɛ ³³	4465
+768	Qingyun	4465	kʰa³³	kʰ a ³³	kʰ a ³³	4465
+769	Shuizhuping	4465	kʰa³³	kʰ a ³³	kʰ a ³³	4465
+770	Xuzhang	4465	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	4465
+771	Yijiacun	4465	dza⁵⁵	dz a ⁵⁵	dz a ⁵⁵	4465
+772	ProtoLalo	4465	kʰa³	kʰ a ³	kʰ a ³	4465
+1493	Diaocao	450	pu⁴²	p u ⁴²	p u ⁴²	450
+1494	Mangdi	450	pɑ̠²¹	p ɑ̠ ²¹	p ɑ̠ ²¹	450
+1495	Qingyun	450	pa̠²¹	p a̠ ²¹	p a̠ ²¹	450
+1496	Shuizhuping	450	bɨ²¹	b ɨ ²¹	b ɨ ²¹	450
+1497	Xuzhang	450	bɨ²¹	b ɨ ²¹	b ɨ ²¹	450
+1498	Yangliu	450	pa⁵³	p a ⁵³	p a ⁵³	450
+1499	Yijiacun	450	po̠²¹	p o̠ ²¹	p o̠ ²¹	450
+1500	ProtoLalo	450	bɨ²	b ɨ ²	b ɨ ²	450
+194	Shuizhuping	452	la²¹	l a ²¹	l a ²¹	452
+195	Xuzhang	452	la²¹	l a ²¹	l a ²¹	452
+196	ProtoLalo	452	la²	l a ²	l a ²	452
+2924	Diaocao	4593	zɿ²¹	z ɿ ²¹	z ɿ ²¹	4593
+2925	Qingyun	4593	ʐʅ²¹	ʐ ʅ ²¹	ʐ ʅ ²¹	4593
+2926	Shuizhuping	4593	ʐʅ̃n⁵³	ʐ ʅ̃ n ⁵³	ʐ ʅ̃ n ⁵³	4593
+2927	Xuzhang	4593	ʐʅ²¹	ʐ ʅ ²¹	ʐ ʅ ²¹	4593
+2928	Yangliu	4593	zɿ⁴⁵	z ɿ ⁴⁵	z ɿ ⁴⁵	4593
+2929	ProtoLalo	4593	ʒi̠³	ʒ i̠ ³	ʒ i̠ ³	4593
+989	Diaocao	4594	mei³³	m ei ³³	m ei ³³	4594
+990	Mangdi	4594	mɛ³³	m ɛ ³³	m ɛ ³³	4594
+991	Qingyun	4594	ˀmɛ̠³³	ˀm ɛ̠ ³³	ˀm ɛ̠ ³³	4594
+992	Xuzhang	4594	mo³³	m o ³³	m o ³³	4594
+993	Yangliu	4594	m̩⁴³	m̩ ⁴³	m̩ ⁴³	4594
+994	Yijiacun	4594	mə³³	m ə ³³	m ə ³³	4594
+995	ProtoLalo	4594	ˀme̠¹	ˀm e̠ ¹	ˀm e̠ ¹	4594
+1508	Diaocao	4634	da²⁴	d a ²⁴	d a ²⁴	4634
+1509	Mangdi	4634	da⁵⁵	d a ⁵⁵	d a ⁵⁵	4634
+1510	Qingyun	4634	du⁵⁵	d u ⁵⁵	d u ⁵⁵	4634
+1511	Shuizhuping	4634	du²⁴	d u ²⁴	d u ²⁴	4634
+1512	Xuzhang	4634	da²⁴	d a ²⁴	d a ²⁴	4634
+1513	Yangliu	4634	da³³	d a ³³	d a ³³	4634
+1514	Yijiacun	4634	da²⁴	d a ²⁴	d a ²⁴	4634
+1515	ProtoLalo	4634	daŋ¹	d a ŋ ¹	d a ŋ ¹	4634
+1701	Diaocao	4643	ga⁴²	g a ⁴²	g a ⁴²	4643
+1702	Mangdi	4643	tʃu²¹	tʃ u ²¹	tʃ u ²¹	4643
+1703	Xuzhang	4643	ga³³	g a ³³	g a ³³	4643
+1704	Yangliu	4643	ga⁵³	g a ⁵³	g a ⁵³	4643
+1705	Yijiacun	4643	tsu²¹	ts u ²¹	ts u ²¹	4643
+1706	ProtoLalo	4643	ga̠³	g a̠ ³	g a̠ ³	4643
+298	Diaocao	467	la²⁴	l a ²⁴	l a ²⁴	467
+299	Mangdi	467	la⁵⁵	l a ⁵⁵	l a ⁵⁵	467
+300	Qingyun	467	lu⁴⁵	l u ⁴⁵	l u ⁴⁵	467
+301	Shuizhuping	467	lu²⁴	l u ²⁴	l u ²⁴	467
+302	Xuzhang	467	la²⁴	l a ²⁴	l a ²⁴	467
+303	Yangliu	467	lu³³	l u ³³	l u ³³	467
+304	Yijiacun	467	la²⁴	l a ²⁴	l a ²⁴	467
+305	ProtoLalo	467	laŋ¹	l a ŋ ¹	l a ŋ ¹	467
+173	Diaocao	4675	ʝi⁴²	ʝ i ⁴²	ʝ i ⁴²	4675
+174	Shuizhuping	4675	ʝiʔ⁵³	ʝ i ʔ ⁵³	ʝ i ʔ ⁵³	4675
+175	Xuzhang	4675	ʝi̠³³	ʝ i̠ ³³	ʝ i̠ ³³	4675
+176	Yangliu	4675	zai⁵³	z ai ⁵³	z ai ⁵³	4675
+177	Yijiacun	4675	dʑi²⁴	dʑ i ²⁴	dʑ i ²⁴	4675
+178	ProtoLalo	4675	ʒe̠³	ʒ e̠ ³	ʒ e̠ ³	4675
+3735	Diaocao	4684	fɛ³³	f ɛ ³³	f ɛ ³³	4684
+3736	Mangdi	4684	fɛ³³	f ɛ ³³	f ɛ ³³	4684
+3737	Qingyun	4684	fɛ³³	f ɛ ³³	f ɛ ³³	4684
+3738	Shuizhuping	4684	fɛ³³	f ɛ ³³	f ɛ ³³	4684
+3739	Yangliu	4684	fɛ³³	f ɛ ³³	f ɛ ³³	4684
+3740	Yijiacun	4684	fɛ³³	f ɛ ³³	f ɛ ³³	4684
+3741	ProtoLalo	4684	fɛ³	f ɛ ³	f ɛ ³	4684
+2151	Diaocao	4693	lə⁴²	l ə ⁴²	l ə ⁴²	4693
+2152	Mangdi	4693	lɑ̠²¹	l ɑ̠ ²¹	l ɑ̠ ²¹	4693
+2153	Qingyun	4693	lø̠²¹	l ø̠ ²¹	l ø̠ ²¹	4693
+2154	Shuizhuping	4693	løʔ⁵³	l ø ʔ ⁵³	l ø ʔ ⁵³	4693
+2155	Xuzhang	4693	lø̠³³	l ø̠ ³³	l ø̠ ³³	4693
+2156	Yangliu	4693	lə⁵⁵	l ə ⁵⁵	l ə ⁵⁵	4693
+2157	Yijiacun	4693	lə²¹	l ə ²¹	l ə ²¹	4693
+2158	ProtoLalo	4693	ˀly̠³	ˀl y̠ ³	ˀl y̠ ³	4693
+3571	Diaocao	4733	ɔ²⁴	ɔ ²⁴	ɔ ²⁴	4733
+3572	Xuzhang	4733	ã³³	ã ³³	ã ³³	4733
+3573	ProtoLalo	4733	e̠¹	e̠ ¹	e̠ ¹	4733
+1073	Diaocao	4734	a³³	a ³³	a ³³	4734
+1074	Mangdi	4734	a⁵⁵	a ⁵⁵	a ⁵⁵	4734
+1075	Qingyun	4734	a̤²¹	a̤ ²¹	a̤ ²¹	4734
+1076	Shuizhuping	4734	ɛ⁴⁴	ɛ ⁴⁴	ɛ ⁴⁴	4734
+1077	Xuzhang	4734	ã³³	ã ³³	ã ³³	4734
+1078	Yijiacun	4734	a²⁴	a ²⁴	a ²⁴	4734
+1079	ProtoLalo	4734	a¹	a ¹	a ¹	4734
+2541	Xuzhang	477	ɲa⁴⁵³	ɲ a ⁴⁵³	ɲ a ⁴⁵³	477
+2542	Yangliu	477	ɲo³³	ɲ o ³³	ɲ o ³³	477
+2543	ProtoLalo	477	ɲa¹	ɲ a ¹	ɲ a ¹	477
+3540	Diaocao	4833	a⁵⁵	a ⁵⁵	a ⁵⁵	4833
+3541	Mangdi	4833	a⁵⁵	a ⁵⁵	a ⁵⁵	4833
+3542	Qingyun	4833	a⁵⁵	a ⁵⁵	a ⁵⁵	4833
+3543	Xuzhang	4833	a⁴⁵	a ⁴⁵	a ⁴⁵	4833
+3544	Yijiacun	4833	a²⁴	a ²⁴	a ²⁴	4833
+3545	ProtoLalo	4833	a¹	a ¹	a ¹	4833
+235	Diaocao	4834	dzə²⁴	dz ə ²⁴	dz ə ²⁴	4834
+236	Mangdi	4834	dʒə⁵⁵	dʒ ə ⁵⁵	dʒ ə ⁵⁵	4834
+237	Qingyun	4834	dzy⁵⁵	dz y ⁵⁵	dz y ⁵⁵	4834
+238	Shuizhuping	4834	dʑy²⁴	dʑ y ²⁴	dʑ y ²⁴	4834
+239	Xuzhang	4834	dzy³³	dz y ³³	dz y ³³	4834
+240	Yangliu	4834	tsə³³	ts ə ³³	ts ə ³³	4834
+241	Yijiacun	4834	dzə²⁴	dz ə ²⁴	dz ə ²⁴	4834
+242	ProtoLalo	4834	dzy¹	dz y ¹	dz y ¹	4834
+742	Diaocao	4854	na²¹	n a ²¹	n a ²¹	4854
+743	Mangdi	4854	no²¹	n o ²¹	n o ²¹	4854
+744	Qingyun	4854	ˀna̤²¹	ˀn a̤ ²¹	ˀn a̤ ²¹	4854
+745	Shuizhuping	4854	na²¹	n a ²¹	n a ²¹	4854
+746	Xuzhang	4854	na²¹	n a ²¹	n a ²¹	4854
+747	Yangliu	4854	na²¹	n a ²¹	n a ²¹	4854
+748	Yijiacun	4854	na²¹	n a ²¹	n a ²¹	4854
+749	ProtoLalo	4854	ˀna²	ˀn a ²	ˀn a ²	4854
+1524	Diaocao	4855	pa⁵⁵	p a ⁵⁵	p a ⁵⁵	4855
+1525	Mangdi	4855	pa⁵⁵	p a ⁵⁵	p a ⁵⁵	4855
+1526	Qingyun	4855	pu⁵⁵	p u ⁵⁵	p u ⁵⁵	4855
+1527	Shuizhuping	4855	pu⁴⁴	p u ⁴⁴	p u ⁴⁴	4855
+1528	Xuzhang	4855	pa⁵⁵	p a ⁵⁵	p a ⁵⁵	4855
+1529	Yangliu	4855	pu³³	p u ³³	p u ³³	4855
+1530	Yijiacun	4855	pa²⁴	p a ²⁴	p a ²⁴	4855
+1531	ProtoLalo	4855	paŋ¹	p a ŋ ¹	p a ŋ ¹	4855
+589	Diaocao	486	sɿ⁵⁵	s ɿ ⁵⁵	s ɿ ⁵⁵	486
+590	Mangdi	486	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	486
+591	Qingyun	486	ʂʅ⁵⁵	ʂ ʅ ⁵⁵	ʂ ʅ ⁵⁵	486
+592	Shuizhuping	486	ʂʅ²⁴	ʂ ʅ ²⁴	ʂ ʅ ²⁴	486
+593	Xuzhang	486	ʂʅ⁴⁵³	ʂ ʅ ⁴⁵³	ʂ ʅ ⁴⁵³	486
+594	Yangliu	486	sɿ³³	s ɿ ³³	s ɿ ³³	486
+595	Yijiacun	486	sɿ²⁴	s ɿ ²⁴	s ɿ ²⁴	486
+596	ProtoLalo	486	ʃi¹	ʃ i ¹	ʃ i ¹	486
+3896	Diaocao	4885	nei⁴²	n ei ⁴²	n ei ⁴²	4885
+3897	Mangdi	4885	nɛ̠²¹	n ɛ̠ ²¹	n ɛ̠ ²¹	4885
+3898	Qingyun	4885	nɛ̠²¹	n ɛ̠ ²¹	n ɛ̠ ²¹	4885
+3899	Shuizhuping	4885	nɛʔ⁵³	n ɛ ʔ ⁵³	n ɛ ʔ ⁵³	4885
+3900	Xuzhang	4885	nɛi³³	n ɛi ³³	n ɛi ³³	4885
+3901	Yangliu	4885	nai⁵³	n ai ⁵³	n ai ⁵³	4885
+3902	Yijiacun	4885	ni²¹	n i ²¹	n i ²¹	4885
+3903	ProtoLalo	4885	ne̠³	n e̠ ³	n e̠ ³	4885
+1225	Diaocao	4895	na²¹	n a ²¹	n a ²¹	4895
+1226	Mangdi	4895	nu²¹	n u ²¹	n u ²¹	4895
+1227	Qingyun	4895	ˀnɛo⁵³	ˀn ɛo ⁵³	ˀn ɛo ⁵³	4895
+1228	Shuizhuping	4895	na³²	n a ³²	n a ³²	4895
+1229	Xuzhang	4895	na²¹	n a ²¹	n a ²¹	4895
+1230	Yangliu	4895	na³³	n a ³³	n a ³³	4895
+1231	Yijiacun	4895	na³³	n a ³³	n a ³³	4895
+1232	ProtoLalo	4895	ˀna²	ˀn a ²	ˀn a ²	4895
+1614	Diaocao	4896	ba²¹	b a ²¹	b a ²¹	4896
+1615	Xuzhang	4896	ba²¹	b a ²¹	b a ²¹	4896
+1616	Yijiacun	4896	vaŋ²¹	v a ŋ ²¹	v a ŋ ²¹	4896
+1617	ProtoLalo	4896	vaŋ²	v a ŋ ²	v a ŋ ²	4896
+3806	Diaocao	4911	mi²⁴	m i ²⁴	m i ²⁴	4911
+3807	Mangdi	4911	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	4911
+3808	Qingyun	4911	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	4911
+3809	Shuizhuping	4911	mi²⁴	m i ²⁴	m i ²⁴	4911
+3810	Yijiacun	4911	mi²⁴	m i ²⁴	m i ²⁴	4911
+3811	ProtoLalo	4911	ˀmi¹	ˀm i ¹	ˀm i ¹	4911
+350	Shuizhuping	4914	di²¹	d i ²¹	d i ²¹	4914
+351	Xuzhang	4914	di²¹	d i ²¹	d i ²¹	4914
+352	Yangliu	4914	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	4914
+353	Yijiacun	4914	kʰa²¹	kʰ a ²¹	kʰ a ²¹	4914
+354	ProtoLalo	4914	di²	d i ²	d i ²	4914
+509	Diaocao	4967	lɛ²⁴	l ɛ ²⁴	l ɛ ²⁴	4967
+510	Mangdi	4967	lɛ⁵⁵	l ɛ ⁵⁵	l ɛ ⁵⁵	4967
+511	Qingyun	4967	lɛ⁴⁵	l ɛ ⁴⁵	l ɛ ⁴⁵	4967
+512	Shuizhuping	4967	lɛ²⁴	l ɛ ²⁴	l ɛ ²⁴	4967
+513	Xuzhang	4967	lɛ²⁴	l ɛ ²⁴	l ɛ ²⁴	4967
+514	Yangliu	4967	lɛ³³	l ɛ ³³	l ɛ ³³	4967
+515	ProtoLalo	4967	lɛ¹	l ɛ ¹	l ɛ ¹	4967
+3615	Diaocao	4986	fɤ³³	f ɤ ³³	f ɤ ³³	4986
+3616	Mangdi	4986	fu³³	f u ³³	f u ³³	4986
+3617	Xuzhang	4986	fɤ³³	f ɤ ³³	f ɤ ³³	4986
+3618	ProtoLalo	4986	fu³	f u ³	f u ³	4986
+1269	Diaocao	4999	zɿ³³	z ɿ ³³	z ɿ ³³	4999
+1270	Qingyun	4999	zɿ³³	z ɿ ³³	z ɿ ³³	4999
+1271	Shuizhuping	4999	zɿ³³	z ɿ ³³	z ɿ ³³	4999
+1272	Xuzhang	4999	zɿ³³	z ɿ ³³	z ɿ ³³	4999
+1273	Yangliu	4999	tsɿ³³	ts ɿ ³³	ts ɿ ³³	4999
+1274	ProtoLalo	4999	zi³	z i ³	z i ³	4999
+284	Diaocao	5041	dzɿ³³	dz ɿ ³³	dz ɿ ³³	5041
+285	Shuizhuping	5041	tsɿ³³	ts ɿ ³³	ts ɿ ³³	5041
+286	Xuzhang	5041	tsɿ³²	ts ɿ ³²	ts ɿ ³²	5041
+287	Yangliu	5041	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	5041
+288	Yijiacun	5041	so²⁴	s o ²⁴	s o ²⁴	5041
+289	ProtoLalo	5041	tsi̠³	ts i̠ ³	ts i̠ ³	5041
+1089	Diaocao	5081	tsʰei⁵⁵	tsʰ ei ⁵⁵	tsʰ ei ⁵⁵	5081
+1090	Mangdi	5081	tɕʰɛ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵	5081
+1091	Qingyun	5081	tsʰi⁵⁵	tsʰ i ⁵⁵	tsʰ i ⁵⁵	5081
+1092	Shuizhuping	5081	tsʰe²⁴	tsʰ e ²⁴	tsʰ e ²⁴	5081
+1093	Xuzhang	5081	tɕʰi⁴⁵³	tɕʰ i ⁴⁵³	tɕʰ i ⁴⁵³	5081
+1094	Yangliu	5081	tsʰei³³	tsʰ ei ³³	tsʰ ei ³³	5081
+1095	Yijiacun	5081	tɕʰɛ⁵⁵	tɕʰ ɛ ⁵⁵	tɕʰ ɛ ⁵⁵	5081
+1096	ProtoLalo	5081	tsʰe¹	tsʰ e ¹	tsʰ e ¹	5081
+1934	Diaocao	5082	ti²¹	t i ²¹	t i ²¹	5082
+1935	Mangdi	5082	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	5082
+1936	Qingyun	5082	ti̤²¹	t i̤ ²¹	t i̤ ²¹	5082
+1937	Shuizhuping	5082	tʰi⁵³	tʰ i ⁵³	tʰ i ⁵³	5082
+1938	Xuzhang	5082	tʰi³³	tʰ i ³³	tʰ i ³³	5082
+1939	Yangliu	5082	tɕʰi⁵³	tɕʰ i ⁵³	tɕʰ i ⁵³	5082
+1940	Yijiacun	5082	tʰi²¹	tʰ i ²¹	tʰ i ²¹	5082
+1941	ProtoLalo	5082	ti̠³	t i̠ ³	t i̠ ³	5082
+218	Diaocao	5144	də²⁴	d ə ²⁴	d ə ²⁴	5144
+219	Qingyun	5144	dy̤²¹	d y̤ ²¹	d y̤ ²¹	5144
+220	Shuizhuping	5144	dy²¹	d y ²¹	d y ²¹	5144
+221	Xuzhang	5144	dy²¹	d y ²¹	d y ²¹	5144
+222	Yangliu	5144	də²¹	d ə ²¹	d ə ²¹	5144
+223	Yijiacun	5144	dɨ²¹	d ɨ ²¹	d ɨ ²¹	5144
+224	ProtoLalo	5144	dy²	d y ²	d y ²	5144
+2908	Diaocao	5176	pɔ⁵⁵	p ɔ ⁵⁵	p ɔ ⁵⁵	5176
+2909	Mangdi	5176	po⁵⁵	p o ⁵⁵	p o ⁵⁵	5176
+2910	Qingyun	5176	pa⁵⁵	p a ⁵⁵	p a ⁵⁵	5176
+2911	Shuizhuping	5176	pa²⁴	p a ²⁴	p a ²⁴	5176
+2912	Xuzhang	5176	po⁴⁵³	p o ⁴⁵³	p o ⁴⁵³	5176
+2913	Yangliu	5176	pa³³	p a ³³	p a ³³	5176
+2914	Yijiacun	5176	po²⁴	p o ²⁴	p o ²⁴	5176
+2915	ProtoLalo	5176	pa¹	p a ¹	p a ¹	5176
+138	Diaocao	5186	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	5186
+139	Mangdi	5186	kʰi²¹	kʰ i ²¹	kʰ i ²¹	5186
+140	Shuizhuping	5186	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	5186
+141	Xuzhang	5186	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	5186
+142	Yangliu	5186	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	5186
+143	Yijiacun	5186	kʰi²¹	kʰ i ²¹	kʰ i ²¹	5186
+144	ProtoLalo	5186	kʰji²	kʰ j i ²	kʰ j i ²	5186
+273	Mangdi	5252	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	5252
+274	Shuizhuping	5252	sɛ²¹	s ɛ ²¹	s ɛ ²¹	5252
+275	Xuzhang	5252	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	5252
+276	Yijiacun	5252	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	5252
+277	ProtoLalo	5252	sɛ²	s ɛ ²	s ɛ ²	5252
+3100	Diaocao	5295	mei³³	m ei ³³	m ei ³³	5295
+3101	Mangdi	5295	mɛ³³	m ɛ ³³	m ɛ ³³	5295
+3102	Qingyun	5295	ˀmɛ̠³³	ˀm ɛ̠ ³³	ˀm ɛ̠ ³³	5295
+3103	Shuizhuping	5295	me⁴⁴	m e ⁴⁴	m e ⁴⁴	5295
+3104	Xuzhang	5295	mɛi³³	m ɛi ³³	m ɛi ³³	5295
+3105	ProtoLalo	5295	ˀmje̠¹	ˀm j e̠ ¹	ˀm j e̠ ¹	5295
+3791	Diaocao	5348	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	5348
+3792	Mangdi	5348	tə²¹	t ə ²¹	t ə ²¹	5348
+3793	Qingyun	5348	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	5348
+3794	Shuizhuping	5348	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	5348
+3795	Xuzhang	5348	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	5348
+3796	Yangliu	5348	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	5348
+3797	ProtoLalo	5348	tsʰɿ²	tsʰ ɿ ²	tsʰ ɿ ²	5348
+1265	Diaocao	5349	bi²¹	b i ²¹	b i ²¹	5349
+1266	Mangdi	5349	vi²¹	v i ²¹	v i ²¹	5349
+1267	Yijiacun	5349	bɨ²¹	b ɨ ²¹	b ɨ ²¹	5349
+1268	ProtoLalo	5349	bjo²	b j o ²	b j o ²	5349
+584	Diaocao	5370	ji²⁴	j i ²⁴	j i ²⁴	5370
+585	Mangdi	5370	mɛ̠³³	m ɛ̠ ³³	m ɛ̠ ³³	5370
+586	Shuizhuping	5370	my⁴⁴	m y ⁴⁴	m y ⁴⁴	5370
+587	Yangliu	5370	məŋ⁵³	m ə ŋ ⁵³	m ə ŋ ⁵³	5370
+588	ProtoLalo	5370	ˀmjy̠¹	ˀm j y̠ ¹	ˀm j y̠ ¹	5370
+897	Diaocao	5400	bɔ²¹	b ɔ ²¹	b ɔ ²¹	5400
+898	Mangdi	5400	bə²¹	b ə ²¹	b ə ²¹	5400
+899	Shuizhuping	5400	ba²¹	b a ²¹	b a ²¹	5400
+900	ProtoLalo	5400	ba²	b a ²	b a ²	5400
+417	Diaocao	5416	ta⁵⁵	t a ⁵⁵	t a ⁵⁵	5416
+418	Qingyun	5416	ti̤²¹	t i̤ ²¹	t i̤ ²¹	5416
+419	Shuizhuping	5416	ta⁴⁴	t a ⁴⁴	t a ⁴⁴	5416
+420	Xuzhang	5416	ta⁵⁵	t a ⁵⁵	t a ⁵⁵	5416
+421	Yangliu	5416	ta⁵⁵	t a ⁵⁵	t a ⁵⁵	5416
+422	ProtoLalo	5416	ta⁵⁵	t a ⁵⁵	t a ⁵⁵	5416
+213	Mangdi	5456	tɕi³³	tɕ i ³³	tɕ i ³³	5456
+214	Qingyun	5456	ku³³	k u ³³	k u ³³	5456
+215	Shuizhuping	5456	ku³³	k u ³³	k u ³³	5456
+216	Yangliu	5456	ku³³	k u ³³	k u ³³	5456
+217	ProtoLalo	5456	ku³³	k u ³³	k u ³³	5456
+1958	Qingyun	5457	ma³³	m a ³³	m a ³³	5457
+1959	Shuizhuping	5457	ma³³	m a ³³	m a ³³	5457
+1960	Yangliu	5457	ma³³	m a ³³	m a ³³	5457
+1961	Yijiacun	5457	mo³³	m o ³³	m o ³³	5457
+1962	ProtoLalo	5457	ma³³	m a ³³	m a ³³	5457
+2159	Diaocao	5472	a⁵⁵	a ⁵⁵	a ⁵⁵	5472
+2160	Mangdi	5472	a⁵⁵	a ⁵⁵	a ⁵⁵	5472
+2161	Qingyun	5472	a⁵⁵	a ⁵⁵	a ⁵⁵	5472
+2162	Shuizhuping	5472	a⁴⁴	a ⁴⁴	a ⁴⁴	5472
+2163	Xuzhang	5472	a⁴⁴	a ⁴⁴	a ⁴⁴	5472
+2164	Yangliu	5472	a⁵⁵	a ⁵⁵	a ⁵⁵	5472
+2165	Yijiacun	5472	a²¹	a ²¹	a ²¹	5472
+2166	ProtoLalo	5472	a¹	a ¹	a ¹	5472
+2466	Diaocao	5473	ʝi³³	ʝ i ³³	ʝ i ³³	5473
+2467	Qingyun	5473	ʝi²¹	ʝ i ²¹	ʝ i ²¹	5473
+2468	Xuzhang	5473	ʝi³³	ʝ i ³³	ʝ i ³³	5473
+2469	Yangliu	5473	ʝei³³	ʝ ei ³³	ʝ ei ³³	5473
+2470	ProtoLalo	5473	ʒe³	ʒ e ³	ʒ e ³	5473
+461	Diaocao	5489	a²¹	a ²¹	a ²¹	5489
+462	Mangdi	5489	a²¹	a ²¹	a ²¹	5489
+463	Qingyun	5489	a⁵⁵	a ⁵⁵	a ⁵⁵	5489
+464	Shuizhuping	5489	a²¹	a ²¹	a ²¹	5489
+465	Xuzhang	5489	a²¹	a ²¹	a ²¹	5489
+466	Yangliu	5489	a²¹	a ²¹	a ²¹	5489
+467	Yijiacun	5489	a²⁴	a ²⁴	a ²⁴	5489
+468	ProtoLalo	5489	a²	a ²	a ²	5489
+3237	Diaocao	5506	a⁵⁵	a ⁵⁵	a ⁵⁵	5506
+3238	Mangdi	5506	a⁵⁵	a ⁵⁵	a ⁵⁵	5506
+3239	Qingyun	5506	a⁵⁵	a ⁵⁵	a ⁵⁵	5506
+3240	Shuizhuping	5506	a⁴⁴	a ⁴⁴	a ⁴⁴	5506
+3241	Xuzhang	5506	a³³	a ³³	a ³³	5506
+3242	Yangliu	5506	a⁵⁵	a ⁵⁵	a ⁵⁵	5506
+3243	Yijiacun	5506	a²⁴	a ²⁴	a ²⁴	5506
+3244	ProtoLalo	5506	a²	a ²	a ²	5506
+1049	Diaocao	5507	nai³³	n ai ³³	n ai ³³	5507
+1050	Mangdi	5507	nai²¹	n ai ²¹	n ai ²¹	5507
+1051	Qingyun	5507	ɲi³³	ɲ i ³³	ɲ i ³³	5507
+1052	Shuizhuping	5507	nei³³	n ei ³³	n ei ³³	5507
+1053	Xuzhang	5507	nɛi³³	n ɛi ³³	n ɛi ³³	5507
+1054	Yangliu	5507	nai³³	n ai ³³	n ai ³³	5507
+1055	ProtoLalo	5507	ne³	n e ³	n e ³	5507
+1097	Diaocao	5524	lu²¹	l u ²¹	l u ²¹	5524
+1098	Mangdi	5524	lɑ²¹	l ɑ ²¹	l ɑ ²¹	5524
+1099	Qingyun	5524	la̤²¹	l a̤ ²¹	l a̤ ²¹	5524
+1100	Shuizhuping	5524	la²¹	l a ²¹	l a ²¹	5524
+1101	Xuzhang	5524	lo²¹	l o ²¹	l o ²¹	5524
+1102	Yangliu	5524	la²¹	l a ²¹	l a ²¹	5524
+1103	ProtoLalo	5524	la²	l a ²	l a ²	5524
+1516	Diaocao	5551	tsu⁴²	ts u ⁴²	ts u ⁴²	5551
+1517	Mangdi	5551	tsɑ²¹	ts ɑ ²¹	ts ɑ ²¹	5551
+1518	Qingyun	5551	dza̤²¹	dz a̤ ²¹	dz a̤ ²¹	5551
+1519	Shuizhuping	5551	ʈʂa⁵³	ʈʂ a ⁵³	ʈʂ a ⁵³	5551
+1520	Xuzhang	5551	ʈʂo³³	ʈʂ o ³³	ʈʂ o ³³	5551
+1521	Yangliu	5551	tsa⁵³	ts a ⁵³	ts a ⁵³	5551
+1522	Yijiacun	5551	tswɛ̠²¹	ts w ɛ̠ ²¹	ts w ɛ̠ ²¹	5551
+1523	ProtoLalo	5551	tʃa̠³	tʃ a̠ ³	tʃ a̠ ³	5551
+1803	Diaocao	556	tʰɤ⁵⁵	tʰ ɤ ⁵⁵	tʰ ɤ ⁵⁵	556
+1804	Mangdi	556	tʰu⁵⁵	tʰ u ⁵⁵	tʰ u ⁵⁵	556
+1805	Qingyun	556	tʰə⁵⁵	tʰ ə ⁵⁵	tʰ ə ⁵⁵	556
+1806	Xuzhang	556	tʰɤ⁴⁵³	tʰ ɤ ⁴⁵³	tʰ ɤ ⁴⁵³	556
+1807	Yangliu	556	tʰo³³	tʰ o ³³	tʰ o ³³	556
+1808	ProtoLalo	556	tʰu¹	tʰ u ¹	tʰ u ¹	556
+2000	Diaocao	5573	zɔ³³	z ɔ ³³	z ɔ ³³	5573
+2001	Shuizhuping	5573	za²¹	z a ²¹	z a ²¹	5573
+2002	Xuzhang	5573	za²¹	z a ²¹	z a ²¹	5573
+2003	Yangliu	5573	za²¹	z a ²¹	z a ²¹	5573
+2004	Yijiacun	5573	zɿ³³	z ɿ ³³	z ɿ ³³	5573
+2005	ProtoLalo	5573	za²	z a ²	z a ²	5573
+343	Diaocao	5574	mɛ²¹	m ɛ ²¹	m ɛ ²¹	5574
+344	Qingyun	5574	ma̠²¹	m a̠ ²¹	m a̠ ²¹	5574
+345	Shuizhuping	5574	mɛ²¹	m ɛ ²¹	m ɛ ²¹	5574
+346	Xuzhang	5574	mɛ²¹	m ɛ ²¹	m ɛ ²¹	5574
+347	Yangliu	5574	mɛ²¹	m ɛ ²¹	m ɛ ²¹	5574
+348	Yijiacun	5574	mɨ³³	m ɨ ³³	m ɨ ³³	5574
+349	ProtoLalo	5574	mɛ²	m ɛ ²	m ɛ ²	5574
+3641	Diaocao	5611	ja³³	j a ³³	j a ³³	5611
+3642	Mangdi	5611	jɛ³³	j ɛ ³³	j ɛ ³³	5611
+3643	Xuzhang	5611	ja³³	j a ³³	j a ³³	5611
+3644	Yangliu	5611	ja²¹	j a ²¹	j a ²¹	5611
+3645	ProtoLalo	5611	jaŋ²	j a ŋ ²	j a ŋ ²	5611
+2778	Diaocao	5629	ka⁵⁵	k a ⁵⁵	k a ⁵⁵	5629
+2779	Mangdi	5629	kʰə⁵⁵	kʰ ə ⁵⁵	kʰ ə ⁵⁵	5629
+2780	Qingyun	5629	kʰy⁵⁵	kʰ y ⁵⁵	kʰ y ⁵⁵	5629
+2781	Shuizhuping	5629	kʰu⁴⁴	kʰ u ⁴⁴	kʰ u ⁴⁴	5629
+2782	Xuzhang	5629	kʰu³⁵	kʰ u ³⁵	kʰ u ³⁵	5629
+2783	Yijiacun	5629	kɨ²⁴	k ɨ ²⁴	k ɨ ²⁴	5629
+2784	ProtoLalo	5629	kʰjy¹	kʰ j y ¹	kʰ j y ¹	5629
+3377	Diaocao	5644	dɔ²⁴	d ɔ ²⁴	d ɔ ²⁴	5644
+3378	Mangdi	5644	da⁵⁵	d a ⁵⁵	d a ⁵⁵	5644
+3379	Qingyun	5644	da⁵⁵	d a ⁵⁵	d a ⁵⁵	5644
+3380	Shuizhuping	5644	da²⁴	d a ²⁴	d a ²⁴	5644
+3381	Xuzhang	5644	dy²⁴	d y ²⁴	d y ²⁴	5644
+3382	Yangliu	5644	da³³	d a ³³	d a ³³	5644
+3383	Yijiacun	5644	do²⁴	d o ²⁴	d o ²⁴	5644
+3384	ProtoLalo	5644	da¹	d a ¹	d a ¹	5644
+2250	Mangdi	5646	wo²¹	w o ²¹	w o ²¹	5646
+2251	Yijiacun	5646	va²¹	v a ²¹	v a ²¹	5646
+2252	ProtoLalo	5646	vaŋ²	v a ŋ ²	v a ŋ ²	5646
+170	Qingyun	566	ta³³	t a ³³	t a ³³	566
+171	Shuizhuping	566	ta³³	t a ³³	t a ³³	566
+172	ProtoLalo	566	ta³	t a ³	t a ³	566
+1894	Diaocao	5674	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	5674
+1895	Mangdi	5674	ni²¹	n i ²¹	n i ²¹	5674
+1896	Qingyun	5674	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	5674
+1897	Shuizhuping	5674	an⁵¹	a n ⁵¹	a n ⁵¹	5674
+1898	Xuzhang	5674	ɲi²¹	ɲ i ²¹	ɲ i ²¹	5674
+1899	Yangliu	5674	ni⁵³	n i ⁵³	n i ⁵³	5674
+1900	Yijiacun	5674	ni²¹	n i ²¹	n i ²¹	5674
+1901	ProtoLalo	5674	ni²	n i ²	n i ²	5674
+2651	Mangdi	5675	a⁵⁵	a ⁵⁵	a ⁵⁵	5675
+2652	Qingyun	5675	a⁵⁵	a ⁵⁵	a ⁵⁵	5675
+2653	Xuzhang	5675	a³⁵	a ³⁵	a ³⁵	5675
+2654	Yangliu	5675	a⁴⁵	a ⁴⁵	a ⁴⁵	5675
+2655	Yijiacun	5675	a²⁴	a ²⁴	a ²⁴	5675
+2656	ProtoLalo	5675	a¹	a ¹	a ¹	5675
+942	Shuizhuping	5676	ʂɛ²⁴	ʂ ɛ ²⁴	ʂ ɛ ²⁴	5676
+943	Xuzhang	5676	ʂɛ⁵³	ʂ ɛ ⁵³	ʂ ɛ ⁵³	5676
+944	Yangliu	5676	sɛ³³	s ɛ ³³	s ɛ ³³	5676
+945	ProtoLalo	5676	ʃɛ¹	ʃ ɛ ¹	ʃ ɛ ¹	5676
+3473	Diaocao	5694	tɛ⁵⁵	t ɛ ⁵⁵	t ɛ ⁵⁵	5694
+3474	Mangdi	5694	dɛ⁵⁵	d ɛ ⁵⁵	d ɛ ⁵⁵	5694
+3475	Qingyun	5694	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	5694
+3476	Shuizhuping	5694	ti²⁴	t i ²⁴	t i ²⁴	5694
+3477	Xuzhang	5694	di²⁴	d i ²⁴	d i ²⁴	5694
+3478	Yangliu	5694	ti³³	t i ³³	t i ³³	5694
+3479	Yijiacun	5694	dɛ³³	d ɛ ³³	d ɛ ³³	5694
+3480	ProtoLalo	5694	de¹	d e ¹	d e ¹	5694
+2850	Diaocao	5730	m̩²¹	m̩ ²¹	m̩ ²¹	5730
+2851	Qingyun	5730	m̩²¹	m̩ ²¹	m̩ ²¹	5730
+2852	Shuizhuping	5730	m̩²¹	m̩ ²¹	m̩ ²¹	5730
+2853	Xuzhang	5730	m̩²¹	m̩ ²¹	m̩ ²¹	5730
+2854	Yangliu	5730	m̩²¹	m̩ ²¹	m̩ ²¹	5730
+2855	ProtoLalo	5730	m̩²	m̩ ²	m̩ ²	5730
+1745	Diaocao	5758	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	5758
+1746	Mangdi	5758	ni⁵⁵	n i ⁵⁵	n i ⁵⁵	5758
+1747	Qingyun	5758	ˀni⁵⁵	ˀn i ⁵⁵	ˀn i ⁵⁵	5758
+1748	Yijiacun	5758	ni²⁴	n i ²⁴	n i ²⁴	5758
+1749	ProtoLalo	5758	ˀni¹	ˀn i ¹	ˀn i ¹	5758
+203	Diaocao	5774	lei⁴²	l ei ⁴²	l ei ⁴²	5774
+204	Mangdi	5774	li²¹	l i ²¹	l i ²¹	5774
+205	Qingyun	5774	lɛ̠²¹	l ɛ̠ ²¹	l ɛ̠ ²¹	5774
+206	Shuizhuping	5774	lɛʔ⁵⁵	l ɛ ʔ ⁵⁵	l ɛ ʔ ⁵⁵	5774
+207	Xuzhang	5774	lɛi³³	l ɛi ³³	l ɛi ³³	5774
+208	Yangliu	5774	lei⁵⁵	l ei ⁵⁵	l ei ⁵⁵	5774
+209	ProtoLalo	5774	le̠³	l e̠ ³	l e̠ ³	5774
+1963	Diaocao	5777	sɛ²¹	s ɛ ²¹	s ɛ ²¹	5777
+1964	Mangdi	5777	sɛ²¹	s ɛ ²¹	s ɛ ²¹	5777
+1965	Qingyun	5777	sɛ̤²¹	s ɛ̤ ²¹	s ɛ̤ ²¹	5777
+1966	Shuizhuping	5777	sɛ²¹	s ɛ ²¹	s ɛ ²¹	5777
+1967	Xuzhang	5777	sa²¹	s a ²¹	s a ²¹	5777
+1968	Yangliu	5777	sɛ²¹	s ɛ ²¹	s ɛ ²¹	5777
+1969	Yijiacun	5777	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	5777
+1970	ProtoLalo	5777	sɛ²	s ɛ ²	s ɛ ²	5777
+3762	Diaocao	5813	dzei²⁴	dz ei ²⁴	dz ei ²⁴	5813
+3763	Qingyun	5813	dzɿ⁵⁵	dz ɿ ⁵⁵	dz ɿ ⁵⁵	5813
+3764	Shuizhuping	5813	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	5813
+3765	Xuzhang	5813	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	5813
+3766	Yangliu	5813	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	5813
+3767	ProtoLalo	5813	dze¹	dz e ¹	dz e ¹	5813
+654	Diaocao	582	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	582
+655	Qingyun	582	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	582
+656	Shuizhuping	582	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	582
+657	ProtoLalo	582	tsʰi¹	tsʰ i ¹	tsʰ i ¹	582
+1914	Diaocao	5830	a⁵⁵	a ⁵⁵	a ⁵⁵	5830
+1915	Mangdi	5830	a⁵⁵	a ⁵⁵	a ⁵⁵	5830
+1916	Qingyun	5830	a⁵⁵	a ⁵⁵	a ⁵⁵	5830
+1917	Shuizhuping	5830	a⁴⁴	a ⁴⁴	a ⁴⁴	5830
+1918	Xuzhang	5830	a³³	a ³³	a ³³	5830
+1919	Yangliu	5830	a⁵⁵	a ⁵⁵	a ⁵⁵	5830
+1920	Yijiacun	5830	a²⁴	a ²⁴	a ²⁴	5830
+1921	ProtoLalo	5830	a¹	a ¹	a ¹	5830
+249	Diaocao	5847	a⁵⁵	a ⁵⁵	a ⁵⁵	5847
+250	Mangdi	5847	a⁵⁵	a ⁵⁵	a ⁵⁵	5847
+251	Qingyun	5847	a⁵⁵	a ⁵⁵	a ⁵⁵	5847
+252	Shuizhuping	5847	a⁴⁴	a ⁴⁴	a ⁴⁴	5847
+253	Xuzhang	5847	a³³	a ³³	a ³³	5847
+254	Yangliu	5847	a⁴⁴	a ⁴⁴	a ⁴⁴	5847
+255	Yijiacun	5847	a²⁴	a ²⁴	a ²⁴	5847
+256	ProtoLalo	5847	a¹	a ¹	a ¹	5847
+597	Diaocao	5875	ɕi³³	ɕ i ³³	ɕ i ³³	5875
+598	Mangdi	5875	ɕi³³	ɕ i ³³	ɕ i ³³	5875
+599	Shuizhuping	5875	sɿ⁴⁴	s ɿ ⁴⁴	s ɿ ⁴⁴	5875
+600	Xuzhang	5875	sɿ⁴⁵³	s ɿ ⁴⁵³	s ɿ ⁴⁵³	5875
+601	Yangliu	5875	sɿ⁵³	s ɿ ⁵³	s ɿ ⁵³	5875
+602	Yijiacun	5875	ɕi̠³³	ɕ i̠ ³³	ɕ i̠ ³³	5875
+603	ProtoLalo	5875	si̠¹	s i̠ ¹	s i̠ ¹	5875
+2840	Mangdi	5897	nə⁵⁵	n ə ⁵⁵	n ə ⁵⁵	5897
+2841	Qingyun	5897	ny⁵⁵	n y ⁵⁵	n y ⁵⁵	5897
+2842	Shuizhuping	5897	ny²⁴	n y ²⁴	n y ²⁴	5897
+2843	Xuzhang	5897	ny²⁴	n y ²⁴	n y ²⁴	5897
+2844	Yangliu	5897	nə³³	n ə ³³	n ə ³³	5897
+2845	Yijiacun	5897	ni²⁴	n i ²⁴	n i ²⁴	5897
+2846	ProtoLalo	5897	ny¹	n y ¹	n y ¹	5897
+1174	Diaocao	5921	a⁵⁵	a ⁵⁵	a ⁵⁵	5921
+1175	Mangdi	5921	a⁵⁵	a ⁵⁵	a ⁵⁵	5921
+1176	Qingyun	5921	a⁵⁵	a ⁵⁵	a ⁵⁵	5921
+1177	Shuizhuping	5921	a⁴⁴	a ⁴⁴	a ⁴⁴	5921
+1178	Xuzhang	5921	a³³	a ³³	a ³³	5921
+1179	Yangliu	5921	a⁵⁵	a ⁵⁵	a ⁵⁵	5921
+1180	Yijiacun	5921	a²⁴	a ²⁴	a ²⁴	5921
+1181	ProtoLalo	5921	a¹	a ¹	a ¹	5921
+1866	Diaocao	5922	tu̠⁵²	t u̠ ⁵²	t u̠ ⁵²	5922
+1867	Mangdi	5922	to²¹	t o ²¹	t o ²¹	5922
+1868	Qingyun	5922	to̠²¹	t o̠ ²¹	t o̠ ²¹	5922
+1869	Shuizhuping	5922	tuʔ⁵⁵	t u ʔ ⁵⁵	t u ʔ ⁵⁵	5922
+1870	Xuzhang	5922	tu³³	t u ³³	t u ³³	5922
+1871	Yangliu	5922	tu⁵⁵	t u ⁵⁵	t u ⁵⁵	5922
+1872	Yijiacun	5922	tu̠³¹	t u̠ ³¹	t u̠ ³¹	5922
+1873	ProtoLalo	5922	to̠³	t o̠ ³	t o̠ ³	5922
+1456	Diaocao	594	ʝi²⁴	ʝ i ²⁴	ʝ i ²⁴	594
+1457	Mangdi	594	da²¹	d a ²¹	d a ²¹	594
+1458	Qingyun	594	ʝi⁴⁵	ʝ i ⁴⁵	ʝ i ⁴⁵	594
+1459	Shuizhuping	594	ʈʂʰwei²⁴	ʈʂʰ w ei ²⁴	ʈʂʰ w ei ²⁴	594
+1460	Xuzhang	594	ʈʂʰa⁴⁴	ʈʂʰ a ⁴⁴	ʈʂʰ a ⁴⁴	594
+1461	Yangliu	594	ka³³	k a ³³	k a ³³	594
+1462	Yijiacun	594	tsʰai²⁴	tsʰ ai ²⁴	tsʰ ai ²⁴	594
+1463	ProtoLalo	594	tʃʰu¹	tʃʰ u ¹	tʃʰ u ¹	594
+1080	Diaocao	5946	bɛ²⁴	b ɛ ²⁴	b ɛ ²⁴	5946
+1081	Xuzhang	5946	bɛ²⁴	b ɛ ²⁴	b ɛ ²⁴	5946
+1082	Yangliu	5946	bɛ³³	b ɛ ³³	b ɛ ³³	5946
+1083	ProtoLalo	5946	bɛ¹	b ɛ ¹	b ɛ ¹	5946
+1162	Diaocao	6045	lɔ³³	l ɔ ³³	l ɔ ³³	6045
+1163	Mangdi	6045	lu³³	l u ³³	l u ³³	6045
+1164	Qingyun	6045	lə³³	l ə ³³	l ə ³³	6045
+1165	Yijiacun	6045	lu³³	l u ³³	l u ³³	6045
+1166	ProtoLalo	6045	lu³	l u ³	l u ³	6045
+3768	Diaocao	6214	nu⁴²	n u ⁴²	n u ⁴²	6214
+3769	Mangdi	6214	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	6214
+3770	Qingyun	6214	ˀnao²¹	ˀn ao ²¹	ˀn ao ²¹	6214
+3771	Shuizhuping	6214	na⁵⁵	n a ⁵⁵	n a ⁵⁵	6214
+3772	Xuzhang	6214	no⁴⁵³	n o ⁴⁵³	n o ⁴⁵³	6214
+3773	Yangliu	6214	no⁴⁴	n o ⁴⁴	n o ⁴⁴	6214
+3774	Yijiacun	6214	na³³	n a ³³	n a ³³	6214
+3775	ProtoLalo	6214	ˀnu̠³	ˀn u̠ ³	ˀn u̠ ³	6214
+368	Diaocao	6215	ka²¹	k a ²¹	k a ²¹	6215
+369	Mangdi	6215	ko⁵⁵	k o ⁵⁵	k o ⁵⁵	6215
+370	Qingyun	6215	ko⁵⁵	k o ⁵⁵	k o ⁵⁵	6215
+371	Shuizhuping	6215	ko⁵⁵	k o ⁵⁵	k o ⁵⁵	6215
+372	Xuzhang	6215	ko³³	k o ³³	k o ³³	6215
+373	Yangliu	6215	kʰo⁵³	kʰ o ⁵³	kʰ o ⁵³	6215
+374	Yijiacun	6215	kʰa̠²¹	kʰ a̠ ²¹	kʰ a̠ ²¹	6215
+375	ProtoLalo	6215	kaŋ¹	k a ŋ ¹	k a ŋ ¹	6215
+1602	Diaocao	6235	ma²¹	m a ²¹	m a ²¹	6235
+1603	Mangdi	6235	mɑ²¹	m ɑ ²¹	m ɑ ²¹	6235
+1604	Qingyun	6235	ma²¹	m a ²¹	m a ²¹	6235
+1605	Shuizhuping	6235	ma²¹	m a ²¹	m a ²¹	6235
+1606	ProtoLalo	6235	ma²	m a ²	m a ²	6235
+46	Diaocao	6236	xu⁴²	x u ⁴²	x u ⁴²	6236
+47	Mangdi	6236	xɑ̠²¹	x ɑ̠ ²¹	x ɑ̠ ²¹	6236
+48	Qingyun	6236	xa̠²¹	x a̠ ²¹	x a̠ ²¹	6236
+49	Xuzhang	6236	xo³³	x o ³³	x o ³³	6236
+50	Yijiacun	6236	gao³³	g ao ³³	g ao ³³	6236
+51	ProtoLalo	6236	xa̠³	x a̠ ³	x a̠ ³	6236
+1464	Mangdi	6307	a²¹	a ²¹	a ²¹	6307
+1465	Shuizhuping	6307	ɛ²¹	ɛ ²¹	ɛ ²¹	6307
+1466	Xuzhang	6307	a²¹	a ²¹	a ²¹	6307
+1467	Yangliu	6307	a²¹	a ²¹	a ²¹	6307
+1468	ProtoLalo	6307	a²	a ²	a ²	6307
+1579	Diaocao	6326	n̩²¹	n̩ ²¹	n̩ ²¹	6326
+1580	Shuizhuping	6326	ni⁴⁴	n i ⁴⁴	n i ⁴⁴	6326
+1581	Xuzhang	6326	nɛ̠i³³	n ɛ̠i ³³	n ɛ̠i ³³	6326
+1582	ProtoLalo	6326	ni̠¹	n i̠ ¹	n i̠ ¹	6326
+2130	Diaocao	6327	sə⁵⁵	s ə ⁵⁵	s ə ⁵⁵	6327
+2131	Mangdi	6327	sɛ⁵³	s ɛ ⁵³	s ɛ ⁵³	6327
+2132	Shuizhuping	6327	xɛ²¹	x ɛ ²¹	x ɛ ²¹	6327
+2133	Xuzhang	6327	ʂʅ³³	ʂ ʅ ³³	ʂ ʅ ³³	6327
+2134	Yangliu	6327	sɿ³³	s ɿ ³³	s ɿ ³³	6327
+2135	Yijiacun	6327	kʰu²¹	kʰ u ²¹	kʰ u ²¹	6327
+2136	ProtoLalo	6327	ɣu²	ɣ u ²	ɣ u ²	6327
+2744	Shuizhuping	6330	a³³	a ³³	a ³³	6330
+2745	Yangliu	6330	i⁵³	i ⁵³	i ⁵³	6330
+2746	ProtoLalo	6330	a²	a ²	a ²	6330
+1056	Diaocao	6367	nə⁵⁵	n ə ⁵⁵	n ə ⁵⁵	6367
+1057	Qingyun	6367	ny⁵⁵	n y ⁵⁵	n y ⁵⁵	6367
+1058	Shuizhuping	6367	ny⁴⁴	n y ⁴⁴	n y ⁴⁴	6367
+1059	Xuzhang	6367	nɨ˞³³	n ɨ˞ ³³	n ɨ˞ ³³	6367
+1060	Yangliu	6367	nə³³	n ə ³³	n ə ³³	6367
+1061	ProtoLalo	6367	ny¹	n y ¹	n y ¹	6367
+886	Qingyun	6388	bʉm²¹	b ʉ m ²¹	b ʉ m ²¹	6388
+887	Shuizhuping	6388	bɨ²⁴	b ɨ ²⁴	b ɨ ²⁴	6388
+888	ProtoLalo	6388	bɨ¹	b ɨ ¹	b ɨ ¹	6388
+3251	Diaocao	6418	pu⁴²	p u ⁴²	p u ⁴²	6418
+3252	Mangdi	6418	pɑ̠²¹	p ɑ̠ ²¹	p ɑ̠ ²¹	6418
+3253	Qingyun	6418	pa̠²¹	p a̠ ²¹	p a̠ ²¹	6418
+3254	Shuizhuping	6418	pa⁵³	p a ⁵³	p a ⁵³	6418
+3255	Xuzhang	6418	po³³	p o ³³	p o ³³	6418
+3256	Yangliu	6418	pɛ⁴⁴	p ɛ ⁴⁴	p ɛ ⁴⁴	6418
+3257	Yijiacun	6418	pʷoi⁴²	pʷ oi ⁴²	pʷ oi ⁴²	6418
+3258	ProtoLalo	6418	pa̠³	p a̠ ³	p a̠ ³	6418
+2971	Diaocao	6511	sɛ²¹	s ɛ ²¹	s ɛ ²¹	6511
+2972	Mangdi	6511	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	6511
+2973	Qingyun	6511	sɛ̤²¹	s ɛ̤ ²¹	s ɛ̤ ²¹	6511
+2974	Shuizhuping	6511	sɛ²¹	s ɛ ²¹	s ɛ ²¹	6511
+2975	Xuzhang	6511	ʔø³³	ʔ ø ³³	ʔ ø ³³	6511
+2976	Yangliu	6511	sɛ⁴¹	s ɛ ⁴¹	s ɛ ⁴¹	6511
+2977	Yijiacun	6511	ɕɛ²¹	ɕ ɛ ²¹	ɕ ɛ ²¹	6511
+2978	ProtoLalo	6511	sɛ²	s ɛ ²	s ɛ ²	6511
+360	Diaocao	6526	gə⁴²	g ə ⁴²	g ə ⁴²	6526
+361	Mangdi	6526	gi⁵⁵	g i ⁵⁵	g i ⁵⁵	6526
+362	Qingyun	6526	gɨ⁵⁵	g ɨ ⁵⁵	g ɨ ⁵⁵	6526
+363	Shuizhuping	6526	gɨ²⁴	g ɨ ²⁴	g ɨ ²⁴	6526
+364	Xuzhang	6526	gɨ²⁴	g ɨ ²⁴	g ɨ ²⁴	6526
+365	Yangliu	6526	gɨ³³	g ɨ ³³	g ɨ ³³	6526
+366	Yijiacun	6526	kɨ³¹	k ɨ ³¹	k ɨ ³¹	6526
+367	ProtoLalo	6526	gi¹	g i ¹	g i ¹	6526
+3407	Diaocao	6552	bi³³	b i ³³	b i ³³	6552
+3408	Mangdi	6552	bɨ³³	b ɨ ³³	b ɨ ³³	6552
+3409	Qingyun	6552	vi³³	v i ³³	v i ³³	6552
+3410	Shuizhuping	6552	bi³³	b i ³³	b i ³³	6552
+3411	Yangliu	6552	bi³³	b i ³³	b i ³³	6552
+3412	Yijiacun	6552	bi³³	b i ³³	b i ³³	6552
+3413	ProtoLalo	6552	bi³	b i ³	b i ³	6552
+3030	Diaocao	6591	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	6591
+3031	Mangdi	6591	ki⁵⁵	k i ⁵⁵	k i ⁵⁵	6591
+3032	Qingyun	6591	kɨ⁵⁵	k ɨ ⁵⁵	k ɨ ⁵⁵	6591
+3033	Shuizhuping	6591	kɨ²⁴	k ɨ ²⁴	k ɨ ²⁴	6591
+3034	Xuzhang	6591	kɨ⁴⁵³	k ɨ ⁴⁵³	k ɨ ⁴⁵³	6591
+3035	Yijiacun	6591	ki²⁴	k i ²⁴	k i ²⁴	6591
+3036	ProtoLalo	6591	ki¹	k i ¹	k i ¹	6591
+3833	Diaocao	6622	kʰa²¹	kʰ a ²¹	kʰ a ²¹	6622
+3834	Mangdi	6622	ko²¹	k o ²¹	k o ²¹	6622
+3835	Qingyun	6622	kʰa̤²¹	kʰ a̤ ²¹	kʰ a̤ ²¹	6622
+3836	Shuizhuping	6622	kʰa²¹	kʰ a ²¹	kʰ a ²¹	6622
+3837	Xuzhang	6622	kʰa²¹	kʰ a ²¹	kʰ a ²¹	6622
+3838	Yangliu	6622	kʰa²¹	kʰ a ²¹	kʰ a ²¹	6622
+3839	Yijiacun	6622	kə²¹	k ə ²¹	k ə ²¹	6622
+3840	ProtoLalo	6622	kʰa²	kʰ a ²	kʰ a ²	6622
+326	Mangdi	6657	mɛ³³	m ɛ ³³	m ɛ ³³	6657
+327	Yangliu	6657	mai⁵⁵	m ai ⁵⁵	m ai ⁵⁵	6657
+328	Yijiacun	6657	mɛo³³	m ɛo ³³	m ɛo ³³	6657
+329	ProtoLalo	6657	mɛ³	m ɛ ³	m ɛ ³	6657
+3689	Diaocao	6723	da²⁴	d a ²⁴	d a ²⁴	6723
+3690	Mangdi	6723	da⁵⁵	d a ⁵⁵	d a ⁵⁵	6723
+3691	Qingyun	6723	du⁵⁵	d u ⁵⁵	d u ⁵⁵	6723
+3692	Shuizhuping	6723	tu³³	t u ³³	t u ³³	6723
+3693	Xuzhang	6723	da²⁴	d a ²⁴	d a ²⁴	6723
+3694	Yangliu	6723	ta³³	t a ³³	t a ³³	6723
+3695	Yijiacun	6723	tai³³	t ai ³³	t ai ³³	6723
+3696	ProtoLalo	6723	taŋ³	t a ŋ ³	t a ŋ ³	6723
+852	Diaocao	6737	gə²¹	g ə ²¹	g ə ²¹	6737
+853	Mangdi	6737	gɨ²¹	g ɨ ²¹	g ɨ ²¹	6737
+854	Qingyun	6737	gu²¹	g u ²¹	g u ²¹	6737
+855	Shuizhuping	6737	gv̩²¹	g v̩ ²¹	g v̩ ²¹	6737
+856	Xuzhang	6737	gɨ²¹	g ɨ ²¹	g ɨ ²¹	6737
+857	Yangliu	6737	gɨ²¹	g ɨ ²¹	g ɨ ²¹	6737
+858	Yijiacun	6737	gwɛ²¹	g w ɛ ²¹	g w ɛ ²¹	6737
+859	ProtoLalo	6737	gu²	g u ²	g u ²	6737
+3858	Diaocao	6776	zei⁴²	z ei ⁴²	z ei ⁴²	6776
+3859	Qingyun	6776	zɛ̠²¹	z ɛ̠ ²¹	z ɛ̠ ²¹	6776
+3860	Shuizhuping	6776	ze⁵⁵	z e ⁵⁵	z e ⁵⁵	6776
+3861	Xuzhang	6776	zɛi³³	z ɛi ³³	z ɛi ³³	6776
+3862	Yangliu	6776	zai⁵⁵	z ai ⁵⁵	z ai ⁵⁵	6776
+3863	ProtoLalo	6776	ze̠³	z e̠ ³	z e̠ ³	6776
+2443	Diaocao	6805	dei³³	d ei ³³	d ei ³³	6805
+2444	Qingyun	6805	dɛ̠³³	d ɛ̠ ³³	d ɛ̠ ³³	6805
+2445	Shuizhuping	6805	de⁴⁴	d e ⁴⁴	d e ⁴⁴	6805
+2446	Xuzhang	6805	dɛi³³	d ɛi ³³	d ɛi ³³	6805
+2447	Yangliu	6805	di⁵⁵	d i ⁵⁵	d i ⁵⁵	6805
+2448	Yijiacun	6805	di³³	d i ³³	d i ³³	6805
+2449	ProtoLalo	6805	de̠¹	d e̠ ¹	d e̠ ¹	6805
+2319	Diaocao	6837	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	6837
+2320	Mangdi	6837	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	6837
+2321	Qingyun	6837	ɕɛ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵	6837
+2322	Shuizhuping	6837	ʂɛ²⁴	ʂ ɛ ²⁴	ʂ ɛ ²⁴	6837
+2323	Xuzhang	6837	ʂɛ⁵⁵	ʂ ɛ ⁵⁵	ʂ ɛ ⁵⁵	6837
+2324	Yangliu	6837	sɛ³³	s ɛ ³³	s ɛ ³³	6837
+2325	Yijiacun	6837	ɕɛ²⁴	ɕ ɛ ²⁴	ɕ ɛ ²⁴	6837
+2326	ProtoLalo	6837	ʃɛ¹	ʃ ɛ ¹	ʃ ɛ ¹	6837
+912	Mangdi	6867	ŋo⁵⁵	ŋ o ⁵⁵	ŋ o ⁵⁵	6867
+913	Qingyun	6867	ŋø⁵⁵	ŋ ø ⁵⁵	ŋ ø ⁵⁵	6867
+914	Xuzhang	6867	ŋu⁵³	ŋ u ⁵³	ŋ u ⁵³	6867
+915	Yijiacun	6867	ŋao²⁴	ŋ ao ²⁴	ŋ ao ²⁴	6867
+916	ProtoLalo	6867	ŋwa¹	ŋ w a ¹	ŋ w a ¹	6867
+2960	Mangdi	6919	dʒo⁵⁵	dʒ o ⁵⁵	dʒ o ⁵⁵	6919
+2961	Qingyun	6919	tʰə²¹	tʰ ə ²¹	tʰ ə ²¹	6919
+2962	ProtoLalo	6919	tʰu²	tʰ u ²	tʰ u ²	6919
+2598	Diaocao	6931	pʰi²¹	pʰ i ²¹	pʰ i ²¹	6931
+2599	Qingyun	6931	pi²¹	p i ²¹	p i ²¹	6931
+2600	Yangliu	6931	pʰi²¹	pʰ i ²¹	pʰ i ²¹	6931
+2601	Yijiacun	6931	po²⁴	p o ²⁴	p o ²⁴	6931
+2602	ProtoLalo	6931	pi²	p i ²	p i ²	6931
+3023	Diaocao	6932	lɔ²¹	l ɔ ²¹	l ɔ ²¹	6932
+3024	Qingyun	6932	la̤²¹	l a̤ ²¹	l a̤ ²¹	6932
+3025	Shuizhuping	6932	la²¹	l a ²¹	l a ²¹	6932
+3026	Xuzhang	6932	lo²¹	l o ²¹	l o ²¹	6932
+3027	Yangliu	6932	li²¹	l i ²¹	l i ²¹	6932
+3028	Yijiacun	6932	li³³	l i ³³	l i ³³	6932
+3029	ProtoLalo	6932	la²	l a ²	l a ²	6932
+663	Diaocao	6950	lɔ²¹	l ɔ ²¹	l ɔ ²¹	6950
+664	Qingyun	6950	la̤²¹	l a̤ ²¹	l a̤ ²¹	6950
+665	Shuizhuping	6950	la²¹	l a ²¹	l a ²¹	6950
+666	Xuzhang	6950	lo²¹	l o ²¹	l o ²¹	6950
+667	Yangliu	6950	li²¹	l i ²¹	l i ²¹	6950
+668	Yijiacun	6950	li³³	l i ³³	l i ³³	6950
+669	ProtoLalo	6950	la²	l a ²	l a ²	6950
+1334	Diaocao	6999	tsa⁵⁵	ts a ⁵⁵	ts a ⁵⁵	6999
+1335	Mangdi	6999	tɕɛ⁵⁵	tɕ ɛ ⁵⁵	tɕ ɛ ⁵⁵	6999
+1336	Qingyun	6999	ʈʂə⁵⁵	ʈʂ ə ⁵⁵	ʈʂ ə ⁵⁵	6999
+1337	Shuizhuping	6999	ʈʂu⁴⁴	ʈʂ u ⁴⁴	ʈʂ u ⁴⁴	6999
+1338	Xuzhang	6999	ʈʂu⁵⁵	ʈʂ u ⁵⁵	ʈʂ u ⁵⁵	6999
+1339	Yangliu	6999	tsa³³	ts a ³³	ts a ³³	6999
+1340	Yijiacun	6999	tɕɛ³³	tɕ ɛ ³³	tɕ ɛ ³³	6999
+1341	ProtoLalo	6999	tʃɛ¹	tʃ ɛ ¹	tʃ ɛ ¹	6999
+3889	Mangdi	7001	pu⁵⁵	p u ⁵⁵	p u ⁵⁵	7001
+3890	Qingyun	7001	pa̠²¹	p a̠ ²¹	p a̠ ²¹	7001
+3891	Shuizhuping	7001	pɛ⁴⁴	p ɛ ⁴⁴	p ɛ ⁴⁴	7001
+3892	Xuzhang	7001	pu⁵⁵	p u ⁵⁵	p u ⁵⁵	7001
+3893	Yangliu	7001	pu³³	p u ³³	p u ³³	7001
+3894	Yijiacun	7001	pɨ³³	p ɨ ³³	p ɨ ³³	7001
+3895	ProtoLalo	7001	pu¹	p u ¹	p u ¹	7001
+731	Mangdi	7126	vɛ³³	v ɛ ³³	v ɛ ³³	7126
+732	Xuzhang	7126	pɛi³³	p ɛi ³³	p ɛi ³³	7126
+733	Yangliu	7126	vei³³	v ei ³³	v ei ³³	7126
+734	Yijiacun	7126	ve³³	v e ³³	v e ³³	7126
+735	ProtoLalo	7126	ve³	v e ³	v e ³	7126
+1862	Diaocao	7198	bə²⁴	b ə ²⁴	b ə ²⁴	7198
+1863	Xuzhang	7198	bɛ²¹	b ɛ ²¹	b ɛ ²¹	7198
+1864	Yangliu	7198	bɛ²¹	b ɛ ²¹	b ɛ ²¹	7198
+1865	ProtoLalo	7198	bo¹	b o ¹	b o ¹	7198
+2760	Mangdi	7199	kʰə²¹	kʰ ə ²¹	kʰ ə ²¹	7199
+2761	Qingyun	7199	kʰy²¹	kʰ y ²¹	kʰ y ²¹	7199
+2762	Yijiacun	7199	kʰə²¹	kʰ ə ²¹	kʰ ə ²¹	7199
+2763	ProtoLalo	7199	kʰy²	kʰ y ²	kʰ y ²	7199
+1773	Diaocao	7276	kɛ⁵⁵	k ɛ ⁵⁵	k ɛ ⁵⁵	7276
+1774	Mangdi	7276	xɛ³³	x ɛ ³³	x ɛ ³³	7276
+1775	Qingyun	7276	kɛ⁵⁵	k ɛ ⁵⁵	k ɛ ⁵⁵	7276
+1776	Shuizhuping	7276	kɛ²⁴	k ɛ ²⁴	k ɛ ²⁴	7276
+1777	Xuzhang	7276	kɛ⁴⁵³	k ɛ ⁴⁵³	k ɛ ⁴⁵³	7276
+1778	Yangliu	7276	kɛ³³	k ɛ ³³	k ɛ ³³	7276
+1779	Yijiacun	7276	xwai²⁴	x w ai ²⁴	x w ai ²⁴	7276
+1780	ProtoLalo	7276	kɛ¹	k ɛ ¹	k ɛ ¹	7276
+889	Diaocao	7285	kʰa³³	kʰ a ³³	kʰ a ³³	7285
+890	Mangdi	7285	kɛ⁵⁵	k ɛ ⁵⁵	k ɛ ⁵⁵	7285
+891	Qingyun	7285	ɕɛ⁵⁵	ɕ ɛ ⁵⁵	ɕ ɛ ⁵⁵	7285
+892	Shuizhuping	7285	xɛ²⁴	x ɛ ²⁴	x ɛ ²⁴	7285
+893	Xuzhang	7285	xɛ⁴⁵³	x ɛ ⁴⁵³	x ɛ ⁴⁵³	7285
+894	Yangliu	7285	kʰa⁵³	kʰ a ⁵³	kʰ a ⁵³	7285
+895	Yijiacun	7285	xjɛ²⁴	x j ɛ ²⁴	x j ɛ ²⁴	7285
+896	ProtoLalo	7285	kʰa̠¹	kʰ a̠ ¹	kʰ a̠ ¹	7285
+3369	Diaocao	7296	kʰa²¹	kʰ a ²¹	kʰ a ²¹	7296
+3370	Mangdi	7296	tsu²¹	ts u ²¹	ts u ²¹	7296
+3371	Qingyun	7296	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	7296
+3372	Shuizhuping	7296	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	7296
+3373	Xuzhang	7296	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	7296
+3374	Yangliu	7296	tsɿ²¹	ts ɿ ²¹	ts ɿ ²¹	7296
+3375	Yijiacun	7296	tsu²¹	ts u ²¹	ts u ²¹	7296
+3376	ProtoLalo	7296	tsi²	ts i ²	ts i ²	7296
+391	Diaocao	7314	tsʰu³³	tsʰ u ³³	tsʰ u ³³	7314
+392	Mangdi	7314	tʃʰu³³	tʃʰ u ³³	tʃʰ u ³³	7314
+393	Qingyun	7314	tsʰo̠³³	tsʰ o̠ ³³	tsʰ o̠ ³³	7314
+394	Shuizhuping	7314	tsʰu³³	tsʰ u ³³	tsʰ u ³³	7314
+395	Xuzhang	7314	tsʰu³³	tsʰ u ³³	tsʰ u ³³	7314
+396	Yangliu	7314	tsʰu⁵³	tsʰ u ⁵³	tsʰ u ⁵³	7314
+397	Yijiacun	7314	tsu⁵⁵	ts u ⁵⁵	ts u ⁵⁵	7314
+398	ProtoLalo	7314	tsʰo̠¹	tsʰ o̠ ¹	tsʰ o̠ ¹	7314
+145	Diaocao	7350	pə²¹	p ə ²¹	p ə ²¹	7350
+146	Mangdi	7350	pɨ²¹	p ɨ ²¹	p ɨ ²¹	7350
+147	Qingyun	7350	pʉ²¹	p ʉ ²¹	p ʉ ²¹	7350
+148	Shuizhuping	7350	pɨ²¹	p ɨ ²¹	p ɨ ²¹	7350
+149	Xuzhang	7350	pɨ²¹	p ɨ ²¹	p ɨ ²¹	7350
+150	Yangliu	7350	pu²¹	p u ²¹	p u ²¹	7350
+151	ProtoLalo	7350	pɨ²	p ɨ ²	p ɨ ²	7350
+1138	Diaocao	7361	n̩²¹	n̩ ²¹	n̩ ²¹	7361
+1139	Mangdi	7361	n̩²¹	n̩ ²¹	n̩ ²¹	7361
+1140	Qingyun	7361	n̩²¹	n̩ ²¹	n̩ ²¹	7361
+1141	Shuizhuping	7361	n̩²¹	n̩ ²¹	n̩ ²¹	7361
+1142	Xuzhang	7361	ŋ̩²¹	ŋ̩ ²¹	ŋ̩ ²¹	7361
+1143	Yangliu	7361	n̩²¹	n̩ ²¹	n̩ ²¹	7361
+1144	Yijiacun	7361	n̩²¹	n̩ ²¹	n̩ ²¹	7361
+1145	ProtoLalo	7361	nu²	n u ²	n u ²	7361
+1626	Diaocao	7362	də²⁴	d ə ²⁴	d ə ²⁴	7362
+1627	Mangdi	7362	də⁵⁵	d ə ⁵⁵	d ə ⁵⁵	7362
+1628	Qingyun	7362	dy⁵⁵	d y ⁵⁵	d y ⁵⁵	7362
+1629	Shuizhuping	7362	dy²⁴	d y ²⁴	d y ²⁴	7362
+1630	Yangliu	7362	də³³	d ə ³³	d ə ³³	7362
+1631	Yijiacun	7362	dɨ²⁴	d ɨ ²⁴	d ɨ ²⁴	7362
+1632	ProtoLalo	7362	dy¹	d y ¹	d y ¹	7362
+546	Diaocao	7363	kə³³	k ə ³³	k ə ³³	7363
+547	Xuzhang	7363	ka²¹	k a ²¹	k a ²¹	7363
+548	Yijiacun	7363	ka³³	k a ³³	k a ³³	7363
+549	ProtoLalo	7363	kaŋ²	k a ŋ ²	k a ŋ ²	7363
+773	Diaocao	74	tsɔ³³	ts ɔ ³³	ts ɔ ³³	74
+774	Mangdi	74	xɨ³³	x ɨ ³³	x ɨ ³³	74
+775	Qingyun	74	tsa³³	ts a ³³	ts a ³³	74
+776	Shuizhuping	74	tsa³³	ts a ³³	ts a ³³	74
+777	Yijiacun	74	so³³	s o ³³	s o ³³	74
+778	ProtoLalo	74	tsa³	ts a ³	ts a ³	74
+3812	Diaocao	741	ka⁴²	k a ⁴²	k a ⁴²	741
+3813	Qingyun	741	dʑi̤²¹	dʑ i̤ ²¹	dʑ i̤ ²¹	741
+3814	Shuizhuping	741	dʑi²¹	dʑ i ²¹	dʑ i ²¹	741
+3815	Xuzhang	741	dʑi²¹	dʑ i ²¹	dʑ i ²¹	741
+3816	Yangliu	741	dzə³¹	dz ə ³¹	dz ə ³¹	741
+3817	Yijiacun	741	ka̠ʔ²¹	k a̠ ʔ ²¹	k a̠ ʔ ²¹	741
+3818	ProtoLalo	741	dze²	dz e ²	dz e ²	741
+3630	Qingyun	742	a⁵⁵	a ⁵⁵	a ⁵⁵	742
+3631	Shuizhuping	742	a⁵⁵	a ⁵⁵	a ⁵⁵	742
+3632	Yangliu	742	a⁵⁵	a ⁵⁵	a ⁵⁵	742
+3633	Yijiacun	742	ɛ³³	ɛ ³³	ɛ ³³	742
+3634	ProtoLalo	742	a¹	a ¹	a ¹	742
+2089	Diaocao	7466	ɣɔ²¹	ɣ ɔ ²¹	ɣ ɔ ²¹	7466
+2090	Mangdi	7466	go²¹	g o ²¹	g o ²¹	7466
+2091	Qingyun	7466	ga̤²¹	g a̤ ²¹	g a̤ ²¹	7466
+2092	Shuizhuping	7466	ga²¹	g a ²¹	g a ²¹	7466
+2093	Xuzhang	7466	go²¹	g o ²¹	g o ²¹	7466
+2094	Yangliu	7466	ga³³	g a ³³	g a ³³	7466
+2095	Yijiacun	7466	go²¹	g o ²¹	g o ²¹	7466
+2096	ProtoLalo	7466	gja²	g j a ²	g j a ²	7466
+3825	Diaocao	7527	i³³	i ³³	i ³³	7527
+3826	Mangdi	7527	a⁵⁵	a ⁵⁵	a ⁵⁵	7527
+3827	Qingyun	7527	a⁵⁵	a ⁵⁵	a ⁵⁵	7527
+3828	Shuizhuping	7527	a⁴⁴	a ⁴⁴	a ⁴⁴	7527
+3829	Xuzhang	7527	a⁴⁴	a ⁴⁴	a ⁴⁴	7527
+3830	Yangliu	7527	a⁵⁵	a ⁵⁵	a ⁵⁵	7527
+3831	Yijiacun	7527	a²⁴	a ²⁴	a ²⁴	7527
+3832	ProtoLalo	7527	a¹	a ¹	a ¹	7527
+3151	Shuizhuping	7531	ʝi⁴⁴	ʝ i ⁴⁴	ʝ i ⁴⁴	7531
+3152	Xuzhang	7531	ʝi̠⁴⁴	ʝ i̠ ⁴⁴	ʝ i̠ ⁴⁴	7531
+3153	Yijiacun	7531	zo²¹	z o ²¹	z o ²¹	7531
+3154	ProtoLalo	7531	ɣe̠¹	ɣ e̠ ¹	ɣ e̠ ¹	7531
+3162	Diaocao	760	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	760
+3163	Mangdi	760	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	760
+3164	Qingyun	760	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	760
+3165	Shuizhuping	760	kʰɨ⁴⁴	kʰ ɨ ⁴⁴	kʰ ɨ ⁴⁴	760
+3166	Xuzhang	760	kʰɨ⁴⁵³	kʰ ɨ ⁴⁵³	kʰ ɨ ⁴⁵³	760
+3167	Yangliu	760	kɛ³³	k ɛ ³³	k ɛ ³³	760
+3168	Yijiacun	760	kʰu²¹	kʰ u ²¹	kʰ u ²¹	760
+3169	ProtoLalo	760	kʰi¹	kʰ i ¹	kʰ i ¹	760
+3385	Diaocao	762	mi³³	m i ³³	m i ³³	762
+3386	Mangdi	762	mɛ³³	m ɛ ³³	m ɛ ³³	762
+3387	Qingyun	762	ˀmɛ̠³³	ˀm ɛ̠ ³³	ˀm ɛ̠ ³³	762
+3388	Shuizhuping	762	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	762
+3389	Xuzhang	762	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	762
+3390	Yijiacun	762	jo²¹	j o ²¹	j o ²¹	762
+3391	ProtoLalo	762	ˀmje̠¹	ˀm j e̠ ¹	ˀm j e̠ ¹	762
+2882	Shuizhuping	7622	ve²¹	v e ²¹	v e ²¹	7622
+2883	Xuzhang	7622	pʰa⁴⁵³	pʰ a ⁴⁵³	pʰ a ⁴⁵³	7622
+2884	Yangliu	7622	bə²¹	b ə ²¹	b ə ²¹	7622
+2885	ProtoLalo	7622	vy²	v y ²	v y ²	7622
+2311	Diaocao	7632	tsʰa³³	tsʰ a ³³	tsʰ a ³³	7632
+2312	Mangdi	7632	tɕɛ⁵⁵	tɕ ɛ ⁵⁵	tɕ ɛ ⁵⁵	7632
+2313	Qingyun	7632	ʈʂʅ⁵⁵	ʈʂ ʅ ⁵⁵	ʈʂ ʅ ⁵⁵	7632
+2314	Shuizhuping	7632	ʈʂɛ̃²⁴	ʈʂ ɛ̃ ²⁴	ʈʂ ɛ̃ ²⁴	7632
+2315	Xuzhang	7632	ʈʂʰɛ⁴⁵³	ʈʂʰ ɛ ⁴⁵³	ʈʂʰ ɛ ⁴⁵³	7632
+2316	Yangliu	7632	tsɛ³³	ts ɛ ³³	ts ɛ ³³	7632
+2317	Yijiacun	7632	tɕɛ²⁴	tɕ ɛ ²⁴	tɕ ɛ ²⁴	7632
+2318	ProtoLalo	7632	tʃɛ¹	tʃ ɛ ¹	tʃ ɛ ¹	7632
+2847	Qingyun	7675	tʰə³³	tʰ ə ³³	tʰ ə ³³	7675
+2848	Xuzhang	7675	ti⁴⁴	t i ⁴⁴	t i ⁴⁴	7675
+2849	ProtoLalo	7675	tʰu³	tʰ u ³	tʰ u ³	7675
+476	Diaocao	7695	tsei²¹	ts ei ²¹	ts ei ²¹	7695
+477	Mangdi	7695	tɕɛ²¹	tɕ ɛ ²¹	tɕ ɛ ²¹	7695
+478	Qingyun	7695	tsi²¹	ts i ²¹	ts i ²¹	7695
+479	Shuizhuping	7695	tsei²¹	ts ei ²¹	ts ei ²¹	7695
+480	Xuzhang	7695	tsɛi²¹	ts ɛi ²¹	ts ɛi ²¹	7695
+481	Yangliu	7695	tsai²¹	ts ai ²¹	ts ai ²¹	7695
+482	Yijiacun	7695	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	7695
+483	ProtoLalo	7695	tse²	ts e ²	ts e ²	7695
+2603	Diaocao	7710	kʰɤ⁵⁵	kʰ ɤ ⁵⁵	kʰ ɤ ⁵⁵	7710
+2604	Mangdi	7710	kʰu⁵⁵	kʰ u ⁵⁵	kʰ u ⁵⁵	7710
+2605	Qingyun	7710	kʰə⁵⁵	kʰ ə ⁵⁵	kʰ ə ⁵⁵	7710
+2606	ProtoLalo	7710	kʰu¹	kʰ u ¹	kʰ u ¹	7710
+39	Diaocao	7729	kə³³	k ə ³³	k ə ³³	7729
+40	Mangdi	7729	xɛ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	7729
+41	Qingyun	7729	kə³³	k ə ³³	k ə ³³	7729
+42	Shuizhuping	7729	ko³³	k o ³³	k o ³³	7729
+43	Yangliu	7729	ko³³	k o ³³	k o ³³	7729
+44	Yijiacun	7729	ka²⁴	k a ²⁴	k a ²⁴	7729
+45	ProtoLalo	7729	ko³	k o ³	k o ³	7729
+623	Qingyun	7731	hi⁵⁵	h i ⁵⁵	h i ⁵⁵	7731
+624	Shuizhuping	7731	hẽ²⁴	h ẽ ²⁴	h ẽ ²⁴	7731
+625	Xuzhang	7731	hĩ⁴⁵³	h ĩ ⁴⁵³	h ĩ ⁴⁵³	7731
+626	Yangliu	7731	hai⁴⁴	h ai ⁴⁴	h ai ⁴⁴	7731
+627	ProtoLalo	7731	he¹	h e ¹	h e ¹	7731
+1789	Diaocao	7745	bja²¹	b j a ²¹	b j a ²¹	7745
+1790	Mangdi	7745	bo²¹	b o ²¹	b o ²¹	7745
+1791	Qingyun	7745	ba̤²¹	b a̤ ²¹	b a̤ ²¹	7745
+1792	Shuizhuping	7745	bɑ²¹	b ɑ ²¹	b ɑ ²¹	7745
+1793	Xuzhang	7745	ba²¹	b a ²¹	b a ²¹	7745
+1794	Yangliu	7745	ba²²	b a ²²	b a ²²	7745
+1795	Yijiacun	7745	bo²¹	b o ²¹	b o ²¹	7745
+1796	ProtoLalo	7745	bja²	b j a ²	b j a ²	7745
+376	Diaocao	7783	mɤ²¹	m ɤ ²¹	m ɤ ²¹	7783
+377	Mangdi	7783	mu²¹	m u ²¹	m u ²¹	7783
+378	Shuizhuping	7783	mu²¹	m u ²¹	m u ²¹	7783
+379	Xuzhang	7783	mɤ²¹	m ɤ ²¹	m ɤ ²¹	7783
+380	Yangliu	7783	mu²¹	m u ²¹	m u ²¹	7783
+381	Yijiacun	7783	mə²¹	m ə ²¹	m ə ²¹	7783
+382	ProtoLalo	7783	mju²	m j u ²	m j u ²	7783
+3725	Diaocao	7829	pʰei⁵⁵	pʰ ei ⁵⁵	pʰ ei ⁵⁵	7829
+3726	Mangdi	7829	pʰi⁵⁵	pʰ i ⁵⁵	pʰ i ⁵⁵	7829
+3727	Qingyun	7829	pʰi⁵⁵	pʰ i ⁵⁵	pʰ i ⁵⁵	7829
+3728	Yijiacun	7829	pʰi²⁴	pʰ i ²⁴	pʰ i ²⁴	7829
+3729	ProtoLalo	7829	pʰe¹	pʰ e ¹	pʰ e ¹	7829
+917	Mangdi	7840	tsʰo⁵⁵	tsʰ o ⁵⁵	tsʰ o ⁵⁵	7840
+918	Qingyun	7840	tsʰa⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵	7840
+919	Shuizhuping	7840	tsʰa²⁴	tsʰ a ²⁴	tsʰ a ²⁴	7840
+920	Xuzhang	7840	tsʰo⁴⁵³	tsʰ o ⁴⁵³	tsʰ o ⁴⁵³	7840
+921	Yangliu	7840	tsʰa³³	tsʰ a ³³	tsʰ a ³³	7840
+922	Yijiacun	7840	tsʰo²⁴	tsʰ o ²⁴	tsʰ o ²⁴	7840
+923	ProtoLalo	7840	tsʰa¹	tsʰ a ¹	tsʰ a ¹	7840
+3665	Diaocao	7859	mɔ³³	m ɔ ³³	m ɔ ³³	7859
+3666	Mangdi	7859	mo³³	m o ³³	m o ³³	7859
+3667	Qingyun	7859	ma³³	m a ³³	m a ³³	7859
+3668	Shuizhuping	7859	ma³³	m a ³³	m a ³³	7859
+3669	Xuzhang	7859	mo³³	m o ³³	m o ³³	7859
+3670	Yangliu	7859	ma³³	m a ³³	m a ³³	7859
+3671	Yijiacun	7859	mu³³	m u ³³	m u ³³	7859
+3672	ProtoLalo	7859	ma³	m a ³	m a ³	7859
+2253	Diaocao	7923	dɛ²¹	d ɛ ²¹	d ɛ ²¹	7923
+2254	Mangdi	7923	tʃu²¹	tʃ u ²¹	tʃ u ²¹	7923
+2255	Qingyun	7923	dɛ²¹	d ɛ ²¹	d ɛ ²¹	7923
+2256	Shuizhuping	7923	dɛ²¹	d ɛ ²¹	d ɛ ²¹	7923
+2257	ProtoLalo	7923	de²	d e ²	d e ²	7923
+3361	Diaocao	7944	sɿ⁵⁵	s ɿ ⁵⁵	s ɿ ⁵⁵	7944
+3362	Mangdi	7944	dʑɛ⁵⁵	dʑ ɛ ⁵⁵	dʑ ɛ ⁵⁵	7944
+3363	Qingyun	7944	dʑɛ⁴⁵	dʑ ɛ ⁴⁵	dʑ ɛ ⁴⁵	7944
+3364	Shuizhuping	7944	ɖʐɛ²⁴	ɖʐ ɛ ²⁴	ɖʐ ɛ ²⁴	7944
+3365	Xuzhang	7944	ɖʐɛ³⁴	ɖʐ ɛ ³⁴	ɖʐ ɛ ³⁴	7944
+3366	Yangliu	7944	dzɛ³³	dz ɛ ³³	dz ɛ ³³	7944
+3367	Yijiacun	7944	dʑɛ²⁴	dʑ ɛ ²⁴	dʑ ɛ ²⁴	7944
+3368	ProtoLalo	7944	dʒɛ¹	dʒ ɛ ¹	dʒ ɛ ¹	7944
+2657	Diaocao	7975	sə⁵⁵	s ə ⁵⁵	s ə ⁵⁵	7975
+2658	Mangdi	7975	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	7975
+2659	Xuzhang	7975	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	7975
+2660	Yangliu	7975	ɣɨ²¹	ɣ ɨ ²¹	ɣ ɨ ²¹	7975
+2661	Yijiacun	7975	sa⁵⁵	s a ⁵⁵	s a ⁵⁵	7975
+2662	ProtoLalo	7975	si¹	s i ¹	s i ¹	7975
+120	Diaocao	8020	bə²¹	b ə ²¹	b ə ²¹	8020
+121	Mangdi	8020	bi²¹	b i ²¹	b i ²¹	8020
+122	Qingyun	8020	bʉ̤²¹	b ʉ̤ ²¹	b ʉ̤ ²¹	8020
+123	Yangliu	8020	bi²¹	b i ²¹	b i ²¹	8020
+124	Yijiacun	8020	pɨ³³	p ɨ ³³	p ɨ ³³	8020
+125	ProtoLalo	8020	bo²	b o ²	b o ²	8020
+3852	Mangdi	8021	di⁵⁵	d i ⁵⁵	d i ⁵⁵	8021
+3853	Qingyun	8021	di⁵⁵	d i ⁵⁵	d i ⁵⁵	8021
+3854	Shuizhuping	8021	di²⁴	d i ²⁴	d i ²⁴	8021
+3855	Xuzhang	8021	dy²⁴	d y ²⁴	d y ²⁴	8021
+3856	Yijiacun	8021	tɕɛ³³	tɕ ɛ ³³	tɕ ɛ ³³	8021
+3857	ProtoLalo	8021	di¹	d i ¹	d i ¹	8021
+2688	Diaocao	8038	tsʰə³³	tsʰ ə ³³	tsʰ ə ³³	8038
+2689	Mangdi	8038	tsʰɑ³³	tsʰ ɑ ³³	tsʰ ɑ ³³	8038
+2690	Qingyun	8038	tɕʰa³³	tɕʰ a ³³	tɕʰ a ³³	8038
+2691	Yangliu	8038	tsʰa⁵³	tsʰ a ⁵³	tsʰ a ⁵³	8038
+2692	Yijiacun	8038	tsʰə³³	tsʰ ə ³³	tsʰ ə ³³	8038
+2693	ProtoLalo	8038	tsʰy̠¹	tsʰ y̠ ¹	tsʰ y̠ ¹	8038
+2671	Diaocao	8045	kʰə²¹	kʰ ə ²¹	kʰ ə ²¹	8045
+2672	Qingyun	8045	kʰø̤²¹	kʰ ø̤ ²¹	kʰ ø̤ ²¹	8045
+2673	Shuizhuping	8045	kʰo²¹	kʰ o ²¹	kʰ o ²¹	8045
+2674	Xuzhang	8045	kʰu²¹	kʰ u ²¹	kʰ u ²¹	8045
+2675	Yangliu	8045	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	8045
+2676	ProtoLalo	8045	kʰjo²	kʰ j o ²	kʰ j o ²	8045
+1033	Mangdi	8061	ba̠³³	b a̠ ³³	b a̠ ³³	8061
+1034	Qingyun	8061	ba̠³³	b a̠ ³³	b a̠ ³³	8061
+1035	Shuizhuping	8061	bɛ³³	b ɛ ³³	b ɛ ³³	8061
+1036	Xuzhang	8061	bɛ³³	b ɛ ³³	b ɛ ³³	8061
+1037	Yangliu	8061	bɛ⁵³	b ɛ ⁵³	b ɛ ⁵³	8061
+1038	Yijiacun	8061	bɛ⁵⁵	b ɛ ⁵⁵	b ɛ ⁵⁵	8061
+1039	ProtoLalo	8061	bjɛ̠¹	b j ɛ̠ ¹	b j ɛ̠ ¹	8061
+1399	Diaocao	8087	vɤ²⁴	v ɤ ²⁴	v ɤ ²⁴	8087
+1400	Mangdi	8087	wu⁵⁵	w u ⁵⁵	w u ⁵⁵	8087
+1401	Qingyun	8087	v̩⁵⁵	v̩ ⁵⁵	v̩ ⁵⁵	8087
+1402	Shuizhuping	8087	vv̩³³	v v̩ ³³	v v̩ ³³	8087
+1403	Xuzhang	8087	vv̩²⁴	v v̩ ²⁴	v v̩ ²⁴	8087
+1404	Yangliu	8087	vv̩³³	v v̩ ³³	v v̩ ³³	8087
+1405	Yijiacun	8087	vɨi⁵⁵	v ɨi ⁵⁵	v ɨi ⁵⁵	8087
+1406	ProtoLalo	8087	vu¹	v u ¹	v u ¹	8087
+3624	Diaocao	8120	xə⁵⁵	x ə ⁵⁵	x ə ⁵⁵	8120
+3625	Mangdi	8120	xə⁵⁵	x ə ⁵⁵	x ə ⁵⁵	8120
+3626	Qingyun	8120	ɕy⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	8120
+3627	Yangliu	8120	xɨ³³	x ɨ ³³	x ɨ ³³	8120
+3628	Yijiacun	8120	xə²⁴	x ə ²⁴	x ə ²⁴	8120
+3629	ProtoLalo	8120	xy¹	x y ¹	x y ¹	8120
+2214	Diaocao	8129	ma²¹	m a ²¹	m a ²¹	8129
+2215	Mangdi	8129	ma²¹	m a ²¹	m a ²¹	8129
+2216	Qingyun	8129	ma²¹	m a ²¹	m a ²¹	8129
+2217	Shuizhuping	8129	ma²¹	m a ²¹	m a ²¹	8129
+2218	Yangliu	8129	m̩²¹	m̩ ²¹	m̩ ²¹	8129
+2219	Yijiacun	8129	ma²¹	m a ²¹	m a ²¹	8129
+2220	ProtoLalo	8129	ma²	m a ²	m a ²	8129
+3078	Diaocao	8155	xɔ²¹	x ɔ ²¹	x ɔ ²¹	8155
+3079	Qingyun	8155	ʂa⁵⁵	ʂ a ⁵⁵	ʂ a ⁵⁵	8155
+3080	Shuizhuping	8155	ʂa⁵⁵	ʂ a ⁵⁵	ʂ a ⁵⁵	8155
+3081	Xuzhang	8155	ʈʂʰʅ³⁵	ʈʂʰ ʅ ³⁵	ʈʂʰ ʅ ³⁵	8155
+3082	Yijiacun	8155	tsʰɿ²⁴	tsʰ ɿ ²⁴	tsʰ ɿ ²⁴	8155
+3083	ProtoLalo	8155	ʃa¹	ʃ a ¹	ʃ a ¹	8155
+3053	Mangdi	817	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	817
+3054	Qingyun	817	ʐṳ²¹	ʐ ṳ ²¹	ʐ ṳ ²¹	817
+3055	Shuizhuping	817	ʐuʔ⁴⁴	ʐ u ʔ ⁴⁴	ʐ u ʔ ⁴⁴	817
+3056	Xuzhang	817	ʐu³³	ʐ u ³³	ʐ u ³³	817
+3057	ProtoLalo	817	ʒo̠¹	ʒ o̠ ¹	ʒ o̠ ¹	817
+2518	Mangdi	8177	pɛ⁵⁵	p ɛ ⁵⁵	p ɛ ⁵⁵	8177
+2519	Shuizhuping	8177	pu²¹	p u ²¹	p u ²¹	8177
+2520	ProtoLalo	8177	baŋ²	b a ŋ ²	b a ŋ ²	8177
+1750	Diaocao	8193	tsei⁴²	ts ei ⁴²	ts ei ⁴²	8193
+1751	Mangdi	8193	tɕi²¹	tɕ i ²¹	tɕ i ²¹	8193
+1752	Shuizhuping	8193	tsɿ⁵³	ts ɿ ⁵³	ts ɿ ⁵³	8193
+1753	Xuzhang	8193	tsɿ³³	ts ɿ ³³	ts ɿ ³³	8193
+1754	Yangliu	8193	tsɿ⁵⁴	ts ɿ ⁵⁴	ts ɿ ⁵⁴	8193
+1755	Yijiacun	8193	tɕiŋ²¹	tɕ i ŋ ²¹	tɕ i ŋ ²¹	8193
+1756	ProtoLalo	8193	tsi̠³	ts i̠ ³	ts i̠ ³	8193
+3066	Diaocao	8221	a⁵⁵	a ⁵⁵	a ⁵⁵	8221
+3067	Mangdi	8221	a²¹	a ²¹	a ²¹	8221
+3068	Qingyun	8221	a̤²¹	a̤ ²¹	a̤ ²¹	8221
+3069	Shuizhuping	8221	a²¹	a ²¹	a ²¹	8221
+3070	Yijiacun	8221	ɛ²¹	ɛ ²¹	ɛ ²¹	8221
+3071	ProtoLalo	8221	a²	a ²	a ²	8221
+152	Diaocao	8222	sa²⁴	s a ²⁴	s a ²⁴	8222
+153	Mangdi	8222	xɛ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	8222
+154	Qingyun	8222	su³³	s u ³³	s u ³³	8222
+155	Shuizhuping	8222	ʂu²⁴	ʂ u ²⁴	ʂ u ²⁴	8222
+156	Yangliu	8222	tɕʰi³³	tɕʰ i ³³	tɕʰ i ³³	8222
+157	Yijiacun	8222	sa³³	s a ³³	s a ³³	8222
+158	ProtoLalo	8222	ʃu³	ʃ u ³	ʃ u ³	8222
+3911	Diaocao	8237	tɕʰɛ³³	tɕʰ ɛ ³³	tɕʰ ɛ ³³	8237
+3912	Qingyun	8237	ʈʂʰa³³	ʈʂʰ a ³³	ʈʂʰ a ³³	8237
+3913	Shuizhuping	8237	tsʰɛ⁴⁴	tsʰ ɛ ⁴⁴	tsʰ ɛ ⁴⁴	8237
+3914	Xuzhang	8237	tsʰɛ³³	tsʰ ɛ ³³	tsʰ ɛ ³³	8237
+3915	Yangliu	8237	ʈʂʰɛ⁵³	ʈʂʰ ɛ ⁵³	ʈʂʰ ɛ ⁵³	8237
+3916	Yijiacun	8237	tsʰa̠³³	tsʰ a̠ ³³	tsʰ a̠ ³³	8237
+3917	ProtoLalo	8237	tʃʰɛ̠¹	tʃʰ ɛ̠ ¹	tʃʰ ɛ̠ ¹	8237
+1130	Diaocao	8263	sei⁴²	s ei ⁴²	s ei ⁴²	8263
+1131	Mangdi	8263	ɕɛ̠²¹	ɕ ɛ̠ ²¹	ɕ ɛ̠ ²¹	8263
+1132	Qingyun	8263	sɛ̠²¹	s ɛ̠ ²¹	s ɛ̠ ²¹	8263
+1133	Shuizhuping	8263	se⁵³	s e ⁵³	s e ⁵³	8263
+1134	Xuzhang	8263	sɛ̠i³³	s ɛ̠i ³³	s ɛ̠i ³³	8263
+1135	Yangliu	8263	sai⁵³	s ai ⁵³	s ai ⁵³	8263
+1136	Yijiacun	8263	su̠ʔ³³	s u̠ ʔ ³³	s u̠ ʔ ³³	8263
+1137	ProtoLalo	8263	se̠³	s e̠ ³	s e̠ ³	8263
+604	Diaocao	8274	a⁵⁵	a ⁵⁵	a ⁵⁵	8274
+605	Mangdi	8274	a⁵⁵	a ⁵⁵	a ⁵⁵	8274
+606	Qingyun	8274	a⁵⁵	a ⁵⁵	a ⁵⁵	8274
+607	Shuizhuping	8274	a⁵⁵	a ⁵⁵	a ⁵⁵	8274
+608	Xuzhang	8274	a³⁵	a ³⁵	a ³⁵	8274
+609	Yijiacun	8274	a²⁴	a ²⁴	a ²⁴	8274
+610	ProtoLalo	8274	a¹	a ¹	a ¹	8274
+2802	Qingyun	8277	ba̤²¹	b a̤ ²¹	b a̤ ²¹	8277
+2803	Shuizhuping	8277	ba²¹	b a ²¹	b a ²¹	8277
+2804	Xuzhang	8277	bo²¹	b o ²¹	b o ²¹	8277
+2805	Yangliu	8277	bo³³	b o ³³	b o ³³	8277
+2806	Yijiacun	8277	pʰa̠³³	pʰ a̠ ³³	pʰ a̠ ³³	8277
+2807	ProtoLalo	8277	ba²	b a ²	b a ²	8277
+820	Diaocao	8322	dʑi²¹	dʑ i ²¹	dʑ i ²¹	8322
+821	Mangdi	8322	ku²¹	k u ²¹	k u ²¹	8322
+822	Qingyun	8322	gɨ̤²¹	g ɨ̤ ²¹	g ɨ̤ ²¹	8322
+823	Shuizhuping	8322	gɛ²¹	g ɛ ²¹	g ɛ ²¹	8322
+824	Xuzhang	8322	gɨŋ²¹	g ɨ ŋ ²¹	g ɨ ŋ ²¹	8322
+825	Yangliu	8322	go²¹	g o ²¹	g o ²¹	8322
+826	ProtoLalo	8322	gɨ²	g ɨ ²	g ɨ ²	8322
+805	Diaocao	8359	sɛ⁴²	s ɛ ⁴²	s ɛ ⁴²	8359
+806	Mangdi	8359	sa̠²¹	s a̠ ²¹	s a̠ ²¹	8359
+807	Qingyun	8359	sa̠²¹	s a̠ ²¹	s a̠ ²¹	8359
+808	Shuizhuping	8359	sɛʔ⁵³	s ɛ ʔ ⁵³	s ɛ ʔ ⁵³	8359
+809	Xuzhang	8359	sɛ³³	s ɛ ³³	s ɛ ³³	8359
+810	Yangliu	8359	sɛ⁵³	s ɛ ⁵³	s ɛ ⁵³	8359
+811	Yijiacun	8359	sa̠²¹	s a̠ ²¹	s a̠ ²¹	8359
+812	ProtoLalo	8359	sɛ̠³	s ɛ̠ ³	s ɛ̠ ³	8359
+2489	Diaocao	8368	mei²¹	m ei ²¹	m ei ²¹	8368
+2490	Mangdi	8368	mu⁵⁵	m u ⁵⁵	m u ⁵⁵	8368
+2491	Qingyun	8368	mʉ⁵⁵	m ʉ ⁵⁵	m ʉ ⁵⁵	8368
+2492	Shuizhuping	8368	ma²¹	m a ²¹	m a ²¹	8368
+2493	Xuzhang	8368	ma²¹	m a ²¹	m a ²¹	8368
+2494	Yangliu	8368	ma²¹	m a ²¹	m a ²¹	8368
+2495	Yijiacun	8368	mɨ³³	m ɨ ³³	m ɨ ³³	8368
+2496	ProtoLalo	8368	ˀmu¹	ˀm u ¹	ˀm u ¹	8368
+635	Shuizhuping	8371	ni²¹	n i ²¹	n i ²¹	8371
+636	Xuzhang	8371	ɲi²¹	ɲ i ²¹	ɲ i ²¹	8371
+637	Yangliu	8371	ni²¹	n i ²¹	n i ²¹	8371
+638	ProtoLalo	8371	ni²	n i ²	n i ²	8371
+3608	Diaocao	8392	tʰei⁵⁵	tʰ ei ⁵⁵	tʰ ei ⁵⁵	8392
+3609	Mangdi	8392	dɛ³³	d ɛ ³³	d ɛ ³³	8392
+3610	Qingyun	8392	dɛ̠³³	d ɛ̠ ³³	d ɛ̠ ³³	8392
+3611	Shuizhuping	8392	dei⁴⁴	d ei ⁴⁴	d ei ⁴⁴	8392
+3612	Xuzhang	8392	dɛi³³	d ɛi ³³	d ɛi ³³	8392
+3613	Yangliu	8392	di⁴⁵	d i ⁴⁵	d i ⁴⁵	8392
+3614	ProtoLalo	8392	de̠¹	d e̠ ¹	d e̠ ¹	8392
+9	Mangdi	8393	gu²¹	g u ²¹	g u ²¹	8393
+10	Xuzhang	8393	gu²¹	g u ²¹	g u ²¹	8393
+11	Yangliu	8393	gɨ²¹	g ɨ ²¹	g ɨ ²¹	8393
+12	Yijiacun	8393	gɨ̠²¹	g ɨ̠ ²¹	g ɨ̠ ²¹	8393
+13	ProtoLalo	8393	go̠³	g o̠ ³	g o̠ ³	8393
+319	Diaocao	8434	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	8434
+320	Qingyun	8434	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	8434
+321	Shuizhuping	8434	kʰɨ⁴⁴	kʰ ɨ ⁴⁴	kʰ ɨ ⁴⁴	8434
+322	Xuzhang	8434	kʰɨ⁴⁵	kʰ ɨ ⁴⁵	kʰ ɨ ⁴⁵	8434
+323	Yangliu	8434	kɛ³³	k ɛ ³³	k ɛ ³³	8434
+324	Yijiacun	8434	ko²¹	k o ²¹	k o ²¹	8434
+325	ProtoLalo	8434	kʰi¹	kʰ i ¹	kʰ i ¹	8434
+2137	Mangdi	8436	pɛ²¹	p ɛ ²¹	p ɛ ²¹	8436
+2138	Shuizhuping	8436	pɛ²¹	p ɛ ²¹	p ɛ ²¹	8436
+2139	Yangliu	8436	pai³³	p ai ³³	p ai ³³	8436
+2140	Yijiacun	8436	bɨi⁵³	b ɨi ⁵³	b ɨi ⁵³	8436
+2141	ProtoLalo	8436	pe³	p e ³	p e ³	8436
+1258	Diaocao	8457	tsʰɛ⁵⁵	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	8457
+1259	Mangdi	8457	tsʰɛ⁵⁵	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	8457
+1260	Qingyun	8457	tsʰɛ⁵⁵	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	8457
+1261	Shuizhuping	8457	tsʰɛ²⁴	tsʰ ɛ ²⁴	tsʰ ɛ ²⁴	8457
+1262	Xuzhang	8457	tsʰɛ⁴⁵³	tsʰ ɛ ⁴⁵³	tsʰ ɛ ⁴⁵³	8457
+1263	Yangliu	8457	tsʰɛ³³	tsʰ ɛ ³³	tsʰ ɛ ³³	8457
+1264	ProtoLalo	8457	tsʰɛ¹	tsʰ ɛ ¹	tsʰ ɛ ¹	8457
+1823	Diaocao	8492	nei³³	n ei ³³	n ei ³³	8492
+1824	Mangdi	8492	ni̠³³	n i̠ ³³	n i̠ ³³	8492
+1825	Qingyun	8492	ɲjɛ̠³³	ɲ j ɛ̠ ³³	ɲ j ɛ̠ ³³	8492
+1826	Shuizhuping	8492	ni⁴⁴	n i ⁴⁴	n i ⁴⁴	8492
+1827	Xuzhang	8492	nɛ̠i³³	n ɛ̠i ³³	n ɛ̠i ³³	8492
+1828	Yijiacun	8492	nɨ̠³³	n ɨ̠ ³³	n ɨ̠ ³³	8492
+1829	ProtoLalo	8492	ni̠¹	n i̠ ¹	n i̠ ¹	8492
+2026	Diaocao	8520	ɣɛ²⁴	ɣ ɛ ²⁴	ɣ ɛ ²⁴	8520
+2027	Qingyun	8520	gə⁵⁵	g ə ⁵⁵	g ə ⁵⁵	8520
+2028	Shuizhuping	8520	ɣɛ²⁴	ɣ ɛ ²⁴	ɣ ɛ ²⁴	8520
+2029	Xuzhang	8520	ɣɛ²⁴	ɣ ɛ ²⁴	ɣ ɛ ²⁴	8520
+2030	Yangliu	8520	ɣɛ³³	ɣ ɛ ³³	ɣ ɛ ³³	8520
+2031	Yijiacun	8520	ʝɛ²⁴	ʝ ɛ ²⁴	ʝ ɛ ²⁴	8520
+2032	ProtoLalo	8520	ɣɛ¹	ɣ ɛ ¹	ɣ ɛ ¹	8520
+231	Qingyun	8543	dɛ̠²¹	d ɛ̠ ²¹	d ɛ̠ ²¹	8543
+232	Shuizhuping	8543	dɛ⁵³	d ɛ ⁵³	d ɛ ⁵³	8543
+233	Xuzhang	8543	dɛi³³	d ɛi ³³	d ɛi ³³	8543
+234	ProtoLalo	8543	dɛ̠³	d ɛ̠ ³	d ɛ̠ ³	8543
+2916	Diaocao	8569	pʰei⁴²	pʰ ei ⁴²	pʰ ei ⁴²	8569
+2917	Mangdi	8569	pʰɛ²¹	pʰ ɛ ²¹	pʰ ɛ ²¹	8569
+2918	Qingyun	8569	pʰɛ̠²¹	pʰ ɛ̠ ²¹	pʰ ɛ̠ ²¹	8569
+2919	Shuizhuping	8569	pʰɛ⁵³	pʰ ɛ ⁵³	pʰ ɛ ⁵³	8569
+2920	Xuzhang	8569	pʰɛi³³	pʰ ɛi ³³	pʰ ɛi ³³	8569
+2921	Yangliu	8569	pʰai⁵⁵	pʰ ai ⁵⁵	pʰ ai ⁵⁵	8569
+2922	Yijiacun	8569	pʰi̠²¹	pʰ i̠ ²¹	pʰ i̠ ²¹	8569
+2923	ProtoLalo	8569	pʰe̠³	pʰ e̠ ³	pʰ e̠ ³	8569
+2754	Mangdi	8615	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	8615
+2755	Qingyun	8615	ɣɨ⁵⁵	ɣ ɨ ⁵⁵	ɣ ɨ ⁵⁵	8615
+2756	Shuizhuping	8615	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	8615
+2757	Yangliu	8615	ɣɨ³³	ɣ ɨ ³³	ɣ ɨ ³³	8615
+2758	Yijiacun	8615	ɣɨ²⁴	ɣ ɨ ²⁴	ɣ ɨ ²⁴	8615
+2759	ProtoLalo	8615	ɣi¹	ɣ i ¹	ɣ i ¹	8615
+904	Diaocao	8631	vɛ²¹	v ɛ ²¹	v ɛ ²¹	8631
+905	Mangdi	8631	vɛ²¹	v ɛ ²¹	v ɛ ²¹	8631
+906	Qingyun	8631	ˀvɛ̤²¹	ˀv ɛ̤ ²¹	ˀv ɛ̤ ²¹	8631
+907	Shuizhuping	8631	vɛ⁵⁵	v ɛ ⁵⁵	v ɛ ⁵⁵	8631
+908	Xuzhang	8631	pʰɛi³³	pʰ ɛi ³³	pʰ ɛi ³³	8631
+909	Yangliu	8631	bei³³	b ei ³³	b ei ³³	8631
+910	Yijiacun	8631	pʰa̠²¹	pʰ a̠ ²¹	pʰ a̠ ²¹	8631
+911	ProtoLalo	8631	ˀvɛ²	ˀv ɛ ²	ˀv ɛ ²	8631
+1992	Diaocao	8649	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	8649
+1993	Mangdi	8649	kʰi⁵⁵	kʰ i ⁵⁵	kʰ i ⁵⁵	8649
+1994	Qingyun	8649	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	8649
+1995	Shuizhuping	8649	kʰɨ⁴⁴	kʰ ɨ ⁴⁴	kʰ ɨ ⁴⁴	8649
+1996	Xuzhang	8649	kʰɨ⁴⁵³	kʰ ɨ ⁴⁵³	kʰ ɨ ⁴⁵³	8649
+1997	Yangliu	8649	ku³³	k u ³³	k u ³³	8649
+1998	Yijiacun	8649	tɕɛ²¹	tɕ ɛ ²¹	tɕ ɛ ²¹	8649
+1999	ProtoLalo	8649	kʰi¹	kʰ i ¹	kʰ i ¹	8649
+3657	Diaocao	8684	lɛ⁴²	l ɛ ⁴²	l ɛ ⁴²	8684
+3658	Mangdi	8684	la̠²¹	l a̠ ²¹	l a̠ ²¹	8684
+3659	Qingyun	8684	la̠²¹	l a̠ ²¹	l a̠ ²¹	8684
+3660	Shuizhuping	8684	lɛ⁵³	l ɛ ⁵³	l ɛ ⁵³	8684
+3661	Xuzhang	8684	lɛ³³	l ɛ ³³	l ɛ ³³	8684
+3662	Yangliu	8684	ljɛ⁵³	l j ɛ ⁵³	l j ɛ ⁵³	8684
+3663	Yijiacun	8684	la̠ʔ²¹	l a̠ ʔ ²¹	l a̠ ʔ ²¹	8684
+3664	ProtoLalo	8684	lɛ̠³	l ɛ̠ ³	l ɛ̠ ³	8684
+3181	Diaocao	8717	a⁵⁵	a ⁵⁵	a ⁵⁵	8717
+3182	Mangdi	8717	a⁵⁵	a ⁵⁵	a ⁵⁵	8717
+3183	Qingyun	8717	a⁵⁵	a ⁵⁵	a ⁵⁵	8717
+3184	Xuzhang	8717	a³⁵	a ³⁵	a ³⁵	8717
+3185	Yangliu	8717	a⁵⁵	a ⁵⁵	a ⁵⁵	8717
+3186	Yijiacun	8717	a³⁵	a ³⁵	a ³⁵	8717
+3187	ProtoLalo	8717	a¹	a ¹	a ¹	8717
+500	Mangdi	8756	la̠³³	l a̠ ³³	l a̠ ³³	8756
+501	Xuzhang	8756	lɛ³³	l ɛ ³³	l ɛ ³³	8756
+502	Yijiacun	8756	la̠ʔ²¹	l a̠ ʔ ²¹	l a̠ ʔ ²¹	8756
+503	ProtoLalo	8756	la³	l a ³	l a ³	8756
+2544	Diaocao	8788	nɔ⁵⁵	n ɔ ⁵⁵	n ɔ ⁵⁵	8788
+2545	Mangdi	8788	no⁵⁵	n o ⁵⁵	n o ⁵⁵	8788
+2546	Qingyun	8788	ˀna⁵⁵	ˀn a ⁵⁵	ˀn a ⁵⁵	8788
+2547	Shuizhuping	8788	na⁴⁴	n a ⁴⁴	n a ⁴⁴	8788
+2548	Xuzhang	8788	no⁴⁵³	n o ⁴⁵³	n o ⁴⁵³	8788
+2549	Yangliu	8788	na³³	n a ³³	n a ³³	8788
+2550	ProtoLalo	8788	ˀna¹	ˀn a ¹	ˀn a ¹	8788
+2621	Diaocao	8797	ka⁴²	k a ⁴²	k a ⁴²	8797
+2622	Mangdi	8797	ko²¹	k o ²¹	k o ²¹	8797
+2623	Qingyun	8797	zɛ⁵⁵	z ɛ ⁵⁵	z ɛ ⁵⁵	8797
+2624	Shuizhuping	8797	zɛ²⁴	z ɛ ²⁴	z ɛ ²⁴	8797
+2625	Xuzhang	8797	xo³³	x o ³³	x o ³³	8797
+2626	Yangliu	8797	zɛ³³	z ɛ ³³	z ɛ ³³	8797
+2627	Yijiacun	8797	ko⁵⁵	k o ⁵⁵	k o ⁵⁵	8797
+2628	ProtoLalo	8797	zɛ¹	z ɛ ¹	z ɛ ¹	8797
+2936	Diaocao	8809	sei²¹	s ei ²¹	s ei ²¹	8809
+2937	Mangdi	8809	sɿ²¹	s ɿ ²¹	s ɿ ²¹	8809
+2938	Qingyun	8809	sɿ²¹	s ɿ ²¹	s ɿ ²¹	8809
+2939	Shuizhuping	8809	sɿ²¹	s ɿ ²¹	s ɿ ²¹	8809
+2940	Xuzhang	8809	sɿ²¹	s ɿ ²¹	s ɿ ²¹	8809
+2941	Yangliu	8809	sɿ²¹	s ɿ ²¹	s ɿ ²¹	8809
+2942	Yijiacun	8809	ɕi²¹	ɕ i ²¹	ɕ i ²¹	8809
+2943	ProtoLalo	8809	se²	s e ²	s e ²	8809
+2826	Mangdi	881	lə⁵⁵	l ə ⁵⁵	l ə ⁵⁵	881
+2827	Qingyun	881	ly⁵⁵	l y ⁵⁵	l y ⁵⁵	881
+2828	Xuzhang	881	ly²⁴	l y ²⁴	l y ²⁴	881
+2829	Yangliu	881	lə³³	l ə ³³	l ə ³³	881
+2830	Yijiacun	881	lə²⁴	l ə ²⁴	l ə ²⁴	881
+2831	ProtoLalo	881	ly¹	l y ¹	l y ¹	881
+265	Diaocao	891	ku⁴²	k u ⁴²	k u ⁴²	891
+266	Mangdi	891	ku²¹	k u ²¹	k u ²¹	891
+267	Qingyun	891	kʰə³³	kʰ ə ³³	kʰ ə ³³	891
+268	Shuizhuping	891	ka²¹	k a ²¹	k a ²¹	891
+269	Xuzhang	891	kʰɤ³³	kʰ ɤ ³³	kʰ ɤ ³³	891
+270	Yangliu	891	kʰo³³	kʰ o ³³	kʰ o ³³	891
+271	Yijiacun	891	kwa²⁴	k w a ²⁴	k w a ²⁴	891
+272	ProtoLalo	891	ka²	k a ²	k a ²	891
+3466	Diaocao	8910	pʰi⁴²	pʰ i ⁴²	pʰ i ⁴²	8910
+3467	Mangdi	8910	pʰi²¹	pʰ i ²¹	pʰ i ²¹	8910
+3468	Qingyun	8910	fɛ̠²¹	f ɛ̠ ²¹	f ɛ̠ ²¹	8910
+3469	Shuizhuping	8910	pʰiʔ⁵³	pʰ i ʔ ⁵³	pʰ i ʔ ⁵³	8910
+3470	Yangliu	8910	pʰjɛ⁵³	pʰ j ɛ ⁵³	pʰ j ɛ ⁵³	8910
+3471	Yijiacun	8910	pʰi²¹	pʰ i ²¹	pʰ i ²¹	8910
+3472	ProtoLalo	8910	pʰi̠³	pʰ i̠ ³	pʰ i̠ ³	8910
+1322	Diaocao	8934	sɛ²¹	s ɛ ²¹	s ɛ ²¹	8934
+1323	Mangdi	8934	goŋ²⁵	g o ŋ ²⁵	g o ŋ ²⁵	8934
+1324	Qingyun	8934	gə⁵⁵	g ə ⁵⁵	g ə ⁵⁵	8934
+1325	Shuizhuping	8934	sɛ²¹	s ɛ ²¹	s ɛ ²¹	8934
+1326	Xuzhang	8934	sɛ²¹	s ɛ ²¹	s ɛ ²¹	8934
+1327	Yangliu	8934	ɣai⁵³	ɣ ai ⁵³	ɣ ai ⁵³	8934
+1328	Yijiacun	8934	xaŋ²⁴	x a ŋ ²⁴	x a ŋ ²⁴	8934
+1329	ProtoLalo	8934	sɛ²	s ɛ ²	s ɛ ²	8934
+79	Diaocao	8943	sei³¹	s ei ³¹	s ei ³¹	8943
+80	Mangdi	8943	ɕi⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	8943
+81	Shuizhuping	8943	dzɿ²⁴	dz ɿ ²⁴	dz ɿ ²⁴	8943
+82	Xuzhang	8943	zo²¹	z o ²¹	z o ²¹	8943
+83	Yangliu	8943	za²¹	z a ²¹	z a ²¹	8943
+84	Yijiacun	8943	za⁵⁵	z a ⁵⁵	z a ⁵⁵	8943
+85	ProtoLalo	8943	dzi²	dz i ²	dz i ²	8943
+2861	Diaocao	8962	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	8962
+2862	Mangdi	8962	sɿ²¹	s ɿ ²¹	s ɿ ²¹	8962
+2863	Qingyun	8962	tsʰɿ²¹	tsʰ ɿ ²¹	tsʰ ɿ ²¹	8962
+2864	Shuizhuping	8962	tsʰɛ²¹	tsʰ ɛ ²¹	tsʰ ɛ ²¹	8962
+2865	ProtoLalo	8962	tsʰɛ²	tsʰ ɛ ²	tsʰ ɛ ²	8962
+2615	Diaocao	9005	a⁵⁵	a ⁵⁵	a ⁵⁵	9005
+2616	Qingyun	9005	a⁵⁵	a ⁵⁵	a ⁵⁵	9005
+2617	Shuizhuping	9005	a⁴⁴	a ⁴⁴	a ⁴⁴	9005
+2618	Xuzhang	9005	a³⁵	a ³⁵	a ³⁵	9005
+2619	Yangliu	9005	a⁵⁵	a ⁵⁵	a ⁵⁵	9005
+2620	ProtoLalo	9005	a¹	a ¹	a ¹	9005
+813	Diaocao	9006	tsɛ⁴²	ts ɛ ⁴²	ts ɛ ⁴²	9006
+814	Qingyun	9006	ʈʂa̠²¹	ʈʂ a̠ ²¹	ʈʂ a̠ ²¹	9006
+815	Shuizhuping	9006	ʈʂa⁵³	ʈʂ a ⁵³	ʈʂ a ⁵³	9006
+816	Xuzhang	9006	ʈʂɛ̠˞³³	ʈʂ ɛ̠˞ ³³	ʈʂ ɛ̠˞ ³³	9006
+817	Yangliu	9006	tsɛ⁵³	ts ɛ ⁵³	ts ɛ ⁵³	9006
+818	Yijiacun	9006	tsa̠ʔ²¹	ts a̠ ʔ ²¹	ts a̠ ʔ ²¹	9006
+819	ProtoLalo	9006	tʃɛ̠³	tʃ ɛ̠ ³	tʃ ɛ̠ ³	9006
+3619	Qingyun	9031	ʐo̠²¹	ʐ o̠ ²¹	ʐ o̠ ²¹	9031
+3620	Shuizhuping	9031	ʐu⁵⁵	ʐ u ⁵⁵	ʐ u ⁵⁵	9031
+3621	Xuzhang	9031	zo²¹	z o ²¹	z o ²¹	9031
+3622	Yangliu	9031	zu⁴²	z u ⁴²	z u ⁴²	9031
+3623	ProtoLalo	9031	ʒo̠³	ʒ o̠ ³	ʒ o̠ ³	9031
+1922	Diaocao	9047	ja³³	j a ³³	j a ³³	9047
+1923	Mangdi	9047	jɛ²¹	j ɛ ²¹	j ɛ ²¹	9047
+1924	Xuzhang	9047	ja³³	j a ³³	j a ³³	9047
+1925	Yangliu	9047	ja²¹	j a ²¹	j a ²¹	9047
+1926	ProtoLalo	9047	jaŋ²	j a ŋ ²	j a ŋ ²	9047
+2797	Diaocao	9066	lu⁴²	l u ⁴²	l u ⁴²	9066
+2798	Mangdi	9066	lɨ²¹	l ɨ ²¹	l ɨ ²¹	9066
+2799	Shuizhuping	9066	lu⁵⁵	l u ⁵⁵	l u ⁵⁵	9066
+2800	Xuzhang	9066	laŋ²¹	l a ŋ ²¹	l a ŋ ²¹	9066
+2801	ProtoLalo	9066	lo̠³	l o̠ ³	l o̠ ³	9066
+2281	Mangdi	9070	ga²¹	g a ²¹	g a ²¹	9070
+2282	Shuizhuping	9070	ʈʂʰʅ⁴⁴	ʈʂʰ ʅ ⁴⁴	ʈʂʰ ʅ ⁴⁴	9070
+2283	Yangliu	9070	tsʰai⁵⁵	tsʰ ai ⁵⁵	tsʰ ai ⁵⁵	9070
+2284	ProtoLalo	9070	tʃʰi̠³	tʃʰ i̠ ³	tʃʰ i̠ ³	9070
+2832	Diaocao	9109	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	9109
+2833	Mangdi	9109	kʰi²¹	kʰ i ²¹	kʰ i ²¹	9109
+2834	Qingyun	9109	kʰɨ̥²¹	kʰ ɨ̥ ²¹	kʰ ɨ̥ ²¹	9109
+2835	Shuizhuping	9109	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	9109
+2836	Xuzhang	9109	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	9109
+2837	Yangliu	9109	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	9109
+2838	Yijiacun	9109	kʰɨ²¹	kʰ ɨ ²¹	kʰ ɨ ²¹	9109
+2839	ProtoLalo	9109	kʰi²	kʰ i ²	kʰ i ²	9109
+2582	Diaocao	9139	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	9139
+2583	Mangdi	9139	ko²¹	k o ²¹	k o ²¹	9139
+2584	Qingyun	9139	tsɿ⁵⁵	ts ɿ ⁵⁵	ts ɿ ⁵⁵	9139
+2585	Shuizhuping	9139	tsɿ²⁴	ts ɿ ²⁴	ts ɿ ²⁴	9139
+2586	Xuzhang	9139	tsɿ⁴⁵³	ts ɿ ⁴⁵³	ts ɿ ⁴⁵³	9139
+2587	Yangliu	9139	tə³³	t ə ³³	t ə ³³	9139
+2588	Yijiacun	9139	də²⁴	d ə ²⁴	d ə ²⁴	9139
+2589	ProtoLalo	9139	tsi¹	ts i ¹	ts i ¹	9139
+1797	Diaocao	9153	tsu³³	ts u ³³	ts u ³³	9153
+1798	Mangdi	9153	tsa̠⁵⁵	ts a̠ ⁵⁵	ts a̠ ⁵⁵	9153
+1799	Qingyun	9153	tso̠³³	ts o̠ ³³	ts o̠ ³³	9153
+1800	Shuizhuping	9153	zɿ⁵³	z ɿ ⁵³	z ɿ ⁵³	9153
+1801	Xuzhang	9153	tsu̠³³	ts u̠ ³³	ts u̠ ³³	9153
+1802	ProtoLalo	9153	ʒi̠³	ʒ i̠ ³	ʒ i̠ ³	9153
+1197	Diaocao	9164	gə²⁴	g ə ²⁴	g ə ²⁴	9164
+1198	Qingyun	9164	gɨ⁵⁵	g ɨ ⁵⁵	g ɨ ⁵⁵	9164
+1199	Shuizhuping	9164	gɨ²⁴	g ɨ ²⁴	g ɨ ²⁴	9164
+1200	Yijiacun	9164	kʰa³³	kʰ a ³³	kʰ a ³³	9164
+1201	ProtoLalo	9164	gɨ¹	g ɨ ¹	g ɨ ¹	9164
+439	Diaocao	9165	fɤ⁴²	f ɤ ⁴²	f ɤ ⁴²	9165
+440	Mangdi	9165	fu²¹	f u ²¹	f u ²¹	9165
+441	Xuzhang	9165	bo²⁴	b o ²⁴	b o ²⁴	9165
+442	Yangliu	9165	pɛ³³	p ɛ ³³	p ɛ ³³	9165
+443	ProtoLalo	9165	pʰu²	pʰ u ²	pʰ u ²	9165
+290	Diaocao	9197	xɔ²¹	x ɔ ²¹	x ɔ ²¹	9197
+291	Mangdi	9197	xo²¹	x o ²¹	x o ²¹	9197
+292	Qingyun	9197	xa̤²¹	x a̤ ²¹	x a̤ ²¹	9197
+293	Shuizhuping	9197	xa²¹	x a ²¹	x a ²¹	9197
+294	Xuzhang	9197	xo²¹	x o ²¹	x o ²¹	9197
+295	Yangliu	9197	xa²¹	x a ²¹	x a ²¹	9197
+296	Yijiacun	9197	xo²¹	x o ²¹	x o ²¹	9197
+297	ProtoLalo	9197	xa²	x a ²	x a ²	9197
+3681	Diaocao	9206	nɛ³³	n ɛ ³³	n ɛ ³³	9206
+3682	Mangdi	9206	na³³	n a ³³	n a ³³	9206
+3683	Qingyun	9206	ˀnɛ̠³³	ˀn ɛ̠ ³³	ˀn ɛ̠ ³³	9206
+3684	Shuizhuping	9206	nɛ⁴⁴	n ɛ ⁴⁴	n ɛ ⁴⁴	9206
+3685	Xuzhang	9206	nɛ³³	n ɛ ³³	n ɛ ³³	9206
+3686	Yangliu	9206	nɛ⁵⁵	n ɛ ⁵⁵	n ɛ ⁵⁵	9206
+3687	Yijiacun	9206	na³³	n a ³³	n a ³³	9206
+3688	ProtoLalo	9206	nɛ̠	n ɛ̠	n ɛ̠	9206
+1104	Diaocao	925	zɔ²¹	z ɔ ²¹	z ɔ ²¹	925
+1105	Qingyun	925	ta²¹	t a ²¹	t a ²¹	925
+1106	Shuizhuping	925	tsɿ⁵³	ts ɿ ⁵³	ts ɿ ⁵³	925
+1107	ProtoLalo	925	za²	z a ²	z a ²	925
+1108	Diaocao	9275	nɛ⁴²	n ɛ ⁴²	n ɛ ⁴²	9275
+1109	Mangdi	9275	na̠²¹	n a̠ ²¹	n a̠ ²¹	9275
+1110	Qingyun	9275	ˀna̠²¹	ˀn a̠ ²¹	ˀn a̠ ²¹	9275
+1111	Shuizhuping	9275	nɛʔ⁵³	n ɛ ʔ ⁵³	n ɛ ʔ ⁵³	9275
+1112	Xuzhang	9275	nɛ³³	n ɛ ³³	n ɛ ³³	9275
+1113	Yangliu	9275	nɛ⁵³	n ɛ ⁵³	n ɛ ⁵³	9275
+1114	Yijiacun	9275	na̠ʔ²¹	n a̠ ʔ ²¹	n a̠ ʔ ²¹	9275
+1115	ProtoLalo	9275	ˀnɛ̠³	ˀn ɛ̠ ³	ˀn ɛ̠ ³	9275
+444	Diaocao	9285	tsɿ³³	ts ɿ ³³	ts ɿ ³³	9285
+445	Shuizhuping	9285	ʈʂʅ⁴⁴	ʈʂ ʅ ⁴⁴	ʈʂ ʅ ⁴⁴	9285
+446	Xuzhang	9285	ʈʂʅ³³	ʈʂ ʅ ³³	ʈʂ ʅ ³³	9285
+447	Yangliu	9285	tsɿ⁵³	ts ɿ ⁵³	ts ɿ ⁵³	9285
+448	Yijiacun	9285	tɕi³³	tɕ i ³³	tɕ i ³³	9285
+449	ProtoLalo	9285	tʃɨ̠¹	tʃ ɨ̠ ¹	tʃ ɨ̠ ¹	9285
+414	Diaocao	9301	ga²⁴	g a ²⁴	g a ²⁴	9301
+415	Yangliu	9301	gu³³	g u ³³	g u ³³	9301
+416	ProtoLalo	9301	gaŋ³	g a ŋ ³	g a ŋ ³	9301
+3587	Mangdi	9333	pʰi⁵⁵	pʰ i ⁵⁵	pʰ i ⁵⁵	9333
+3588	Qingyun	9333	pʰi²¹	pʰ i ²¹	pʰ i ²¹	9333
+3589	Shuizhuping	9333	pʰe²¹	pʰ e ²¹	pʰ e ²¹	9333
+3590	Xuzhang	9333	pʰɛi³³	pʰ ɛi ³³	pʰ ɛi ³³	9333
+3591	ProtoLalo	9333	pʰe²	pʰ e ²	pʰ e ²	9333
+576	Diaocao	9380	bɔ³³	b ɔ ³³	b ɔ ³³	9380
+577	Mangdi	9380	bo³³	b o ³³	b o ³³	9380
+578	Qingyun	9380	ba³³	b a ³³	b a ³³	9380
+579	Shuizhuping	9380	ba³³	b a ³³	b a ³³	9380
+580	Xuzhang	9380	ba³³	b a ³³	b a ³³	9380
+581	Yangliu	9380	ba³³	b a ³³	b a ³³	9380
+582	Yijiacun	9380	bo³³	b o ³³	b o ³³	9380
+583	ProtoLalo	9380	ba³	b a ³	b a ³	9380
+2590	Mangdi	9536	na³³	n a ³³	n a ³³	9536
+2591	Shuizhuping	9536	na⁴²	n a ⁴²	n a ⁴²	9536
+2592	Yijiacun	9536	na²⁴	n a ²⁴	n a ²⁴	9536
+2593	ProtoLalo	9536	ɲa̠¹	ɲ a̠ ¹	ɲ a̠ ¹	9536
+996	Diaocao	9614	mɔ³³	m ɔ ³³	m ɔ ³³	9614
+997	Mangdi	9614	mo³³	m o ³³	m o ³³	9614
+998	Qingyun	9614	ˀma³³	ˀm a ³³	ˀm a ³³	9614
+999	Shuizhuping	9614	ma³³	m a ³³	m a ³³	9614
+1000	Xuzhang	9614	mo³³	m o ³³	m o ³³	9614
+1001	Yangliu	9614	ma⁵⁵	m a ⁵⁵	m a ⁵⁵	9614
+1002	Yijiacun	9614	mo³³	m o ³³	m o ³³	9614
+1003	ProtoLalo	9614	ˀma³	ˀm a ³	ˀm a ³	9614
+2019	Diaocao	9615	lɔ²¹	l ɔ ²¹	l ɔ ²¹	9615
+2020	Mangdi	9615	lo²¹	l o ²¹	l o ²¹	9615
+2021	Qingyun	9615	la̤²¹	l a̤ ²¹	l a̤ ²¹	9615
+2022	Shuizhuping	9615	la²¹	l a ²¹	l a ²¹	9615
+2023	Xuzhang	9615	lo²¹	l o ²¹	l o ²¹	9615
+2024	Yangliu	9615	la²¹	l a ²¹	l a ²¹	9615
+2025	ProtoLalo	9615	la²	l a ²	l a ²	9615
+3320	Diaocao	9633	dza²¹	dz a ²¹	dz a ²¹	9633
+3321	Mangdi	9633	dʒa²¹	dʒ a ²¹	dʒ a ²¹	9633
+3322	Qingyun	9633	dʑɛ̤²¹	dʑ ɛ̤ ²¹	dʑ ɛ̤ ²¹	9633
+3323	Yangliu	9633	tə⁵⁵	t ə ⁵⁵	t ə ⁵⁵	9633
+3324	Yijiacun	9633	dʑɛ²¹	dʑ ɛ ²¹	dʑ ɛ ²¹	9633
+3325	ProtoLalo	9633	dʒɛ²	dʒ ɛ ²	dʒ ɛ ²	9633
+3878	Diaocao	9666	pei⁴²	p ei ⁴²	p ei ⁴²	9666
+3879	Qingyun	9666	pʰɛ³³	pʰ ɛ ³³	pʰ ɛ ³³	9666
+3880	Xuzhang	9666	pɛi³³	p ɛi ³³	p ɛi ³³	9666
+3881	ProtoLalo	9666	pe̠³	p e̠ ³	p e̠ ³	9666
+104	Diaocao	9704	ei²¹	ei ²¹	ei ²¹	9704
+105	Mangdi	9704	u³³	u ³³	u ³³	9704
+106	Qingyun	9704	i²¹	i ²¹	i ²¹	9704
+107	Shuizhuping	9704	i²¹	i ²¹	i ²¹	9704
+108	Yangliu	9704	ai³³	ai ³³	ai ³³	9704
+109	Yijiacun	9704	i²⁴	i ²⁴	i ²⁴	9704
+110	ProtoLalo	9704	e²	e ²	e ²	9704
+716	Qingyun	9707	hə²¹	h ə ²¹	h ə ²¹	9707
+717	Xuzhang	9707	ha²¹	h a ²¹	h a ²¹	9707
+718	ProtoLalo	9707	haŋ²	h a ŋ ²	h a ŋ ²	9707
+3037	Diaocao	9724	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	9724
+3038	Mangdi	9724	tsʰɿ⁵⁵	tsʰ ɿ ⁵⁵	tsʰ ɿ ⁵⁵	9724
+3039	Qingyun	9724	ʈʂʰʅ⁵⁵	ʈʂʰ ʅ ⁵⁵	ʈʂʰ ʅ ⁵⁵	9724
+3040	Shuizhuping	9724	ʈʂʰʅ²⁴	ʈʂʰ ʅ ²⁴	ʈʂʰ ʅ ²⁴	9724
+3041	Xuzhang	9724	ʈʂʰʅ⁵³	ʈʂʰ ʅ ⁵³	ʈʂʰ ʅ ⁵³	9724
+3042	Yangliu	9724	tsʰɿ⁵³	tsʰ ɿ ⁵³	tsʰ ɿ ⁵³	9724
+3043	Yijiacun	9724	tsɿ³³	ts ɿ ³³	ts ɿ ³³	9724
+3044	ProtoLalo	9724	tʃʰɨ¹	tʃʰ ɨ ¹	tʃʰ ɨ ¹	9724
+1415	Diaocao	9774	tei³³	t ei ³³	t ei ³³	9774
+1416	Mangdi	9774	toŋ²¹	t o ŋ ²¹	t o ŋ ²¹	9774
+1417	Qingyun	9774	də²¹	d ə ²¹	d ə ²¹	9774
+1418	Shuizhuping	9774	du²⁴	d u ²⁴	d u ²⁴	9774
+1419	Xuzhang	9774	du²¹	d u ²¹	d u ²¹	9774
+1420	Yangliu	9774	do⁴¹	d o ⁴¹	d o ⁴¹	9774
+1421	Yijiacun	9774	du³³	d u ³³	d u ³³	9774
+1422	ProtoLalo	9774	tʃʰe̠¹	tʃʰ e̠ ¹	tʃʰ e̠ ¹	9774
+3513	Diaocao	9794	ku⁴²	k u ⁴²	k u ⁴²	9794
+3514	Xuzhang	9794	ka³³	k a ³³	k a ³³	9794
+3515	ProtoLalo	9794	kaŋ²	k a ŋ ²	k a ŋ ²	9794
+2076	Diaocao	9795	dzɿ³³	dz ɿ ³³	dz ɿ ³³	9795
+2077	Qingyun	9795	tsɿ³³	ts ɿ ³³	ts ɿ ³³	9795
+2078	Shuizhuping	9795	tsɿ³³	ts ɿ ³³	ts ɿ ³³	9795
+2079	Xuzhang	9795	tsɿ³³	ts ɿ ³³	ts ɿ ³³	9795
+2080	ProtoLalo	9795	tsi³	ts i ³	ts i ³	9795
+2126	Diaocao	9813	ɣə⁴²	ɣ ə ⁴²	ɣ ə ⁴²	9813
+2127	Yangliu	9813	ɣɨ⁵³	ɣ ɨ ⁵³	ɣ ɨ ⁵³	9813
+2128	Yijiacun	9813	ɣɨ̠ʔ²¹	ɣ ɨ̠ ʔ ²¹	ɣ ɨ̠ ʔ ²¹	9813
+2129	ProtoLalo	9813	ɣy̠³	ɣ y̠ ³	ɣ y̠ ³	9813
+3337	Diaocao	9827	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	9827
+3338	Mangdi	9827	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	9827
+3339	Qingyun	9827	kʰɨ⁵⁵	kʰ ɨ ⁵⁵	kʰ ɨ ⁵⁵	9827
+3340	Shuizhuping	9827	kʰɨ²⁴	kʰ ɨ ²⁴	kʰ ɨ ²⁴	9827
+3341	Yijiacun	9827	kʰi²⁴	kʰ i ²⁴	kʰ i ²⁴	9827
+3342	ProtoLalo	9827	kʰɨ¹	kʰ ɨ ¹	kʰ ɨ ¹	9827
+2054	Diaocao	9844	ɕi⁴²	ɕ i ⁴²	ɕ i ⁴²	9844
+2055	Mangdi	9844	xɨ̠²¹	x ɨ̠ ²¹	x ɨ̠ ²¹	9844
+2056	Qingyun	9844	xɨ̠²¹	x ɨ̠ ²¹	x ɨ̠ ²¹	9844
+2057	Shuizhuping	9844	xɨʔ⁵³	x ɨ ʔ ⁵³	x ɨ ʔ ⁵³	9844
+2058	Xuzhang	9844	xɨ³³	x ɨ ³³	x ɨ ³³	9844
+2059	Yangliu	9844	xɨ⁵³	x ɨ ⁵³	x ɨ ⁵³	9844
+2060	Yijiacun	9844	xɨ̠²¹	x ɨ̠ ²¹	x ɨ̠ ²¹	9844
+2061	ProtoLalo	9844	xɨ̠³	x ɨ̠ ³	x ɨ̠ ³	9844
+2952	Diaocao	9854	kʰo⁴²	kʰ o ⁴²	kʰ o ⁴²	9854
+2953	Mangdi	9854	kʰu²¹	kʰ u ²¹	kʰ u ²¹	9854
+2954	Qingyun	9854	kʰo̠²¹	kʰ o̠ ²¹	kʰ o̠ ²¹	9854
+2955	Shuizhuping	9854	kʰo⁴³	kʰ o ⁴³	kʰ o ⁴³	9854
+2956	Xuzhang	9854	kʰo³³	kʰ o ³³	kʰ o ³³	9854
+2957	Yangliu	9854	kʰo⁵⁵	kʰ o ⁵⁵	kʰ o ⁵⁵	9854
+2958	Yijiacun	9854	kʰu̠⁴²	kʰ u̠ ⁴²	kʰ u̠ ⁴²	9854
+2959	ProtoLalo	9854	kʰo̠³	kʰ o̠ ³	kʰ o̠ ³	9854
+959	Qingyun	9925	hɛ̠²¹	h ɛ̠ ²¹	h ɛ̠ ²¹	9925
+960	Shuizhuping	9925	hɛ̃ʔ⁵⁵	h ɛ̃ ʔ ⁵⁵	h ɛ̃ ʔ ⁵⁵	9925
+961	Yijiacun	9925	ɕi²⁴	ɕ i ²⁴	ɕ i ²⁴	9925
+962	ProtoLalo	9925	he̠³	h e̠ ³	h e̠ ³	9925
+1647	Diaocao	9936	mə²¹	m ə ²¹	m ə ²¹	9936
+1648	Qingyun	9936	mi⁵⁵	m i ⁵⁵	m i ⁵⁵	9936
+1649	ProtoLalo	9936	mo²	m o ²	m o ²	9936
+2327	Diaocao	9937	kʰə⁴²	kʰ ə ⁴²	kʰ ə ⁴²	9937
+2328	Mangdi	9937	kɨ²¹	k ɨ ²¹	k ɨ ²¹	9937
+2329	Shuizhuping	9937	kʰɨ⁵³	kʰ ɨ ⁵³	kʰ ɨ ⁵³	9937
+2330	Xuzhang	9937	kʰɨ³³	kʰ ɨ ³³	kʰ ɨ ³³	9937
+2331	Yijiacun	9937	kə²¹	k ə ²¹	k ə ²¹	9937
+2332	ProtoLalo	9937	kʰɨ̠³	kʰ ɨ̠ ³	kʰ ɨ̠ ³	9937
+2747	Diaocao	9959	kə³³	k ə ³³	k ə ³³	9959
+2748	Mangdi	9959	kɨ³³	k ɨ ³³	k ɨ ³³	9959
+2749	Qingyun	9959	kə³³	k ə ³³	k ə ³³	9959
+2750	Xuzhang	9959	kɤ³³	k ɤ ³³	k ɤ ³³	9959
+2751	Yangliu	9959	kɤ³³	k ɤ ³³	k ɤ ³³	9959
+2752	Yijiacun	9959	kɨ³³	k ɨ ³³	k ɨ ³³	9959
+2753	ProtoLalo	9959	ko¹	k o ¹	k o ¹	9959
+3529	Diaocao	9971	xa³³	x a ³³	x a ³³	9971
+3530	Qingyun	9971	dʑe³³	dʑ e ³³	dʑ e ³³	9971
+3531	Shuizhuping	9971	tɕʰi²¹	tɕʰ i ²¹	tɕʰ i ²¹	9971
+3532	Yangliu	9971	kɛ³³	k ɛ ³³	k ɛ ³³	9971
+3533	ProtoLalo	9971	dʒi²	dʒ i ²	dʒ i ²	9971
+2185	Diaocao	999	tsʰɔ⁵⁵	tsʰ ɔ ⁵⁵	tsʰ ɔ ⁵⁵	999
+2186	Qingyun	999	tsʰa⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵	999
+2187	Shuizhuping	999	tsʰa²⁴	tsʰ a ²⁴	tsʰ a ²⁴	999
+2188	Xuzhang	999	tsʰo⁴⁵³	tsʰ o ⁴⁵³	tsʰ o ⁴⁵³	999
+2189	Yangliu	999	tsʰa³³	tsʰ a ³³	tsʰ a ³³	999
+2190	Yijiacun	999	tsʰo²⁴	tsʰ o ²⁴	tsʰ o ²⁴	999
+2191	ProtoLalo	999	tsʰa¹	tsʰ a ¹	tsʰ a ¹	999
+1971	Diaocao	9994	na⁵⁵	n a ⁵⁵	n a ⁵⁵	9994
+1972	Mangdi	9994	no⁵⁵	n o ⁵⁵	n o ⁵⁵	9994
+1973	Qingyun	9994	ˀna⁵⁵	ˀn a ⁵⁵	ˀn a ⁵⁵	9994
+1974	Shuizhuping	9994	na⁴⁴	n a ⁴⁴	n a ⁴⁴	9994
+1975	Xuzhang	9994	nɨ˞⁴⁵	n ɨ˞ ⁴⁵	n ɨ˞ ⁴⁵	9994
+1976	Yangliu	9994	na⁵⁵	n a ⁵⁵	n a ⁵⁵	9994
+1977	Yijiacun	9994	na²⁴	n a ²⁴	n a ²⁴	9994
+1978	ProtoLalo	9994	ˀna¹	ˀn a ¹	ˀn a ¹	9994
+25	Diaocao	9995	kʰɤ³³	kʰ ɤ ³³	kʰ ɤ ³³	9995
+26	Mangdi	9995	kʰu³³	kʰ u ³³	kʰ u ³³	9995
+27	Qingyun	9995	kʰə³³	kʰ ə ³³	kʰ ə ³³	9995
+28	Xuzhang	9995	kʰɤ³³	kʰ ɤ ³³	kʰ ɤ ³³	9995
+29	Yangliu	9995	kʰo²¹	kʰ o ²¹	kʰ o ²¹	9995
+30	ProtoLalo	9995	kʰaŋ²	kʰ a ŋ ²	kʰ a ŋ ²	9995

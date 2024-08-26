@@ -1,0 +1,768 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	COGID
+725	Dashi	1001	kɯ⁰	k ɯ ⁰	k ɯ ⁰	1001
+726	Ega	1001	kɯ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	1001
+727	Enqi	1001	kɯ²⁴	k ɯ ²⁴	k ɯ ²⁴	1001
+728	Gongxing	1001	ga¹²	g a ¹²	g a ¹²	1001
+729	Jinman	1001	kɯ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	1001
+730	Jinxing	1001	kɯ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	1001
+731	Mazhelong	1001	kɯ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	1001
+732	Tuoluo	1001	kɯ⁵⁵	k ɯ ⁵⁵	k ɯ ⁵⁵	1001
+733	Zhoucheng	1001	kɯ³⁵	k ɯ ³⁵	k ɯ ³⁵	1001
+734	ProtoBai	1001	kɯ¹	k ɯ ¹	k ɯ ¹	1001
+339	Ega	1066	tsʰo⁵⁵	tsʰ o ⁵⁵	tsʰ o ⁵⁵	1066
+340	Enqi	1066	tsʰo²⁴	tsʰ o ²⁴	tsʰ o ²⁴	1066
+341	Gongxing	1066	tsʰoŋ⁵⁵	tsʰ o ŋ ⁵⁵	tsʰ o ŋ ⁵⁵	1066
+342	Jinman	1066	tsõ⁵⁵	ts õ ⁵⁵	ts õ ⁵⁵	1066
+343	Mazhelong	1066	tsʰoŋ⁵⁵	tsʰ o ŋ ⁵⁵	tsʰ o ŋ ⁵⁵	1066
+344	Tuoluo	1066	tsʰoŋ⁵⁵	tsʰ o ŋ ⁵⁵	tsʰ o ŋ ⁵⁵	1066
+345	ProtoBai	1066	tsʰoŋ¹	tsʰ o ŋ ¹	tsʰ o ŋ ¹	1066
+439	Enqi	1166	ɲi²²	ɲ i ²²	ɲ i ²²	1166
+440	Gongxing	1166	ɲi²²	ɲ i ²²	ɲ i ²²	1166
+441	Jinman	1166	ɲi⁵⁵	ɲ i ⁵⁵	ɲ i ⁵⁵	1166
+442	Mazhelong	1166	ni⁴⁴	n i ⁴⁴	n i ⁴⁴	1166
+443	Zhoucheng	1166	ɲje⁴⁴	ɲ j e ⁴⁴	ɲ j e ⁴⁴	1166
+444	ProtoBai	1166	nji⁴	n j i ⁴	n j i ⁴	1166
+319	Dashi	1252	lõ²¹	l õ ²¹	l õ ²¹	1252
+320	Ega	1252	lu²¹	l u ²¹	l u ²¹	1252
+321	Enqi	1252	lu²¹	l u ²¹	l u ²¹	1252
+322	Gongxing	1252	lõ¹²	l õ ¹²	l õ ¹²	1252
+323	Jinman	1252	lu²¹	l u ²¹	l u ²¹	1252
+324	Jinxing	1252	lʯ̃²¹	l ʯ̃ ²¹	l ʯ̃ ²¹	1252
+325	Mazhelong	1252	loŋ²¹	l o ŋ ²¹	l o ŋ ²¹	1252
+326	Tuoluo	1252	loŋ³⁵	l o ŋ ³⁵	l o ŋ ³⁵	1252
+327	Zhoucheng	1252	lʯ²¹	l ʯ ²¹	l ʯ ²¹	1252
+328	ProtoBai	1252	loŋ¹	l o ŋ ¹	l o ŋ ¹	1252
+606	Dashi	1326	tsu³³	ts u ³³	ts u ³³	1326
+607	Ega	1326	tɕɥi²²	tɕ ɥ i ²²	tɕ ɥ i ²²	1326
+608	Enqi	1326	tɕɥi²²	tɕ ɥ i ²²	tɕ ɥ i ²²	1326
+609	Gongxing	1326	tɕy²²	tɕ y ²²	tɕ y ²²	1326
+610	Jinman	1326	tsɥi²²	ts ɥ i ²²	ts ɥ i ²²	1326
+611	Jinxing	1326	tsu³³	ts u ³³	ts u ³³	1326
+612	Mazhelong	1326	tsu³³	ts u ³³	ts u ³³	1326
+613	Tuoluo	1326	tɕɥi³³	tɕ ɥ i ³³	tɕ ɥ i ³³	1326
+614	Zhoucheng	1326	tsu³³	ts u ³³	ts u ³³	1326
+615	ProtoBai	1326	tsu²	ts u ²	ts u ²	1326
+40	Gongxing	133	haŋ⁴²	h a ŋ ⁴²	h a ŋ ⁴²	133
+41	Tuoluo	133	haŋ²¹	h a ŋ ²¹	h a ŋ ²¹	133
+42	ProtoBai	133	haŋ⁵	h a ŋ ⁵	h a ŋ ⁵	133
+715	Dashi	1401	sen⁴²	s e n ⁴²	s e n ⁴²	1401
+716	Ega	1401	sɛ⁴²	s ɛ ⁴²	s ɛ ⁴²	1401
+717	Enqi	1401	sɛ⁴³	s ɛ ⁴³	s ɛ ⁴³	1401
+718	Gongxing	1401	sen⁴²	s e n ⁴²	s e n ⁴²	1401
+719	Jinman	1401	sẽ⁴²	s ẽ ⁴²	s ẽ ⁴²	1401
+720	Jinxing	1401	sen⁴²	s e n ⁴²	s e n ⁴²	1401
+721	Mazhelong	1401	sɛ⁴²	s ɛ ⁴²	s ɛ ⁴²	1401
+722	Tuoluo	1401	sen²¹	s e n ²¹	s e n ²¹	1401
+723	Zhoucheng	1401	se⁴²	s e ⁴²	s e ⁴²	1401
+724	ProtoBai	1401	sen⁵	s e n ⁵	s e n ⁵	1401
+53	Dashi	1445	mɯ³³	m ɯ ³³	m ɯ ³³	1445
+54	Enqi	1445	mɯ²²	m ɯ ²²	m ɯ ²²	1445
+55	Gongxing	1445	mu²²	m u ²²	m u ²²	1445
+56	Tuoluo	1445	mɯ⁴⁴	m ɯ ⁴⁴	m ɯ ⁴⁴	1445
+57	ProtoBai	1445	mɯ²	m ɯ ²	m ɯ ²	1445
+412	Dashi	1462	wẽ³³	w ẽ ³³	w ẽ ³³	1462
+413	Ega	1462	ŋwi²²	ŋ w i ²²	ŋ w i ²²	1462
+414	Enqi	1462	ŋwi²²	ŋ w i ²²	ŋ w i ²²	1462
+415	Gongxing	1462	wen²²	w e n ²²	w e n ²²	1462
+416	Jinxing	1462	wẽ³³	w ẽ ³³	w ẽ ³³	1462
+417	Mazhelong	1462	ŋwɛ³³	ŋ w ɛ ³³	ŋ w ɛ ³³	1462
+418	Tuoluo	1462	wen³³	w e n ³³	w e n ³³	1462
+419	Zhoucheng	1462	we³³	w e ³³	w e ³³	1462
+420	ProtoBai	1462	ŋwen²	ŋ w e n ²	ŋ w e n ²	1462
+273	Dashi	1544	ti³¹	t i ³¹	t i ³¹	1544
+274	Ega	1544	tsɛ²²	ts ɛ ²²	ts ɛ ²²	1544
+275	Enqi	1544	tsɿ²²	ts ɿ ²²	ts ɿ ²²	1544
+276	Gongxing	1544	ʈʂi²²	ʈʂ i ²²	ʈʂ i ²²	1544
+277	Jinman	1544	ʈʂə˞²²	ʈʂ ə˞ ²²	ʈʂ ə˞ ²²	1544
+278	Jinxing	1544	tsi³³	ts i ³³	ts i ³³	1544
+279	Mazhelong	1544	tsi⁴⁴	ts i ⁴⁴	ts i ⁴⁴	1544
+280	Tuoluo	1544	ʈʂə˞³³	ʈʂ ə˞ ³³	ʈʂ ə˞ ³³	1544
+281	Zhoucheng	1544	tsi³³	ts i ³³	ts i ³³	1544
+282	ProtoBai	1544	tsri²	ts r i ²	ts r i ²	1544
+363	Ega	1609	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	1609
+364	Enqi	1609	sɿ²⁴	s ɿ ²⁴	s ɿ ²⁴	1609
+365	Gongxing	1609	ʂi⁵⁵	ʂ i ⁵⁵	ʂ i ⁵⁵	1609
+366	Jinman	1609	ʂə̃˞⁵⁵	ʂ ə̃˞ ⁵⁵	ʂ ə̃˞ ⁵⁵	1609
+367	Jinxing	1609	san⁵⁵	s a n ⁵⁵	s a n ⁵⁵	1609
+368	Mazhelong	1609	swɛ⁴²	s w ɛ ⁴²	s w ɛ ⁴²	1609
+369	Tuoluo	1609	ʂə̃˞⁵⁵	ʂ ə̃˞ ⁵⁵	ʂ ə̃˞ ⁵⁵	1609
+370	ProtoBai	1609	sreŋ¹	s r e ŋ ¹	s r e ŋ ¹	1609
+533	Dashi	1682	ɕoŋ³⁵	ɕ o ŋ ³⁵	ɕ o ŋ ³⁵	1682
+534	Enqi	1682	ɕjo²⁴	ɕ j o ²⁴	ɕ j o ²⁴	1682
+535	Gongxing	1682	ɕjoŋ⁵⁵	ɕ j o ŋ ⁵⁵	ɕ j o ŋ ⁵⁵	1682
+536	Jinman	1682	ɕõ⁵⁵	ɕ õ ⁵⁵	ɕ õ ⁵⁵	1682
+537	Jinxing	1682	ɕiõ⁵⁵	ɕ i õ ⁵⁵	ɕ i õ ⁵⁵	1682
+538	Mazhelong	1682	ɕoŋ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ⁵⁵	1682
+539	Tuoluo	1682	ɕoŋ⁵⁵	ɕ o ŋ ⁵⁵	ɕ o ŋ ⁵⁵	1682
+540	Zhoucheng	1682	ɕou³⁵	ɕ ou ³⁵	ɕ ou ³⁵	1682
+541	ProtoBai	1682	ɕoŋ¹	ɕ o ŋ ¹	ɕ o ŋ ¹	1682
+627	Dashi	1773	tʲɯ⁴⁴	tʲ ɯ ⁴⁴	tʲ ɯ ⁴⁴	1773
+628	Ega	1773	tɯ⁴⁴	t ɯ ⁴⁴	t ɯ ⁴⁴	1773
+629	Enqi	1773	tə⁵⁵	t ə ⁵⁵	t ə ⁵⁵	1773
+630	Gongxing	1773	ti²⁴	t i ²⁴	t i ²⁴	1773
+631	Jinman	1773	tɯ⁵⁵	t ɯ ⁵⁵	t ɯ ⁵⁵	1773
+632	Jinxing	1773	tə⁴⁴	t ə ⁴⁴	t ə ⁴⁴	1773
+633	Mazhelong	1773	təɯ⁴⁴	t əɯ ⁴⁴	t əɯ ⁴⁴	1773
+634	Tuoluo	1773	tɯ⁴²	t ɯ ⁴²	t ɯ ⁴²	1773
+635	Zhoucheng	1773	tɯ⁴⁴	t ɯ ⁴⁴	t ɯ ⁴⁴	1773
+636	ProtoBai	1773	tɯ⁴	t ɯ ⁴	t ɯ ⁴	1773
+217	Dashi	1958	ti⁴²	t i ⁴²	t i ⁴²	1958
+218	Ega	1958	tɕu²²	tɕ u ²²	tɕ u ²²	1958
+219	Enqi	1958	tiu²¹	t i u ²¹	t i u ²¹	1958
+220	Gongxing	1958	di²¹	d i ²¹	d i ²¹	1958
+221	Jinman	1958	ʈo²²	ʈ o ²²	ʈ o ²²	1958
+222	Jinxing	1958	tə³¹	t ə ³¹	t ə ³¹	1958
+223	Mazhelong	1958	ta⁴²	t a ⁴²	t a ⁴²	1958
+224	Tuoluo	1958	djɯ³⁵	d j ɯ ³⁵	d j ɯ ³⁵	1958
+225	Zhoucheng	1958	tɯ³¹	t ɯ ³¹	t ɯ ³¹	1958
+226	ProtoBai	1958	djɯ¹	d j ɯ ¹	d j ɯ ¹	1958
+579	Dashi	1980	wen³⁵	w e n ³⁵	w e n ³⁵	1980
+580	Ega	1980	ʔwɛ̃⁵⁵	ʔ w ɛ̃ ⁵⁵	ʔ w ɛ̃ ⁵⁵	1980
+581	Gongxing	1980	wen²²	w e n ²²	w e n ²²	1980
+582	Jinman	1980	wẽ⁵⁵	w ẽ ⁵⁵	w ẽ ⁵⁵	1980
+583	Jinxing	1980	ʔwen⁵⁵	ʔ w e n ⁵⁵	ʔ w e n ⁵⁵	1980
+584	Mazhelong	1980	ŋwɛ⁵⁵	ŋ w ɛ ⁵⁵	ŋ w ɛ ⁵⁵	1980
+585	Tuoluo	1980	wen⁵⁵	w e n ⁵⁵	w e n ⁵⁵	1980
+586	Zhoucheng	1980	wɛ³⁵	w ɛ ³⁵	w ɛ ³⁵	1980
+587	ProtoBai	1980	ʔwen¹	ʔ w e n ¹	ʔ w e n ¹	1980
+164	Dashi	2051	ʈʂo²¹	ʈʂ o ²¹	ʈʂ o ²¹	2051
+165	Ega	2051	tɕu²¹	tɕ u ²¹	tɕ u ²¹	2051
+166	Enqi	2051	tɕo²¹	tɕ o ²¹	tɕ o ²¹	2051
+167	Gongxing	2051	dzao¹²	dz ao ¹²	dz ao ¹²	2051
+168	Jinman	2051	tɕu²¹	tɕ u ²¹	tɕ u ²¹	2051
+169	Jinxing	2051	tsʯ̃²¹	ts ʯ̃ ²¹	ts ʯ̃ ²¹	2051
+170	Mazhelong	2051	dzu²¹	dz u ²¹	dz u ²¹	2051
+171	Tuoluo	2051	ʐʯŋ³⁵	ʐ ʯ ŋ ³⁵	ʐ ʯ ŋ ³⁵	2051
+172	Zhoucheng	2051	tsʯ²¹	ts ʯ ²¹	ts ʯ ²¹	2051
+173	ProtoBai	2051	ɖʐuŋ¹	ɖʐ u ŋ ¹	ɖʐ u ŋ ¹	2051
+478	Ega	2062	pu²¹	p u ²¹	p u ²¹	2062
+479	Enqi	2062	po²¹	p o ²¹	p o ²¹	2062
+480	Gongxing	2062	bao¹²	b ao ¹²	b ao ¹²	2062
+481	Jinman	2062	põ²¹	p õ ²¹	p õ ²¹	2062
+482	Tuoluo	2062	bo³⁵	b o ³⁵	b o ³⁵	2062
+483	Zhoucheng	2062	pa²¹	p a ²¹	p a ²¹	2062
+484	ProtoBai	2062	bã¹	b ã ¹	b ã ¹	2062
+702	Gongxing	2108	ha⁴²	h a ⁴²	h a ⁴²	2108
+703	Tuoluo	2108	hɔ²¹	h ɔ ²¹	h ɔ ²¹	2108
+704	Zhoucheng	2108	ho³¹	h o ³¹	h o ³¹	2108
+705	ProtoBai	2108	hɔ³	h ɔ ³	h ɔ ³	2108
+263	Dashi	2118	pu³³	p u ³³	p u ³³	2118
+264	Ega	2118	pɯ²²	p ɯ ²²	p ɯ ²²	2118
+265	Enqi	2118	bɯ²²	b ɯ ²²	b ɯ ²²	2118
+266	Gongxing	2118	bu²²	b u ²²	b u ²²	2118
+267	Jinman	2118	bu²²	b u ²²	b u ²²	2118
+268	Jinxing	2118	pu³³	p u ³³	p u ³³	2118
+269	Mazhelong	2118	bɯ³³	b ɯ ³³	b ɯ ³³	2118
+270	Tuoluo	2118	bɯ³³	b ɯ ³³	b ɯ ³³	2118
+271	Zhoucheng	2118	po⁵⁵	p o ⁵⁵	p o ⁵⁵	2118
+272	ProtoBai	2118	bɯ²	b ɯ ²	b ɯ ²	2118
+1	Dashi	2130	pə˞⁴⁴	p ə˞ ⁴⁴	p ə˞ ⁴⁴	2130
+2	Ega	2130	pa⁴⁴	p a ⁴⁴	p a ⁴⁴	2130
+3	Enqi	2130	pæ⁵⁵	p æ ⁵⁵	p æ ⁵⁵	2130
+4	Gongxing	2130	pæ²⁴	p æ ²⁴	p æ ²⁴	2130
+5	Jinman	2130	pa⁵⁵	p a ⁵⁵	p a ⁵⁵	2130
+6	Jinxing	2130	pa⁴⁴	p a ⁴⁴	p a ⁴⁴	2130
+7	Mazhelong	2130	pə˞⁴⁴	p ə˞ ⁴⁴	p ə˞ ⁴⁴	2130
+8	Tuoluo	2130	pa⁴²	p a ⁴²	p a ⁴²	2130
+9	Zhoucheng	2130	pə⁴⁴	p ə ⁴⁴	p ə ⁴⁴	2130
+10	ProtoBai	2130	pæ⁴	p æ ⁴	p æ ⁴	2130
+706	Dashi	216	sʰwa⁴⁴	sʰ w a ⁴⁴	sʰ w a ⁴⁴	216
+707	Ega	216	swa⁴⁴	s w a ⁴⁴	s w a ⁴⁴	216
+708	Enqi	216	swa⁵⁵	s w a ⁵⁵	s w a ⁵⁵	216
+709	Gongxing	216	swa²⁴	s w a ²⁴	s w a ²⁴	216
+710	Jinman	216	swa⁵⁵	s w a ⁵⁵	s w a ⁵⁵	216
+711	Mazhelong	216	swa⁴⁴	s w a ⁴⁴	s w a ⁴⁴	216
+712	Tuoluo	216	swɔ⁴²	s w ɔ ⁴²	s w ɔ ⁴²	216
+713	Zhoucheng	216	swa⁴⁴	s w a ⁴⁴	s w a ⁴⁴	216
+714	ProtoBai	216	sʰwa⁴	sʰ w a ⁴	sʰ w a ⁴	216
+588	Ega	2207	wi⁴²	w i ⁴²	w i ⁴²	2207
+589	Enqi	2207	fɛ²¹	f ɛ ²¹	f ɛ ²¹	2207
+590	Gongxing	2207	bvu²¹	b v u ²¹	b v u ²¹	2207
+591	Jinman	2207	we²¹	w e ²¹	w e ²¹	2207
+592	Jinxing	2207	vu⁴²	v u ⁴²	v u ⁴²	2207
+593	Mazhelong	2207	kwa⁴²	k w a ⁴²	k w a ⁴²	2207
+594	Tuoluo	2207	və˞⁴²	v ə˞ ⁴²	v ə˞ ⁴²	2207
+595	ProtoBai	2207	bjɛ⁴	b j ɛ ⁴	b j ɛ ⁴	2207
+227	Dashi	2245	ʈʂou⁴²	ʈʂ ou ⁴²	ʈʂ ou ⁴²	2245
+228	Ega	2245	tɕjo²¹	tɕ j o ²¹	tɕ j o ²¹	2245
+229	Enqi	2245	tiu²¹	t i u ²¹	t i u ²¹	2245
+230	Gongxing	2245	tsu²¹	ts u ²¹	ts u ²¹	2245
+231	Jinman	2245	ʈo²¹	ʈ o ²¹	ʈ o ²¹	2245
+232	Jinxing	2245	tso⁴²	ts o ⁴²	ts o ⁴²	2245
+233	Mazhelong	2245	tsʰo⁴²	tsʰ o ⁴²	tsʰ o ⁴²	2245
+234	Tuoluo	2245	tiu⁴²	t i u ⁴²	t i u ⁴²	2245
+235	Zhoucheng	2245	tso⁴²	ts o ⁴²	ts o ⁴²	2245
+236	ProtoBai	2245	dro⁴	d r o ⁴	d r o ⁴	2245
+243	Dashi	2269	me³³	m e ³³	m e ³³	2269
+244	Ega	2269	mɛ²²	m ɛ ²²	m ɛ ²²	2269
+245	Enqi	2269	mɛ²²	m ɛ ²²	m ɛ ²²	2269
+246	Gongxing	2269	men²²	m e n ²²	m e n ²²	2269
+247	Jinman	2269	me²²	m e ²²	m e ²²	2269
+248	Jinxing	2269	me³³	m e ³³	m e ³³	2269
+249	Mazhelong	2269	me³³	m e ³³	m e ³³	2269
+250	Tuoluo	2269	mɛ³³	m ɛ ³³	m ɛ ³³	2269
+251	Zhoucheng	2269	me³³	m e ³³	m e ³³	2269
+252	ProtoBai	2269	mɛ²	m ɛ ²	m ɛ ²	2269
+43	Dashi	2428	kã³⁵	k ã ³⁵	k ã ³⁵	2428
+44	Ega	2428	qo⁵⁵	q o ⁵⁵	q o ⁵⁵	2428
+45	Enqi	2428	qa²⁴	q a ²⁴	q a ²⁴	2428
+46	Gongxing	2428	qaŋ⁵⁵	q a ŋ ⁵⁵	q a ŋ ⁵⁵	2428
+47	Jinman	2428	qã⁵⁵	q ã ⁵⁵	q ã ⁵⁵	2428
+48	Jinxing	2428	kɑ⁵⁵	k ɑ ⁵⁵	k ɑ ⁵⁵	2428
+49	Mazhelong	2428	kaŋ⁵⁵	k a ŋ ⁵⁵	k a ŋ ⁵⁵	2428
+50	Tuoluo	2428	qɔŋ⁵⁵	q ɔ ŋ ⁵⁵	q ɔ ŋ ⁵⁵	2428
+51	Zhoucheng	2428	ka³⁵	k a ³⁵	k a ³⁵	2428
+52	ProtoBai	2428	qaŋ¹	q a ŋ ¹	q a ŋ ¹	2428
+450	Dashi	2474	mə˞²¹	m ə˞ ²¹	m ə˞ ²¹	2474
+451	Enqi	2474	mæ¹²	m æ ¹²	m æ ¹²	2474
+452	Gongxing	2474	mæ¹²	m æ ¹²	m æ ¹²	2474
+453	Jinman	2474	ma²¹	m a ²¹	m a ²¹	2474
+454	Jinxing	2474	man²¹	m a n ²¹	m a n ²¹	2474
+455	Mazhelong	2474	mə̃˞²¹	m ə̃˞ ²¹	m ə̃˞ ²¹	2474
+456	Tuoluo	2474	ma³⁵	m a ³⁵	m a ³⁵	2474
+457	ProtoBai	2474	mæ¹	m æ ¹	m æ ¹	2474
+174	Dashi	2565	tɕi³⁵	tɕ i ³⁵	tɕ i ³⁵	2565
+175	Ega	2565	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	2565
+176	Enqi	2565	ti²⁴	t i ²⁴	t i ²⁴	2565
+177	Gongxing	2565	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	2565
+178	Jinman	2565	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	2565
+179	Jinxing	2565	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	2565
+180	Mazhelong	2565	ti⁵⁵	t i ⁵⁵	t i ⁵⁵	2565
+181	Tuoluo	2565	tɕjɯ⁵⁵	tɕ j ɯ ⁵⁵	tɕ j ɯ ⁵⁵	2565
+182	Zhoucheng	2565	tɕi³⁵	tɕ i ³⁵	tɕ i ³⁵	2565
+183	ProtoBai	2565	tʲɯ¹	tʲ ɯ ¹	tʲ ɯ ¹	2565
+402	Dashi	267	tɕjen⁴²	tɕ j e n ⁴²	tɕ j e n ⁴²	267
+403	Ega	267	tsɛ⁴²	ts ɛ ⁴²	ts ɛ ⁴²	267
+404	Enqi	267	tsi⁴³	ts i ⁴³	ts i ⁴³	267
+405	Gongxing	267	tɕin⁴²	tɕ i n ⁴²	tɕ i n ⁴²	267
+406	Jinman	267	tsẽ⁴²	ts ẽ ⁴²	ts ẽ ⁴²	267
+407	Jinxing	267	tɕjen⁴²	tɕ j e n ⁴²	tɕ j e n ⁴²	267
+408	Mazhelong	267	tɕen⁴²	tɕ e n ⁴²	tɕ e n ⁴²	267
+409	Tuoluo	267	tɕjen²¹	tɕ j e n ²¹	tɕ j e n ²¹	267
+410	Zhoucheng	267	tɕi⁵³	tɕ i ⁵³	tɕ i ⁵³	267
+411	ProtoBai	267	tsjen⁵	ts j e n ⁵	ts j e n ⁵	267
+202	Dashi	2772	ka⁴⁴	k a ⁴⁴	k a ⁴⁴	2772
+203	Ega	2772	qa⁴⁴	q a ⁴⁴	q a ⁴⁴	2772
+204	Enqi	2772	qa²⁴	q a ²⁴	q a ²⁴	2772
+205	Gongxing	2772	qa²⁴	q a ²⁴	q a ²⁴	2772
+206	Jinman	2772	qa⁴⁴	q a ⁴⁴	q a ⁴⁴	2772
+207	Jinxing	2772	ka⁴⁴	k a ⁴⁴	k a ⁴⁴	2772
+208	Mazhelong	2772	kə˞⁴⁴	k ə˞ ⁴⁴	k ə˞ ⁴⁴	2772
+209	Tuoluo	2772	qa⁴²	q a ⁴²	q a ⁴²	2772
+210	Zhoucheng	2772	ka⁴⁴	k a ⁴⁴	k a ⁴⁴	2772
+211	ProtoBai	2772	qæ⁴	q æ ⁴	q æ ⁴	2772
+291	Dashi	2941	kʰɯ⁵⁵	kʰ ɯ ⁵⁵	kʰ ɯ ⁵⁵	2941
+292	Ega	2941	qʰɯ⁵⁵	qʰ ɯ ⁵⁵	qʰ ɯ ⁵⁵	2941
+293	Enqi	2941	qʰɯ²⁴	qʰ ɯ ²⁴	qʰ ɯ ²⁴	2941
+294	Gongxing	2941	qʰe⁵⁵	qʰ e ⁵⁵	qʰ e ⁵⁵	2941
+295	Jinman	2941	qʰɯ̃⁵⁵	qʰ ɯ̃ ⁵⁵	qʰ ɯ̃ ⁵⁵	2941
+296	Jinxing	2941	kʰɯ⁵⁵	kʰ ɯ ⁵⁵	kʰ ɯ ⁵⁵	2941
+297	Mazhelong	2941	kʰə⁵⁵	kʰ ə ⁵⁵	kʰ ə ⁵⁵	2941
+298	Tuoluo	2941	qʰə̃˞⁵⁵	qʰ ə̃˞ ⁵⁵	qʰ ə̃˞ ⁵⁵	2941
+299	Zhoucheng	2941	kʰɯ⁵⁵	kʰ ɯ ⁵⁵	kʰ ɯ ⁵⁵	2941
+300	ProtoBai	2941	qʰɯ̃¹	qʰ ɯ̃ ¹	qʰ ɯ̃ ¹	2941
+397	Dashi	2965	ɕɥi³³	ɕ ɥ i ³³	ɕ ɥ i ³³	2965
+398	Jinxing	2965	tsa²¹	ts a ²¹	ts a ²¹	2965
+399	Mazhelong	2965	ɕu³³	ɕ u ³³	ɕ u ³³	2965
+400	Tuoluo	2965	ɕɥi³	ɕ ɥ i ³	ɕ ɥ i ³	2965
+401	ProtoBai	2965	ɕwi²	ɕ w i ²	ɕ w i ²	2965
+380	Dashi	3031	tʰu³³	tʰ u ³³	tʰ u ³³	3031
+381	Ega	3031	tɕiu²²	tɕ i u ²²	tɕ i u ²²	3031
+382	Enqi	3031	tʰiu²²	tʰ i u ²²	tʰ i u ²²	3031
+383	Gongxing	3031	tʰy²²	tʰ y ²²	tʰ y ²²	3031
+384	Jinman	3031	ʈʰu²²	ʈʰ u ²²	ʈʰ u ²²	3031
+385	Jinxing	3031	tʰu³³	tʰ u ³³	tʰ u ³³	3031
+386	Mazhelong	3031	tʰəɯ³³	tʰ əɯ ³³	tʰ əɯ ³³	3031
+387	Tuoluo	3031	tʰʯ³³	tʰ ʯ ³³	tʰ ʯ ³³	3031
+388	Zhoucheng	3031	tʰo³³	tʰ o ³³	tʰ o ³³	3031
+389	ProtoBai	3031	tʰju²	tʰ j u ²	tʰ j u ²	3031
+71	Dashi	3075	tɕʰjen⁵⁵	tɕʰ j e n ⁵⁵	tɕʰ j e n ⁵⁵	3075
+72	Ega	3075	tsʰɛ⁵⁵	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	3075
+73	Jinman	3075	tsẽ⁵⁵	ts ẽ ⁵⁵	ts ẽ ⁵⁵	3075
+74	Jinxing	3075	tɕʰjen⁵⁵	tɕʰ j e n ⁵⁵	tɕʰ j e n ⁵⁵	3075
+75	Mazhelong	3075	tɕʰĩ⁵⁵	tɕʰ ĩ ⁵⁵	tɕʰ ĩ ⁵⁵	3075
+76	Tuoluo	3075	tɕʰjen⁵⁵	tɕʰ j e n ⁵⁵	tɕʰ j e n ⁵⁵	3075
+77	Zhoucheng	3075	tɕʰi⁵⁵	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵	3075
+78	ProtoBai	3075	tsʰjen¹	tsʰ j e n ¹	tsʰ j e n ¹	3075
+616	Enqi	3162	djɯ²²	d j ɯ ²²	d j ɯ ²²	3162
+617	Tuoluo	3162	djɯ³³	d j ɯ ³³	d j ɯ ³³	3162
+618	ProtoBai	3162	drɯ²	d r ɯ ²	d r ɯ ²	3162
+647	Ega	3235	kwi⁵⁵	k w i ⁵⁵	k w i ⁵⁵	3235
+648	Enqi	3235	kwi²⁴	k w i ²⁴	k w i ²⁴	3235
+649	Gongxing	3235	kwɛ⁵⁵	k w ɛ ⁵⁵	k w ɛ ⁵⁵	3235
+650	Jinman	3235	kwi⁵⁵	k w i ⁵⁵	k w i ⁵⁵	3235
+651	Jinxing	3235	kwi⁵⁵	k w i ⁵⁵	k w i ⁵⁵	3235
+652	Mazhelong	3235	kwɛ⁵⁵	k w ɛ ⁵⁵	k w ɛ ⁵⁵	3235
+653	Tuoluo	3235	kwe⁵⁵	k w e ⁵⁵	k w e ⁵⁵	3235
+654	ProtoBai	3235	kwɛ¹	k w ɛ ¹	k w ɛ ¹	3235
+11	Dashi	3308	kʰen⁵⁵	kʰ e n ⁵⁵	kʰ e n ⁵⁵	3308
+12	Ega	3308	qʰɛ⁵⁵	qʰ ɛ ⁵⁵	qʰ ɛ ⁵⁵	3308
+13	Enqi	3308	qʰɛ²⁴	qʰ ɛ ²⁴	qʰ ɛ ²⁴	3308
+14	Gongxing	3308	qʰə⁵⁵	qʰ ə ⁵⁵	qʰ ə ⁵⁵	3308
+15	Jinman	3308	qʰe⁵⁵	qʰ e ⁵⁵	qʰ e ⁵⁵	3308
+16	Jinxing	3308	kʰẽ⁵⁵	kʰ ẽ ⁵⁵	kʰ ẽ ⁵⁵	3308
+17	Mazhelong	3308	kʰen⁵⁵	kʰ e n ⁵⁵	kʰ e n ⁵⁵	3308
+18	Tuoluo	3308	qʰan⁵⁵	qʰ a n ⁵⁵	qʰ a n ⁵⁵	3308
+19	Zhoucheng	3308	kʰe⁵⁵	kʰ e ⁵⁵	kʰ e ⁵⁵	3308
+20	ProtoBai	3308	qʰen¹	qʰ e n ¹	qʰ e n ¹	3308
+329	Dashi	3362	ʈʂə̃˞³⁵	ʈʂ ə̃˞ ³⁵	ʈʂ ə̃˞ ³⁵	3362
+330	Ega	3362	tsɛ⁵⁵	ts ɛ ⁵⁵	ts ɛ ⁵⁵	3362
+331	Enqi	3362	tsɿ²⁴	ts ɿ ²⁴	ts ɿ ²⁴	3362
+332	Gongxing	3362	ʈʂẽ¹²	ʈʂ ẽ ¹²	ʈʂ ẽ ¹²	3362
+333	Jinman	3362	ʈʂə̃˞⁵⁵	ʈʂ ə̃˞ ⁵⁵	ʈʂ ə̃˞ ⁵⁵	3362
+334	Jinxing	3362	tsan⁵⁵	ts a n ⁵⁵	ts a n ⁵⁵	3362
+335	Mazhelong	3362	tsen⁵⁵	ts e n ⁵⁵	ts e n ⁵⁵	3362
+336	Tuoluo	3362	ʈʂə̃˞⁵⁵	ʈʂ ə̃˞ ⁵⁵	ʈʂ ə̃˞ ⁵⁵	3362
+337	Zhoucheng	3362	tsi³⁵	ts i ³⁵	ts i ³⁵	3362
+338	ProtoBai	3362	tsreŋ¹	ts r e ŋ ¹	ts r e ŋ ¹	3362
+355	Dashi	338	kwe⁴²	k w e ⁴²	k w e ⁴²	338
+356	Ega	338	qwɛ⁴²	q w ɛ ⁴²	q w ɛ ⁴²	338
+357	Gongxing	338	qwɛ⁴²	q w ɛ ⁴²	q w ɛ ⁴²	338
+358	Jinman	338	qwe⁴²	q w e ⁴²	q w e ⁴²	338
+359	Jinxing	338	kwa⁴⁴	k w a ⁴⁴	k w a ⁴⁴	338
+360	Mazhelong	338	kwɛ⁴⁴	k w ɛ ⁴⁴	k w ɛ ⁴⁴	338
+361	Tuoluo	338	qwɛ²¹	q w ɛ ²¹	q w ɛ ²¹	338
+362	ProtoBai	338	qwɛ³	q w ɛ ³	q w ɛ ³	338
+735	Dashi	3504	wẽ³¹	w ẽ ³¹	w ẽ ³¹	3504
+736	Ega	3504	kʰwɛ⁴⁴	kʰ w ɛ ⁴⁴	kʰ w ɛ ⁴⁴	3504
+737	Gongxing	3504	wen¹²	w e n ¹²	w e n ¹²	3504
+738	Jinman	3504	ŋwe²¹	ŋ w e ²¹	ŋ w e ²¹	3504
+739	Jinxing	3504	wẽ²¹	w ẽ ²¹	w ẽ ²¹	3504
+740	Mazhelong	3504	ven²¹	v e n ²¹	v e n ²¹	3504
+741	Tuoluo	3504	weŋ³⁵	w e ŋ ³⁵	w e ŋ ³⁵	3504
+742	Zhoucheng	3504	we²¹	w e ²¹	w e ²¹	3504
+743	ProtoBai	3504	ʁwen¹	ʁ w e n ¹	ʁ w e n ¹	3504
+421	Dashi	3536	ʂʰou⁵⁵	ʂʰ ou ⁵⁵	ʂʰ ou ⁵⁵	3536
+422	Ega	3536	ɕjo⁵⁵	ɕ j o ⁵⁵	ɕ j o ⁵⁵	3536
+423	Enqi	3536	ɕjo²⁴	ɕ j o ²⁴	ɕ j o ²⁴	3536
+424	Gongxing	3536	sao⁵⁵	s ao ⁵⁵	s ao ⁵⁵	3536
+425	Jinman	3536	ɕjo⁵⁵	ɕ j o ⁵⁵	ɕ j o ⁵⁵	3536
+426	Jinxing	3536	sou⁵⁵	s ou ⁵⁵	s ou ⁵⁵	3536
+427	Mazhelong	3536	sa⁵⁵	s a ⁵⁵	s a ⁵⁵	3536
+428	Tuoluo	3536	ɕjo⁵⁵	ɕ j o ⁵⁵	ɕ j o ⁵⁵	3536
+429	Zhoucheng	3536	so⁵⁵	s o ⁵⁵	s o ⁵⁵	3536
+430	ProtoBai	3536	sʰrɔ¹	sʰ r ɔ ¹	sʰ r ɔ ¹	3536
+431	Ega	3576	tsoŋ⁵⁵	ts o ŋ ⁵⁵	ts o ŋ ⁵⁵	3576
+432	Enqi	3576	tæ⁵⁵	t æ ⁵⁵	t æ ⁵⁵	3576
+433	Gongxing	3576	qæ²⁴	q æ ²⁴	q æ ²⁴	3576
+434	Jinman	3576	koŋ²²	k o ŋ ²²	k o ŋ ²²	3576
+435	Jinxing	3576	tsʯ̃⁵⁵	ts ʯ̃ ⁵⁵	ts ʯ̃ ⁵⁵	3576
+436	Mazhelong	3576	tsʰoŋ⁵⁵	tsʰ o ŋ ⁵⁵	tsʰ o ŋ ⁵⁵	3576
+437	Tuoluo	3576	tsʯŋ⁵⁵	ts ʯ ŋ ⁵⁵	ts ʯ ŋ ⁵⁵	3576
+438	ProtoBai	3576	tsuŋ¹	ts u ŋ ¹	ts u ŋ ¹	3576
+79	Dashi	3590	sa⁴⁴	s a ⁴⁴	s a ⁴⁴	3590
+80	Ega	3590	so⁴²	s o ⁴²	s o ⁴²	3590
+81	Enqi	3590	sa⁵⁵	s a ⁵⁵	s a ⁵⁵	3590
+82	Gongxing	3590	sa²⁴	s a ²⁴	s a ²⁴	3590
+83	Jinman	3590	sa⁵⁵	s a ⁵⁵	s a ⁵⁵	3590
+84	Jinxing	3590	sɑ⁴⁴	s ɑ ⁴⁴	s ɑ ⁴⁴	3590
+85	Mazhelong	3590	sɐ²¹	s ɐ ²¹	s ɐ ²¹	3590
+86	Tuoluo	3590	sɔ⁴²	s ɔ ⁴²	s ɔ ⁴²	3590
+87	Zhoucheng	3590	tɕɛ⁴²	tɕ ɛ ⁴²	tɕ ɛ ⁴²	3590
+88	ProtoBai	3590	sa⁴	s a ⁴	s a ⁴	3590
+596	Dashi	3634	ʈʂoŋ³³	ʈʂ o ŋ ³³	ʈʂ o ŋ ³³	3634
+597	Ega	3634	tɕu²²	tɕ u ²²	tɕ u ²²	3634
+598	Enqi	3634	tɕo²²	tɕ o ²²	tɕ o ²²	3634
+599	Gongxing	3634	tsoŋ²²	ts o ŋ ²²	ts o ŋ ²²	3634
+600	Jinman	3634	tɕõ²²	tɕ õ ²²	tɕ õ ²²	3634
+601	Jinxing	3634	tsʯ̃³³	ts ʯ̃ ³³	ts ʯ̃ ³³	3634
+602	Mazhelong	3634	tsoŋ³³	ts o ŋ ³³	ts o ŋ ³³	3634
+603	Tuoluo	3634	ʈʂʯŋ³³	ʈʂ ʯ ŋ ³³	ʈʂ ʯ ŋ ³³	3634
+604	Zhoucheng	3634	tsʯ³³	ts ʯ ³³	ts ʯ ³³	3634
+605	ProtoBai	3634	ʈsuŋ²	ʈ s u ŋ ²	ʈ s u ŋ ²	3634
+458	Dashi	3656	ʈʂʰou⁴⁴	ʈʂʰ ou ⁴⁴	ʈʂʰ ou ⁴⁴	3656
+459	Ega	3656	tɕʰjo⁴⁴	tɕʰ j o ⁴⁴	tɕʰ j o ⁴⁴	3656
+460	Enqi	3656	tʰiu⁵⁵	tʰ i u ⁵⁵	tʰ i u ⁵⁵	3656
+461	Gongxing	3656	tsʰu²⁴	tsʰ u ²⁴	tsʰ u ²⁴	3656
+462	Jinman	3656	ʈʰo⁵⁵	ʈʰ o ⁵⁵	ʈʰ o ⁵⁵	3656
+463	Jinxing	3656	tsʰou⁴⁴	tsʰ ou ⁴⁴	tsʰ ou ⁴⁴	3656
+464	Mazhelong	3656	səɯ³³	s əɯ ³³	s əɯ ³³	3656
+465	Tuoluo	3656	tʰiu⁴²	tʰ i u ⁴²	tʰ i u ⁴²	3656
+466	Zhoucheng	3656	so³³	s o ³³	s o ³³	3656
+467	ProtoBai	3656	tʰro⁴	tʰ r o ⁴	tʰ r o ⁴	3656
+468	Dashi	3678	tɕʰi⁴⁴	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	3678
+469	Ega	3678	tsʰi⁴⁴	tsʰ i ⁴⁴	tsʰ i ⁴⁴	3678
+470	Enqi	3678	tsʰi⁵⁵	tsʰ i ⁵⁵	tsʰ i ⁵⁵	3678
+471	Gongxing	3678	tɕʰi²⁴	tɕʰ i ²⁴	tɕʰ i ²⁴	3678
+472	Jinman	3678	tsʰi⁵⁵	tsʰ i ⁵⁵	tsʰ i ⁵⁵	3678
+473	Jinxing	3678	tɕʰi⁴⁴	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	3678
+474	Mazhelong	3678	tɕʰi⁴⁴	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	3678
+475	Tuoluo	3678	tɕʰi⁴²	tɕʰ i ⁴²	tɕʰ i ⁴²	3678
+476	Zhoucheng	3678	tɕʰi⁴⁴	tɕʰ i ⁴⁴	tɕʰ i ⁴⁴	3678
+477	ProtoBai	3678	tsʰji⁴	tsʰ j i ⁴	tsʰ j i ⁴	3678
+445	Dashi	3768	jen²¹	j e n ²¹	j e n ²¹	3768
+446	Jinxing	3768	jen²¹	j e n ²¹	j e n ²¹	3768
+447	Mazhelong	3768	ɲjen²¹	ɲ j e n ²¹	ɲ j e n ²¹	3768
+448	Tuoluo	3768	jen³⁵	j e n ³⁵	j e n ³⁵	3768
+449	ProtoBai	3768	njen¹	n j e n ¹	n j e n ¹	3768
+637	Ega	380	tɕɥi²¹	tɕ ɥ i ²¹	tɕ ɥ i ²¹	380
+638	Enqi	380	djɯ⁴³	d j ɯ ⁴³	d j ɯ ⁴³	380
+639	Jinman	380	tɕɥi²¹	tɕ ɥ i ²¹	tɕ ɥ i ²¹	380
+640	Tuoluo	380	djɯ²¹	d j ɯ ²¹	d j ɯ ²¹	380
+641	ProtoBai	380	drɯ³	d r ɯ ³	d r ɯ ³	380
+493	Dashi	3866	kʰo³³	kʰ o ³³	kʰ o ³³	3866
+494	Ega	3866	ʃʰɛ²²	ʃʰ ɛ ²²	ʃʰ ɛ ²²	3866
+495	Enqi	3866	tsʰɿ²²	tsʰ ɿ ²²	tsʰ ɿ ²²	3866
+496	Gongxing	3866	ʈʂʰi²²	ʈʂʰ i ²²	ʈʂʰ i ²²	3866
+497	Jinman	3866	tɕʰjə̃˞²²	tɕʰ j ə̃˞ ²²	tɕʰ j ə̃˞ ²²	3866
+498	Jinxing	3866	kʰʯ³³	kʰ ʯ ³³	kʰ ʯ ³³	3866
+499	Mazhelong	3866	ku²²	k u ²²	k u ²²	3866
+500	Tuoluo	3866	ʈʂʰə̃˞³³	ʈʂʰ ə̃˞ ³³	ʈʂʰ ə̃˞ ³³	3866
+501	Zhoucheng	3866	kʰʯ³³	kʰ ʯ ³³	kʰ ʯ ³³	3866
+502	ProtoBai	3866	kʰro²	kʰ r o ²	kʰ r o ²	3866
+642	Ega	3867	pɯ²²	p ɯ ²²	p ɯ ²²	3867
+643	Gongxing	3867	pu²²	p u ²²	p u ²²	3867
+644	Jinman	3867	pu²²	p u ²²	p u ²²	3867
+645	Tuoluo	3867	pɯ³³	p ɯ ³³	p ɯ ³³	3867
+646	ProtoBai	3867	pu²	p u ²	p u ²	3867
+566	Gongxing	3922	tʰy²²	tʰ y ²²	tʰ y ²²	3922
+567	Jinxing	3922	tʰu³³	tʰ u ³³	tʰ u ³³	3922
+568	Tuoluo	3922	tʰoŋ³³	tʰ o ŋ ³³	tʰ o ŋ ³³	3922
+569	Zhoucheng	3922	tʰu³³	tʰ u ³³	tʰ u ³³	3922
+570	ProtoBai	3922	tʰu²	tʰ u ²	tʰ u ²	3922
+133	Dashi	3953	ʈʂʰə̃˞⁵⁵	ʈʂʰ ə̃˞ ⁵⁵	ʈʂʰ ə̃˞ ⁵⁵	3953
+134	Ega	3953	tɕʰja⁵⁵	tɕʰ j a ⁵⁵	tɕʰ j a ⁵⁵	3953
+135	Enqi	3953	tʰjæ²⁴	tʰ j æ ²⁴	tʰ j æ ²⁴	3953
+136	Gongxing	3953	tʰjan⁵⁵	tʰ j a n ⁵⁵	tʰ j a n ⁵⁵	3953
+137	Jinman	3953	ʈã⁵⁵	ʈ ã ⁵⁵	ʈ ã ⁵⁵	3953
+138	Jinxing	3953	tsʰan⁵⁵	tsʰ a n ⁵⁵	tsʰ a n ⁵⁵	3953
+139	Mazhelong	3953	tsʰə˞⁵⁵	tsʰ ə˞ ⁵⁵	tsʰ ə˞ ⁵⁵	3953
+140	Tuoluo	3953	tʰjaŋ⁵⁵	tʰ j a ŋ ⁵⁵	tʰ j a ŋ ⁵⁵	3953
+141	Zhoucheng	3953	tsʰɛ⁵⁵	tsʰ ɛ ⁵⁵	tsʰ ɛ ⁵⁵	3953
+142	ProtoBai	3953	tʰæn¹	tʰ æ n ¹	tʰ æ n ¹	3953
+371	Dashi	3964	xə̃˞⁵⁵	x ə̃˞ ⁵⁵	x ə̃˞ ⁵⁵	3964
+372	Ega	3964	xã⁵⁵	x ã ⁵⁵	x ã ⁵⁵	3964
+373	Enqi	3964	χæ²⁴	χ æ ²⁴	χ æ ²⁴	3964
+374	Gongxing	3964	han⁵⁵	h a n ⁵⁵	h a n ⁵⁵	3964
+375	Jinman	3964	xã⁵⁵	x ã ⁵⁵	x ã ⁵⁵	3964
+376	Jinxing	3964	xan⁵⁵	x a n ⁵⁵	x a n ⁵⁵	3964
+377	Tuoluo	3964	xaŋ⁵⁵	x a ŋ ⁵⁵	x a ŋ ⁵⁵	3964
+378	Zhoucheng	3964	xɛ⁵⁵	x ɛ ⁵⁵	x ɛ ⁵⁵	3964
+379	ProtoBai	3964	χæn¹	χ æ n ¹	χ æ n ¹	3964
+237	Ega	3986	tɕa⁵⁵	tɕ a ⁵⁵	tɕ a ⁵⁵	3986
+238	Enqi	3986	do²¹	d o ²¹	d o ²¹	3986
+239	Gongxing	3986	doŋ¹²	d o ŋ ¹²	d o ŋ ¹²	3986
+240	Tuoluo	3986	doŋ³⁵	d o ŋ ³⁵	d o ŋ ³⁵	3986
+241	Zhoucheng	3986	tou²¹	t ou ²¹	t ou ²¹	3986
+242	ProtoBai	3986	doŋ¹	d o ŋ ¹	d o ŋ ¹	3986
+619	Dashi	4045	pu³¹	p u ³¹	p u ³¹	4045
+620	Ega	4045	pɯ⁴²	p ɯ ⁴²	p ɯ ⁴²	4045
+621	Enqi	4045	pɯ⁴³	p ɯ ⁴³	p ɯ ⁴³	4045
+622	Jinman	4045	pu⁴²	p u ⁴²	p u ⁴²	4045
+623	Jinxing	4045	pu³¹	p u ³¹	p u ³¹	4045
+624	Mazhelong	4045	pɯ²¹	p ɯ ²¹	p ɯ ²¹	4045
+625	Zhoucheng	4045	pu⁴²	p u ⁴²	p u ⁴²	4045
+626	ProtoBai	4045	pu³	p u ³	p u ³	4045
+283	Dashi	4085	pjou³⁵	p j ou ³⁵	p j ou ³⁵	4085
+284	Ega	4085	tɕo⁵⁵	tɕ o ⁵⁵	tɕ o ⁵⁵	4085
+285	Enqi	4085	pjo²⁴	p j o ²⁴	p j o ²⁴	4085
+286	Jinxing	4085	pjo⁵⁵	p j o ⁵⁵	p j o ⁵⁵	4085
+287	Mazhelong	4085	pjo⁵⁵	p j o ⁵⁵	p j o ⁵⁵	4085
+288	Tuoluo	4085	tɕjɔ⁵⁵	tɕ j ɔ ⁵⁵	tɕ j ɔ ⁵⁵	4085
+289	Zhoucheng	4085	pja³⁵	p j a ³⁵	p j a ³⁵	4085
+290	ProtoBai	4085	prɔ¹	p r ɔ ¹	p r ɔ ¹	4085
+687	Dashi	4102	ʈʂʰu³¹	ʈʂʰ u ³¹	ʈʂʰ u ³¹	4102
+688	Ega	4102	tɕʰu⁴²	tɕʰ u ⁴²	tɕʰ u ⁴²	4102
+689	Enqi	4102	tʰiu⁴³	tʰ i u ⁴³	tʰ i u ⁴³	4102
+690	Gongxing	4102	tsʰu⁴²	tsʰ u ⁴²	tsʰ u ⁴²	4102
+691	Jinman	4102	ʈʰʯ⁴²	ʈʰ ʯ ⁴²	ʈʰ ʯ ⁴²	4102
+692	Jinxing	4102	tsʰu³¹	tsʰ u ³¹	tsʰ u ³¹	4102
+693	Tuoluo	4102	tʰʯ²¹	tʰ ʯ ²¹	tʰ ʯ ²¹	4102
+694	Zhoucheng	4102	tsʰu³¹	tsʰ u ³¹	tsʰ u ³¹	4102
+695	ProtoBai	4102	tʰru³	tʰ r u ³	tʰ r u ³	4102
+546	Dashi	4143	ʈʂou⁴²	ʈʂ ou ⁴²	ʈʂ ou ⁴²	4143
+547	Ega	4143	tɕiu⁴²	tɕ i u ⁴²	tɕ i u ⁴²	4143
+548	Enqi	4143	tiu²¹	t i u ²¹	t i u ²¹	4143
+549	Gongxing	4143	dzu²¹	dz u ²¹	dz u ²¹	4143
+550	Jinman	4143	ʈo²¹	ʈ o ²¹	ʈ o ²¹	4143
+551	Jinxing	4143	tsou⁴²	ts ou ⁴²	ts ou ⁴²	4143
+552	Mazhelong	4143	tsʰʯ⁴²	tsʰ ʯ ⁴²	tsʰ ʯ ⁴²	4143
+553	Tuoluo	4143	diu⁴²	d i u ⁴²	d i u ⁴²	4143
+554	Zhoucheng	4143	tsou⁴²	ts ou ⁴²	ts ou ⁴²	4143
+555	ProtoBai	4143	dro⁴	d r o ⁴	d r o ⁴	4143
+301	Dashi	4196	tɕi⁴⁴	tɕ i ⁴⁴	tɕ i ⁴⁴	4196
+302	Enqi	4196	tsi⁵⁵	ts i ⁵⁵	ts i ⁵⁵	4196
+303	Gongxing	4196	tɕi¹²	tɕ i ¹²	tɕ i ¹²	4196
+304	Jinxing	4196	tɕi⁴⁴	tɕ i ⁴⁴	tɕ i ⁴⁴	4196
+305	Mazhelong	4196	tɕi⁴⁴	tɕ i ⁴⁴	tɕ i ⁴⁴	4196
+306	Tuoluo	4196	tɕi⁴²	tɕ i ⁴²	tɕ i ⁴²	4196
+307	Zhoucheng	4196	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	4196
+308	ProtoBai	4196	tsji⁴	ts j i ⁴	ts j i ⁴	4196
+123	Dashi	4293	tɕjen³⁵	tɕ j e n ³⁵	tɕ j e n ³⁵	4293
+124	Ega	4293	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	4293
+125	Enqi	4293	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	4293
+126	Gongxing	4293	tɕjen²²	tɕ j e n ²²	tɕ j e n ²²	4293
+127	Jinman	4293	tɕĩ⁵⁵	tɕ ĩ ⁵⁵	tɕ ĩ ⁵⁵	4293
+128	Jinxing	4293	tɕjen⁵⁵	tɕ j e n ⁵⁵	tɕ j e n ⁵⁵	4293
+129	Mazhelong	4293	tɕĩ⁵⁵	tɕ ĩ ⁵⁵	tɕ ĩ ⁵⁵	4293
+130	Tuoluo	4293	tɕen⁵⁵	tɕ e n ⁵⁵	tɕ e n ⁵⁵	4293
+131	Zhoucheng	4293	tɕe³⁵	tɕ e ³⁵	tɕ e ³⁵	4293
+132	ProtoBai	4293	tɕen¹	tɕ e n ¹	tɕ e n ¹	4293
+675	Dashi	4366	tɕʰjen⁵⁵	tɕʰ j e n ⁵⁵	tɕʰ j e n ⁵⁵	4366
+676	Gongxing	4366	tɕʰjan⁵⁵	tɕʰ j a n ⁵⁵	tɕʰ j a n ⁵⁵	4366
+677	Jinxing	4366	tɕʰjen⁵⁵	tɕʰ j e n ⁵⁵	tɕʰ j e n ⁵⁵	4366
+678	Tuoluo	4366	tɕʰjen⁵⁵	tɕʰ j e n ⁵⁵	tɕʰ j e n ⁵⁵	4366
+679	ProtoBai	4366	tsʲʰen¹	tsʲʰ e n ¹	tsʲʰ e n ¹	4366
+58	Dashi	441	pi²¹	p i ²¹	p i ²¹	441
+59	Jinxing	441	piə²¹	p i ə ²¹	p i ə ²¹	441
+60	Mazhelong	441	pi²¹	p i ²¹	p i ²¹	441
+61	Zhoucheng	441	pi²¹	p i ²¹	p i ²¹	441
+62	ProtoBai	441	bri²	b r i ²	b r i ²	441
+513	Dashi	4411	xen⁵⁵	x e n ⁵⁵	x e n ⁵⁵	4411
+514	Ega	4411	xẽ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	4411
+515	Enqi	4411	xɛ²⁴	x ɛ ²⁴	x ɛ ²⁴	4411
+516	Gongxing	4411	hen⁵⁵	h e n ⁵⁵	h e n ⁵⁵	4411
+517	Jinman	4411	xẽ⁵⁵	x ẽ ⁵⁵	x ẽ ⁵⁵	4411
+518	Jinxing	4411	xen⁵⁵	x e n ⁵⁵	x e n ⁵⁵	4411
+519	Mazhelong	4411	xen⁵⁵	x e n ⁵⁵	x e n ⁵⁵	4411
+520	Tuoluo	4411	xen⁵⁵	x e n ⁵⁵	x e n ⁵⁵	4411
+521	Zhoucheng	4411	xe⁵⁵	x e ⁵⁵	x e ⁵⁵	4411
+522	ProtoBai	4411	xen¹	x e n ¹	x e n ¹	4411
+485	Dashi	4462	pə̃˞³¹	p ə̃˞ ³¹	p ə̃˞ ³¹	4462
+486	Enqi	4462	bæ⁴³	b æ ⁴³	b æ ⁴³	4462
+487	Gongxing	4462	ban⁴²	b a n ⁴²	b a n ⁴²	4462
+488	Jinxing	4462	pan³¹	p a n ³¹	p a n ³¹	4462
+489	Mazhelong	4462	pə̃˞²¹	p ə̃˞ ²¹	p ə̃˞ ²¹	4462
+490	Tuoluo	4462	baŋ²¹	b a ŋ ²¹	b a ŋ ²¹	4462
+491	Zhoucheng	4462	pɛ²¹	p ɛ ²¹	p ɛ ²¹	4462
+492	ProtoBai	4462	bæn³	b æ n ³	b æ n ³	4462
+212	Dashi	4473	tu³³	t u ³³	t u ³³	4473
+213	Gongxing	4473	tu²²	t u ²²	t u ²²	4473
+214	Mazhelong	4473	tʯ²¹	t ʯ ²¹	t ʯ ²¹	4473
+215	Tuoluo	4473	tʯ³³	t ʯ ³³	t ʯ ³³	4473
+216	ProtoBai	4473	tu²	t u ²	t u ²	4473
+542	Gongxing	4491	bi²²	b i ²²	b i ²²	4491
+543	Mazhelong	4491	pɛ²²	p ɛ ²²	p ɛ ²²	4491
+544	Tuoluo	4491	bi³³	b i ³³	b i ³³	4491
+545	ProtoBai	4491	be²	b e ²	b e ²	4491
+99	Enqi	4501	tʰɯ⁵⁵	tʰ ɯ ⁵⁵	tʰ ɯ ⁵⁵	4501
+100	Gongxing	4501	tʰæ²⁴	tʰ æ ²⁴	tʰ æ ²⁴	4501
+101	Jinman	4501	tʰɯ̃⁵⁵	tʰ ɯ̃ ⁵⁵	tʰ ɯ̃ ⁵⁵	4501
+102	Mazhelong	4501	tʰɯ⁴⁴	tʰ ɯ ⁴⁴	tʰ ɯ ⁴⁴	4501
+103	Tuoluo	4501	tʰɯ⁴²	tʰ ɯ ⁴²	tʰ ɯ ⁴²	4501
+104	ProtoBai	4501	tʰɯ̃⁴	tʰ ɯ̃ ⁴	tʰ ɯ̃ ⁴	4501
+696	Dashi	4522	ʂu⁵⁵	ʂ u ⁵⁵	ʂ u ⁵⁵	4522
+697	Enqi	4522	xu²⁴	x u ²⁴	x u ²⁴	4522
+698	Gongxing	4522	ɕy⁵⁵	ɕ y ⁵⁵	ɕ y ⁵⁵	4522
+699	Mazhelong	4522	sʯ⁵⁵	s ʯ ⁵⁵	s ʯ ⁵⁵	4522
+700	Zhoucheng	4522	su⁵⁵	s u ⁵⁵	s u ⁵⁵	4522
+701	ProtoBai	4522	ʂu¹	ʂ u ¹	ʂ u ¹	4522
+571	Ega	4537	mɯ²²	m ɯ ²²	m ɯ ²²	4537
+572	Enqi	4537	mɯ²²	m ɯ ²²	m ɯ ²²	4537
+573	Gongxing	4537	mu²²	m u ²²	m u ²²	4537
+574	Jinman	4537	mɯ²²	m ɯ ²²	m ɯ ²²	4537
+575	Mazhelong	4537	məɯ³³	m əɯ ³³	m əɯ ³³	4537
+576	Tuoluo	4537	mɯ³³	m ɯ ³³	m ɯ ³³	4537
+577	Zhoucheng	4537	mɯ³³	m ɯ ³³	m ɯ ³³	4537
+578	ProtoBai	4537	mɯ²	m ɯ ²	m ɯ ²	4537
+115	Dashi	4591	joŋ³³	j o ŋ ³³	j o ŋ ³³	4591
+116	Enqi	4591	ɲjo²²	ɲ j o ²²	ɲ j o ²²	4591
+117	Gongxing	4591	joŋ²²	j o ŋ ²²	j o ŋ ²²	4591
+118	Jinxing	4591	jõ³³	j õ ³³	j õ ³³	4591
+119	Mazhelong	4591	joŋ³³	j o ŋ ³³	j o ŋ ³³	4591
+120	Tuoluo	4591	jʯŋ³³	j ʯ ŋ ³³	j ʯ ŋ ³³	4591
+121	Zhoucheng	4591	jou⁴⁴	j ou ⁴⁴	j ou ⁴⁴	4591
+122	ProtoBai	4591	njoŋ²	n j o ŋ ²	n j o ŋ ²	4591
+665	Dashi	463	kʰa⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	463
+666	Ega	463	qʰo⁴⁴	qʰ o ⁴⁴	qʰ o ⁴⁴	463
+667	Enqi	463	qʰa⁵⁵	qʰ a ⁵⁵	qʰ a ⁵⁵	463
+668	Gongxing	463	qʰa²⁴	qʰ a ²⁴	qʰ a ²⁴	463
+669	Jinman	463	qʰa⁵⁵	qʰ a ⁵⁵	qʰ a ⁵⁵	463
+670	Jinxing	463	kʰɑ⁴⁴	kʰ ɑ ⁴⁴	kʰ ɑ ⁴⁴	463
+671	Mazhelong	463	kʰɐ⁴⁴	kʰ ɐ ⁴⁴	kʰ ɐ ⁴⁴	463
+672	Tuoluo	463	qʰɔ⁴²	qʰ ɔ ⁴²	qʰ ɔ ⁴²	463
+673	Zhoucheng	463	kʰa⁴⁴	kʰ a ⁴⁴	kʰ a ⁴⁴	463
+674	ProtoBai	463	qʰa⁴	qʰ a ⁴	qʰ a ⁴	463
+556	Dashi	4731	ʈʂe⁴²	ʈʂ e ⁴²	ʈʂ e ⁴²	4731
+557	Ega	4731	ti²¹	t i ²¹	t i ²¹	4731
+558	Enqi	4731	tʲɛ²¹	tʲ ɛ ²¹	tʲ ɛ ²¹	4731
+559	Gongxing	4731	djɛ²¹	d j ɛ ²¹	d j ɛ ²¹	4731
+560	Jinman	4731	ʈə˞⁴²	ʈ ə˞ ⁴²	ʈ ə˞ ⁴²	4731
+561	Jinxing	4731	tse⁴²	ts e ⁴²	ts e ⁴²	4731
+562	Mazhelong	4731	tsʰɛ⁴²	tsʰ ɛ ⁴²	tsʰ ɛ ⁴²	4731
+563	Tuoluo	4731	de⁴²	d e ⁴²	d e ⁴²	4731
+564	Zhoucheng	4731	tse⁴²	ts e ⁴²	ts e ⁴²	4731
+565	ProtoBai	4731	drɛ⁴	d r ɛ ⁴	d r ɛ ⁴	4731
+148	Enqi	4891	tjɯ²²	t j ɯ ²²	t j ɯ ²²	4891
+149	Jinman	4891	ʈɯ²²	ʈ ɯ ²²	ʈ ɯ ²²	4891
+150	Jinxing	4891	tsɯ³³	ts ɯ ³³	ts ɯ ³³	4891
+151	Mazhelong	4891	tsəɯ³³	ts əɯ ³³	ts əɯ ³³	4891
+152	Tuoluo	4891	tjɯ³³	t j ɯ ³³	t j ɯ ³³	4891
+153	Zhoucheng	4891	tsɯ³³	ts ɯ ³³	ts ɯ ³³	4891
+154	ProtoBai	4891	ʈɯ²	ʈ ɯ ²	ʈ ɯ ²	4891
+184	Dashi	4952	jɯ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	4952
+185	Ega	4952	ji²²	j i ²²	j i ²²	4952
+186	Gongxing	4952	ju²⁴	j u ²⁴	j u ²⁴	4952
+187	Jinxing	4952	jɯ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	4952
+188	Mazhelong	4952	ji⁴²	j i ⁴²	j i ⁴²	4952
+189	Tuoluo	4952	ju⁴²	j u ⁴²	j u ⁴²	4952
+190	Zhoucheng	4952	jɯ⁴⁴	j ɯ ⁴⁴	j ɯ ⁴⁴	4952
+191	ProtoBai	4952	jɯ⁴	j ɯ ⁴	j ɯ ⁴	4952
+744	Gongxing	4967	qʰwɛ²²	qʰ w ɛ ²²	qʰ w ɛ ²²	4967
+745	Mazhelong	4967	kʰwi³³	kʰ w i ³³	kʰ w i ³³	4967
+746	Tuoluo	4967	kʰwɛ³³	kʰ w ɛ ³³	kʰ w ɛ ³³	4967
+747	Zhoucheng	4967	kʰwi⁴⁴	kʰ w i ⁴⁴	kʰ w i ⁴⁴	4967
+748	ProtoBai	4967	kʰwɛ²	kʰ w ɛ ²	kʰ w ɛ ²	4967
+655	Dashi	4976	tʲɯ⁴⁴	tʲ ɯ ⁴⁴	tʲ ɯ ⁴⁴	4976
+656	Ega	4976	tɯ⁴⁴	t ɯ ⁴⁴	t ɯ ⁴⁴	4976
+657	Enqi	4976	tə⁵⁵	t ə ⁵⁵	t ə ⁵⁵	4976
+658	Gongxing	4976	ti²⁴	t i ²⁴	t i ²⁴	4976
+659	Jinman	4976	tɯ⁵⁵	t ɯ ⁵⁵	t ɯ ⁵⁵	4976
+660	Jinxing	4976	tə⁴⁴	t ə ⁴⁴	t ə ⁴⁴	4976
+661	Mazhelong	4976	təɯ⁴⁴	t əɯ ⁴⁴	t əɯ ⁴⁴	4976
+662	Tuoluo	4976	tɯ⁴²	t ɯ ⁴²	t ɯ ⁴²	4976
+663	Zhoucheng	4976	tɯ⁴⁴	t ɯ ⁴⁴	t ɯ ⁴⁴	4976
+664	ProtoBai	4976	djɯ²	d j ɯ ²	d j ɯ ²	4976
+63	Dashi	5009	tɕʰjə̃˞⁵⁵	tɕʰ j ə̃˞ ⁵⁵	tɕʰ j ə̃˞ ⁵⁵	5009
+64	Enqi	5009	tɕjæ²⁴	tɕ j æ ²⁴	tɕ j æ ²⁴	5009
+65	Gongxing	5009	tsʰan⁵⁵	tsʰ a n ⁵⁵	tsʰ a n ⁵⁵	5009
+66	Jinxing	5009	tɕʰjan⁵⁵	tɕʰ j a n ⁵⁵	tɕʰ j a n ⁵⁵	5009
+67	Mazhelong	5009	tɕʰə̃˞⁵⁵	tɕʰ ə̃˞ ⁵⁵	tɕʰ ə̃˞ ⁵⁵	5009
+68	Tuoluo	5009	tɕʰjaŋ⁵⁵	tɕʰ j a ŋ ⁵⁵	tɕʰ j a ŋ ⁵⁵	5009
+69	Zhoucheng	5009	tɕʰjɛ⁵⁵	tɕʰ j ɛ ⁵⁵	tɕʰ j ɛ ⁵⁵	5009
+70	ProtoBai	5009	tsʰjæn¹	tsʰ j æ n ¹	tsʰ j æ n ¹	5009
+680	Ega	5019	sɛ⁵⁵	s ɛ ⁵⁵	s ɛ ⁵⁵	5019
+681	Enqi	5019	sɿ²⁴	s ɿ ²⁴	s ɿ ²⁴	5019
+682	Gongxing	5019	ʂi⁵⁵	ʂ i ⁵⁵	ʂ i ⁵⁵	5019
+683	Jinman	5019	ʂə˞⁵⁵	ʂ ə˞ ⁵⁵	ʂ ə˞ ⁵⁵	5019
+684	Jinxing	5019	san⁵⁵	s a n ⁵⁵	s a n ⁵⁵	5019
+685	Tuoluo	5019	ʂə̃˞⁵⁵	ʂ ə̃˞ ⁵⁵	ʂ ə̃˞ ⁵⁵	5019
+686	ProtoBai	5019	sreŋ¹	s r e ŋ ¹	s r e ŋ ¹	5019
+309	Dashi	5071	mə̃⁴⁴	m ə̃ ⁴⁴	m ə̃ ⁴⁴	5071
+310	Ega	5071	mɯ⁵⁵	m ɯ ⁵⁵	m ɯ ⁵⁵	5071
+311	Enqi	5071	mɯ⁵⁵	m ɯ ⁵⁵	m ɯ ⁵⁵	5071
+312	Gongxing	5071	moŋ²⁴	m o ŋ ²⁴	m o ŋ ²⁴	5071
+313	Jinman	5071	mɯ⁵⁵	m ɯ ⁵⁵	m ɯ ⁵⁵	5071
+314	Jinxing	5071	mə̃⁴⁴	m ə̃ ⁴⁴	m ə̃ ⁴⁴	5071
+315	Mazhelong	5071	mə̃ɯ⁴⁴	m ə̃ɯ ⁴⁴	m ə̃ɯ ⁴⁴	5071
+316	Tuoluo	5071	mɯ⁴²	m ɯ ⁴²	m ɯ ⁴²	5071
+317	Zhoucheng	5071	mɯ⁴⁴	m ɯ ⁴⁴	m ɯ ⁴⁴	5071
+318	ProtoBai	5071	mɯ⁴	m ɯ ⁴	m ɯ ⁴	5071
+31	Dashi	5152	pjɛ̃³⁵	p j ɛ̃ ³⁵	p j ɛ̃ ³⁵	5152
+32	Ega	5152	tɕɥi⁵⁵	tɕ ɥ i ⁵⁵	tɕ ɥ i ⁵⁵	5152
+33	Gongxing	5152	tɕɥen⁵⁵	tɕ ɥ e n ⁵⁵	tɕ ɥ e n ⁵⁵	5152
+34	Jinman	5152	tɕɥi⁵⁵	tɕ ɥ i ⁵⁵	tɕ ɥ i ⁵⁵	5152
+35	Jinxing	5152	pi⁵⁵	p i ⁵⁵	p i ⁵⁵	5152
+36	Mazhelong	5152	pjen⁵⁵	p j e n ⁵⁵	p j e n ⁵⁵	5152
+37	Tuoluo	5152	tɕɥen⁵⁵	tɕ ɥ e n ⁵⁵	tɕ ɥ e n ⁵⁵	5152
+38	Zhoucheng	5152	pi³⁵	p i ³⁵	p i ³⁵	5152
+39	ProtoBai	5152	pren¹	p r e n ¹	p r e n ¹	5152
+192	Dashi	5163	tɕʰi³⁵	tɕʰ i ³⁵	tɕʰ i ³⁵	5163
+193	Ega	5163	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	5163
+194	Enqi	5163	tɕi²⁴	tɕ i ²⁴	tɕ i ²⁴	5163
+195	Gongxing	5163	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	5163
+196	Jinman	5163	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	5163
+197	Jinxing	5163	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	5163
+198	Mazhelong	5163	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	5163
+199	Tuoluo	5163	tɕi⁵⁵	tɕ i ⁵⁵	tɕ i ⁵⁵	5163
+200	Zhoucheng	5163	tɕi³⁵	tɕ i ³⁵	tɕ i ³⁵	5163
+201	ProtoBai	5163	tɕi¹	tɕ i ¹	tɕ i ¹	5163
+523	Dashi	568	xɯ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	568
+524	Ega	568	xɯ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	568
+525	Enqi	568	χɯ⁵⁵	χ ɯ ⁵⁵	χ ɯ ⁵⁵	568
+526	Gongxing	568	χe²⁴	χ e ²⁴	χ e ²⁴	568
+527	Jinman	568	xɯ⁵⁵	x ɯ ⁵⁵	x ɯ ⁵⁵	568
+528	Jinxing	568	xɯ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	568
+529	Mazhelong	568	xɯ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	568
+530	Tuoluo	568	xə˞⁴²	x ə˞ ⁴²	x ə˞ ⁴²	568
+531	Zhoucheng	568	xɯ⁴⁴	x ɯ ⁴⁴	x ɯ ⁴⁴	568
+532	ProtoBai	568	χɯ⁴	χ ɯ ⁴	χ ɯ ⁴	568
+155	Dashi	588	sʰwa⁴⁴	sʰ w a ⁴⁴	sʰ w a ⁴⁴	588
+156	Ega	588	swa⁴⁴	s w a ⁴⁴	s w a ⁴⁴	588
+157	Enqi	588	swa⁵⁵	s w a ⁵⁵	s w a ⁵⁵	588
+158	Gongxing	588	swa²⁴	s w a ²⁴	s w a ²⁴	588
+159	Jinman	588	swa⁵⁵	s w a ⁵⁵	s w a ⁵⁵	588
+160	Mazhelong	588	swa⁴⁴	s w a ⁴⁴	s w a ⁴⁴	588
+161	Tuoluo	588	swɔ⁴²	s w ɔ ⁴²	s w ɔ ⁴²	588
+162	Zhoucheng	588	swa⁴⁴	s w a ⁴⁴	s w a ⁴⁴	588
+163	ProtoBai	588	sʰwa⁴	sʰ w a ⁴	sʰ w a ⁴	588
+89	Dashi	599	pʰu⁵⁵	pʰ u ⁵⁵	pʰ u ⁵⁵	599
+90	Ega	599	pʰɯ⁵⁵	pʰ ɯ ⁵⁵	pʰ ɯ ⁵⁵	599
+91	Enqi	599	pʰɯ²⁴	pʰ ɯ ²⁴	pʰ ɯ ²⁴	599
+92	Gongxing	599	pu⁵⁵	p u ⁵⁵	p u ⁵⁵	599
+93	Jinman	599	pʰɯ⁵⁵	pʰ ɯ ⁵⁵	pʰ ɯ ⁵⁵	599
+94	Jinxing	599	pʰɯ⁵⁵	pʰ ɯ ⁵⁵	pʰ ɯ ⁵⁵	599
+95	Mazhelong	599	pʰəɯ⁵⁵	pʰ əɯ ⁵⁵	pʰ əɯ ⁵⁵	599
+96	Tuoluo	599	pʰɯ⁵⁵	pʰ ɯ ⁵⁵	pʰ ɯ ⁵⁵	599
+97	Zhoucheng	599	pʰəɯ⁵⁵	pʰ əɯ ⁵⁵	pʰ əɯ ⁵⁵	599
+98	ProtoBai	599	pʰɯ¹	pʰ ɯ ¹	pʰ ɯ ¹	599
+253	Dashi	689	mə˞⁴²	m ə˞ ⁴²	m ə˞ ⁴²	689
+254	Ega	689	ma⁴²	m a ⁴²	m a ⁴²	689
+255	Enqi	689	mæ⁴³	m æ ⁴³	m æ ⁴³	689
+256	Gongxing	689	mæ⁴²	m æ ⁴²	m æ ⁴²	689
+257	Jinman	689	ma⁴²	m a ⁴²	m a ⁴²	689
+258	Jinxing	689	ma⁴²	m a ⁴²	m a ⁴²	689
+259	Mazhelong	689	mə˞²¹	m ə˞ ²¹	m ə˞ ²¹	689
+260	Tuoluo	689	ma²¹	m a ²¹	m a ²¹	689
+261	Zhoucheng	689	mɛ⁴²	m ɛ ⁴²	m ɛ ⁴²	689
+262	ProtoBai	689	mæ⁵	m æ ⁵	m æ ⁵	689
+503	Dashi	700	me⁴²	m e ⁴²	m e ⁴²	700
+504	Ega	700	mɛ⁴²	m ɛ ⁴²	m ɛ ⁴²	700
+505	Enqi	700	mɛ⁴³	m ɛ ⁴³	m ɛ ⁴³	700
+506	Gongxing	700	men⁴²	m e n ⁴²	m e n ⁴²	700
+507	Jinman	700	me⁴²	m e ⁴²	m e ⁴²	700
+508	Jinxing	700	me⁴²	m e ⁴²	m e ⁴²	700
+509	Mazhelong	700	me²¹	m e ²¹	m e ²¹	700
+510	Tuoluo	700	mɛ²¹	m ɛ ²¹	m ɛ ²¹	700
+511	Zhoucheng	700	me²¹	m e ²¹	m e ²¹	700
+512	ProtoBai	700	mɛ⁵	m ɛ ⁵	m ɛ ⁵	700
+21	Dashi	775	pjen⁴²	p j e n ⁴²	p j e n ⁴²	775
+22	Ega	775	pɛ⁴²	p ɛ ⁴²	p ɛ ⁴²	775
+23	Enqi	775	pɛ⁴³	p ɛ ⁴³	p ɛ ⁴³	775
+24	Gongxing	775	tɕɥen⁴²	tɕ ɥ e n ⁴²	tɕ ɥ e n ⁴²	775
+25	Jinman	775	pe⁴²	p e ⁴²	p e ⁴²	775
+26	Jinxing	775	pjen⁴²	p j e n ⁴²	p j e n ⁴²	775
+27	Mazhelong	775	pjɛ⁴²	p j ɛ ⁴²	p j ɛ ⁴²	775
+28	Tuoluo	775	tɕɥen²¹	tɕ ɥ e n ²¹	tɕ ɥ e n ²¹	775
+29	Zhoucheng	775	pi⁴²	p i ⁴²	p i ⁴²	775
+30	ProtoBai	775	pren⁵	p r e n ⁵	p r e n ⁵	775
+105	Dashi	786	ke³⁵	k e ³⁵	k e ³⁵	786
+106	Ega	786	qɛ⁵⁵	q ɛ ⁵⁵	q ɛ ⁵⁵	786
+107	Enqi	786	qɛ²⁴	q ɛ ²⁴	q ɛ ²⁴	786
+108	Gongxing	786	qɛ⁵⁵	q ɛ ⁵⁵	q ɛ ⁵⁵	786
+109	Jinman	786	qɛ̃⁵⁵	q ɛ̃ ⁵⁵	q ɛ̃ ⁵⁵	786
+110	Jinxing	786	ki⁵⁵	k i ⁵⁵	k i ⁵⁵	786
+111	Mazhelong	786	ke⁵⁵	k e ⁵⁵	k e ⁵⁵	786
+112	Tuoluo	786	qɛ⁵⁵	q ɛ ⁵⁵	q ɛ ⁵⁵	786
+113	Zhoucheng	786	ke³⁵	k e ³⁵	k e ³⁵	786
+114	ProtoBai	786	qɛ¹	q ɛ ¹	q ɛ ¹	786
+346	Dashi	809	pʰou³¹	pʰ ou ³¹	pʰ ou ³¹	809
+347	Ega	809	pʰo⁴²	pʰ o ⁴²	pʰ o ⁴²	809
+348	Enqi	809	pʰo⁴³	pʰ o ⁴³	pʰ o ⁴³	809
+349	Gongxing	809	pʰa⁴²	pʰ a ⁴²	pʰ a ⁴²	809
+350	Jinman	809	pʰo⁴²	pʰ o ⁴²	pʰ o ⁴²	809
+351	Jinxing	809	pʰou³¹	pʰ ou ³¹	pʰ ou ³¹	809
+352	Tuoluo	809	pʰɔ²¹	pʰ ɔ ²¹	pʰ ɔ ²¹	809
+353	Zhoucheng	809	pʰo⁴²	pʰ o ⁴²	pʰ o ⁴²	809
+354	ProtoBai	809	pʰɔ³	pʰ ɔ ³	pʰ ɔ ³	809
+758	Dashi	839	tiə²¹	t i ə ²¹	t i ə ²¹	839
+759	Ega	839	tɕi²¹	tɕ i ²¹	tɕ i ²¹	839
+760	Enqi	839	djɯ²¹	d j ɯ ²¹	d j ɯ ²¹	839
+761	Gongxing	839	di¹²	d i ¹²	d i ¹²	839
+762	Jinman	839	ʈɯ²¹	ʈ ɯ ²¹	ʈ ɯ ²¹	839
+763	Jinxing	839	tə²¹	t ə ²¹	t ə ²¹	839
+764	Mazhelong	839	təɯ²¹	t əɯ ²¹	t əɯ ²¹	839
+765	Tuoluo	839	djɯ³⁵	d j ɯ ³⁵	d j ɯ ³⁵	839
+766	Zhoucheng	839	tɯ²¹	t ɯ ²¹	t ɯ ²¹	839
+767	ProtoBai	839	djɯ¹	d j ɯ ¹	d j ɯ ¹	839
+390	Ega	886	zɛ²¹	z ɛ ²¹	z ɛ ²¹	886
+391	Enqi	886	zɿ²¹	z ɿ ²¹	z ɿ ²¹	886
+392	Gongxing	886	zjen¹²	z j e n ¹²	z j e n ¹²	886
+393	Jinman	886	zẽ²¹	z ẽ ²¹	z ẽ ²¹	886
+394	Mazhelong	886	jen²¹	j e n ²¹	j e n ²¹	886
+395	Tuoluo	886	zi³⁵	z i ³⁵	z i ³⁵	886
+396	ProtoBai	886	zen¹	z e n ¹	z e n ¹	886
+749	Dashi	9	tʰjɯ⁴²	tʰ j ɯ ⁴²	tʰ j ɯ ⁴²	9
+750	Ega	9	tɕiu²¹	tɕ i u ²¹	tɕ i u ²¹	9
+751	Enqi	9	tɕjo²¹	tɕ j o ²¹	tɕ j o ²¹	9
+752	Gongxing	9	dzao²¹	dz ao ²¹	dz ao ²¹	9
+753	Jinman	9	tɕjo²¹	tɕ j o ²¹	tɕ j o ²¹	9
+754	Jinxing	9	tsʯ̃⁴²	ts ʯ̃ ⁴²	ts ʯ̃ ⁴²	9
+755	Mazhelong	9	tsʰu⁴²	tsʰ u ⁴²	tsʰ u ⁴²	9
+756	Tuoluo	9	ʐy⁴²	ʐ y ⁴²	ʐ y ⁴²	9
+757	ProtoBai	9	ɖʐo⁴	ɖʐ o ⁴	ɖʐ o ⁴	9
+143	Dashi	949	pʰjə˞⁵⁵	pʰ j ə˞ ⁵⁵	pʰ j ə˞ ⁵⁵	949
+144	Enqi	949	pʰjæ²⁴	pʰ j æ ²⁴	pʰ j æ ²⁴	949
+145	Jinxing	949	pʰjɛ⁵⁵	pʰ j ɛ ⁵⁵	pʰ j ɛ ⁵⁵	949
+146	Zhoucheng	949	pʰjɛ⁵⁵	pʰ j ɛ ⁵⁵	pʰ j ɛ ⁵⁵	949
+147	ProtoBai	949	pʰræ¹	pʰ r æ ¹	pʰ r æ ¹	949

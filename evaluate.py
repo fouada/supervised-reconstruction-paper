@@ -7,7 +7,7 @@ import json
 import numpy as np
 from collections import defaultdict
 from tabulate import tabulate
-from statistics import mean
+from statistics import mean, stdev
 from glob import glob
 from collections import defaultdict
 from lingpy import *
@@ -21,6 +21,9 @@ datasets = ["Semitic", "Bai", "Burmish", "Karen", "Lalo", "Purus", "Romance"]
 
 
 proportions = ['0.1','0.5','0.8']
+
+# collect metrics per prop, lang, clf in a dataframe, the columns are clf test_prop	lng	ED	NED	B3_F1
+results_detailed = defaultdict(list)
 
 for prop in proportions:
     all_data = defaultdict(list)
@@ -42,6 +45,7 @@ for prop in proportions:
                 all_data[clf, meth, "dst"] += [dst]
                 all_data[clf, meth, "ed"] += [ed]
                 all_data[clf, meth, "bc"] += [bc]
+                results_detailed[clf, prop, ds, meth, run] = [ed, dst, bc]
 
     table = []
     for clf in classifiers:
@@ -151,5 +155,24 @@ for prop in proportions:
     ax.legend(loc="lower center", bbox_to_anchor=(0.5, 1.05), ncol=4,
             fancybox=True, shadow=True)
     plt.savefig(Path("results", f"split-{prop}") / "results-compared.pdf".format(clf))
+
+# average results per prop, lang, clf and save to separate tsv files for svm and corpar with the columns test_prop	lng	ED	NED	B3_F1
+for clf in classifiers:
+    table = []
+    for prop in proportions:
+        for ds in datasets:
+            for meth in methods:
+                for run in range(1, 11):
+                    table += [[
+                        prop,
+                        str(run),
+                        ds,
+                        meth,
+                        *results_detailed[clf, prop, ds, meth, str(run)]
+                        ]]
+    with open(Path("results", f"all-{clf}.tsv"), "w") as f:
+        f.write("test_prop\tvalid\tlng\tmethod\tED\tNED\tBC\n")
+        for row in table:
+            f.write("\t".join([row[0], row[1], row[2], row[3]]+["{0:.4f}".format(x) for x in row[4:]])+"\n")
 
 
